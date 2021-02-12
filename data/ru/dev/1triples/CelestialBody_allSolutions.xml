@@ -1,0 +1,366 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="CelestialBody" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>110_Lydia | temperature | "168.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | Planet/temperature | "168.0"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>110_Lydia | temperature | 168.0 (kelvins)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">110 Lydia has a temperature of 168 kelvins.</lex>
+      <lex lang="ru" lid="Id1">(110) Лидия имеет температуру 168 кельвинов.</lex>
+      <lex lang="en" lid="Id2">110 Lydia has a temperature of 168.0 kelvins.</lex>
+      <lex lang="ru" lid="Id2">(110) Лидия имеет температуру 168,0 кельвина.</lex>
+      <lex lang="en" lid="Id3">The asteroid 110 Lydia has a temperature of 168.0 kelvins.</lex>
+      <lex lang="ru" lid="Id3">Астероид (110) Лидия имеет температуру 168,0 кельвина.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">110_Lydia | sameAs | (110)_Лидия</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="CelestialBody" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | "4.75426E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | apoapsis | 475426000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The apoapsis for 11264 Claudiomaccone is 475426000.0 (kilometres).</lex>
+      <lex lang="ru" lid="Id1">Апоцентр астероида 11264 Клаудиомакконе составляет 475,426 млн км.</lex>
+      <lex lang="en" lid="Id2">11264 Claudiomaccone has an apoapsis of 475426000.0 kilometres.</lex>
+      <lex lang="ru" lid="Id2">11264 Клаудиомакконе имеет апоапсиду 475426000,0 км.</lex>
+      <lex lang="en" lid="Id3">11264 Claudiomaccone has an apoapsis of 475426000 kilometres.</lex>
+      <lex lang="ru" lid="Id3">11264 Клаудиомакконе имеет апоцентр 475426000,0 км.</lex>
+      <links>
+        <link direction="en2ru">11264 Claudiomaccone | sameAs | 11264 Клаудиомакконе</link>
+      </links>
+    </entry>
+    <entry category="CelestialBody" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | avgSpeed | "18.29"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | averageSpeed | "65844.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | Planet/averageSpeed | "18.29"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | averageSpeed | 18.29 (kilometrePerSeconds)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">11264 Claudiomaccone has an average speed of 18.29 kilometres per second.</lex>
+      <lex lang="ru" lid="Id1">11264 Клаудиомакконе имеет среднюю скорость 18,29 километра в секунду.</lex>
+      <lex lang="en" lid="Id2">The celestial body known as 11264 Claudiomaccone has an average speed of 18.29km/s.</lex>
+      <lex lang="ru" lid="Id2">Небесное тело, известное как 11264 Клаудиомакконе, имеет среднюю скорость 18,29 км/с.</lex>
+      <lex lang="en" lid="Id3">The asteroid called 11264 Claudiomaccone has an average speed of 18.29 kilometres per second.</lex>
+      <lex lang="ru" lid="Id3">Астероид под названием 11264 Клаудиомакконе имеет среднюю скорость 18,29 километра в секунду.</lex>
+      <links>
+        <link direction="en2ru">11264 Claudiomaccone | sameAs | 11264 Клаудиомакконе</link>
+      </links>
+    </entry>
+    <entry category="CelestialBody" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | discoverer | Nikolai_Chernykh</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | discoverer | Nikolai_Chernykh</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">11264 Claudiomaccone was discovered by Nikolai Chernykh.</lex>
+      <lex lang="ru" lid="Id1">11264 Клаудиомакконе обнаружил Николай Степанович Черных.</lex>
+      <lex lang="en" lid="Id2">Nikolai Chernykh was the discoverer of 11264 Claudiomaccone.</lex>
+      <lex lang="ru" lid="Id2">Николай Степанович Черных был первооткрывателем 11264 Клаудиомакконе.</lex>
+      <lex lang="en" lid="Id3">Nikolai Chernykh discovered 11264 Claudiomaccone.</lex>
+      <lex lang="ru" lid="Id3">Николай Степанович Черных обнаружил 11264 Клаудиомакконе.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Nikolai_Chernykh | sameAs | Черных,_Николай_Степанович</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">11264 Claudiomaccone | sameAs | 11264 Клаудиомакконе</link>
+      </links>
+    </entry>
+    <entry category="CelestialBody" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | epoch | "November 26, 2005 (JD2453700.5)"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | epoch | 2005-11-26</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">11264 Claudiomaccone has the epoch date of 26 November 2005.</lex>
+      <lex lang="ru" lid="Id1">11264 Клаудиомакконе имеет эпоху 26 ноября 2005 года.</lex>
+      <lex lang="en" lid="Id2">11264 Claudiomaccone has an epoch date of November 26th 2005.</lex>
+      <lex lang="ru" lid="Id2">11264 Клаудиомакконе имеет эпоху 26 ноября 2005 года.</lex>
+      <links>
+        <link direction="en2ru">11264 Claudiomaccone | sameAs | 11264 Клаудиомакконе</link>
+      </links>
+    </entry>
+    <entry category="CelestialBody" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | orbitalPeriod | 1.30786e+08</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | Planet/orbitalPeriod | "1513.722"^^&lt;http://dbpedia.org/datatype/day&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | orbitalPeriod | 1513.722 (days)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">11264 Claudiomaccone has an orbital period of 1513.722 days.</lex>
+      <lex lang="ru" lid="Id1">11264 Клаудиомакконе имеет орбитальный период 1513,722 дня.</lex>
+      <lex lang="en" lid="Id2">The orbital period for 11264 Claudiomaccone is 1513.722 days.</lex>
+      <lex lang="ru" lid="Id2">Орбитальный период для 11264 Клаудиомакконе - 1513,722 дня.</lex>
+      <lex lang="en" lid="Id3">11264 Claudiomaccone's orbital period is 1513.722 days.</lex>
+      <lex lang="ru" lid="Id3">Орбитальный период 11264 Клаудиомакконе составляет 1513,722 дня.</lex>
+      <links>
+        <link direction="en2ru">11264 Claudiomaccone | sameAs | 11264 Клаудиомакконе</link>
+      </links>
+    </entry>
+    <entry category="CelestialBody" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | periapsis | 2.96521e+11</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | periapsis | 296521000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">11264 Claudiomaccone has a periapsis of 296521000.0 (kilometres).</lex>
+      <lex lang="ru" lid="Id1">11264 Клаудиомакконе имеет периапсиду 296521000,0 (км).</lex>
+      <lex lang="en" lid="Id2">The periapsis of 11264 Claudiomaccone is at 296521000.0 kilometres.</lex>
+      <lex lang="ru" lid="Id2">Периапсида 11264 Клаудиомакконе составляет 296521000,0 км.</lex>
+      <lex lang="en" lid="Id3">11264 Claudiomaccone has a periapsis of 296521000.0 kilometres.</lex>
+      <lex lang="ru" lid="Id3">11264 Клаудиомакконе имеет периапсиду 296521000,0 км.</lex>
+      <links>
+        <link direction="en2ru">11264 Claudiomaccone | sameAs | 11264 Клаудиомакконе</link>
+      </links>
+    </entry>
+    <entry category="CelestialBody" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | rotationPeriod | "11473.9"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | rotationPeriod | 11473.9</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The rotation period for 11264 Claudiomaccone is 11473.9.</lex>
+      <lex lang="ru" lid="Id1">Период ротации 11264 Клаудиомакконе - 11473,9.</lex>
+      <lex lang="en" lid="Id2">The celestial body known as 11264 Claudiomaccone has a rotation period of 11473.9.</lex>
+      <lex lang="ru" lid="Id2">Небесное тело, известное как 11264 Клаудиомакконе, имеет период ротации 11473,9.</lex>
+      <lex lang="en" lid="Id3">11264 Claudiomaccone has a rotation period of 11473.9.</lex>
+      <lex lang="ru" lid="Id3">11264 Клаудиомакконе имеет период вращения 11473.9.</lex>
+      <links>
+        <link direction="en2ru">11264 Claudiomaccone | sameAs | 11264 Клаудиомакконе</link>
+      </links>
+    </entry>
+    <entry category="CelestialBody" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>James_Craig_Watson | deathCause | Peritonitis</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>James_Craig_Watson | deathCause | Peritonitis</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">James Craig Watson died of peritonitis.</lex>
+      <lex lang="ru" lid="Id1">Джеймс Крейг Уотсон умер от перитонита.</lex>
+      <lex lang="en" lid="Id2">James Craid Watson died from peritonitis.</lex>
+      <lex lang="ru" lid="Id2">Джеймс Крейг Уотсон умер от перитонита.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Peritonitis | sameAs | Перитонит</dbpedialink>
+        <dbpedialink direction="en2ru">James_Craig_Watson | sameAs | Уотсон,_Джеймс_Крейг</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="CelestialBody" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>James_Craig_Watson | deathPlace | Madison,_Wisconsin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>James_Craig_Watson | deathPlace | Madison,_Wisconsin</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">James Craig Watson died in Madison, Wisconsin.</lex>
+      <lex lang="ru" lid="Id1">Джеймс Крейг Уотсон умер в Мэдисоне, штат Висконсин.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">James_Craig_Watson | sameAs | Уотсон,_Джеймс_Крейг</dbpedialink>
+        <dbpedialink direction="en2ru">Madison,_Wisconsin | sameAs | Мадисон_(Висконсин)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="CelestialBody" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>James_Craig_Watson | nationality | Canada</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>James_Craig_Watson | nationality | Canada</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">James Craig Watson is a Canadian national.</lex>
+      <lex lang="ru" lid="Id1">Джеймс Крейг Уотсон - гражданин Канады.</lex>
+      <lex lang="en" lid="Id2">The nationality of James Craig Watson is canadian.</lex>
+      <lex lang="ru" lid="Id2">Национальность Джеймса Крейга Уотсона - канадец.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Canada | sameAs | Канада</dbpedialink>
+        <dbpedialink direction="en2ru">James_Craig_Watson | sameAs | Уотсон,_Джеймс_Крейг</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="CelestialBody" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>James_Craig_Watson | stateOfOrigin | Canada</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>James_Craig_Watson | stateOfOrigin | Canada</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">James Craig Watson has his origins in Canada.</lex>
+      <lex lang="ru" lid="Id1">Джеймс Крейг Уотсон имеет свое происхождение в Канаде.</lex>
+      <lex lang="en" lid="Id2">James Criag Watson originates from Canada.</lex>
+      <lex lang="ru" lid="Id2">Джеймс Крейг Уотсон родом из Канады.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Canada | sameAs | Канада</dbpedialink>
+        <dbpedialink direction="en2ru">James_Craig_Watson | sameAs | Уотсон,_Джеймс_Крейг</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="CelestialBody" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>N._R._Pogson | deathPlace | Chennai</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>N._R._Pogson | deathPlace | Chennai</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">N R Pogson died in Chennai.</lex>
+      <lex lang="ru" lid="Id1">Норман Роберт Погсон умер в Ченнаи.</lex>
+      <lex lang="en" lid="Id2">N. R. Pogson died in Chennai.</lex>
+      <lex lang="ru" lid="Id2">Норман Роберт Погсон умер в Ченнаи.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">N._R._Pogson | sameAs | Погсон,_Норман_Роберт</dbpedialink>
+        <dbpedialink direction="en2ru">Chennai | sameAs | Ченнаи</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="CelestialBody" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Walter_Baade | almaMater | University_of_Göttingen</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Walter_Baade | almaMater | University_of_Göttingen</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Walter Baade's alma mater was the University of Gottingen.</lex>
+      <lex lang="ru" lid="Id1">Альма-матер Вальтера Бааде - Гёттингенский университет.</lex>
+      <lex lang="en" lid="Id2">Walter baade graduated from University of Gottingen.</lex>
+      <lex lang="ru" lid="Id2">Вальтер Бааде окончил Гёттингенский университет.</lex>
+      <lex lang="en" lid="Id3">The university of Gottingen was where Walter Baade studied.</lex>
+      <lex lang="ru" lid="Id3">Гёттингенский университет - место, где учился Вальтер Бааде.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">University_of_Göttingen | sameAs | Гёттингенский_университет</dbpedialink>
+        <dbpedialink direction="en2ru">Walter_Baade | sameAs | Бааде,_Вальтер</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="CelestialBody" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Walter_Baade | birthPlace | German_Empire</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Walter_Baade | birthPlace | German_Empire</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Walter Baade was born in the German Empire.</lex>
+      <lex lang="ru" lid="Id1">Вальтер Бааде родился в Германской империи.</lex>
+      <lex lang="en" lid="Id2">The German empire was the birthplace of Walter Baade.</lex>
+      <lex lang="ru" lid="Id2">Германская империя была родиной Вальтера Бааде.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">German_Empire | sameAs | Германская_империя</dbpedialink>
+        <dbpedialink direction="en2ru">Walter_Baade | sameAs | Бааде,_Вальтер</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="CelestialBody" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Walter_Baade | birthPlace | Preußisch_Oldendorf</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Walter_Baade | birthPlace | Preußisch_Oldendorf</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Preußisch Oldendorf was the birthplace of Walter Baade.</lex>
+      <lex lang="ru" lid="Id1">Пройсиш-Ольдендорф был местом рождения Вальтера Бааде.</lex>
+      <lex lang="en" lid="Id2">Walter Baade was born in Preußisch Oldendorf.</lex>
+      <lex lang="ru" lid="Id2">Вальтер Бааде родился в Пройсиш-Ольдендорфе.</lex>
+      <lex lang="en" lid="Id3">Walter Baade was born in Preubisch Oldendorf.</lex>
+      <lex lang="ru" lid="Id3">Вальтер Бааде родился в Пройсиш-Ольдендорфе.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Preußisch_Oldendorf | sameAs | Пройсиш-Ольдендорф</dbpedialink>
+        <dbpedialink direction="en2ru">Walter_Baade | sameAs | Бааде,_Вальтер</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="CelestialBody" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Walter_Baade | deathPlace | Göttingen</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Walter_Baade | deathPlace | Göttingen</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Walter Baade died in Gottingen.</lex>
+      <lex lang="ru" lid="Id1">Вальтер Бааде умер в Гёттингене.</lex>
+      <lex lang="en" lid="Id2">Walter Baade died in Göttingen.</lex>
+      <lex lang="ru" lid="Id2">Вальтер Бааде умер в Гёттингене.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Göttingen | sameAs | Гёттинген</dbpedialink>
+        <dbpedialink direction="en2ru">Walter_Baade | sameAs | Бааде,_Вальтер</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="CelestialBody" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Walter_Baade | deathPlace | West_Germany</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Walter_Baade | deathPlace | West_Germany</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Walter Baade died in West Germany.</lex>
+      <lex lang="ru" lid="Id1">Вальтер Бааде умер в Федеративной Республике Германия.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">West_Germany | sameAs | Федеративная_Республика_Германии_(до_1990)</dbpedialink>
+        <dbpedialink direction="en2ru">Walter_Baade | sameAs | Бааде,_Вальтер</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="CelestialBody" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Walter_Baade | doctoralStudent | Allan_Sandage</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Walter_Baade | doctoralStudents | Allan_Sandage</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Walter_Baade | doctoralStudent | Allan_Sandage</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Allan Sandage was a doctoral student of Walter Baade.</lex>
+      <lex lang="ru" lid="Id1">Аллан Рекс Сэндидж был докторантом Вальтера Бааде.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Allan_Sandage | sameAs | Сэндидж,_Аллан_Рекс</dbpedialink>
+        <dbpedialink direction="en2ru">Walter_Baade | sameAs | Бааде,_Вальтер</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="CelestialBody" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Walter_Baade | doctoralStudents | Halton_Arp</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Walter_Baade | doctoralStudent | Halton_Arp</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Walter_Baade | doctoralStudent | Halton_Arp</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Halton Arp was a doctoral student of Walter Baade.</lex>
+      <lex lang="ru" lid="Id1">Хэлтон Кристиан Арп был докторантом Вальтера Бааде.</lex>
+      <lex lang="en" lid="Id2">Walter Baade's doctoral student was Halton Arp.</lex>
+      <lex lang="ru" lid="Id2">Докторантом Вальтера Бааде был Хэлтон Кристиан Арп.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Halton_Arp | sameAs | Арп,_Хэлтон_Кристиан</dbpedialink>
+        <dbpedialink direction="en2ru">Walter_Baade | sameAs | Бааде,_Вальтер</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="CelestialBody" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Walter_Baade | nationality | Germany</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Walter_Baade | nationality | Germany</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Walter Baade is a German national.</lex>
+      <lex lang="ru" lid="Id1">Вальтер Бааде - гражданин Германии.</lex>
+      <lex lang="en" lid="Id2">Walter Baade was a German national.</lex>
+      <lex lang="ru" lid="Id2">Вальтер Бааде был гражданином Германии.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Germany | sameAs | Германия</dbpedialink>
+        <dbpedialink direction="en2ru">Walter_Baade | sameAs | Бааде,_Вальтер</dbpedialink>
+      </dbpedialinks>
+    </entry>
+  </entries>
+</benchmark>

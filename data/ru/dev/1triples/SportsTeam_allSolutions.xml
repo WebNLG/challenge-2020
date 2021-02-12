@@ -1,0 +1,597 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="SportsTeam" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Peter_Stöger | clubs | LASK_Linz</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | LASK_Linz</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | LASK_Linz</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Peter Stöger played for the club LASK Linz.</lex>
+      <lex lang="ru" lid="Id1">Петер Штёгер играл за клуб ЛАСК.</lex>
+      <lex lang="en" lid="Id2">Peter Stoger plays for LASK Linz.</lex>
+      <lex lang="ru" lid="Id2">Петер Штёгер играет за ЛАСК.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">LASK_Linz | sameAs | ЛАСК_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">Peter_Stöger | sameAs | Штёгер,_Петер</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Peter_Stöger | managerClub | SC_Wiener_Neustadt</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SC_Wiener_Neustadt</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Peter Stöger is affiliated with the SC Wiener Neustadt club.</lex>
+      <lex lang="ru" lid="Id1">Петер Штёгер связан с клубом СК “Винер-Нойштадт”.</lex>
+      <lex lang="en" lid="Id2">Peter Stöger played for SC Wiener Neustadt.</lex>
+      <lex lang="ru" lid="Id2">Петер Штёгер играл за СК “Винер-Нойштадт”.</lex>
+      <lex lang="en" lid="Id3">Peter Stoger plays for SC Wiener Neustadt.</lex>
+      <lex lang="ru" lid="Id3">Петер Штёгер играет за СК “Винер-Нойштадт”.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Peter_Stöger | sameAs | Штёгер,_Петер</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">SC Wiener Neustadt | sameAs | СК “Винер-Нойштадт”</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Peter_Stöger | clubs | SK_Rapid_Wien</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Rapid_Wien</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Rapid_Wien</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Peter Stöger was at the club SK Rapid Wien.</lex>
+      <lex lang="ru" lid="Id1">Петер Штёгер был в клубе Рапид.</lex>
+      <lex lang="en" lid="Id2">PeterStöger plays for SK Rapid Wien club.</lex>
+      <lex lang="ru" lid="Id2">Петер Штёгер играет в Рапиде.</lex>
+      <lex lang="en" lid="Id3">Peter Stoger plays for SK Rapid Wien.</lex>
+      <lex lang="ru" lid="Id3">Петер Штёгер играет за Рапид.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">SK_Rapid_Wien | sameAs | Рапид_(футбольный_клуб,_Вена)</dbpedialink>
+        <dbpedialink direction="en2ru">Peter_Stöger | sameAs | Штёгер,_Петер</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Peter_Stöger | clubs | SK_Vorwärts_Steyr</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Vorwärts_Steyr</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Vorwärts_Steyr</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Peter Stöger played football for SK Vorwärts Steyr.</lex>
+      <lex lang="ru" lid="Id1">Петер Штёгер играл за футбольный клуб Форвертс.</lex>
+      <lex lang="en" lid="Id2">Peter Stöger is in the SK Vorwärts Steyr club.</lex>
+      <lex lang="ru" lid="Id2">Петер Штёгер - в Форвертсе.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">SK_Vorwärts_Steyr | sameAs | Форвертс_(футбольный_клуб,_Штайр)</dbpedialink>
+        <dbpedialink direction="en2ru">Peter_Stöger | sameAs | Штёгер,_Петер</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Rolando_Maran | team | A.C._Chievo_Verona</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Rolando_Maran | clubs | A.C._Chievo_Verona</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Rolando_Maran | managerClub | A.C._Chievo_Verona</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Rolando_Maran | club | A.C._Chievo_Verona</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Rolando Maran is attached to AC Chievo Verona .</lex>
+      <lex lang="ru" lid="Id1">Роландо Маран привязан к ФК “Кьево” (Верона).</lex>
+      <links>
+        <link direction="en2ru">Rolando Maran | sameAs | Роландо Маран</link>
+        <link direction="en2ru">A.C. Chievo Verona | includes | “Кьево” (Верона)</link>
+        <link direction="en2ru">A.C. Chievo Verona | includes | Верона</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Rolando_Maran | managerClub | Calcio_Catania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Rolando_Maran | club | Calcio_Catania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Rolando Maran is attached to the club Calcio Catania.</lex>
+      <lex lang="ru" lid="Id1">Роландо Маран числится в клубе Катания.</lex>
+      <lex lang="en" lid="Id2">Rolando Maran is a member of the Calcio Cantania.</lex>
+      <lex lang="ru" lid="Id2">Роландо Маран является членом Катании.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Calcio_Catania | sameAs | Катания_(футбольный_клуб)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Rolando Maran | sameAs | Роландо Маран</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Rolando_Maran | team | Carrarese_Calcio</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Rolando_Maran | clubs | Carrarese_Calcio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Rolando_Maran | club | Carrarese_Calcio</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Rolando Maran plays at the Carrarese Calcio.</lex>
+      <lex lang="ru" lid="Id1">Роландо Маран играет в Каррарезе.</lex>
+      <lex lang="en" lid="Id2">Rolando Maran is in the Carrarese Calcio club.</lex>
+      <lex lang="ru" lid="Id2">Роландо Маран числится в клубе Каррарезе.</lex>
+      <lex lang="en" lid="Id3">Rolando Maran plays for Carrarese Calcio.</lex>
+      <lex lang="ru" lid="Id3">Роландо Маран играет за "Каррарезе".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Carrarese_Calcio | sameAs | Каррарезе</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Rolando Maran | sameAs | Роландо Маран</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Rolando_Maran | managerClub | Unione_Triestina_2012_S.S.D.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Rolando_Maran | club | Unione_Triestina_2012_S.S.D.</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Rolando Maran is in the Unione Triestina 2012 S.S.D. club.</lex>
+      <lex lang="ru" lid="Id1">Роландо Маран числится в СК “Триестина”.</lex>
+      <lex lang="en" lid="Id2">Rolando Maran plays for Unione Triestina 2012 S.S.D.</lex>
+      <lex lang="ru" lid="Id2">Роландо Маран играет за СК “Триестина”.</lex>
+      <links>
+        <link direction="en2ru">Unione Triestina 2012 S.S.D. | sameAs | СК “Триестина”</link>
+        <link direction="en2ru">Rolando Maran | sameAs | Роландо Маран</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Rolando_Maran | managerClub | Varese_Calcio_S.S.D.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Rolando_Maran | club | Varese_Calcio_S.S.D.</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Rolando Maran used to be at Varese Calcio S.S.D.</lex>
+      <lex lang="ru" lid="Id1">Роландо Маран раньше играл за СК “Варезе”.</lex>
+      <lex lang="en" lid="Id2">Rolando Maran is in Varese Calcio S.S.D. club.</lex>
+      <lex lang="ru" lid="Id2">Роландо Маран играет в СК “Варезе”.</lex>
+      <lex lang="en" lid="Id3">Rolando Maran plays for Varese Calcio S.S.D.</lex>
+      <lex lang="ru" lid="Id3">Роландо Маран играет за СК “Варезе”.</lex>
+      <links>
+        <link direction="en2ru">Varese Calcio S.S.D. | sameAs | СК “Варезе”</link>
+        <link direction="en2ru">Rolando Maran | sameAs | Роландо Маран</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Rolando_Maran | managerClub | Vicenza_Calcio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Rolando_Maran | club | Vicenza_Calcio</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Rolando Maran plays at the Vicenza Calcio.</lex>
+      <lex lang="ru" lid="Id1">Роландо Маран играет в Виченце.</lex>
+      <lex lang="en" lid="Id2">Rolando Maran is in the Vicenza Calcio club.</lex>
+      <lex lang="ru" lid="Id2">Роландо Маран состоит в клубе Виченца.</lex>
+      <lex lang="en" lid="Id3">Rolando Maran plays for Vicenza Calcio.</lex>
+      <lex lang="ru" lid="Id3">Роландо Маран играет за Виченца.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Vicenza_Calcio | sameAs | Виченца_(футбольный_клуб)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Rolando Maran | sameAs | Роландо Маран</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Rolando_Maran | placeOfBirth | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Rolando_Maran | birthPlace | Italy</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Rolando Maran was born in Italy.</lex>
+      <lex lang="ru" lid="Id1">Роландо Маран родился в Италии.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Italy | sameAs | Италия</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Rolando Maran | sameAs | Роландо Маран</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Juventus FC have been Serie A champions.</lex>
+      <lex lang="ru" lid="Id1">"Ювентус" выигрывал Чемпионат Италии по футболу.</lex>
+      <lex lang="en" lid="Id2">Juventus F.C. are former champions of Serie A.</lex>
+      <lex lang="ru" lid="Id2">"Ювентус" - это бывший победитель Чемпионата Италии по футболу.</lex>
+      <lex lang="en" lid="Id3">The Serie A champions are Juventus F.C.</lex>
+      <lex lang="ru" lid="Id3">Чемпионы чемпионата Италии по футболу - Ювентус.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Serie_A | sameAs | Чемпионат_Италии_по_футболу_(Серия_A)</dbpedialink>
+        <dbpedialink direction="en2ru">Juventus_F.C. | sameAs | Ювентус</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Serie_A | country | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | country | Italy</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Serie A is based in Italy.</lex>
+      <lex lang="ru" lid="Id1">Чемпионат Италии по футболу базируется в Италии.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Italy | sameAs | Италия</dbpedialink>
+        <dbpedialink direction="en2ru">Serie_A | sameAs | Чемпионат_Италии_по_футболу_(Серия_A)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Serie_B | champions | Carpi_F.C._1909</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_B | champions | Carpi_F.C._1909</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Carpi FC 1909 are previous champions of Serie B.</lex>
+      <lex lang="ru" lid="Id1">Карпи - предыдущие чемпионы чемпионата Италии по футболу.</lex>
+      <lex lang="en" lid="Id2">Carpi FC 1909 are the champions of Serie B.</lex>
+      <lex lang="ru" lid="Id2">ФК Карпи - победитель Чемпионата Италии по футболу.</lex>
+      <lex lang="en" lid="Id3">Carpi F.C. 1909 won the Serie B championship before.</lex>
+      <lex lang="ru" lid="Id3">Карпи ранее выиграл Чемпионат Италии по футболу.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Carpi_F.C._1909 | sameAs | Карпи_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">Serie_B | sameAs | Чемпионат_Италии_по_футболу_(Серия_B)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Serie_D | champions | S.S._Robur_Siena</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_D | champions | S.S._Robur_Siena</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Serie D champions include S S Robur Siena.</lex>
+      <lex lang="ru" lid="Id1">Сиена включена в чемпионы Второго дивизиона Профессиональной лиги.</lex>
+      <lex lang="en" lid="Id2">S.S. Robur Siena are champions of Serie D.</lex>
+      <lex lang="ru" lid="Id2">Сиена - чемпионы второго дивизиона Профессиональной лиги.</lex>
+      <lex lang="en" lid="Id3">The champions of Serie D are S.S. Robur Siena.</lex>
+      <lex lang="ru" lid="Id3">Победителями Второго дивизиона Профессиональной лиги являются Сиена.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Serie_D | sameAs | Второй_дивизион_Профессиональной_лиги</dbpedialink>
+        <dbpedialink direction="en2ru">S.S._Robur_Siena | sameAs | Сиена_(футбольный_клуб)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Sportpark_De_Toekomst | operator | AFC_Ajax</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sportpark_De_Toekomst | operator | AFC_Ajax</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Sportpark De Toekomst is operated by AFC Ajax.</lex>
+      <lex lang="ru" lid="Id1">Спортпарк Де Тоекомст управляет ФК "Аякс".</lex>
+      <lex lang="en" lid="Id2">AFC Ajax operate Sportpark De Toekomst.</lex>
+      <lex lang="ru" lid="Id2">ФК "Аякс" управляет стадионом "Спортпарк Де Тоекомст".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">AFC_Ajax | sameAs | Аякс_(футбольный_клуб,_Амстердам)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Sportpark De Toekomst | sameAs | Спортпарк Де Тоекомст</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Sportpark_De_Toekomst | owner | AFC_Ajax_N.V.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sportpark_De_Toekomst | owner | AFC_Ajax_N.V.</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">AFC Ajax N.V. own Sportpark De Toekomst.</lex>
+      <lex lang="ru" lid="Id1">ФК “Аякс” (Голландия) принадлежит Спортпарк Де Тоекомст.</lex>
+      <lex lang="en" lid="Id2">Sportpark De Toekomst is owned by AFC Ajax N.V.</lex>
+      <lex lang="ru" lid="Id2">Спортпарк Де Тоекомст принадлежит ФК “Аякс” (Голландия).</lex>
+      <links>
+        <link direction="en2ru">Sportpark De Toekomst | sameAs | Спортпарк Де Тоекомст</link>
+        <link direction="en2ru">AFC Ajax N.V. | sameAs | ФК “Аякс” (Голландия)</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Sportpark_De_Toekomst | tenant | Ajax_Youth_Academy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sportpark_De_Toekomst | tenant | Ajax_Youth_Academy</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Ajax Youth Academy is a tenant of Sportpark De Toekomst.</lex>
+      <lex lang="ru" lid="Id1">Юношеская академия Аякса является арендатором Спортпарка Де Тоекомст.</lex>
+      <links>
+        <link direction="en2ru">Ajax Youth Academy | sameAs | Юношеская академия Аякса</link>
+        <link direction="en2ru">Sportpark De Toekomst | sameAs | Спортпарк Де Тоекомст</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">St. Vincent–St. Mary High School is located in the city of Akron, Ohio.</lex>
+      <lex lang="ru" lid="Id1">Школа Сент-Винсент – Сент-Мэри находится в городе Акрон.</lex>
+      <lex lang="en" lid="Id2">St Vincent St Mary High School is located in the city of Akron, Ohio.</lex>
+      <lex lang="ru" lid="Id2">Школа Сент-Винсент – Сент-Мэри расположена в городе Акрон, штат Огайо.</lex>
+      <lex lang="en" lid="Id3">St. Vincent-St. Mary High School is in Akron, Ohio.</lex>
+      <lex lang="ru" lid="Id3">Школа Сент-Винсент – Сент-Мэри находится в Акрон, штат Огайо.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Akron,_Ohio | sameAs | Акрон_(Огайо)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">St. Vincent–St. Mary High School | sameAs | Школа Сент-Винсент – Сент-Мэри</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>St._Vincent–St._Mary_High_School | state | Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>St._Vincent–St._Mary_High_School | state | Ohio</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">St Vincent-St Mary High School is located in the state of Ohio.</lex>
+      <lex lang="ru" lid="Id1">Школа Сент-Винсент – Сент-Мэри находится в штате Огайо.</lex>
+      <lex lang="en" lid="Id2">St. Vincent–St. Mary High School is in the state of Ohio.</lex>
+      <lex lang="ru" lid="Id2">Школа Сент-Винсент - Сент-Мэри находится в штате Огайо.</lex>
+      <lex lang="en" lid="Id3">St. Vincent-St. Mary High School is in Ohio.</lex>
+      <lex lang="ru" lid="Id3">Школа Сент-Винсент – Сент-Мэри находится в Огайо.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Ohio | sameAs | Огайо</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">St. Vincent–St. Mary High School | sameAs | Школа Сент-Винсент – Сент-Мэри</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | A.F.C._Blackpool</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | managerClub | A.F.C._Blackpool</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | A.F.C._Blackpool</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Stuart Parker is a footballer in the A.F.C Blackpool club.</lex>
+      <lex lang="ru" lid="Id1">Стюарт Паркер - футболист в клубе ФК “Блэкпул”.</lex>
+      <lex lang="en" lid="Id2">Stuart Parker (footballer) has represented AFC Blackpool.</lex>
+      <lex lang="ru" lid="Id2">Стюарт Паркер (футболист) представлял ФК “Блэкпул”.</lex>
+      <links>
+        <link direction="en2ru">A.F.C. Blackpool | sameAs | ФК “Блэкпул”</link>
+        <link direction="en2ru">Stuart Parker (footballer) | includes | Стюарт Паркер</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | clubs | Blackburn_Rovers_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | Blackburn_Rovers_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | Blackburn_Rovers_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Stuart Parker (footballer) was at Blackburn Rovers FC.</lex>
+      <lex lang="ru" lid="Id1">Стюарт Паркер (футболист) играл за "Блэкберн Роверс".</lex>
+      <lex lang="en" lid="Id2">Stuart Parker (footballer) plays for Blackburn Rovers F.C.</lex>
+      <lex lang="ru" lid="Id2">Стюарт Паркер (футболист) играет за Блэкберн Роверс.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Blackburn_Rovers_F.C. | sameAs | Блэкберн_Роверс</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Stuart Parker (footballer) | includes | Стюарт Паркер</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | Blackpool_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | Blackpool_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Stuart Parker (footballer) plays for Blackpool F.C.</lex>
+      <lex lang="ru" lid="Id1">Стюарт Паркер (футболист) играет за "Блэкпул".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Blackpool_F.C. | sameAs | Блэкпул_(футбольный_клуб)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Stuart Parker (footballer) | includes | Стюарт Паркер</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | Chesterfield_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | clubs | Chesterfield_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | Chesterfield_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Stuart Parker was a footballer for Chesterfield FC.</lex>
+      <lex lang="ru" lid="Id1">Стюарт Паркер был футболистом ФК Честерфилд.</lex>
+      <lex lang="en" lid="Id2">The footballer Stuart Parker is attached to Chesterfield football club.</lex>
+      <lex lang="ru" lid="Id2">Футболиста Стюарта Паркера зачислили в Честерфилд.</lex>
+      <lex lang="en" lid="Id3">Stuart Parker is a member of the Chesterfield F.C.</lex>
+      <lex lang="ru" lid="Id3">Стюарт Паркер - член Честерфилда.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Chesterfield_F.C. | sameAs | Честерфилд_(футбольный_клуб)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Stuart Parker (footballer) | includes | Стюарт Паркер</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | clubs | Drogheda_United_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | Drogheda_United_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | Drogheda_United_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Stuart Parker is a footballer with the Drogheda United F.C.</lex>
+      <lex lang="ru" lid="Id1">Стюарт Паркер - футболист из Дроэда Юнайтед.</lex>
+      <lex lang="en" lid="Id2">Stuart Parker (footballer) was at Drogheda United FC.</lex>
+      <lex lang="ru" lid="Id2">Стюарт Паркер (футболист) был в Дроэде Юнайтед.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Drogheda_United_F.C. | sameAs | Дроэда_Юнайтед</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Stuart Parker (footballer) | includes | Стюарт Паркер</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id26" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | clubs | Irlam_Town_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | Irlam_Town_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | Irlam_Town_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The footballer Stuart Parker is attached to Irlam Town Football Club.</lex>
+      <lex lang="ru" lid="Id1">Футболист Стюарт Паркер присоединен к ФК “Эрлам Таун”.</lex>
+      <lex lang="en" lid="Id2">Stuart Parker is a member of the Irlam Town F.C.</lex>
+      <lex lang="ru" lid="Id2">Стюарт Паркер - член ФК “Эрлам Таун”.</lex>
+      <links>
+        <link direction="en2ru">Stuart Parker (footballer) | includes | Стюарт Паркер</link>
+        <link direction="en2ru">Irlam Town F.C. | sameAs | ФК “Эрлам Таун”</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | clubs | KV_Mechelen</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | KV_Mechelen</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | KV_Mechelen</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Stuart Parker has represented the club KV Mechelen.</lex>
+      <lex lang="ru" lid="Id1">Стюарт Паркер представлял клуб Мехелен.</lex>
+      <lex lang="en" lid="Id2">Stuart Parker the football player is part of the KV Mechelen club.</lex>
+      <lex lang="ru" lid="Id2">Футболист Стюарт Паркер входит в клуб Мехелен.</lex>
+      <lex lang="en" lid="Id3">the football player Stuart Parker plays for KV Mechelen.</lex>
+      <lex lang="ru" lid="Id3">Футболист Стюарт Паркер играет за Мехелен.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">KV_Mechelen | sameAs | Мехелен_(футбольный_клуб)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Stuart Parker (footballer) | includes | Стюарт Паркер</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | Runcorn_F.C._Halton</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | clubs | Runcorn_F.C._Halton</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | Runcorn_F.C._Halton</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Stuart Parker (footballer) was a player for Runcorn FC Halton.</lex>
+      <lex lang="ru" lid="Id1">Стюарт Паркер (футболист) был игроком за ФК “Ранхорн”.</lex>
+      <lex lang="en" lid="Id2">Stuart Parker (footballer) plays for Runcorn F.C. Halton.</lex>
+      <lex lang="ru" lid="Id2">Стюарт Паркер (футболист) играет за ФК “Ранхорн”.</lex>
+      <links>
+        <link direction="en2ru">Runcorn F.C. Halton | sameAs | ФК “Ранхорн”</link>
+        <link direction="en2ru">Stuart Parker (footballer) | includes | Стюарт Паркер</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | clubs | Sparta_Rotterdam</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | Sparta_Rotterdam</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | Sparta_Rotterdam</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Stuart Parker plays at the Sparta Rotterdam club.</lex>
+      <lex lang="ru" lid="Id1">Стюарт Паркер играет в клубе Спарта.</lex>
+      <lex lang="en" lid="Id2">Stuart Parker is in the club Sparta Rotterdam.</lex>
+      <lex lang="ru" lid="Id2">Стюарт Паркер - в клубе Спарта.</lex>
+      <lex lang="en" lid="Id3">Stuart Parker (footballer) plays for Sparta Rotterdam.</lex>
+      <lex lang="ru" lid="Id3">Стюарт Паркер (футболист) играет за Спарту.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Sparta_Rotterdam | sameAs | Спарта_(футбольный_клуб,_Роттердам)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Stuart Parker (footballer) | includes | Стюарт Паркер</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id30" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | clubs | Stockport_County_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | Stockport_County_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | Stockport_County_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Stuart Parker (footballer) once played for Stockport County FC.</lex>
+      <lex lang="ru" lid="Id1">Стюарт Паркер (футболист) когда-то играл за ФК Стокпорт Каунти.</lex>
+      <lex lang="en" lid="Id2">Stuart Parker's football club was Stockport County F.C.</lex>
+      <lex lang="ru" lid="Id2">Футбольным клубом Стюарта Паркера был Стокпорт Каунти.</lex>
+      <lex lang="en" lid="Id3">Stuart Parker (footballer) plays for Stockport County F.C.</lex>
+      <lex lang="ru" lid="Id3">Стюарт Паркер (футболист) играет за Стокпорт Каунти.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Stockport_County_F.C. | sameAs | Стокпорт_Каунти</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Stuart Parker (footballer) | includes | Стюарт Паркер</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id31" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Superleague_Greece | champions | Olympiacos_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Superleague_Greece | champions | Olympiacos_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Olympiacos FC are previous champions of the Superleague Greece.</lex>
+      <lex lang="ru" lid="Id1">Олимпиакос - предыдущие чемпионы Чемпионата Греции по футболу.</lex>
+      <lex lang="en" lid="Id2">Olympiacos F.C. were past champions in the Greece Superleague.</lex>
+      <lex lang="ru" lid="Id2">Олимпиакос были прошлыми чемпионами в чемпионате Греции по футболу.</lex>
+      <lex lang="en" lid="Id3">The Superleague Greece champions are Olympiacos F.C.</lex>
+      <lex lang="ru" lid="Id3">Олимпиакос - чемпионы Чемпионата Греции по футболу.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Olympiacos_F.C. | sameAs | Олимпиакос_(футбольный_клуб,_Пирей)</dbpedialink>
+        <dbpedialink direction="en2ru">Superleague_Greece | sameAs | Чемпионат_Греции_по_футболу</dbpedialink>
+      </dbpedialinks>
+    </entry>
+  </entries>
+</benchmark>

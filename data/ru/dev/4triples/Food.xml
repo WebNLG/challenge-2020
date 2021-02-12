@@ -1,0 +1,1135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Food" eid="Id1" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Italy | leader | Matteo_Renzi</otriple>
+        <otriple>Amatriciana_sauce | country | Italy</otriple>
+        <otriple>Italy | leaderName | Laura_Boldrini</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>Italy | leader | Matteo_Renzi</mtriple>
+        <mtriple>Amatriciana_sauce | country | Italy</mtriple>
+        <mtriple>Italy | leader | Laura_Boldrini</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Amatriciana sauce is a traditional sauce in Italy (the capital of which is Rome), where two of the country's leaders are Matteo Renzi and Laura Boldrini.</lex>
+      <lex lang="ru" lid="Id1">Аматричана – это традиционный соус в Италии (столицей которой является Рим), где два лидера - Маттео Ренци и Лаура Больдрини.</lex>
+      <lex lang="en" lid="Id2">The capital of Italy is Rome. Two leaders in Italy are Matteo Renzi and Laura Boldrini. Amatriciana sauce is a traditional sauce there.</lex>
+      <lex lang="ru" lid="Id2">Столица Италии - Рим. Два лидера в Италии - Маттео Ренци и Лаура Больдрини. Аматричана – это традиционный соус там.</lex>
+      <lex lang="en" lid="Id3">Amatriciana sauce can be found in Italy, where the capital is Rome and the leader is Laura Boldrini and/or Matteo Renzi.</lex>
+      <lex lang="ru" lid="Id3">Аматричану можно найти в Италии, где столица - Рим, а лидер – Лаура Больдрини и/или Маттео Ренци.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Rome | sameAs | Рим</dbpedialink>
+        <dbpedialink direction="en2ru">Amatriciana_sauce | sameAs | Аматричана</dbpedialink>
+        <dbpedialink direction="en2ru">Laura_Boldrini | sameAs | Больдрини,_Лаура</dbpedialink>
+        <dbpedialink direction="en2ru">Matteo_Renzi | sameAs | Ренци,_Маттео</dbpedialink>
+        <dbpedialink direction="en2ru">Italy | sameAs | Италия</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Food" eid="Id2" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Italy | leader | Matteo_Renzi</otriple>
+        <otriple>Amatriciana_sauce | country | Italy</otriple>
+        <otriple>Italy | leaderName | Sergio_Mattarella</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Italy | leaderName | Matteo_Renzi</otriple>
+        <otriple>Amatriciana_sauce | country | Italy</otriple>
+        <otriple>Italy | leader | Sergio_Mattarella</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>Italy | leader | Matteo_Renzi</mtriple>
+        <mtriple>Amatriciana_sauce | country | Italy</mtriple>
+        <mtriple>Italy | leader | Sergio_Mattarella</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Two leaders of Italy, where Amatriciana sauce is found, are Matteo Renzi and Sergio Mattarella. Its capital is Rome.</lex>
+      <lex lang="ru" lid="Id1">Два лидера Италии, где найден соус Аматричана, - Маттео Ренци и Серхио Маттарелла. Ее столица - Рим.</lex>
+      <lex lang="en" lid="Id2">Italy is the country Amatriciana sauce comes from. The capital is Rome and political leaders include Matteo Renzi and Sergio Mattarella.</lex>
+      <lex lang="ru" lid="Id2">Италия – страна, из которой родом соус аматричана. Столицей является Рим и ее политические лидеры: Маттео Ренци и Серджо Маттарелла.</lex>
+      <lex lang="en" lid="Id3">Rome is the capital of Italy, where Sergio Mattarell and Matteo Renzi are leaders and where amatriciana sauce is a traditional dish.</lex>
+      <lex lang="ru" lid="Id3">Рим - столица Италии, где Серджо Маттарелла и Маттео Ренци - лидеры и где Аматричана - традиционное блюдо.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Rome | sameAs | Рим</dbpedialink>
+        <dbpedialink direction="en2ru">Sergio_Mattarella | sameAs | Маттарелла,_Серджо</dbpedialink>
+        <dbpedialink direction="en2ru">Amatriciana_sauce | sameAs | Аматричана</dbpedialink>
+        <dbpedialink direction="en2ru">Matteo_Renzi | sameAs | Ренци,_Маттео</dbpedialink>
+        <dbpedialink direction="en2ru">Italy | sameAs | Италия</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Food" eid="Id3" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Italy | leaderName | Pietro_Grasso</otriple>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Amatriciana_sauce | country | Italy</otriple>
+        <otriple>Italy | leader | Laura_Boldrini</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Amatriciana_sauce | country | Italy</otriple>
+        <otriple>Italy | leaderName | Laura_Boldrini</otriple>
+        <otriple>Italy | leader | Pietro_Grasso</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | leader | Pietro_Grasso</mtriple>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>Amatriciana_sauce | country | Italy</mtriple>
+        <mtriple>Italy | leader | Laura_Boldrini</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Italy is the country Amatriciana sauce comes from and the capital is Rome. The leaders are Pietro Grasso and Laura Boldrini.</lex>
+      <lex lang="ru" lid="Id1">Италия – страна происхождения Аматричаны, и столица - Рим. Лидеры - Пьетро Грассо и Лаура Больдрини.</lex>
+      <lex lang="en" lid="Id2">Amatriciana sauce is a traditional Italian sauce. The capital of the country is Rome and the leader is either Pietro Grasso and/or Laura Boldrini.</lex>
+      <lex lang="ru" lid="Id2">Аматричана – это традиционный итальянский соус. Столица - Рим, а лидером является либо Пьетро Грассо и/или Лаура Больдрини.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Rome | sameAs | Рим</dbpedialink>
+        <dbpedialink direction="en2ru">Amatriciana_sauce | sameAs | Аматричана</dbpedialink>
+        <dbpedialink direction="en2ru">Laura_Boldrini | sameAs | Больдрини,_Лаура</dbpedialink>
+        <dbpedialink direction="en2ru">Italy | sameAs | Италия</dbpedialink>
+        <dbpedialink direction="en2ru">Pietro_Grasso | sameAs | Грассо,_Пьетро</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Food" eid="Id4" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Java | ethnicGroup | Baduy</otriple>
+        <otriple>Ayam_penyet | region | Singapore</otriple>
+        <otriple>Singapore | leaderName | Tony_Tan</otriple>
+        <otriple>Ayam_penyet | country | Java</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Java | ethnicGroup | Baduy</mtriple>
+        <mtriple>Ayam_penyet | region | Singapore</mtriple>
+        <mtriple>Singapore | leader | Tony_Tan</mtriple>
+        <mtriple>Ayam_penyet | country | Java</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Ayam penyet is originates from Singapore and Tony Tan is the country's leader.It can also be found in Java where Baduy people are one of the ethnic groups.</lex>
+      <lex lang="ru" lid="Id1">Блюдо аям пеньет родом из Сингапура, и Тони Тан - лидер страны. Оно также может быть найдено на Яве, где народ бадуй являются одной из этнических групп.</lex>
+      <lex lang="en" lid="Id2">Baduy is an ethnic group of Java, where the dish ayam penyet can be found. This dish is from the Singapore region, where Tony Tan is a leader.</lex>
+      <lex lang="ru" lid="Id2">Бадуй - это этническая группа Явы, где можно найти блюдо аям пеньет. Это блюдо - из региона Сингапур, где Тони Тан - лидер.</lex>
+      <lex lang="en" lid="Id3">Ayam penyet is a dish from Java, where the Baduy are an ethnic group. The dish comes from Singapore where Tony Tan is the leader.</lex>
+      <lex lang="ru" lid="Id3">Аям пеньет - блюдо из Явы, где Бадуй - этническая группа. Блюдо происходит из Сингапура, где Тони Тан - лидер.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Baduy | sameAs | Бадуй</dbpedialink>
+        <dbpedialink direction="en2ru">Singapore | sameAs | Сингапур</dbpedialink>
+        <dbpedialink direction="en2ru">Tony_Tan | sameAs | Тони_Тан</dbpedialink>
+        <dbpedialink direction="en2ru">Java | sameAs | Ява</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Ayam penyet | sameAs | аям пеньет</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id5" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Java | ethnicGroup | Baduy</otriple>
+        <otriple>Singapore | language | English_language</otriple>
+        <otriple>Ayam_penyet | region | Singapore</otriple>
+        <otriple>Ayam_penyet | country | Java</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Java | ethnicGroup | Baduy</mtriple>
+        <mtriple>Singapore | language | English_language</mtriple>
+        <mtriple>Ayam_penyet | region | Singapore</mtriple>
+        <mtriple>Ayam_penyet | country | Java</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Ayam penyet comes from Singapore and Java. English is spoken in Singapore. Baduy are an ethnic group living in Java.</lex>
+      <lex lang="ru" lid="Id1">Аям пеньет родом из Сингапура и Явы. В Сингапуре говорят по-английски. Бадуй - этническая группа, живущая на Яве.</lex>
+      <lex lang="en" lid="Id2">Ayam penyet is from Singapore and Java (home of the Baduy people). In Singapore English is one language spoken.</lex>
+      <lex lang="ru" lid="Id2">Блюдо аям пеньет родом из Сингапура и Явы (родина народа бадуй). В Сингапуре английский – один из языков, на которых говорят местные жители.</lex>
+      <lex lang="en" lid="Id3">Ayam penyet is from Singapore and Java (home of the Baduy people). In Singapore they speak English.</lex>
+      <lex lang="ru" lid="Id3">Блюдо аям пеньет - из Сингапура и Явы (родина народа бадуй). В Сингапуре говорят по-английски.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Baduy | sameAs | Бадуй</dbpedialink>
+        <dbpedialink direction="en2ru">English_language | sameAs | Английский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">Singapore | sameAs | Сингапур</dbpedialink>
+        <dbpedialink direction="en2ru">Java | sameAs | Ява</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Ayam penyet | sameAs | аям пеньет</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id6" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Java | ethnicGroup | Baduy</otriple>
+        <otriple>Singapore | leaderName | Halimah_Yacob</otriple>
+        <otriple>Ayam_penyet | region | Singapore</otriple>
+        <otriple>Ayam_penyet | country | Java</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Java | ethnicGroup | Baduy</mtriple>
+        <mtriple>Singapore | leader | Halimah_Yacob</mtriple>
+        <mtriple>Ayam_penyet | region | Singapore</mtriple>
+        <mtriple>Ayam_penyet | country | Java</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Ayam penyet comes from the Singaporean region and Halimah Yacob is the country's leader.It can be found in Java as well where Baduy people is an ethnic group.</lex>
+      <lex lang="ru" lid="Id1">Аям пеньет родом из Сингапура, а Якоб Халима - лидер страны. Блюдо можно найти на Яве, а также там, где народ бадуй является этнической группой.</lex>
+      <lex lang="en" lid="Id2">Ayam penyet is a dish from the region of Singapore which is led by Halimah Yacob. It is also found in Java where the Baduy are an ethnic group.</lex>
+      <lex lang="ru" lid="Id2">Аям пеньет - блюдо из региона Сингапур, который возглавляет Якоб Халима. Он также обнаружен на Яве, где Бадуй - этническая группа.</lex>
+      <lex lang="en" lid="Id3">Ayem penyet is a dish from Java where the Baduy are an ethnic group. It also originates from the region of Singapore where the leader is Halimah Yacob.</lex>
+      <lex lang="ru" lid="Id3">Аям пеньет – блюдо из Явы, где Бадуй - этническая группа. Он также происходит из региона Сингапур, где лидером является Якоб Халима.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Baduy | sameAs | Бадуй</dbpedialink>
+        <dbpedialink direction="en2ru">Singapore | sameAs | Сингапур</dbpedialink>
+        <dbpedialink direction="en2ru">Java | sameAs | Ява</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Halimah Yacob | sameAs | Якоб Халима</link>
+        <link direction="en2ru">Ayam penyet | sameAs | аям пеньет</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id7" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Java | ethnicGroup | Banyumasan_people</otriple>
+        <otriple>Ayam_penyet | region | Singapore</otriple>
+        <otriple>Singapore | leaderName | Tony_Tan</otriple>
+        <otriple>Ayam_penyet | country | Java</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Java | ethnicGroup | Banyumasan_people</mtriple>
+        <mtriple>Ayam_penyet | region | Singapore</mtriple>
+        <mtriple>Singapore | leader | Tony_Tan</mtriple>
+        <mtriple>Ayam_penyet | country | Java</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Ayam penyet is a dish from Java and Singapore. The leader of the latter is Tony Tan and the Banyumasan people are an ethnic group from Java.</lex>
+      <lex lang="ru" lid="Id1">Аям пеньет - блюдо с Явы и Сингапура. Лидером последнего является Тони Тан, а банюмасанцы - это этническая группа Явы.</lex>
+      <lex lang="en" lid="Id2">Ayam penyet is a dish from Singapore and Java. Banyumasan people is one of the ethnic groups in Java and Tony Tan is a leader in Singapore.</lex>
+      <lex lang="ru" lid="Id2">Аям пеньет - блюдо из Сингапура и Явы. Народ банюмасан - одна из этнических групп на Яве, а Тони Тан - лидер в Сингапуре.</lex>
+      <lex lang="en" lid="Id3">The Banyumasan people are an ethnic group in Java, where the dish ayam penyet is found. The dish originates in Singapore, where Tony Tan is the leader.</lex>
+      <lex lang="ru" lid="Id3">Народ банюмасан - этническая группа на Яве, где можно найти блюдо аям пеньет. Блюдо берет свое начало в Сингапуре, где Тони Тан - лидер.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Singapore | sameAs | Сингапур</dbpedialink>
+        <dbpedialink direction="en2ru">Tony_Tan | sameAs | Тони_Тан</dbpedialink>
+        <dbpedialink direction="en2ru">Java | sameAs | Ява</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Banyumasan people | sameAs | народ банюмасан / банюмасанцы</link>
+        <link direction="en2ru">Ayam penyet | sameAs | аям пеньет</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id8" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Java | ethnicGroup | Javanese_people</otriple>
+        <otriple>Ayam_penyet | ingredient | Fried_chicken</otriple>
+        <otriple>Ayam_penyet | region | "Nationwide, also can be found in Malaysia and Singapore"@en</otriple>
+        <otriple>Ayam_penyet | country | Java</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Java | ethnicGroup | Javanese_people</mtriple>
+        <mtriple>Ayam_penyet | ingredient | Fried_chicken</mtriple>
+        <mtriple>Ayam_penyet | region | "Nationwide, also can be found in Malaysia and Singapore"</mtriple>
+        <mtriple>Ayam_penyet | country | Java</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Javenese people are an ethnic group in Java, where Ayam penyet is from. it uses fried chicken as an igredient and as well being found nationwide in Java, it can also be found in Malaysia and Singapore.</lex>
+      <lex lang="ru" lid="Id1">Яванцы — это этническая группа на Яве, где встречается блюдо аям пеньет. Для него необходима жареная курица в качестве ингредиента, и также его можно найти по всей стране на Яве, еще оно может встретиться в Малайзии и Сингапуре.</lex>
+      <lex lang="en" lid="Id2">The fried chicken dish Ayam penyet can be found nationwide in Java (country of the Javenese) and also in Malaysia and Singapore.</lex>
+      <lex lang="ru" lid="Id2">Блюдо из жареной курицы аям пеньет можно найти по всей стране на Яве (родина яванцев), а также в Малайзии и Сингапуре.</lex>
+      <lex lang="en" lid="Id3">The fried chicken dish Ayam penyet is made nationwide in Java (home of the Javanese), and can also be found in Malaysia and Singapore.</lex>
+      <lex lang="ru" lid="Id3">Блюдо из жареной курицы аям пеньет делают по всей Яве (родине яванцев), его также можно найти в Малайзии и Сингапуре.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Javanese_people | sameAs | Яванцы</dbpedialink>
+        <dbpedialink direction="en2ru">Java | sameAs | Ява</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Fried chicken | sameAs | жареная курица / жареный цыпленок</link>
+        <link direction="en2ru">Ayam penyet | sameAs | аям пеньет</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id9" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Java | ethnicGroup | Javanese_people</otriple>
+        <otriple>Ayam_penyet | ingredient | Fried_chicken</otriple>
+        <otriple>Ayam_penyet | region | Singapore</otriple>
+        <otriple>Ayam_penyet | country | Java</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Java | ethnicGroup | Javanese_people</mtriple>
+        <mtriple>Ayam_penyet | ingredient | Fried_chicken</mtriple>
+        <mtriple>Ayam_penyet | region | Singapore</mtriple>
+        <mtriple>Ayam_penyet | country | Java</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Ayam penyet is from the Singapore region, Java; one of its ingredients is fried chicken. The Javanese people are an ethnic group in Java.</lex>
+      <lex lang="ru" lid="Id1">Аям пеньет родом из Сингапура, с Явы; один из его ингредиентов - жареная курица. Яванцы - этническая группа на Яве.</lex>
+      <lex lang="en" lid="Id2">Ayam penyet is a fried chicken dish from Singapore and Java. The Javenese people are an ethnic group in Java.</lex>
+      <lex lang="ru" lid="Id2">Аям пеньет - блюдо из жареной курицы родом из Сингапура и Явы. Яванцы — это этническая группа на Яве.</lex>
+      <lex lang="en" lid="Id3">The Javenese people are an ethnic group in Java where the fried chicken dish ayam penyet that originated in Singapore can be found.</lex>
+      <lex lang="ru" lid="Id3">Яванцы — это этническая группа на Яве, где можно найти блюдо из жареной курицы аям пеньет, которое возникло в Сингапуре.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Singapore | sameAs | Сингапур</dbpedialink>
+        <dbpedialink direction="en2ru">Javanese_people | sameAs | Яванцы</dbpedialink>
+        <dbpedialink direction="en2ru">Java | sameAs | Ява</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Fried chicken | sameAs | жареная курица / жареный цыпленок</link>
+        <link direction="en2ru">Ayam penyet | sameAs | аям пеньет</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id10" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Java | ethnicGroup | Javanese_people</otriple>
+        <otriple>Ayam_penyet | region | Singapore</otriple>
+        <otriple>Singapore | language | Standard_Chinese</otriple>
+        <otriple>Ayam_penyet | country | Java</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Java | ethnicGroup | Javanese_people</mtriple>
+        <mtriple>Ayam_penyet | region | Singapore</mtriple>
+        <mtriple>Singapore | language | Standard_Chinese</mtriple>
+        <mtriple>Ayam_penyet | country | Java</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Ayam penyet is a dish from Singapore and Java. The Javenese people are an ethnic group in Java and Standard Chinese is spoken in Singapore.</lex>
+      <lex lang="ru" lid="Id1">Аям пеньет - блюдо из Сингапура и с Явы. Яванцы — это этническая группа на Яве, а в Сингапуре говорят на путунхуа.</lex>
+      <lex lang="en" lid="Id2">The Javenese people are an ethnic group in Java, where the dish ayam penyet can be found. The dish is from Singapore, where Standard Chinese is spoken.</lex>
+      <lex lang="ru" lid="Id2">Яванцы — это этническая группа на Яве, где можно найти блюдо аям пеньет. Это блюдо из Сингапура, где говорят на путунхуа.</lex>
+      <lex lang="en" lid="Id3">The Javanese people are an ethnic group in Java where the dish Ayam penyet is found. It originates from the region of Singapore where Standard Chinese is spoken.</lex>
+      <lex lang="ru" lid="Id3">Яванцы - этническая группа Явы, в которой встречается блюдо аям пеньет. Оно происходит из региона Сингапура, где говорят на общепринятом китайском языке.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Singapore | sameAs | Сингапур</dbpedialink>
+        <dbpedialink direction="en2ru">Javanese_people | sameAs | Яванцы</dbpedialink>
+        <dbpedialink direction="en2ru">Java | sameAs | Ява</dbpedialink>
+        <dbpedialink direction="en2ru">Standard_Chinese | sameAs | Путунхуа</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Ayam penyet | sameAs | аям пеньет</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id11" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Java | ethnicGroup | Javanese_people</otriple>
+        <otriple>Ayam_penyet | region | Singapore</otriple>
+        <otriple>Singapore | leaderName | Tony_Tan</otriple>
+        <otriple>Ayam_penyet | country | Java</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Java | ethnicGroup | Javanese_people</mtriple>
+        <mtriple>Ayam_penyet | region | Singapore</mtriple>
+        <mtriple>Singapore | leader | Tony_Tan</mtriple>
+        <mtriple>Ayam_penyet | country | Java</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Ayam penyet is a dish from Singapore and Java. The Javanese people are an ethnic group of Java and the leader of Singapore is Tony Tan.</lex>
+      <lex lang="ru" lid="Id1">Аям пеньет - это блюдо из Сингапура и Явы. Яванцы - это этническая группа на Яве, а глава Сингапура - Тони Тан.</lex>
+      <lex lang="en" lid="Id2">Ayam penyet is a dish found in Java where the Javanese people are an ethnic group. However, it originates from Singapore where Tony Tan is a leader.</lex>
+      <lex lang="ru" lid="Id2">Аям пеньет - это блюдо, распространенное на Яве, где яванцы - этническая группа. Однако, это блюдо происходит из Сингапура, глава которого - Тони Тан.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Singapore | sameAs | Сингапур</dbpedialink>
+        <dbpedialink direction="en2ru">Javanese_people | sameAs | Яванцы</dbpedialink>
+        <dbpedialink direction="en2ru">Java | sameAs | Ява</dbpedialink>
+        <dbpedialink direction="en2ru">Tony_Tan | sameAs | Тони_Тан</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Ayam penyet | sameAs | аям пеньет</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id12" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Java | ethnicGroup | Javanese_people</otriple>
+        <otriple>Singapore | leaderName | Halimah_Yacob</otriple>
+        <otriple>Ayam_penyet | region | Singapore</otriple>
+        <otriple>Ayam_penyet | country | Java</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Java | ethnicGroup | Javanese_people</mtriple>
+        <mtriple>Singapore | leader | Halimah_Yacob</mtriple>
+        <mtriple>Ayam_penyet | region | Singapore</mtriple>
+        <mtriple>Ayam_penyet | country | Java</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Javanese people are an ethnic group of Java. Singapore's leader is Halimah Yacob. Ayam penyet is a dish from Java, Singapore.</lex>
+      <lex lang="ru" lid="Id1">Яванцы - это этническая группа Явы. Глава Сингапура - Якоб Халима. Аям пеньет - это блюдо из Явы и Сингапура.</lex>
+      <lex lang="en" lid="Id2">Ayam penyet is from the Java and Singapore regions. The Javanese people are an ethnic group of Java and Halimah Yacob is a leader of Singapore.</lex>
+      <lex lang="ru" lid="Id2">Родиной блюда аям пеньет является остров Ява и регионы Сингапура. Яванцы - этническая группа Явы, а Якоб Халима - лидер Сингапура.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Singapore | sameAs | Сингапур</dbpedialink>
+        <dbpedialink direction="en2ru">Javanese_people | sameAs | Яванцы</dbpedialink>
+        <dbpedialink direction="en2ru">Java | sameAs | Ява</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Halimah Yacob | sameAs | Якоб Халима</link>
+        <link direction="en2ru">Ayam penyet | sameAs | аям пеньет</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id13" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Philippines | ethnicGroups | Ilocano_people</otriple>
+        <otriple>Philippines | ethnicGroup | Zamboangans</otriple>
+        <otriple>Philippines | language | Philippine_Spanish</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | ethnicGroup | Ilocano_people</mtriple>
+        <mtriple>Philippines | ethnicGroup | Zamboangans</mtriple>
+        <mtriple>Philippines | language | Philippine_Spanish</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Batchoy is a dish eaten in the Philippines. The language used there is Philippines Spanish and two of its ethnic groups are Ilocano people and Zamboangans.</lex>
+      <lex lang="ru" lid="Id1">Бачой – блюдо, которое едят на Филиппинах. Язык, который там используется – филиппинский испанский, а две их этнические группы - илоки и замбоанганцы.</lex>
+      <lex lang="en" lid="Id2">Batchoy is eaten in the Philippines where the spoken language is Philippine Spanish. The Zamboangans and Ilocano people are both ethnic groups in the country.</lex>
+      <lex lang="ru" lid="Id2">Бачой едят на Филиппинах, где разговорным языком является испанский язык на Филиппинах, замбоанганцы и Илоки – это этнические группы в стране.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Philippines | sameAs | Филиппины</dbpedialink>
+        <dbpedialink direction="en2ru">Philippine_Spanish | sameAs | Испанский_язык_на_Филиппинах</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Ilocano people | sameAs | илоки</link>
+        <link direction="en2ru">Zamboangans | sameAs | жители Замбоанги</link>
+        <link direction="en2ru">Batchoy | sameAs | бачой</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id14" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Philippines | ethnicGroups | Ilocano_people</otriple>
+        <otriple>Philippines | language | Arabic</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Chinese_Filipino</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | ethnicGroup | Ilocano_people</mtriple>
+        <mtriple>Philippines | language | Arabic</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Chinese_Filipino</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Batchoy is eaten in the Philippines where some people speak Arabic and ethnic groups include the Ilocano and Chinese Filipino people.</lex>
+      <lex lang="ru" lid="Id1">Бачой едят на Филиппинах, где некоторые люди говорят на арабском языке, а этнические группы включают в себя илоков и филиппинцев китайского происхождения.</lex>
+      <lex lang="en" lid="Id2">Batchoy is eaten in the Philippines. The country include the llocano people, Chinese Filipino and Arabic is spoken there.</lex>
+      <lex lang="ru" lid="Id2">Бачой едят на Филиппинах. Страна включает в себя илоков и китайских филиппинцев, а говорят там на арабском языке.</lex>
+      <lex lang="en" lid="Id3">Batchoy is found in Arabic speaking Philippines. Home to the llocano and Chinese Filipino people.</lex>
+      <lex lang="ru" lid="Id3">Бачой встречается на арабоязычных Филиппинах, которые являются домом илоков и китайских филиппинцев.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Philippines | sameAs | Филиппины</dbpedialink>
+        <dbpedialink direction="en2ru">Arabic | sameAs | Арабский_язык</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Chinese Filipino | sameAs | китайский филиппинец</link>
+        <link direction="en2ru">Ilocano people | sameAs | илоки</link>
+        <link direction="en2ru">Batchoy | sameAs | бачой</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id15" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Philippines | ethnicGroups | Ilocano_people</otriple>
+        <otriple>Philippines | language | Arabic</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Moro_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | ethnicGroup | Ilocano_people</mtriple>
+        <mtriple>Philippines | language | Arabic</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Moro_people</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Arabic is one of the languages spoken in the Philippines and Batchoy comes from there. Ethnic groups from the Philippines include the Ilocano people and Moro people.</lex>
+      <lex lang="ru" lid="Id1">Арабский - один из языков, на которых говорят на Филиппинах, родине блюда бачой. В число этнических групп Филиппин входят илоки и моро.</lex>
+      <lex lang="en" lid="Id2">Philippines is the country Batchoy comes from. Ethnic groups there include the Moro and llocano people. Arabic is also spoken there.</lex>
+      <lex lang="ru" lid="Id2">Филиппины - родина блюда бачой. В число этнических групп входят народы моро и илоки. Там говорят на арабском языке.</lex>
+      <lex lang="en" lid="Id3">The llocano people and the Moro people are ethnic groups from the Philippines, where Arabic is one of the languages spoken and batchoy is a traditional dish.</lex>
+      <lex lang="ru" lid="Id3">Илоки и Моро – этнические группы из Филиппин, где арабский - один из разговорных языков, и бачой - традиционное блюдо.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Philippines | sameAs | Филиппины</dbpedialink>
+        <dbpedialink direction="en2ru">Arabic | sameAs | Арабский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">Moro_people | sameAs | Моро_(народы)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Ilocano people | sameAs | илоки</link>
+        <link direction="en2ru">Batchoy | sameAs | бачой</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id16" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Philippines | language | Arabic</otriple>
+        <otriple>Philippines | ethnicGroups | Zamboangans</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Ilocano_people</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Philippines | ethnicGroups | Ilocano_people</otriple>
+        <otriple>Philippines | language | Arabic</otriple>
+        <otriple>Philippines | ethnicGroup | Zamboangans</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | ethnicGroup | Ilocano_people</mtriple>
+        <mtriple>Philippines | language | Arabic</mtriple>
+        <mtriple>Philippines | ethnicGroup | Zamboangans</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Batchoy come from the Philippines, a country where one of the languages spoken is Arabic. Also where two of the ethnic groups are, the llocano people and the Zamboangans.</lex>
+      <lex lang="ru" lid="Id1">Бачой родом из Филиппин, где арабский один из разговорных языков. Также там живут две этнические группы: илоки и замбоанганцы.</lex>
+      <lex lang="en" lid="Id2">Ilocano people and Zamboangans are ethnic groups from the Philippines. One of the languages there is Arabic. Batchoy is a dish that comes from that country.</lex>
+      <lex lang="ru" lid="Id2">Илоки и замбоанганцы - этнические группы из Филиппин. Один из разговорных языков там - арабский. Бачой – блюдо, родом оттуда же.</lex>
+      <lex lang="en" lid="Id3">Batchoy originates from the Philippines and among the ethnic groups of the country can be found the Zamboangans and the Ilocano people.Arabic is one of the spoken language there.</lex>
+      <lex lang="ru" lid="Id3">Бачой родом из Филиппин, а среди этнических групп страны можно встретить жителей Замбоанги и илоков. Одним из разговорных языков там является арабский.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Philippines | sameAs | Филиппины</dbpedialink>
+        <dbpedialink direction="en2ru">Arabic | sameAs | Арабский_язык</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Ilocano people | sameAs | илоки</link>
+        <link direction="en2ru">Zamboangans | sameAs | жители Замбоанги</link>
+        <link direction="en2ru">Batchoy | sameAs | бачой</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id17" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Philippines | ethnicGroups | Ilocano_people</otriple>
+        <otriple>Philippines | language | Philippine_English</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Chinese_Filipino</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | ethnicGroup | Ilocano_people</mtriple>
+        <mtriple>Philippines | language | Philippine_English</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Chinese_Filipino</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The llocano people and the Chinese Filipino are ethnic groups from the Philippines where Philippine English is the language spoken. Batchoy comes from this country.</lex>
+      <lex lang="ru" lid="Id1">Илоки и китайские филиппинцы являются этническими группами из Филиппин, где филиппинский английский является разговорным языком. Бачой тоже родом из этой страны.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Philippines | sameAs | Филиппины</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Chinese Filipino | sameAs | китайский филиппинец</link>
+        <link direction="en2ru">Ilocano people | sameAs | илоки</link>
+        <link direction="en2ru">Batchoy | sameAs | бачой</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id18" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Philippines | ethnicGroups | Ilocano_people</otriple>
+        <otriple>Philippines | language | Philippine_Spanish</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Chinese_Filipino</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | ethnicGroup | Ilocano_people</mtriple>
+        <mtriple>Philippines | language | Philippine_Spanish</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Chinese_Filipino</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Batchoy is eaten in the Philippines where Philippine Spanish is spoken and ethnic groups include the llocano and Chinese Filipino.</lex>
+      <lex lang="ru" lid="Id1">Бачой едят на Филиппинах, где говорят на филиппинском языке, а этнические группы включают в себя илоков и филиппинцев китайского происхождения.</lex>
+      <lex lang="en" lid="Id2">The llocano people and the Chinese Filipino are ethnic groups from the Philippines, where Philippine Spanish is spoken and batchoy is a traditional dish.</lex>
+      <lex lang="ru" lid="Id2">Илоки и китайские филиппинцы - этнические группы из Филиппин, где говорят на филиппинском испанском и бачой - традиционное блюдо.</lex>
+      <lex lang="en" lid="Id3">Batchoy is eaten in the Philippines where the language spoken is Philippine Spanish. One of the ethnic groups are the Ilocano people and Chinese Filipino are also present in the country.</lex>
+      <lex lang="ru" lid="Id3">Бачой едят на Филиппинах, где разговорный язык - испанский язык на Филиппинах. Одна из этнических групп - народ илоки, также и филиппинские китайцы присутствуют в стране.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Philippines | sameAs | Филиппины</dbpedialink>
+        <dbpedialink direction="en2ru">Philippine_Spanish | sameAs | Испанский_язык_на_Филиппинах</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Chinese Filipino | sameAs | китайский филиппинец</link>
+        <link direction="en2ru">Ilocano people | sameAs | илоки</link>
+        <link direction="en2ru">Batchoy | sameAs | бачой</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id19" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Philippines | ethnicGroups | Ilocano_people</otriple>
+        <otriple>Philippines | language | Philippine_Spanish</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Igorot_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | ethnicGroup | Ilocano_people</mtriple>
+        <mtriple>Philippines | language | Philippine_Spanish</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Igorot_people</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Ilocano people and the Igorot people are ethnic groups from the Philippines, where the language spoken is Philippine Spanish and batchoy is a traditional dish.</lex>
+      <lex lang="ru" lid="Id1">Илоки и игороты - этнические группы Филиппин, где разговорным языком является филиппинский испанский, а традиционным блюдом - бачой.</lex>
+      <lex lang="en" lid="Id2">Batchoy comes from the Philippines where the Igorot and Ilocano peoples are ethnic groups and the spoken language is Philippine Spanish.</lex>
+      <lex lang="ru" lid="Id2">Бачой родом из Филиппин, где народы Игорот и Илоки являются этническими группами, а разговорный язык — филиппинский.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Philippines | sameAs | Филиппины</dbpedialink>
+        <dbpedialink direction="en2ru">Philippine_Spanish | sameAs | Испанский_язык_на_Филиппинах</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Ilocano people | sameAs | илоки</link>
+        <link direction="en2ru">Igorot people | sameAs | игороты</link>
+        <link direction="en2ru">Batchoy | sameAs | бачой</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id20" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Philippines | ethnicGroups | Ilocano_people</otriple>
+        <otriple>Philippines | language | Philippine_Spanish</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Moro_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | ethnicGroup | Ilocano_people</mtriple>
+        <mtriple>Philippines | language | Philippine_Spanish</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Moro_people</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The language spoken in the Philippines is Philippine Spanish and batchoy is eaten there. Ethnic groups include the llocano people and the Moro people.</lex>
+      <lex lang="ru" lid="Id1">На Филиппинах говорят на испанском языке, а едят там бачой. Этнические группы включают в себя илоков и моро.</lex>
+      <lex lang="en" lid="Id2">Batchoy is eaten in the Philippines where Phillippine Spanish is spoken and ethnic groups include the Ilocano and Moro.</lex>
+      <lex lang="ru" lid="Id2">Бачой едят на Филиппинах, где говорят на филиппинском испанском языке, а этнические группы включают в себя илоков и моро.</lex>
+      <lex lang="en" lid="Id3">The Moro and the Ilocano people are ethnic groups within the Philippines where batchoy is eaten and the language used is Philippine Spanish.</lex>
+      <lex lang="ru" lid="Id3">Моро и Илоки являются этническими группами на Филиппинах, где едят бачой и где говорят на филиппинском испанском языке.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Philippines | sameAs | Филиппины</dbpedialink>
+        <dbpedialink direction="en2ru">Moro_people | sameAs | Моро_(народы)</dbpedialink>
+        <dbpedialink direction="en2ru">Philippine_Spanish | sameAs | Испанский_язык_на_Филиппинах</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Ilocano people | sameAs | илоки</link>
+        <link direction="en2ru">Batchoy | sameAs | бачой</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id21" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Philippines | ethnicGroup | Zamboangans</otriple>
+        <otriple>Philippines | language | Philippine_Spanish</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroups | Igorot_people</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Philippines | ethnicGroups | Zamboangans</otriple>
+        <otriple>Philippines | language | Philippine_Spanish</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Igorot_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | ethnicGroup | Zamboangans</mtriple>
+        <mtriple>Philippines | language | Philippine_Spanish</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Igorot_people</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Zamboangans are a group in the Philippines and the Igorot are an ethnic group in the Philippines. Philippine Spanish is the spoken language and one of the foods eaten in the Philippine is batchoy.</lex>
+      <lex lang="ru" lid="Id1">Жители Замбоанги - это группа на Филиппинах, а игороты - этническая группа на Филиппинах. Испанский язык на Филиппинах является разговорным языком, а один из продуктов, который употребляют в пищу на Филиппинах - бачой.</lex>
+      <lex lang="en" lid="Id2">Zamboangans and Igorot people are ethnic groups from the Philippines, where batchoy is eaten and the language spoken is Philippine Spanish.</lex>
+      <lex lang="ru" lid="Id2">Жители Замбоанги и игороты – этнические группы из Филиппин, где едят бачой и где говорят на филиппинском испанском языке.</lex>
+      <lex lang="en" lid="Id3">Bachoy originates from Philippine Spanish speaking Philippines; home of the Zamboangans and Igorot people.</lex>
+      <lex lang="ru" lid="Id3">Бачой берет свое начало с Филиппин, где говорят на филиппинском испанском языке; родина Замбоангов и Игоротов.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Philippines | sameAs | Филиппины</dbpedialink>
+        <dbpedialink direction="en2ru">Philippine_Spanish | sameAs | Испанский_язык_на_Филиппинах</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Igorot people | sameAs | игороты</link>
+        <link direction="en2ru">Zamboangans | sameAs | жители Замбоанги</link>
+        <link direction="en2ru">Batchoy | sameAs | бачой</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id22" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Philippines | ethnicGroups | Zamboangans</otriple>
+        <otriple>Philippines | language | Philippine_Spanish</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Moro_people</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Philippines | ethnicGroup | Zamboangans</otriple>
+        <otriple>Philippines | language | Philippine_Spanish</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroups | Moro_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | ethnicGroup | Zamboangans</mtriple>
+        <mtriple>Philippines | language | Philippine_Spanish</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Moro_people</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The language spoken in the Philippines is Philippine Spanish, batchoy is eaten there and the Zamboangans and Moro people can be found there.</lex>
+      <lex lang="ru" lid="Id1">Язык, на котором говорят на Филиппинах, - филиппинский испанский, там едят бачой и можно найти Замбоангов и народ Моро.</lex>
+      <lex lang="en" lid="Id2">The Zamboangans and the Moro people are ethnic groups in the Philippines; where one of the languages is Philippine Spanish. Batchoy is eaten in the Philippines.</lex>
+      <lex lang="ru" lid="Id2">Жители Замбоанги и Моро являются этническими группами на Филиппинах, где одним из языков является филиппинский вариант испанского языка. Бачой едят на Филиппинах.</lex>
+      <lex lang="en" lid="Id3">In the Philippines you can find Zamboangans, Philippine Spanish, Batchoy, and Moro people.</lex>
+      <lex lang="ru" lid="Id3">На Филиппинах можно обнаружить жителей Замбоанги, филиппинский испанский, бачой и народ моро.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Philippines | sameAs | Филиппины</dbpedialink>
+        <dbpedialink direction="en2ru">Moro_people | sameAs | Моро_(народы)</dbpedialink>
+        <dbpedialink direction="en2ru">Philippine_Spanish | sameAs | Испанский_язык_на_Филиппинах</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Zamboangans | sameAs | жители Замбоанги</link>
+        <link direction="en2ru">Batchoy | sameAs | бачой</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id23" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Philippines | language | Arabic</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroups | Igorot_people</otriple>
+        <otriple>Philippines | ethnicGroup | Ilocano_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | language | Arabic</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Igorot_people</mtriple>
+        <mtriple>Philippines | ethnicGroup | Ilocano_people</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Igorot and Ilocano people are both ethnic groups in the Phillipines. Batchoy is eaten there. In addition Arabic is one of the languages spoken in the country.</lex>
+      <lex lang="ru" lid="Id1">Игороты и илоки – это этнические группы на Филиппинах. Там едят бачой. В дополнение, арабский - один из разговорных языков этой страны.</lex>
+      <lex lang="en" lid="Id2">The Ilocano and Igorot people are ethnic groups in the Philippines where Arabic is one of the languages spoken. The country is the origin of the dish Batchoy.</lex>
+      <lex lang="ru" lid="Id2">Илоки и игороты – этнические группы на Филиппинах, где арабский - один из языков, на котором говорят. Страна является родиной блюда бачой.</lex>
+      <lex lang="en" lid="Id3">The Ilocano and Igorot people are ethnic groups in the Philippines. The country uses the Arabic language and is where batchoy is eaten.</lex>
+      <lex lang="ru" lid="Id3">На Филиппинах проживают этнические группы илоки и игороты. В стране говорят на Арабском языке и там едят бачой.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Philippines | sameAs | Филиппины</dbpedialink>
+        <dbpedialink direction="en2ru">Arabic | sameAs | Арабский_язык</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Ilocano people | sameAs | илоки</link>
+        <link direction="en2ru">Igorot people | sameAs | игороты</link>
+        <link direction="en2ru">Batchoy | sameAs | бачой</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id24" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Philippines | language | Arabic</otriple>
+        <otriple>Philippines | ethnicGroup | Zamboangans</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroups | Chinese_Filipino</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | language | Arabic</mtriple>
+        <mtriple>Philippines | ethnicGroup | Zamboangans</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Chinese_Filipino</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Philippines is the country Batchoy comes from,where many people live in like Zamboangans and Chinese Filipino people. One of the languages in Philippines is Arabic.</lex>
+      <lex lang="ru" lid="Id1">Филиппины - родина Бачой, где обитает много людей, такие как замбоанганцы и китайские филиппинцы. Одним из языков на Филиппинах является арабский.</lex>
+      <lex lang="en" lid="Id2">In the Philippines, the Chinese Filipino, the Zamboangans, Arabic, and Batchoy can be found.</lex>
+      <lex lang="ru" lid="Id2">На Филиппинах можно найти китайских филиппинцев, жителей Замбоанги, Арабский язык, а также бачой.</lex>
+      <lex lang="en" lid="Id3">Batchoy is eaten in the Philippines where Arabic is spoken. Ethnic groups of the Philippines include the Zamboangans and Chinese Filipino people.</lex>
+      <lex lang="ru" lid="Id3">Бачой едят на Филиппинах, где говорят на арабском языке. В число этнических групп Филиппин входят замбоанганцы и китайские филиппинцы.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Philippines | sameAs | Филиппины</dbpedialink>
+        <dbpedialink direction="en2ru">Arabic | sameAs | Арабский_язык</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Chinese Filipino | sameAs | китайский филиппинец</link>
+        <link direction="en2ru">Zamboangans | sameAs | жители Замбоанги</link>
+        <link direction="en2ru">Batchoy | sameAs | бачой</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id25" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Philippines | language | Arabic</otriple>
+        <otriple>Philippines | ethnicGroup | Zamboangans</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroups | Igorot_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | language | Arabic</mtriple>
+        <mtriple>Philippines | ethnicGroup | Zamboangans</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Igorot_people</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Batchoy comes from the Philippines where one of the languages is Arabic. It is also where there are several ethnic groups, two of which are Zamboangans and Igorot people.</lex>
+      <lex lang="ru" lid="Id1">Бачой родом из Филиппин, один из языков, на котором говорят там, - арабский. Именно там есть несколько этнических групп, две из которых - замбоанганцы и игороты.</lex>
+      <lex lang="en" lid="Id2">Batchoy is a dish that is found in the Philippines, where the Igorot people and the Zamboangans are ethnic groups and where Arabic is one of the languages spoken.</lex>
+      <lex lang="ru" lid="Id2">Бачой – блюдо, которое можно найти на Филиппинах, где игороты и замбоанганцы являются этническими группами и где арабский - один из языков, на которых говорят.</lex>
+      <lex lang="en" lid="Id3">The Zamboangans and Igorot people are ethnic groups in the Philippines where the Arabic language is spoken and batchoy is eaten.</lex>
+      <lex lang="ru" lid="Id3">Жители Замбоанги и игороты – этнические группы на Филиппинах, где говорят на арабском языке и едят бачой.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Philippines | sameAs | Филиппины</dbpedialink>
+        <dbpedialink direction="en2ru">Arabic | sameAs | Арабский_язык</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Igorot people | sameAs | игороты</link>
+        <link direction="en2ru">Zamboangans | sameAs | жители Замбоанги</link>
+        <link direction="en2ru">Batchoy | sameAs | бачой</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id26" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Philippines | language | Arabic</otriple>
+        <otriple>Philippines | ethnicGroup | Zamboangans</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroups | Moro_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | language | Arabic</mtriple>
+        <mtriple>Philippines | ethnicGroup | Zamboangans</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Moro_people</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Batchoy is a dish from the Philippines, where Arabic is one of the languages spoken and where the ethnic groups include Zamboangans and Moro.</lex>
+      <lex lang="ru" lid="Id1">Бачой – блюдо из Филиппин, где Арабский - один из языков, на которых говорят и где этнические группы включают жителей Замбоанги и Моро.</lex>
+      <lex lang="en" lid="Id2">Batchoy is eaten in the Philippines where the Moro and the Zamboangans are ethnic groups. One of the languages used in the country is Arabic.</lex>
+      <lex lang="ru" lid="Id2">Бачой едят на Филиппинах, где Моро и жители Замбоанги - этнические группы. Одним из языков, на которых говорят в стране, является арабский.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Philippines | sameAs | Филиппины</dbpedialink>
+        <dbpedialink direction="en2ru">Arabic | sameAs | Арабский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">Moro_people | sameAs | Моро_(народы)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Zamboangans | sameAs | жители Замбоанги</link>
+        <link direction="en2ru">Batchoy | sameAs | бачой</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id27" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Philippines | language | Philippine_English</otriple>
+        <otriple>Binignit | course | Dessert</otriple>
+        <otriple>Dessert | hasVariant | Cookie</otriple>
+        <otriple>Binignit | country | Philippines</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | language | Philippine_English</mtriple>
+        <mtriple>Binignit | course | Dessert</mtriple>
+        <mtriple>Dessert | dishVariation | Cookie</mtriple>
+        <mtriple>Binignit | country | Philippines</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Cookie is a type of dessert, as too is Binignit which comes from the Philippines. Philippine English is the language of the Philippines.</lex>
+      <lex lang="ru" lid="Id1">Печенье – разновидность десерта, как и суп Бинигнит, который происходит из Филиппин. Филиппинский вариант английского языка является языком Филиппин.</lex>
+      <lex lang="en" lid="Id2">Philippine English is the language spoken in the Philippines, where the dish binignit can be found. It should be served as the dessert course. Other type of dessert is a cookie.</lex>
+      <lex lang="ru" lid="Id2">Филиппинский английский — это язык, на котором говорят на Филиппинах, где можно найти блюдо суп Бинигнит. Он подается в качестве десерта. Другим типом десерта является печенье.</lex>
+      <lex lang="en" lid="Id3">Cookies and binignit are types of dessert. The latter dish can be found in the Philippines where the spoken language is known as Philippine English.</lex>
+      <lex lang="ru" lid="Id3">Печенье и суп Бинигнит – виды десертов. Последнее блюдо можно найти на Филиппинах, где разговорный язык известен как филиппинский английский.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Philippines | sameAs | Филиппины</dbpedialink>
+        <dbpedialink direction="en2ru">Cookie | sameAs | Печенье</dbpedialink>
+        <dbpedialink direction="en2ru">Dessert | sameAs | Десерт</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Binignit | sameAs | суп Бинигнит</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id28" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Philippines | language | Philippine_Spanish</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroups | Igorot_people</otriple>
+        <otriple>Philippines | ethnicGroup | Chinese_Filipino</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | language | Philippine_Spanish</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Igorot_people</mtriple>
+        <mtriple>Philippines | ethnicGroup | Chinese_Filipino</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">In the Philippines they speak Philippine Spanish, eat Batchoy and are home to the ethnic groups of Igorot people and the Chinese Filipino.</lex>
+      <lex lang="ru" lid="Id1">На Филиппинах люди говорят на филиппинском испанском языке, едят Бачой, и страна является родиной для этнических групп населения Игорот и китайских филиппинцев.</lex>
+      <lex lang="en" lid="Id2">The Igorot people and the Chinese Filipinos are both ethnic groups in the Philippines where the spoken language is Spanish. The country is the origin of the dish known as Batchoy.</lex>
+      <lex lang="ru" lid="Id2">Игороты и китайские филиппинцы являются этническими группами на Филиппинах, где разговорным языком является испанский. Страна – родина блюда, известного как бачой.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Philippines | sameAs | Филиппины</dbpedialink>
+        <dbpedialink direction="en2ru">Philippine_Spanish | sameAs | Испанский_язык_на_Филиппинах</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Chinese Filipino | sameAs | китайский филиппинец</link>
+        <link direction="en2ru">Igorot people | sameAs | игороты</link>
+        <link direction="en2ru">Batchoy | sameAs | бачой</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id29" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Singapore | language | English_language</otriple>
+        <otriple>Beef_kway_teow | country | Singapore</otriple>
+        <otriple>Beef_kway_teow | region | "Nationwide in Singapore and Indonesia"@en</otriple>
+        <otriple>Singapore | leaderName | Halimah_Yacob</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Singapore | language | English_language</mtriple>
+        <mtriple>Beef_kway_teow | country | Singapore</mtriple>
+        <mtriple>Beef_kway_teow | region | "Nationwide in Singapore and Indonesia"</mtriple>
+        <mtriple>Singapore | leader | Halimah_Yacob</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Halimah Yacob is a leader of Singapore, where English is one of the languages and a popular dish is Beef kway teow. This dish is popular nationwide and also in Indonesia.</lex>
+      <lex lang="ru" lid="Id1">Якоб Халима - лидер Сингапура, где Английский язык - один из языков и популярное блюдо - куэтяу с говядиной. Это блюдо популярно по всей стране, а также в Индонезии.</lex>
+      <lex lang="en" lid="Id2">Beef kway teow is a dish from the country of Singapore but can also be found in Indonesia. English is spoken in Singapore and the leader is Halimah Yacob.</lex>
+      <lex lang="ru" lid="Id2">Куэтяу с говядиной - блюдо из Сингапура, которое можно встретить также и в Индонезии. В Сингапуре говорят на английском языке, а его лидер - Якоб Халима.</lex>
+      <lex lang="en" lid="Id3">Beef kway teow is a popular dish in Indonesia and Singapore. One of the languages spoken in Singapore is English and the leader is Halimah Yacob.</lex>
+      <lex lang="ru" lid="Id3">Куэтяу с говядиной - популярное блюдо в Индонезии и Сингапуре. Одним из языков, на которых говорят в Сингапуре, является Английский, а лидером является Якоб Халима.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">English_language | sameAs | Английский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">Singapore | sameAs | Сингапур</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Halimah Yacob | sameAs | Якоб Халима</link>
+        <link direction="en2ru">Beef kway teow | sameAs | куэтяу с говядиной / лапша с говядиной</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id30" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Singapore | language | English_language</otriple>
+        <otriple>Beef_kway_teow | country | Singapore</otriple>
+        <otriple>Beef_kway_teow | region | "Nationwide in Singapore and Indonesia"@en</otriple>
+        <otriple>Singapore | leaderName | Tony_Tan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Singapore | language | English_language</mtriple>
+        <mtriple>Beef_kway_teow | country | Singapore</mtriple>
+        <mtriple>Beef_kway_teow | region | "Nationwide in Singapore and Indonesia"</mtriple>
+        <mtriple>Singapore | leader | Tony_Tan</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Beef kway teow is a popular dish in Singapore where Tony Tan is the leader and English the country's spoken language.The food is available nationwide in Indonesia as well.</lex>
+      <lex lang="ru" lid="Id1">Куэтяу с говядиной - популярное блюдо в Сингапуре, где Тони Тан является лидером и Английский язык является языком, на котором говорят. Эта еда доступна по всей стране и в Индонезии.</lex>
+      <lex lang="en" lid="Id2">Beef kway teow originates from Singapore and popular in Indonesia too.The country's leader is Tony Tan and the spoken language is English there.</lex>
+      <lex lang="ru" lid="Id2">Куэтяу с говядиной берет свое начало из Сингапура и пользуется популярностью также в Индонезии. Лидером страны является Тони Тан, а разговорный язык там - Английский.</lex>
+      <lex lang="en" lid="Id3">Beef kway teow is a dish that is popular nationwide in both Indonesia and Singapore. The leader of Singapore is Tony Tan and the country uses the English language.</lex>
+      <lex lang="ru" lid="Id3">Куэтяу с говядиной – это блюдо, повсеместно популярное как в Индонезии, так и в Сингапуре. Лидером Сингапура является Тони Тан, и в стране пользуются английским языком.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">English_language | sameAs | Английский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">Singapore | sameAs | Сингапур</dbpedialink>
+        <dbpedialink direction="en2ru">Tony_Tan | sameAs | Тони_Тан</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Beef kway teow | sameAs | куэтяу с говядиной / лапша с говядиной</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id31" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Singapore | language | English_language</otriple>
+        <otriple>Beef_kway_teow | country | Singapore</otriple>
+        <otriple>Beef_kway_teow | region | Indonesia</otriple>
+        <otriple>Singapore | leaderName | Halimah_Yacob</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Singapore | language | English_language</mtriple>
+        <mtriple>Beef_kway_teow | country | Singapore</mtriple>
+        <mtriple>Beef_kway_teow | region | Indonesia</mtriple>
+        <mtriple>Singapore | leader | Halimah_Yacob</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Halimah Yacob is a leader of Singapore where English is spoken. Beef kway teow is a dish served in Singapore and in the region of Indonesia.</lex>
+      <lex lang="ru" lid="Id1">Якоб Халима – лидер Сингапура, где говорят на Английском языке. Куэтяу с говядиной - блюдо, подаваемое в Сингапуре и в регионе Индонезии.</lex>
+      <lex lang="en" lid="Id2">Beef kway teow is a food found in Indonesia but originates in Singapore where Halimah Yacob is the leader and the spoken language is English.</lex>
+      <lex lang="ru" lid="Id2">Куэтяу с говядиной - индонезийская еда, но она берет свое начало в Сингапуре, где Халима Якоб является лидером, а разговорным языком - английский.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Indonesia | sameAs | Индонезия</dbpedialink>
+        <dbpedialink direction="en2ru">English_language | sameAs | Английский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">Singapore | sameAs | Сингапур</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Halimah Yacob | sameAs | Якоб Халима</link>
+        <link direction="en2ru">Beef kway teow | sameAs | куэтяу с говядиной / лапша с говядиной</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id32" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Spain | language | Spanish_language</otriple>
+        <otriple>Arròs_negre | country | Spain</otriple>
+        <otriple>Spain | demonym | Spaniards</otriple>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | language | Spanish_language</mtriple>
+        <mtriple>Arròs_negre | country | Spain</mtriple>
+        <mtriple>Spain | demonym | Spaniards</mtriple>
+        <mtriple>Spain | leader | Felipe_VI_of_Spain</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Arròs negre is from Spain, where Spanish is spoken. The leader of the Spaniards is Felipe VI.</lex>
+      <lex lang="ru" lid="Id1">Арроз негре - из Испании, где говорят на испанском языке. Глава испанцев - Филипп VI.</lex>
+      <lex lang="en" lid="Id2">Arròs negre is a traditional dish from Spain, country of Spaniards and the Spanish language. The leader is Felipe VI.</lex>
+      <lex lang="ru" lid="Id2">Арроз негре - традиционное блюдо из Испании, родины испанцев и испанского языка. Глава - Филипп VI.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Spanish_language | sameAs | Испанский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">Spain | sameAs | Испания</dbpedialink>
+        <dbpedialink direction="en2ru">Felipe_VI_of_Spain | sameAs | Филипп_VI_(король_Испании)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Arròs negre | sameAs | арроз негре / черная паэлья</link>
+        <link direction="en2ru">Spaniards | sameAs | испанцы</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id33" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Spain | language | Spanish_language</otriple>
+        <otriple>Arròs_negre | country | Spain</otriple>
+        <otriple>Spain | ethnicGroup | Spaniards</otriple>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Spain | language | Spanish_language</otriple>
+        <otriple>Arròs_negre | country | Spain</otriple>
+        <otriple>Spain | ethnicGroup | Spaniards</otriple>
+        <otriple>Spain | leaderName | Felipe_VI_of_Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | language | Spanish_language</mtriple>
+        <mtriple>Arròs_negre | country | Spain</mtriple>
+        <mtriple>Spain | ethnicGroup | Spaniards</mtriple>
+        <mtriple>Spain | leader | Felipe_VI_of_Spain</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Arròs negre is a dish from Spain where they speak Spanish and the people are called Spaniards. Felipe VI of Spain is the leader.</lex>
+      <lex lang="ru" lid="Id1">Арроз негре – блюдо из Испании, где они говорят на испанском языке, а народ называется испанцами. Филипп VI - лидер Испании.</lex>
+      <lex lang="en" lid="Id2">Arròs negre is from Spain, where the language is Spanish, the leader is Felipe VI and Spaniards are an ethnic group.</lex>
+      <lex lang="ru" lid="Id2">Арроз негре происходит из Испании, где языком является испанский, лидером является Филипп VI, а испанцы являются этнической группой.</lex>
+      <lex lang="en" lid="Id3">Arros negre comes from Spain where the Spaniards are an ethnic group. The leader of the country, where the spoken language is Spanish, is Felipe VI of Spain.</lex>
+      <lex lang="ru" lid="Id3">Арроз негре родом из Испании, где испанцы являются этнической группой. Лидером страны, где говорят на испанском языке, является Филипп VI.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Spanish_language | sameAs | Испанский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">Spain | sameAs | Испания</dbpedialink>
+        <dbpedialink direction="en2ru">Felipe_VI_of_Spain | sameAs | Филипп_VI_(король_Испании)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Arròs negre | sameAs | арроз негре / черная паэлья</link>
+        <link direction="en2ru">Spaniards | sameAs | испанцы</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id34" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Spain | leaderName | Felipe_VI_of_Spain</otriple>
+        <otriple>Ajoblanco | region | Andalusia</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+        <otriple>Spain | ethnicGroup | Spaniards</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | leader | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Ajoblanco | region | Andalusia</mtriple>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+        <mtriple>Spain | ethnicGroup | Spaniards</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Ajoblanco is from Andalusia in Spain. Felipe VI is the leader there and Spaniards are an ethnic group there as well.</lex>
+      <lex lang="ru" lid="Id1">Ахобланко родом из Андалусии в Испании. Там Филипп VI - лидер, и испанцы - этническая группа.</lex>
+      <lex lang="en" lid="Id2">Ajoblanco is a dish of Andalusia and Spain (led by Felipe VI and inhabited by Spaniards).</lex>
+      <lex lang="ru" lid="Id2">Ахобланко это блюдо Андалусии и Испании (во главе с Филиппом VI и населенной испанцами).</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Spain | sameAs | Испания</dbpedialink>
+        <dbpedialink direction="en2ru">Andalusia | sameAs | Андалусия</dbpedialink>
+        <dbpedialink direction="en2ru">Ajoblanco | sameAs | Ахобланко</dbpedialink>
+        <dbpedialink direction="en2ru">Felipe_VI_of_Spain | sameAs | Филипп_VI_(король_Испании)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Spaniards | sameAs | испанцы</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id35" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+        <otriple>Spain | currency | Euro</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+        <otriple>Spain | ethnicGroup | Spaniards</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | leader | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Spain | currency | Euro</mtriple>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+        <mtriple>Spain | ethnicGroup | Spaniards</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Felipe VI is the leader of Spain, home of Ajoblanco. Spaniards are an ethnic group from Spain. Spain uses the Eruo as it's currency.</lex>
+      <lex lang="ru" lid="Id1">Филипп VI - лидер Испании, дом Ахобланко. Испанцы - этническая группа из Испании. Испания использует Евро как валюту.</lex>
+      <lex lang="en" lid="Id2">Ajoblanco originates from the country of Spain (country of Spaniards). It used the Euro as currency and the leader is Felipe VI.</lex>
+      <lex lang="ru" lid="Id2">Ахобланко происходит из Испании (родина испанцев). Она использует Евро в качестве валюты, а лидер - Филипп VI.</lex>
+      <lex lang="en" lid="Id3">Felipe VI is the leader of Spain, where the euro is the currency and Spaniards are an ethnic group. Spain is also the home of the dish ajoblanco.</lex>
+      <lex lang="ru" lid="Id3">Филипп VI - лидер Испании, в которой валюта - евро, а этническая группа - испанцы. Испания также является родиной блюда Ахобланко.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Spain | sameAs | Испания</dbpedialink>
+        <dbpedialink direction="en2ru">Euro | sameAs | Евро</dbpedialink>
+        <dbpedialink direction="en2ru">Ajoblanco | sameAs | Ахобланко</dbpedialink>
+        <dbpedialink direction="en2ru">Felipe_VI_of_Spain | sameAs | Филипп_VI_(король_Испании)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Spaniards | sameAs | испанцы</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id36" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+        <otriple>Spain | language | Spanish_language</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+        <otriple>Spain | demonym | Spaniards</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | leader | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Spain | language | Spanish_language</mtriple>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+        <mtriple>Spain | demonym | Spaniards</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Ajoblanco originates from Spain where the main ethnic group are the Spaniards.The country's leader is King Felipe VI and the spoken language is Spanish.</lex>
+      <lex lang="ru" lid="Id1">Ахобланко происходит из Испании, где главная этническая группа - испанцы. В стране говорят на испанском языке, а лидером является король Филипп VI.</lex>
+      <lex lang="en" lid="Id2">Ajoblanco originates from Spain where the Spanish language is spoken and Felipe VI of Spain leads the Spaniards.</lex>
+      <lex lang="ru" lid="Id2">Ахобланко родом из Испании, где говорят на испанском языке, а возглавляет испанцев Филипп VI.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Spanish_language | sameAs | Испанский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">Spain | sameAs | Испания</dbpedialink>
+        <dbpedialink direction="en2ru">Ajoblanco | sameAs | Ахобланко</dbpedialink>
+        <dbpedialink direction="en2ru">Felipe_VI_of_Spain | sameAs | Филипп_VI_(король_Испании)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Spaniards | sameAs | испанцы</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id37" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Spain | leaderName | Felipe_VI_of_Spain</otriple>
+        <otriple>Spain | language | Spanish_language</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+        <otriple>Spain | ethnicGroup | Spaniards</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+        <otriple>Spain | language | Spanish_language</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+        <otriple>Spain | ethnicGroup | Spaniards</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | leader | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Spain | language | Spanish_language</mtriple>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+        <mtriple>Spain | ethnicGroup | Spaniards</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Ajoblanco is a dish that originated in Spain, where Spaniards are an ethnic group, Spanish is the language spoken and where Felipe VI of Spain is the leader.</lex>
+      <lex lang="ru" lid="Id1">Ахобланко - блюдо, которое возникло в Испании, где этнической группой являются испанцы, говорят на испанском языке, а Филипп VI является лидером.</lex>
+      <lex lang="en" lid="Id2">Ajoblanco comes from Spain where the Spaniards are an ethnic group. The country's leader is Felipe VI of Spain and the language is Spanish.</lex>
+      <lex lang="ru" lid="Id2">Ахобланко происходит из Испании, где этнической группой являются испанцы, лидером Филипп VI, а говорят на испанском языке.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Spanish_language | sameAs | Испанский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">Spain | sameAs | Испания</dbpedialink>
+        <dbpedialink direction="en2ru">Ajoblanco | sameAs | Ахобланко</dbpedialink>
+        <dbpedialink direction="en2ru">Felipe_VI_of_Spain | sameAs | Филипп_VI_(король_Испании)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Spaniards | sameAs | испанцы</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id38" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+        <otriple>Spain | language | Spanish_language</otriple>
+        <otriple>Spain | currency | Euro</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | leader | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Spain | language | Spanish_language</mtriple>
+        <mtriple>Spain | currency | Euro</mtriple>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Felipe VI is the leader of Spain where the Spanish language is spoken and the currency is the Euro. Ajoblanco comes from that country.</lex>
+      <lex lang="ru" lid="Id1">Филипп VI - лидер Испании, в которой говорят на испанском языке, а валютой является Евро. Эта страна - родина Ахобланко.</lex>
+      <lex lang="en" lid="Id2">Ajoblanco is from Spain where Spanish is spoken and the Euro is the currency. Felipe VI is the head of state.</lex>
+      <lex lang="ru" lid="Id2">Ахобланко происходит из Испании, в которой говорят на испанском языке, а валютой является Евро. Филипп VI - глава государства.</lex>
+      <lex lang="en" lid="Id3">Ajoblanco originates from Spain where the currency is the euro. The country's leader is Felipe VI of Spain and the language spoken is Spanish.</lex>
+      <lex lang="ru" lid="Id3">Ахобланко родом из Испании, где валюта - евро, лидер - Филипп VI, а разговорный язык - испанский.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Spanish_language | sameAs | Испанский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">Spain | sameAs | Испания</dbpedialink>
+        <dbpedialink direction="en2ru">Euro | sameAs | Евро</dbpedialink>
+        <dbpedialink direction="en2ru">Ajoblanco | sameAs | Ахобланко</dbpedialink>
+        <dbpedialink direction="en2ru">Felipe_VI_of_Spain | sameAs | Филипп_VI_(король_Испании)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Food" eid="Id39" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Tomato | family | Solanaceae</otriple>
+        <otriple>Tomato | genus | Solanum</otriple>
+        <otriple>Amatriciana_sauce | ingredient | Tomato</otriple>
+        <otriple>Tomato | order | Solanales</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tomato | family | Solanaceae</mtriple>
+        <mtriple>Tomato | genus | Solanum</mtriple>
+        <mtriple>Amatriciana_sauce | ingredient | Tomato</mtriple>
+        <mtriple>Tomato | order | Solanales</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Tomato belongs to the genus Solanum and the family of solanaceae. It's an ingredient in Amatriciana sauce.</lex>
+      <lex lang="ru" lid="Id1">Томат принадлежит к роду Паслён и семейству Паслёновые. Он является ингредиентом Аматричаны.</lex>
+      <lex lang="en" lid="Id2">Tomato is an ingredient in Amatriciana sauce, it comes from the Solanaceae family of plants and belongs to the genus Solanum and the order Solanales.</lex>
+      <lex lang="ru" lid="Id2">Томат - ингредиент Аматричаны, он относится к семейству Паслёновые и принадлежит к роду Паслён и порядку Паслёноцветные.</lex>
+      <lex lang="en" lid="Id3">The tomato belongs to the genus Solanum, is part of the family of Solanaceae and is a member of the order Solanales. It is one of the ingredients of amatriciana sauce.</lex>
+      <lex lang="ru" lid="Id3">Томат принадлежит к роду Паслён, является частью семейства Паслёновые и порядка Паслёноцветные. Он является одним из ингредиентов Аматричаны.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Solanaceae | sameAs | Паслёновые</dbpedialink>
+        <dbpedialink direction="en2ru">Amatriciana_sauce | sameAs | Аматричана</dbpedialink>
+        <dbpedialink direction="en2ru">Tomato | sameAs | Томат</dbpedialink>
+        <dbpedialink direction="en2ru">Solanum | sameAs | Паслён</dbpedialink>
+        <dbpedialink direction="en2ru">Solanales | sameAs | Паслёноцветные</dbpedialink>
+      </dbpedialinks>
+    </entry>
+  </entries>
+</benchmark>

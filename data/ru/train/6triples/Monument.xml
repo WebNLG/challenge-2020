@@ -1,0 +1,1111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Monument" eid="Id1" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry monument was completed in 2000 and categorised as a contributing property. It is located in the municipality of Gettysburg, Adams County, Pennsylvania, United States.</lex>
+      <lex lang="ru" lid="Id1">Памятник 11-му пехотному полку Миссисипи был возведен в 2000 году и классифицирован как здание, имеющее историческую ценность. Он расположен в муниципалитете Геттисберг, округ Адамс, Пенсильвания, США.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument was erected in 2000 in Gettysburg, Adams County, Pennsylvania, USA. It falls under the category of Contributing Property.</lex>
+      <lex lang="ru" lid="Id2">Памятник 11-му пехотному полку Миссисипи был возведен в 2000 году в Геттисберге, округ Адамс, штат Пенсильвания, США. Он подпадает под категорию объектов исторической ценности.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument was established in 2000 and categorised as contributing property. It is located in Gettysburg, Adams County, Pennsylvania, United States.</lex>
+      <lex lang="ru" lid="Id3">Памятник 11-му пехотному полку Миссисипи был установлен в 2000 году и отнесен к историческим зданиям. Он расположен в Геттисберге, округ Адамс, Пенсильвания, США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Gettysburg,_Pennsylvania | sameAs | Геттисберг</dbpedialink>
+        <dbpedialink direction="en2ru">2000 | sameAs | 2000_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | округ Адамс</link>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | Пенсильвания</link>
+        <link direction="en2ru">Contributing property | sameAs | историческое здание / историческая ценность</link>
+        <link direction="en2ru">11th Mississippi Infantry Monument | sameAs | Памятник 11-му пехотному полку Миссисипи</link>
+        <link direction="en2ru">Pennsylvania | sameAs | Пенсильвания</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id2" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | range | Seminary_Ridge</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Seminary_Ridge</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument is placed in the municipality of Gettysburg, Pennsylvania, USA at Seminary Ridge in Adams County and is categorized as a contributing property.</lex>
+      <lex lang="ru" lid="Id1">Памятник 11-му пехотному полку Миссисипи расположен в муниципалитете Геттисберг, округ Адамс, Пенсильвания, США на Семинарском хребте и классифицируется как историческое здание.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument is located in the Seminary Ridge, Gettysburg, Adams County, Pennsylvania, USA. It is categorised as a contributing property.</lex>
+      <lex lang="ru" lid="Id2">Памятник 11-му пехотному полку Миссисипи находится на Семинарском хребте города Геттисберга, округ Адамс, Пенсильвания, США. Он относится к историческим зданиям.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monumenet falls under the category of contributing property. It is located at Seminary Ridge in the municipality of Gettysburg, Adams County, Pennsylvania, United States.</lex>
+      <lex lang="ru" lid="Id3">Памятник 11-му пехотному полку Миссисипи относится к историческим зданиям. Он расположен на Семинарском хребте в городе Геттисберге, округ Адамс, Пенсильвания, США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Gettysburg,_Pennsylvania | sameAs | Геттисберг</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Seminary Ridge | sameAs | Семинарский хребет</link>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | округ Адамс</link>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | Пенсильвания</link>
+        <link direction="en2ru">Contributing property | sameAs | историческое здание / историческая ценность</link>
+        <link direction="en2ru">11th Mississippi Infantry Monument | sameAs | Памятник 11-му пехотному полку Миссисипи</link>
+        <link direction="en2ru">Pennsylvania | sameAs | Пенсильвания</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id3" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | range | Seminary_Ridge</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Seminary_Ridge</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument, which was completed in 2000, is located at the Seminary Ridge, Gettysburg, Adams County, Pennsylvania, United States.</lex>
+      <lex lang="ru" lid="Id1">Памятник 11-му пехотному полку Миссисипи, который был завершен в 2000 году, расположен на Семинарском хребте в городе Геттисберге, округ Адамс, штат Пенсильвания, США.</lex>
+      <lex lang="en" lid="Id2">Established in 2000, the 11th Mississippi Infantry Monument is located at Seminary Ridge in Gettysburg, Adams County, Pennsylvania, USA.</lex>
+      <lex lang="ru" lid="Id2">Установленный в 2000 году Памятник 11-му пехотному полку Миссисипи расположен на Семинарском хребте в Геттисберге, округ Адамс, Пенсильвания, США.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument, which was founded in the year 2000, is located in the Seminary Ridge, Gettysburg, Adams County, Pennsylvania, United States.</lex>
+      <lex lang="ru" lid="Id3">Памятник 11-му пехотному полку Миссисипи, установленный в 2000 году, находится на Семинарском хребте, г. Геттисберг, округ Адамс, Пенсильвания, США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Gettysburg,_Pennsylvania | sameAs | Геттисберг</dbpedialink>
+        <dbpedialink direction="en2ru">2000 | sameAs | 2000_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Seminary Ridge | sameAs | Семинарский хребет</link>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | округ Адамс</link>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | Пенсильвания</link>
+        <link direction="en2ru">11th Mississippi Infantry Monument | sameAs | Памятник 11-му пехотному полку Миссисипи</link>
+        <link direction="en2ru">Pennsylvania | sameAs | Пенсильвания</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id4" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | range | Seminary_Ridge</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Seminary_Ridge</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument is located at Seminary Ridge in Pennsylvania, USA; the monument was established in 2000 and is categorized as a contributing property and is in the municipality of Gettysburg Pennsylvania.</lex>
+      <lex lang="ru" lid="Id1">Памятник 11-му пехотному полку Миссисипи находится на Семинарском хребте в штате Пенсильвания, США; памятник был установлен в 2000 году и относится к категории "Историческая ценность", а также находится в собственности муниципалитета Геттисберга, штат Пенсильвания.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry monument was established in 2000 and is categorised as a contributing property. It is located at Seminary Ridge, Gettysburg, Pennsylvania, United States.</lex>
+      <lex lang="ru" lid="Id2">Памятник 11-му пехотному полку Миссисипи был установлен в 2000 году и относится к историческим зданиям. Он расположен на Семинарском хребте, г. Геттисберг, Пенсильвания, США.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument is located in the Seminary Ridge in the municipality of Gettysburg Pennsylvania, United States. The monument was established in the year 2000 and is categorized as a Contributing Property.</lex>
+      <lex lang="ru" lid="Id3">Памятник 11-му пехотному полку Миссисипи находится на Семинарском хребте в муниципалитете Геттисберга, штат Пенсильвания, США. Памятник был установлен в 2000 году и отнесен к объектам исторической ценности.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Gettysburg,_Pennsylvania | sameAs | Геттисберг</dbpedialink>
+        <dbpedialink direction="en2ru">2000 | sameAs | 2000_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Seminary Ridge | sameAs | Семинарский хребет</link>
+        <link direction="en2ru">Contributing property | sameAs | историческое здание / историческая ценность</link>
+        <link direction="en2ru">11th Mississippi Infantry Monument | sameAs | Памятник 11-му пехотному полку Миссисипи</link>
+        <link direction="en2ru">Pennsylvania | sameAs | Пенсильвания</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id5" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument which was erected in 2000 and is categorised as a contributing property is found in the Adams County, Pennsylvania, United States. To the north of Adams County lies Cumberland County also of Pennsylvania and to the southeast of Adams County lies Carroll County, Maryland.</lex>
+      <lex lang="ru" lid="Id1">Памятник 11-му пехотному полку Миссисипи, установленный в 2000 году и относящийся к историческим зданиям, расположен в округе Адамс, Пенсильвания, США. К северу от округа Адамс находится округ Камберленд (Пенсильвания) и к юго-востоку от округа Адамс находится округ Кэрролл, Мэриленд.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument (location Adams County, Pennsylvania, United States) was completed in the year 2000 and falls under the category of Contributing property. To the north of Adams County lies Cumberland County, also Pennsylvania and to the southeast lies Carroll County, Maryland.</lex>
+      <lex lang="ru" lid="Id2">Памятник 11-му пехотному полку Миссисипи (расположен в округе Адамс, штат Пенсильвания, США) был завершен в 2000 году и подпадает под категорию "Историческая ценность". К северу от округа Адамс находится округ Камберленд, также штат Пенсильвания, а к юго-востоку - округ Кэрролл, штат Мэриленд.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument, established in 2000, is located in Adams County, Pennsylvania, United States and falls under the category of Contributing property. Pennsylvania's Cumberland County is to the north of Adams County and to the southeast of Adams County lies Carroll County, Maryland.</lex>
+      <lex lang="ru" lid="Id3">Памятник 11-му пехотному полку Миссисипи, установленный в 2000 году, находится в округе Адамс, Пенсильвания, США и относится к историческим зданиям. Округ Камберленд, Пенсильвания, располагается к северу от округа Адамс, а к юго-востоку от округа Адамс находится округ Кэрролл, Мэриленд.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Carroll_County,_Maryland | sameAs | Кэрролл_(округ,_Мэриленд)</dbpedialink>
+        <dbpedialink direction="en2ru">Cumberland_County,_Pennsylvania | sameAs | Камберленд_(округ,_Пенсильвания)</dbpedialink>
+        <dbpedialink direction="en2ru">2000 | sameAs | 2000_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | округ Адамс</link>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | Пенсильвания</link>
+        <link direction="en2ru">11th Mississippi Infantry Monument | sameAs | Памятник 11-му пехотному полку Миссисипи</link>
+        <link direction="en2ru">Contributing property | sameAs | историческое здание / историческая ценность</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id6" shape="(X (X) (X (X) (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>Adams_County,_Pennsylvania | west | Franklin_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southwest | Frederick_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsWest | Franklin_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSouthwest | Frederick_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania, United States. Adams County has to its west Franklin County and to its north Cumberland County, both also of Pennsylvania. To the southwest of Adams County lies Frederick County and to the southeast Carroll County, both of Maryland.</lex>
+      <lex lang="ru" lid="Id1">Памятник 11-му пехотному полку Миссисипи находится в округе Адамс, Пенсильвания, США. К западу от округа Адамс расположен Франклин, а к северу - Камберленд, также находящиеся в штате Пенсильвания. К юго-западу от округа Адамс находится Фредерик, а к юго-востоку - Кэрролл, оба находящиеся в штате Мэриленд.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry monument is located in Adams County, Maryland, US. West of the County is Franklin County, Pennsylvania and Cumberland County lies to the north. Carroll County in Maryland lies to the southeast.</lex>
+      <lex lang="ru" lid="Id2">Памятник 11-му пехотному полку Миссисипи находится в округе Адамс, штат Мэриленд, США. На западе от этого округа расположен округ Франклин, штат Пенсильвания, а округ Камберленд, штат Мэриленд, находится на юго-востоке.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument is found in the Adams County, Pennsylvania, United States. To the west of Adams County lies Franklin County and to the north Cumberland County is located - all of these counties are in the state of Pennsylvania. Adams County has Carroll County to its southeast and Frederick County to its southwest - both these counties are in Maryland.</lex>
+      <lex lang="ru" lid="Id3">Памятник 11-му пехотному полку Миссисипи находится в округе Адамс, Пенсильвания, США. К западу от округа Адамс располагается Фредерик и к северу - Камберленд, все эти округа находятся в штате Пенсильвания. К юго-востоку от округа Адамс находится Кэрролл и к юго-западу - Фредерик, оба округа находятся в штате Мэриленд.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Franklin_County,_Pennsylvania | sameAs | Франклин_(округ,_Пенсильвания)</dbpedialink>
+        <dbpedialink direction="en2ru">Carroll_County,_Maryland | sameAs | Кэрролл_(округ,_Мэриленд)</dbpedialink>
+        <dbpedialink direction="en2ru">Cumberland_County,_Pennsylvania | sameAs | Камберленд_(округ,_Пенсильвания)</dbpedialink>
+        <dbpedialink direction="en2ru">Frederick_County,_Maryland | sameAs | Фредерик_(округ,_Мэриленд)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | округ Адамс</link>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | Пенсильвания</link>
+        <link direction="en2ru">11th Mississippi Infantry Monument | sameAs | Памятник 11-му пехотному полку Миссисипи</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id7" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument is located in the municipality of Gettysburg, Adams County, Pennsylvania. It was established in 2000 and it falls under the category of contributing property.To the north of Adams County is Cumberland County.</lex>
+      <lex lang="ru" lid="Id1">Памятник 11-му пехотному полку Миссисипи расположен в городе Геттисберг, округ Адамс, Пенсильвания. Он был установлен в 2000 году и относится к историческим зданиям. К северу от округа Адамс находится Камберленд.</lex>
+      <lex lang="en" lid="Id2">South of Cumberland County, Pennsylvania lies Adams County. The location of the 11th Mississippi Infantry Monument in the municipality of Gettysburg. It was established in 2000 and is categorised as a contributing property.</lex>
+      <lex lang="ru" lid="Id2">К югу от округа Камберленд, Пенсильвания находится округ Адамс - местоположение Памятника 11-му пехотному полку Миссисипи. Он был создан в 2000 году и классифицируется как историческая ценность.</lex>
+      <lex lang="en" lid="Id3">Cumberland County, Pennsylvania is found north of Adams County which is the location of the 11th Mississippi Infantry Monument established in 2000 in Gettysburg. The monument falls under the category of contributing property.</lex>
+      <lex lang="ru" lid="Id3">Камберленд находится к северу от округа Адамс, где в г. Геттисберге в 2000 году был установлен Памятник 11-му пехотному полку Миссисипи. Памятник относится к историческим зданиям.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Gettysburg,_Pennsylvania | sameAs | Геттисберг</dbpedialink>
+        <dbpedialink direction="en2ru">Cumberland_County,_Pennsylvania | sameAs | Камберленд_(округ,_Пенсильвания)</dbpedialink>
+        <dbpedialink direction="en2ru">2000 | sameAs | 2000_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | округ Адамс</link>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | Пенсильвания</link>
+        <link direction="en2ru">Contributing property | sameAs | историческое здание / историческая ценность</link>
+        <link direction="en2ru">11th Mississippi Infantry Monument | sameAs | Памятник 11-му пехотному полку Миссисипи</link>
+        <link direction="en2ru">Pennsylvania | sameAs | Пенсильвания</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id8" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | range | Seminary_Ridge</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Seminary_Ridge</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument is located at Seminary Ridge, Gettysburg, Adams County, Pennsylvania. The monument was competed in 2000 and is categorised as a contributing property.</lex>
+      <lex lang="ru" lid="Id1">Памятник 11-му пехотному полку Миссисипи находится на Семинарском хребте в городе Геттисберге, округ Адамс, штат Пенсильвания. Памятник был завершен в 2000 году и относится к категории "Историческая ценность".</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument is located in the Seminary Ridge, Gettysburg, Adams County, Pennsylvania. It was established in 2000 and it is categorised as a contributing property.</lex>
+      <lex lang="ru" lid="Id2">Памятник 11-му пехотному полку Миссисипи находится на Семинарском хребте, г. Геттисберг, округ Адамс, Пенсильвания. Он был установлен в 2000 году и относится к историческим зданиям.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry monument is located at Seminary Ridge, the municipality of Gettysburg, Adams County, Pennsylvania. The monument was established in 2000 and is categorised as contributing property.</lex>
+      <lex lang="ru" lid="Id3">Памятник 11-му пехотному полку Миссисипи расположен на Семинарском хребте в г. Геттисберге, округ Адамс, Пенсильвания. Памятник был установлен в 2000 году и относится к историческим зданиям.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Gettysburg,_Pennsylvania | sameAs | Геттисберг</dbpedialink>
+        <dbpedialink direction="en2ru">2000 | sameAs | 2000_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Seminary Ridge | sameAs | Семинарский хребет</link>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | округ Адамс</link>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | Пенсильвания</link>
+        <link direction="en2ru">Contributing property | sameAs | историческое здание / историческая ценность</link>
+        <link direction="en2ru">11th Mississippi Infantry Monument | sameAs | Памятник 11-му пехотному полку Миссисипи</link>
+        <link direction="en2ru">Pennsylvania | sameAs | Пенсильвания</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id9" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"^^xsd:date</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        <otriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        <mtriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is located in the Monocacy National Battlefield, Frederick, Maryland. The monument, which is owned by the National Park Service, was established on 11th July 1907 and belongs to the category of Historic districts in the United States.</lex>
+      <lex lang="ru" lid="Id1">Памятник 14-му добровольческому пехотному полку Нью-Джерси находится на Национальном поле битвы в Монокаси, город Фредерик, штат Мэриленд. Памятник, принадлежащий Службе национальных парков США, был установлен 11 июля 1907 года и относится к категории исторических районов США.</lex>
+      <lex lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument (established 1907-07-11) is a United States historic district. It is located in the Monocacy National Battlefield district and owned by the National Park Service. The closest city to the battlefield is Frederick, Maryland.</lex>
+      <lex lang="ru" lid="Id2">Памятник 14-му добровольческому пехотному полку Нью-Джерси (установлен 11 июля 1907 года) является историческим районом Соединенных Штатов. Он расположен на Национальном поле битвы в Монокаси и принадлежит Службе национальных парков США. Ближайший город к полю битвы - Фредерик, штат Мэриленд.</lex>
+      <lex lang="en" lid="Id3">The 14th New Jersey Volunteer Infantry Monument was established on 11 July 1907 in the district of the Monocacy National Battlefield, Frederick, Maryland. It is owned by the National Park Service and belongs to the category of historic districts in the US.</lex>
+      <lex lang="ru" lid="Id3">Памятник 14-му добровольческому пехотному полку Нью-Джерси был установлен 11 июля 1907 года в районе Национального поля битвы в Монокаси, Фредерик, штат Мэриленд. Он принадлежит Службе национальных парков и считается историческим районом США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Frederick,_Maryland | sameAs | Фредерик_(Мэриленд)</dbpedialink>
+        <dbpedialink direction="en2ru">National_Park_Service | sameAs | Служба_национальных_парков_США</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Monocacy National Battlefield | sameAs | Национальное поле битвы в Монокаси</link>
+        <link direction="en2ru">14th New Jersey Volunteer Infantry Monument | sameAs | Памятник 14-му добровольческому пехотному полку Нью-Джерси</link>
+        <link direction="en2ru">Historic districts in the United States | sameAs | исторические районы США</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id10" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Southeast of Carroll County, Maryland is Adams County Pennsylvania. This county is the location of the 11th Mississippi Infantry Monument erected in 2000 in Gettysburg and which is categorised as a contributing property.</lex>
+      <lex lang="ru" lid="Id1">К юго-востоку от округа Кэрролл, штат Мэриленд находится округ Адамс, штат Пенсильвания. Этот округ является местоположением памятника 11-му пехотному полку Миссисипи, возведенного в 2000 году и относящегося к объектам исторической ценности.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument is located in Gettysburg, Adams County, Pennsylvania. It is categorised as a contributing property and it was established in 2000. Carroll County, Maryland is southeast of Adams County.</lex>
+      <lex lang="ru" lid="Id2">Памятник 11-му пехотному полку Миссисипи находится в городе Геттисберг, округ Адамс, штат Пенсильвания. Он классифицирован как историческая ценность и был учреждён в 2000 году. Округ Кэрролл, Мэриленд - к юго-востоку от округа Адамс.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi INfantry Monument is located in the municipality of Gettysburg, Adams County, Pa. It is categorized as a Contributing Property and was established in 2000. Carroll County, Maryland is southeast of Adams County, Pennsylvania.</lex>
+      <lex lang="ru" lid="Id3">Памятник 11-му пехотному полку Миссисипи расположен в муниципалитете Геттисберг, округ Адамс, штат Пенсильвания. Он относится к категории "Историческая ценность" и был открыт в 2000 году. Округ Кэрролл, штат Мэриленд, находится на юго-востоке от округа Адамс, штат Пенсильвания.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Gettysburg,_Pennsylvania | sameAs | Геттисберг</dbpedialink>
+        <dbpedialink direction="en2ru">Carroll_County,_Maryland | sameAs | Кэрролл_(округ,_Мэриленд)</dbpedialink>
+        <dbpedialink direction="en2ru">2000 | sameAs | 2000_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | округ Адамс</link>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | Пенсильвания</link>
+        <link direction="en2ru">Contributing property | sameAs | историческое здание / историческая ценность</link>
+        <link direction="en2ru">11th Mississippi Infantry Monument | sameAs | Памятник 11-му пехотному полку Миссисипи</link>
+        <link direction="en2ru">Pennsylvania | sameAs | Пенсильвания</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id11" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument is located in Gettysburg, Adams County, Pennsylvania. It was established in 2000 and it is categorised as a contributing property. Cumberland County, Pa is to the north of Adams County and Carroll County, Maryland is southeast of Adams County.</lex>
+      <lex lang="ru" lid="Id1">Памятник 11-му пехотному полку Миссисипи находится в г. Геттисберге, округ Адамс, Пенсильвания. Он был установлен в 2000 году и относится к историческим зданиям. Камберленд расположен к северу от округа Адамс, а Кэрролл, Мэриленд - к юго-востоку от округа Адамс.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument which was established in the year 2000 is in the municipality of Gettysburg , Adams County, Pennsylvania. Adams County has Carroll County, Maryland to its southeast and to its north, Cumberland County, Pennsylvania.</lex>
+      <lex lang="ru" lid="Id2">Памятник 11-му пехотному полку Миссисипи, который был открыт в 2000 году, находится в муниципалитете Геттисберг, округ Адамс, штат Пенсильвания. Округ Кэрролл, штат Мэриленд, находится к юго-востоку от округа Адамс, а округ Камберленд, штат Пенсильвания, - к северу от него.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument is located within the municipality of Gettysburg, in Adams County, Pennsylvania. It was established in 2000 and is categorized as a Contributing property. Located to the southeast of Adams County is Maryland's Carroll County. To the north is Pennsylvania's Cumberland County.</lex>
+      <lex lang="ru" lid="Id3">Памятник 11-му пехотному полку Миссисипи расположен в г. Геттисберге, в округе Адамс, Пенсильвания. Он был установлен в 2000 году и относится к историческим зданиям. К юго-востоку от округа Адамс находится округ Кэрролл, Мэриленд. К северу - Камберленд.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Gettysburg,_Pennsylvania | sameAs | Геттисберг</dbpedialink>
+        <dbpedialink direction="en2ru">Carroll_County,_Maryland | sameAs | Кэрролл_(округ,_Мэриленд)</dbpedialink>
+        <dbpedialink direction="en2ru">Cumberland_County,_Pennsylvania | sameAs | Камберленд_(округ,_Пенсильвания)</dbpedialink>
+        <dbpedialink direction="en2ru">2000 | sameAs | 2000_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | округ Адамс</link>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | Пенсильвания</link>
+        <link direction="en2ru">11th Mississippi Infantry Monument | sameAs | Памятник 11-му пехотному полку Миссисипи</link>
+        <link direction="en2ru">Contributing property | sameAs | историческое здание / историческая ценность</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id12" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southwest | Frederick_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSouthwest | Frederick_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Monument is located in Adams County, Pennsylvania. It was established in 2000 and it is categorized as a Contributing Property. Adams County has Cumberland County (Pa) to its north; Maryland's Frederick County to its north east and Carroll County, Maryland to its southeast.</lex>
+      <lex lang="ru" lid="Id1">Памятник 11-му пехотному полку Миссисипи находится в округе Адамс, штат Пенсильвания. Он был установлен в 2000 году и считается исторической ценностью. Округ Адамс граничит с округом Камберленд, штат Пенсильвания на севере, округом Фредерик, штат Мэриленд на северо-востоке и округом Кэрролл, штат Мэриленд на юго-востоке.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry monument was established in 2000 in Adams County, Pennsylvania and is categorised as a contributing property. The location of Adams County is northwest of Carroll County, Maryland, south of Cumberland County and northeast of Frederick County, both of Maryland.</lex>
+      <lex lang="ru" lid="Id2">Памятник 11-му пехотному полку Миссисипи был открыт в 2000 году в округе Адамс, штат Пенсильвания, и относится к категории "Историческая ценность". Округ Адамс находится к северо-западу от округа Кэрролл, штат Мэриленд, к югу от округа Камберленд, и к северо-востоку от округа Фредерик, оба округа - штат Мэриленд.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument (established in 2000) is located in Adams County, Pennsylvania and is categorized as a Contributing Property. Cumberland County (also of Pennsylvania) lies to the north of Adams County. Carroll County (to the southeast) and Frederick County (to the southwest) and both of Maryland are near neighbours to Adams County.</lex>
+      <lex lang="ru" lid="Id3">Памятник 11-му пехотному полку Миссисипи (установлен в 2000 году) находится в округе Адамс, Пенсильвания и относится к историческим зданиям. Округ Камберленд (также в Пенсильвании) расположен к северу от округа Адамс. Округ Кэрролл (к юго-востоку) и Фредерик (к юго-западу), штат Мэриленд находятся рядом с округом Адамс.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Carroll_County,_Maryland | sameAs | Кэрролл_(округ,_Мэриленд)</dbpedialink>
+        <dbpedialink direction="en2ru">Cumberland_County,_Pennsylvania | sameAs | Камберленд_(округ,_Пенсильвания)</dbpedialink>
+        <dbpedialink direction="en2ru">2000 | sameAs | 2000_год</dbpedialink>
+        <dbpedialink direction="en2ru">Frederick_County,_Maryland | sameAs | Фредерик_(округ,_Мэриленд)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | округ Адамс</link>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | Пенсильвания</link>
+        <link direction="en2ru">11th Mississippi Infantry Monument | sameAs | Памятник 11-му пехотному полку Миссисипи</link>
+        <link direction="en2ru">Contributing property | sameAs | историческое здание / историческая ценность</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id13" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | west | Franklin_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsWest | Franklin_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 11th Mississipi Infantry Monument was established in 2000 and it is located in Adams County, Pa. The Monument is categorised as a contributing property. To the north of Adams County is Cumberland County (Pa), to its west is Franklin County (Pa) and to its southeast is Carroll County (Maryland).</lex>
+      <lex lang="ru" lid="Id1">Памятник 11-му пехотному полку Миссисипи был установлен в 2000 году и находится в округе Адамс. Памятник относится к историческим зданиям. К северу от округа Адамс расположен Камберленд (Пенсильвания), к западу - Франклин (Пенсильвания) и к юго-востоку - Кэрролл (Мэриленд).</lex>
+      <lex lang="en" lid="Id2">Adams County Pennsylvania is East of Franklin County, Pennsylvania and has Carroll County, Maryland to its southeast and Cumberland County, Pennsylvania to its north. The 11th Mississippi Infantry Monument is located in Adams County and falls under the category of Contributing property. The 11th Mississippi Infantry Monument was established in 2000.</lex>
+      <lex lang="ru" lid="Id2">Округ Адамс, Пенсильвания находится к востоку от Франклина, Пенсильвания, к юго-востоку от него находится Кэрролл, а к северу - Камберленд. Памятник 11-му пехотному полку Миссисипи находится в округе Адамс и относится к историческим зданиям. Памятник 11-му пехотному полку Миссисипи был установлен в 2000 году.</lex>
+      <lex lang="en" lid="Id3">Cumberland County in Pennsylvania is situated north of Adams County which is the location of the 11th Mississippi Infantry Monument which was erected in 2000 and categorised as a contributing property. Franklin County can be found to the west and Carroll County Maryland is to the southeast.</lex>
+      <lex lang="ru" lid="Id3">Округ Камберленд в штате Пенсильвания расположен к северу от округа Адамс, в котором находится памятник 11-му пехотному полку Миссисипи, который был возведен в 2000 году и относится к категории "Историческая ценность". Округ Франклин находится к западу, а округ Кэрролл, штат Мэриленд, - к юго-востоку.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Franklin_County,_Pennsylvania | sameAs | Франклин_(округ,_Пенсильвания)</dbpedialink>
+        <dbpedialink direction="en2ru">Carroll_County,_Maryland | sameAs | Кэрролл_(округ,_Мэриленд)</dbpedialink>
+        <dbpedialink direction="en2ru">Cumberland_County,_Pennsylvania | sameAs | Камберленд_(округ,_Пенсильвания)</dbpedialink>
+        <dbpedialink direction="en2ru">2000 | sameAs | 2000_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | округ Адамс</link>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | Пенсильвания</link>
+        <link direction="en2ru">11th Mississippi Infantry Monument | sameAs | Памятник 11-му пехотному полку Миссисипи</link>
+        <link direction="en2ru">Contributing property | sameAs | историческое здание / историческая ценность</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id14" shape="(X (X) (X (X) (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | west | Franklin_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southwest | Frederick_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsWest | Franklin_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSouthwest | Frederick_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Carroll County Maryland is southeast of Adams County, Pennsylvania. With Franklin County to the west, Cumberland County to the north and Frederick County to the southwest, Adams County is the location of the 11th Mississippi Infantry monument which was established in 2000.</lex>
+      <lex lang="ru" lid="Id1">Кэрролл расположен на юго-востоке от округа Адамс, Пенсильвания. С Франклином на западе, Камберлендом на севере и Фредериком на юго-западе, округ Адамс является расположением Памятника 11-му пехотному полку Миссисипи, который был установлен в 2000 году.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument is found in Adams County, Pennsylvania and has been established since the year 2000. To the west of Adams County lies Franklin County and to the north is Cumberland County - both also of Pennsylvania. To the southeast of Adams County lies Carroll County and to the southwest lies Frederick County , both of Maryland.</lex>
+      <lex lang="ru" lid="Id2">Памятник 11-му пехотному полку Миссисипи находится в округе Адамс, штат Пенсильвания, и был установлен в 2000 году. К западу от округа Адамс находится округ Франклин, а к северу - округ Камберленд, оба также являются округами Пенсильвании. К юго-востоку от округа Адамс находится округ Кэрролл , а к юго-западу - округ Фредерик, оба являются частью штата Мэриленд.</lex>
+      <lex lang="en" lid="Id3">Adams County is located to the south of Cumberland County and east of Franklin County. Carroll County Maryland lies to the south east and Frederick County to the southwest. The 11th Mississippi Infantry monument was established in the County in 2000.</lex>
+      <lex lang="ru" lid="Id3">Округ Адамс расположен к югу от Камберленда и к востоку от Франклина. Кэрролл находится на юго-востоке и Фредерик - на юго-западе. Памятник 11-му пехотному полку Миссисипи был установлен в округе в 2000 году.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Franklin_County,_Pennsylvania | sameAs | Франклин_(округ,_Пенсильвания)</dbpedialink>
+        <dbpedialink direction="en2ru">Carroll_County,_Maryland | sameAs | Кэрролл_(округ,_Мэриленд)</dbpedialink>
+        <dbpedialink direction="en2ru">Cumberland_County,_Pennsylvania | sameAs | Камберленд_(округ,_Пенсильвания)</dbpedialink>
+        <dbpedialink direction="en2ru">2000 | sameAs | 2000_год</dbpedialink>
+        <dbpedialink direction="en2ru">Frederick_County,_Maryland | sameAs | Фредерик_(округ,_Мэриленд)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | округ Адамс</link>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | Пенсильвания</link>
+        <link direction="en2ru">11th Mississippi Infantry Monument | sameAs | Памятник 11-му пехотному полку Миссисипи</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id15" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | west | Franklin_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsWest | Franklin_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument is located in Gettsysburg, Adams County, Pennsylvania. It is categorized as a contributing property. Adams County, Pennsylvania has Cumberland County (Pa) to its south; Carroll County (Maryland) to its southeast and Franklin County (Pa) to its west.</lex>
+      <lex lang="ru" lid="Id1">Памятник 11-му пехотному полку Миссисипи находится в г. Геттисберге, округ Адамс, Пенсильвания. Он относится к историческим зданиям. К югу от округа Адамс, Пенсильвания, находится Камберленд (Пенсильвания); к юго-востоку - Кэрролл (Мэриленд) и к западу - Франклин (Пенсильвания).</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument is located in Gettysburg, Adams County, Pennsylvania. It is categorized as a contributing property. Cumberland County, Pa is located in the north of Adams County, Pa and Franklin County is found to the west of Adams County. Adams County has Carroll County, Maryland to its Southeast.</lex>
+      <lex lang="ru" lid="Id2">Памятник 11-му пехотному полку Миссисипи находится в Геттисберге, округ Адамс, Пенсильвания. Он относится к историческим зданиям. Камберленд расположен к северу от округа Адамс, а Франклин - к западу. Кэрролл расположен к юго-востоку от округа Адамс.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry monument is located in Gettysburg, Adams County, Pennsylvania and is categorised as a contributing property. Adams County is situated to the east of Franklin County and south of Cumberland County, Pennsylvania. Carroll County in Maryland lies to the northwest.</lex>
+      <lex lang="ru" lid="Id3">Памятник 11-му пехотному полку Миссисипи расположен в городе Геттисберг, округ Адамс, штат Пенсильвания, и классифицируется как объект культурного наследия. Округ Адамс расположен к востоку от округа Франклин и к югу от округа Камберленд, штат Пенсильвания. Округ Кэрролл в Мэриленде лежит на северо-западе.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Franklin_County,_Pennsylvania | sameAs | Франклин_(округ,_Пенсильвания)</dbpedialink>
+        <dbpedialink direction="en2ru">Gettysburg,_Pennsylvania | sameAs | Геттисберг</dbpedialink>
+        <dbpedialink direction="en2ru">Carroll_County,_Maryland | sameAs | Кэрролл_(округ,_Мэриленд)</dbpedialink>
+        <dbpedialink direction="en2ru">Cumberland_County,_Pennsylvania | sameAs | Камберленд_(округ,_Пенсильвания)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | округ Адамс</link>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | Пенсильвания</link>
+        <link direction="en2ru">11th Mississippi Infantry Monument | sameAs | Памятник 11-му пехотному полку Миссисипи</link>
+        <link direction="en2ru">Contributing property | sameAs | историческое здание / историческая ценность</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id16" shape="(X (X) (X (X) (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | west | Franklin_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southwest | Frederick_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsWest | Franklin_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSouthwest | Frederick_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument is located in Gettysburg, Adams County, Pennsylvania. Franklin County in the state is found to the west, and Cumberland County to the north. Carroll County in Maryland lies to the southeast of Adams County.</lex>
+      <lex lang="ru" lid="Id1">Памятник 11-му пехотному полку Миссисипи находится в Геттисберге, округ Адамс, Пенсильвания. Франклин находится на западе и Камберленд - на севере. Кэрролл находится на юго-востоке от округа Адамс.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument is located in Gettysburg, Adams County, Pennsylvania. Adams County (Pa) has Fredericks County (Maryland) to its north east; Cumberland County to its north; Carroll County, Maryland to its southeast and Franklin County (Pa) to its west.</lex>
+      <lex lang="ru" lid="Id2">Памятник 11-му пехотному полку Миссисипи находится в городе Геттисберг, округ Адамс, штат Пенсильвания. Округ Адамс (Пенсильвания) на северо-востоке соседствует с округом Фредерик (Мэриленд); с округом Камберленд – на севере; с округом Кэрролл, Мэриленд – на юго-востоке, и с Франклином (Пенсильвания) на западе.</lex>
+      <lex lang="en" lid="Id3">Pennsylvania's Franklin Country is west of Adams County which has Carroll County Maryland to its southeast. To the North of Adams County is Cumberland County with Frederick County to the southeast. The municipality for the 11th Mississippi Infantry Monument is Gettysburg which is located in Adams County.</lex>
+      <lex lang="ru" lid="Id3">Франклин расположен на западе от округа Адамс, на юго-востоке от которого находится Кэрролл. К северу от округа Адамс располагается Камберленд и к юго-востоку - Фредерик. Памятник 11-му пехотному полку Миссисипи установлен в г. Геттисберге, который находится в округе Адамс.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Franklin_County,_Pennsylvania | sameAs | Франклин_(округ,_Пенсильвания)</dbpedialink>
+        <dbpedialink direction="en2ru">Gettysburg,_Pennsylvania | sameAs | Геттисберг</dbpedialink>
+        <dbpedialink direction="en2ru">Carroll_County,_Maryland | sameAs | Кэрролл_(округ,_Мэриленд)</dbpedialink>
+        <dbpedialink direction="en2ru">Cumberland_County,_Pennsylvania | sameAs | Камберленд_(округ,_Пенсильвания)</dbpedialink>
+        <dbpedialink direction="en2ru">Frederick_County,_Maryland | sameAs | Фредерик_(округ,_Мэриленд)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | округ Адамс</link>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | Пенсильвания</link>
+        <link direction="en2ru">11th Mississippi Infantry Monument | sameAs | Памятник 11-му пехотному полку Миссисипи</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id17" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Turkey | largestCity | Istanbul</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | "Bronze"@en</otriple>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | "1932-07-27"^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+        <mtriple>Turkey | largestCity | Istanbul</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | "Bronze"</mtriple>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | "1932-07-27"</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">July 27, 1932 is an important date for Turkey, where the largest city is Istanbul and currency is the Turkish lira; because on this date the Ataturk Monument, made of bronze and designed by Pietro Canonica was inaugurated.</lex>
+      <lex lang="ru" lid="Id1">27 июля 1932 г. - важная дата для Турции, самым крупным городом которого является Стамбул, а валюта - турецкая лира; ведь в этот день был открыт памятник Ататюрку, сделанный из бронзы и спроектированный Пьетро Каноника.</lex>
+      <lex lang="en" lid="Id2">The Ataturk Monument, made of bronze, was designed by Pietro Canonica and is located in Izmir, Turkey where the currency is the Turkish Lira and the largest City is Istanbul; the monument was inaugurated on July 27, 1932.</lex>
+      <lex lang="ru" lid="Id2">Памятник Ататюрку, сделанный из бронзы, спроектирован Пьетро Каноника и расположена в Измире, Турция, где валюта -– турецкая лира, и крупнейший город – Стамбул; памятник был открыт 27 июля 1932 года.</lex>
+      <lex lang="en" lid="Id3">Pietro Canonica designed the Ataturk Monument(Izmir) in bronze and it was inaugurated on 27 July 1932 in Turkey. The country's largest city is Istanbul and the local currency is the Turkish lira.</lex>
+      <lex lang="ru" lid="Id3">Пьетро Каноника спроектировал бронзовый памятник Ататюрку, который был открыт 27 июля 1932 года в Измире, Турция.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Turkey | sameAs | Турция</dbpedialink>
+        <dbpedialink direction="en2ru">Turkish_lira | sameAs | Турецкая_лира</dbpedialink>
+        <dbpedialink direction="en2ru">Istanbul | sameAs | Стамбул</dbpedialink>
+        <dbpedialink direction="en2ru">Pietro_Canonica | sameAs | Каноника,_Пьетро</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Bronze | sameAs | бронза</link>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | памятник Ататюрку</link>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | Измир</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id18" shape="(X (X) (X (X) (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Azerbaijan | leaderName | Artur_Rasizade</otriple>
+        <otriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Azerbaijan | leaderName | Artur_Rasizade</mtriple>
+        <mtriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Baku Turkish Maryrs' Memorial is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku. It is located in Azerbaijan. The capital of Azeribaijan is Baku and its leader is Prime Minister Artur Rasizade. Azerbaijan has legislature of National Assembly.</lex>
+      <lex lang="ru" lid="Id1">Мемориал памяти турецких солдат в Баку посвящен солдатам Османской армии, погибшим в битве за Баку. Он находится в Азербайджане. Столицей Азербайджана является Баку, а лидером страны - Премьер-министр Артур Таир оглы Расизаде. Законодательным органом Азербайджана является Национальное собрание.</lex>
+      <lex lang="en" lid="Id2">Baku is the capital city of Azerbaijan which is led by Prime Minister Artur Rasizade with a National Assembly dictating the legislature. The country is the location of the Baku Turkish Martyrs memorial dedicated to the soldiers of the Ottoman army who died in the Battle of Baku.</lex>
+      <lex lang="ru" lid="Id2">Баку – столица Азербайджана, который возглавляет премьер-министр Артур Таир оглы Расизаде, с Национальным собранием в качестве законодательного органа. Страна является местом расположения Мемориала памяти турецких солдат в Баку, посвященного солдатам Османской армии, погибшим в битве за Баку.</lex>
+      <lex lang="en" lid="Id3">The capital of Azerbaijan is Baku and its president - or official leader - is called Artur Rasizade. The legislature of Azerbaijan is known as the National Assembly. The country is the location for the Baku Turkish Martyrs' Memorial, which is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku.</lex>
+      <lex lang="ru" lid="Id3">Столицей Азербайджана является Баку, а его президента (или официального лидера) зовут Артур Таир оглы Расизаде. Законодательный орган Азербайджана известен как Национальное собрание. В стране находится Мемориал памяти турецких солдат в Баку, который посвящен солдатам Османской армии, погибшим в битве за Баку.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Artur_Rasizade | sameAs | Расизаде,_Артур_Таир_оглы</dbpedialink>
+        <dbpedialink direction="en2ru">Baku | sameAs | Баку</dbpedialink>
+        <dbpedialink direction="en2ru">Prime_Minister_of_Azerbaijan | sameAs | Список_премьер-министров_Азербайджана</dbpedialink>
+        <dbpedialink direction="en2ru">National_Assembly_(Azerbaijan) | sameAs | Милли_Меджлис_Азербайджана</dbpedialink>
+        <dbpedialink direction="en2ru">Azerbaijan | sameAs | Азербайджан</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Ottoman Army soldiers killed in the Battle of Baku | sameAs | солдаты Османской армии, погибшие в битве за Баку</link>
+        <link direction="en2ru">Baku Turkish Martyrs' Memorial | sameAs | Мемориал памяти турецких солдат/ воинов/ мучеников в Баку</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id19" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Azerbaijan | leaderName | Artur_Rasizade</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Azerbaijan | leaderName | Artur_Rasizade</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Huseyin Butuner and Hilmi Guner were the designers of the Baku Turkish Martyrs Memorial in Azerbaijan, dedicated to the soldiers of the Ottoman army who died in the Battle of Baku. The Prime Minister, Artur Rasizade is the leader of Azerbaijan where Baku is the capital city.</lex>
+      <lex lang="ru" lid="Id1">Гусейн Бутунер и Хилми Гунер спроектировали Мемориал памяти турецких солдат в Баку, который был посвящен солдатам Османской армии, погибшим в битве за Баку. Премьер-министр, Артур Таир оглы Расизаде является лидером Азербайджана, где столицей является город Баку.</lex>
+      <lex lang="en" lid="Id2">Baku Turkish Martyrs' Memorial is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku. It was designed by Huseyin Butuner and Hilmi Guner and it is located in Azerbaijan. The capital of Azerbaijan is Baku and its leader is Prime Minister Artur Rasizade.</lex>
+      <lex lang="ru" lid="Id2">Мемориал памяти турецких солдат в Баку посвящен солдатам Османской армии, погибшим в битве за Баку. Он был спроектирован Гусейном Бутунером и Хилми Гунером и находится в Азербайджане. Столица Азербайджана - Баку, а ее лидером является премьер-министр Артур Таир оглы Расизаде.</lex>
+      <lex lang="en" lid="Id3">Artur Rasizade is the leader of Azerbaijan where the Baku Turkish Martyrs memorial designed by Huseyin Butuner and Hilmi Guner is located. The memorial is dedicated to the soldiers of the Ottoman army who were killed at the Battle of Baku, the capital city.</lex>
+      <lex lang="ru" lid="Id3">Артур Таир оглы Расизаде является лидером Азербайджана, где находится Мемориал памяти турецких солдат в Баку, спроектированный Гусейном Бутунером и Хилми Гунером. Памятник посвящен солдатам Османской армии, погибшим в битве за Баку, столицу Азербайджана.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Artur_Rasizade | sameAs | Расизаде,_Артур_Таир_оглы</dbpedialink>
+        <dbpedialink direction="en2ru">Baku | sameAs | Баку</dbpedialink>
+        <dbpedialink direction="en2ru">Prime_Minister_of_Azerbaijan | sameAs | Список_премьер-министров_Азербайджана</dbpedialink>
+        <dbpedialink direction="en2ru">Azerbaijan | sameAs | Азербайджан</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Ottoman Army soldiers killed in the Battle of Baku | sameAs | солдаты Османской армии, погибшие в битве за Баку</link>
+        <link direction="en2ru">Hüseyin Bütüner and Hilmi Güner | includes | Хюсейн Бютюнер / Гусейн Бутунер</link>
+        <link direction="en2ru">Hüseyin Bütüner and Hilmi Güner | includes | Хилми Гюнер / Хилми Гунер</link>
+        <link direction="en2ru">Baku Turkish Martyrs' Memorial | sameAs | Мемориал памяти турецких солдат/ воинов/ мучеников в Баку</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id20" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Baku Turkish Martyrs' Memorial is located in Azerbaijan whose capital is Baku. The memorial is dedicated to Ottoman Army soldiers killed in the Battle of Baku and is called Turk Sehitleri Aniti. It was designed by Hüseyin Bütüner and Hilmi Güner. Azerbaijan is led by the Prime Minister.</lex>
+      <lex lang="ru" lid="Id1">Мемориал памяти турецких солдат в Баку находится в Азербайджане, столицей которого является Баку. Памятник посвящен солдатам Османской армии, погибшим в битве за Баку и называется Türk Şehitleri Anıtı. Он был спроектирован Гусейном Бутунером и Хилми Гунером. Главой Азербайджана является премьер-министр.</lex>
+      <lex lang="en" lid="Id2">Huseyin Butuner and Hilmi Guner designed the Baku Turkish Martyrs memorial, also known as the Turk Sehitleri Aniti. The memorial is dedicated to the Ottoman army soldiers who were killed in the Battle of Baku. It is located in Azerbaijan where the Prime Minister leads the country and the capital city is Baku.</lex>
+      <lex lang="ru" lid="Id2">Хюсейн Бютюнер и Хилми Гюнер спроектировали Мемориал памяти турецких солдат в Баку, также известный под названием Türk Şehitleri Anıtı. Памятник посвящен солдатам Османской армии, погибшим в битве за Баку. Он находится в Азербайджане, главой которого является премьер-министр, а столицей - Баку.</lex>
+      <lex lang="en" lid="Id3">Azerbaijan, where the leader is the Prime Minister and the capital if Baku, is the location of the Baku Turkish Martyrs Memorial which is dedicated to the soldiers of the Ottoman army who were killed in the battle of Baku. The local name for the memorial is Turk Sehitleri Aniti and it was designed by Huseyin Butuner and Hilmi Guner.</lex>
+      <lex lang="ru" lid="Id3">В Азербайджане, где лидером является премьер-министр, а столицей - Баку, находится Мемориал памяти турецких солдат, который посвящен солдатам Османской армии, погибшим в битве за Баку. Местное название мемориала Türk Şehitleri Anıtı, он был спроектирован Гусейном Бутунером и Хилми Гунером.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Baku | sameAs | Баку</dbpedialink>
+        <dbpedialink direction="en2ru">Prime_Minister_of_Azerbaijan | sameAs | Список_премьер-министров_Азербайджана</dbpedialink>
+        <dbpedialink direction="en2ru">Azerbaijan | sameAs | Азербайджан</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Ottoman Army soldiers killed in the Battle of Baku | sameAs | солдаты Османской армии, погибшие в битве за Баку</link>
+        <link direction="en2ru">Hüseyin Bütüner and Hilmi Güner | includes | Хюсейн Бютюнер / Гусейн Бутунер</link>
+        <link direction="en2ru">Hüseyin Bütüner and Hilmi Güner | includes | Хилми Гюнер / Хилми Гунер</link>
+        <link direction="en2ru">Baku Turkish Martyrs' Memorial | sameAs | Мемориал памяти турецких солдат/ воинов/ мучеников в Баку</link>
+        <link direction="en2ru">Türk Şehitleri Anıtı | sameAs | Türk Şehitleri Anıtı</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id21" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Baku Turkish Martyrs' Memorial, made of red granite and white marble, is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. The memorial, called Turk Sehitleri Aniti, was designed by Hüseyin Bütüner and Hilmi Güner and is located in Azerbaijan, the capital of which is Baku.</lex>
+      <lex lang="ru" lid="Id1">Мемориал памяти турецких солдат в Баку, сделанный из красного гранита и белого мрамора, посвящен солдатам Османской армии, погибшим в битве за Баку. Памятник, названный Türk Şehitleri Anıtı был спроектирован Гусейном Бутунером и Хилми Гунером и находится в Азербайджане, столицей которого является Баку.</lex>
+      <lex lang="en" lid="Id2">The Baku Turkish Martyrs' Memorial, also known by the native name Turk Sehitleri Aniti, is located in Azerbaijan. The memorial was designed by Huseyin Butuner and Hilmi Guner, and is constructed from red granite and white marble. It is dedicated to the Ottoman Army soldiers killed in the Battle of Baku, the capital of Azerbaijan.</lex>
+      <lex lang="ru" lid="Id2">Мемориал памяти турецких солдат в Баку, также известный своим оригинальным названием Türk Şehitleri Anıtı, расположен в Азербайджане. Памятник был спроектирован Гусейном Бутунером и Хилми Гунером и построен из красного гранита и белого мрамора. Он посвящен солдатам Османской армии, погибшим в битве в Баку, столицу Азербайджана.</lex>
+      <lex lang="en" lid="Id3">Baku is the capital of Azerbaijan. The Baku Turkish Martyrs' Memorial is created in red granite and white marble and is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. The Native name of theMemorial is "Türk Sehitleri Aniti". Its designers are Huseyin Butuner and Hilmi Guner.</lex>
+      <lex lang="ru" lid="Id3">Баку - столица Азербайджана. Мемориал памяти турецких солдат в Баку сделан из красного гранита и белого мрамора и посвящен солдатам Османской армии, погибшим в битве за Баку. Название памятника на азербайджанском - "Türk Şehitleri Anıtı". Его спроектировали Гусейн Бутунер и Хилми Гунер.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Baku | sameAs | Баку</dbpedialink>
+        <dbpedialink direction="en2ru">Azerbaijan | sameAs | Азербайджан</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Red granite and white marble | includes | белый мрамор</link>
+        <link direction="en2ru">Red granite and white marble | includes | красный гранит</link>
+        <link direction="en2ru">Ottoman Army soldiers killed in the Battle of Baku | sameAs | солдаты Османской армии, погибшие в битве за Баку</link>
+        <link direction="en2ru">Hüseyin Bütüner and Hilmi Güner | includes | Хюсейн Бютюнер / Гусейн Бутунер</link>
+        <link direction="en2ru">Hüseyin Bütüner and Hilmi Güner | includes | Хилми Гюнер / Хилми Гунер</link>
+        <link direction="en2ru">Baku Turkish Martyrs' Memorial | sameAs | Мемориал памяти турецких солдат/ воинов/ мучеников в Баку</link>
+        <link direction="en2ru">Türk Şehitleri Anıtı | sameAs | Türk Şehitleri Anıtı</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id22" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>England | capital | London</otriple>
+        <otriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</otriple>
+        <otriple>England | languages | Cornish_language</otriple>
+        <otriple>England | religion | Church_of_England</otriple>
+        <otriple>Dead_Man's_Plack | material | Rock_(geology)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>England | capital | London</mtriple>
+        <mtriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</mtriple>
+        <mtriple>England | language | Cornish_language</mtriple>
+        <mtriple>England | religion | Church_of_England</mtriple>
+        <mtriple>Dead_Man's_Plack | material | Rock_(geology)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Dead Man's Plack is located in England's capital - London It is dedicated to AEthwald, Ealdorman of East Anglia and it is made of rock. England's main religion in the Church of England. One of the languages spoken in England is the Cornish language.</lex>
+      <lex lang="ru" lid="Id1">“Плак мертвеца” находится в Лондоне, столице Англии. Он посвящен Этельвальду, олдермену из Восточной Англии и сделан из камня. Главной религией Англии является Церковь Англии. Один из языков Англии - корнский язык.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">London | sameAs | Лондон</dbpedialink>
+        <dbpedialink direction="en2ru">Rock_(geology) | sameAs | Горная_порода</dbpedialink>
+        <dbpedialink direction="en2ru">England | sameAs | Англия</dbpedialink>
+        <dbpedialink direction="en2ru">Cornish_language | sameAs | Корнский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">Church_of_England | sameAs | Церковь_Англии</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Dead Man's Plack | sameAs | “Плак мертвеца”</link>
+        <link direction="en2ru">Æthelwald, Ealdorman of East Anglia | includes | олдермен / альдерман из Восточной Англии</link>
+        <link direction="en2ru">Æthelwald, Ealdorman of East Anglia | includes | Этельвальд</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id23" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>England | ethnicGroups | British_Arabs</otriple>
+        <otriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</otriple>
+        <otriple>England | languages | Cornish_language</otriple>
+        <otriple>England | religion | Church_of_England</otriple>
+        <otriple>Dead_Man's_Plack | material | Rock_(geology)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>England | ethnicGroup | British_Arabs</mtriple>
+        <mtriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</mtriple>
+        <mtriple>England | language | Cornish_language</mtriple>
+        <mtriple>England | religion | Church_of_England</mtriple>
+        <mtriple>Dead_Man's_Plack | material | Rock_(geology)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">England is the home of the Cornish language, many ethnic groups including the British Arabs and the established religion of The Church of England. It is also the location of Dead Mans Plack, a stone formation dedicated to Aethelwald, Ealdorman of East Anglia.</lex>
+      <lex lang="ru" lid="Id1">Англия является родиной Корнского языка, многих этнических групп, включая британских арабов и установленной религии Церкви Англии. В ней находится “Плак мертвеца”, каменная конструкция, посвященная Альдерману из Восточной Англии.</lex>
+      <lex lang="en" lid="Id2">Dead Man's Plack is a stone monument in England that is dedicated to Æthelwald, Ealdorman of East Anglia. The state religion of England is the Church of England. English ethnic group include British Arabs. In England's Cornwall region, the Cornish language is spoken.</lex>
+      <lex lang="ru" lid="Id2">"Плак мертвеца" - это каменный памятник в Англии, который посвящен Этельвальду, олдермену из Восточной Англии. Государственная религия Англии - Церковь Англии. Английская этническая группа включает в себя английских арабов. В регионе Корнуэлла говорят на корнском языке.</lex>
+      <lex lang="en" lid="Id3">The Dead Man's Plack (located in England) is made from rock. It is dedicated to AEthelwald, Ealdorman of East Anglia. England's religion is the Church of England and Cornish is spoken in the Cornwall region of England. British Arabs are an English ethnic group.</lex>
+      <lex lang="ru" lid="Id3">"Плак мертвеца" (расположен в Англии) сделан из камня. Он посвящен Этельвальду, олдермену из Восточной Англии. Религия Англии - это Церковь Англии, и на Корнском языке говорят в корнуолльском регионе Англии. Британские арабы - это английская этническая группа.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Rock_(geology) | sameAs | Горная_порода</dbpedialink>
+        <dbpedialink direction="en2ru">England | sameAs | Англия</dbpedialink>
+        <dbpedialink direction="en2ru">Cornish_language | sameAs | Корнский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">Church_of_England | sameAs | Церковь_Англии</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">British Arabs | sameAs | британские арабы</link>
+        <link direction="en2ru">Æthelwald, Ealdorman of East Anglia | includes | олдермен / альдерман из Восточной Англии</link>
+        <link direction="en2ru">Æthelwald, Ealdorman of East Anglia | includes | Этельвальд</link>
+        <link direction="en2ru">Dead Man's Plack | sameAs | “Плак мертвеца”</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id24" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>England | ethnicGroups | British_Arabs</otriple>
+        <otriple>England | capital | London</otriple>
+        <otriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</otriple>
+        <otriple>England | languages | Cornish_language</otriple>
+        <otriple>Dead_Man's_Plack | material | Rock_(geology)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>England | ethnicGroup | British_Arabs</mtriple>
+        <mtriple>England | capital | London</mtriple>
+        <mtriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</mtriple>
+        <mtriple>England | language | Cornish_language</mtriple>
+        <mtriple>Dead_Man's_Plack | material | Rock_(geology)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Dead Man's Plack which is made of rock and is dedicated to Æthelwald, Ealdorman of East Anglia is located in England . The capital of England is London and Cornish is a language spoken in the Cornwall region.</lex>
+      <lex lang="ru" lid="Id1">"Плак мертвеца", сделанный из камня, посвящен Этельвальду, олдермену из Восточной Англии и находится в Англии. Столицей Англии является Лондон, а в корнуолльском регионе говорят на корнском языке.</lex>
+      <lex lang="en" lid="Id2">The Dead Man's Plack is found in England and made from rock. It is dedicated to Æthelwald, Ealdorman of East Anglia. London is the capital of England and Arabs are an ethnic group. The Cornish language is spoken Cornwall.</lex>
+      <lex lang="ru" lid="Id2">"Плак мертвеца" находится в Англии и сделан из камня. Он посвящен Этельвальду, олдермену из Восточной Англии. Лондон - столица Англии, а арабы - этническая группа. На корнском языке говорят в Корнуолле.</lex>
+      <lex lang="en" lid="Id3">Dead Man's Plack, which is made of rock, is dedicated to Æthelwald, Ealdorman of East Anglia. It is found in England, the capital of which is London. Cornish is one of the languages spoken in England and one of the ethnic groups found in the country is the British Arabs.</lex>
+      <lex lang="ru" lid="Id3">"Плак мертвеца", выполненный из камня, посвящен Этельвальду, олдермену из Восточной Англии. Он находится в Англии, столицей которой является Лондон. Корнский язык - один из языков, на котором говорят в Англии, а одной из этнических групп в стране является британские арабы.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">London | sameAs | Лондон</dbpedialink>
+        <dbpedialink direction="en2ru">Rock_(geology) | sameAs | Горная_порода</dbpedialink>
+        <dbpedialink direction="en2ru">England | sameAs | Англия</dbpedialink>
+        <dbpedialink direction="en2ru">Cornish_language | sameAs | Корнский_язык</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">British Arabs | sameAs | британские арабы</link>
+        <link direction="en2ru">Æthelwald, Ealdorman of East Anglia | includes | олдермен / альдерман из Восточной Англии</link>
+        <link direction="en2ru">Æthelwald, Ealdorman of East Anglia | includes | Этельвальд</link>
+        <link direction="en2ru">Dead Man's Plack | sameAs | “Плак мертвеца”</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id25" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"^^xsd:date</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        <otriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        <mtriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Frederick, Maryland is the nearest city to the Monocacy National Battlefield of Frederick County, Maryland. It is the location of the 14th New Jersey Volunteer Infantry Monument which was established on 11 July 1907 which is categorised as belonging to the historic districts of the United States.</lex>
+      <lex lang="ru" lid="Id1">Фредерик, штат Мэриленд является ближайшим городом к Национальному полю битвы в Монокаси в округе Фредерик, штат Мэриленд. Он является местоположением памятника 14-му добровольческому пехотному полку Нью-Джерси , который был установлен 11 июля 1907 года и отнесен к историческим районам США.</lex>
+      <lex lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is located in the district of the Monocacy National Battlefield, Frederick, Maryland. The monument was established in 1907-07-11 and is categorised as an historic district in the United States.</lex>
+      <lex lang="ru" lid="Id2">Памятник 14-му добровольческому пехотному полку Нью-Джерси находится в районе Национального поля битвы в Монокаси, Фредерик, штат Мэриленд. Монумент был основан 11 июля 1907 года и признан историческим районом США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Frederick,_Maryland | sameAs | Фредерик_(Мэриленд)</dbpedialink>
+        <dbpedialink direction="en2ru">Frederick_County,_Maryland | sameAs | Фредерик_(округ,_Мэриленд)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Monocacy National Battlefield | sameAs | Национальное поле битвы в Монокаси</link>
+        <link direction="en2ru">Historic districts in the United States | sameAs | исторические районы США</link>
+        <link direction="en2ru">14th New Jersey Volunteer Infantry Monument | sameAs | Памятник 14-му добровольческому пехотному полку Нью-Джерси</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id26" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"^^xsd:date</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        <otriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        <mtriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The location of the 14th New Jersey Volunteer Infantry Monument is the Monocacy National Battlefield in Frederick County, Maryland, United States. The monument was established on 11 July 1907 and is owned by the National Park Service.</lex>
+      <lex lang="ru" lid="Id1">Памятник 14-му добровольческому пехотному полку Нью-Джерси находится на Национальном поле битвы в Монокаси, Фредерик, Мэриленд, США. Памятник был установлен 11 июля 1907 года и является собственностью Службы национальных парков США.</lex>
+      <lex lang="en" lid="Id2">The 14th New Jersey Voluntary Infantry Monument (located in the Monocacy National Battlefield, Frederick County, Maryland, USA) was established on the 11th July, 1907. The nearest city is Frederick, Maryland. The Monument was provided by the National Park Service.</lex>
+      <lex lang="ru" lid="Id2">Памятник 14-му добровольческому пехотному полку Нью-Джерси (находящийся на Национальном поле битвы в Монокаси, в округе Фредерик, штат Мэриленд, США) был основан 11 июля 1907 года. Ближайший город - Фредерик штата Мэриленд. Монумент был предоставлен Службой национальных парков США.</lex>
+      <lex lang="en" lid="Id3">The 14th New Jersey Volunteer Infantry Monument was established on 11 July 1907 and is located in the district of the Monocacy National Battlefield in Frederick County, Maryland, US. The monument is owned by the National Park Service. The nearest city to the battlefield is Frederick, Maryland.</lex>
+      <lex lang="ru" lid="Id3">Памятник 14-му добровольческому пехотному полку Нью-Джерси был установлен 11 июля 1907 года, и находится он в районе Национального поля битвы в Монокаси в округе Фредерик, Мэриленд, США. Памятник принадлежит Службе национальных парков США. Ближайший город к Национальному полю битвы в Монокаси – Фредерик, Мэриленд.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Frederick,_Maryland | sameAs | Фредерик_(Мэриленд)</dbpedialink>
+        <dbpedialink direction="en2ru">National_Park_Service | sameAs | Служба_национальных_парков_США</dbpedialink>
+        <dbpedialink direction="en2ru">Frederick_County,_Maryland | sameAs | Фредерик_(округ,_Мэриленд)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Monocacy National Battlefield | sameAs | Национальное поле битвы в Монокаси</link>
+        <link direction="en2ru">14th New Jersey Volunteer Infantry Monument | sameAs | Памятник 14-му добровольческому пехотному полку Нью-Джерси</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id27" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Turkey | leader | Ahmet_Davutoğlu</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | "Bronze"@en</otriple>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | "1932-07-27"^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | "Bronze"</mtriple>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | "1932-07-27"</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Turkish lira is the official currency of the country where Ahmet Davutoglu is leader. The country is the location of the memorial designed in bronze by Pietro Canonica and inaugurated on 27 July 1932.</lex>
+      <lex lang="ru" lid="Id1">Турецкая лира - официальная валюта страны, где Ахмет Давутоглу является лидером. Страна является местом расположения мемориала, спроектированного в бронзе Пьетро Каноника и открытого 27 июля 1932 года.</lex>
+      <lex lang="en" lid="Id2">The currency of Turkey is the Turkish lira and the leader of the country is Ahmet Davutoglu. The country is the location of the Ataturk Monument (Izmir) designed in bronze by Pietro Canonica and inaugurated on 27 July 1932.</lex>
+      <lex lang="ru" lid="Id2">Валюта Турции - турецкая лира, а лидер страны - Ахмет Давутоглу. Страна является местом расположения памятника Ататюрку (в Измире), спроектированного в бронзе Пьетро Каноника и открытого 27 июля 1932 года.</lex>
+      <lex lang="en" lid="Id3">Ahmet_Davutoglu is Turkey's leader where the currency is Turkish Lira, and where Pietro Canonica designed the Ataturk Monument in Izmir from bronze, the monument was inagurated on July 27, 1932.</lex>
+      <lex lang="ru" lid="Id3">Ахмет Давутоглу - лидер Турции, где валютой является турецкая лира и где Пьетро Каноника спроектировал из бронзы памятник Ататюрку в Измире, открытый 27 июля 1932 года.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Turkey | sameAs | Турция</dbpedialink>
+        <dbpedialink direction="en2ru">Ahmet_Davutoğlu | sameAs | Давутоглу,_Ахмет</dbpedialink>
+        <dbpedialink direction="en2ru">Turkish_lira | sameAs | Турецкая_лира</dbpedialink>
+        <dbpedialink direction="en2ru">Pietro_Canonica | sameAs | Каноника,_Пьетро</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Bronze | sameAs | бронза</link>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | памятник Ататюрку</link>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | Измир</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id28" shape="(X (X) (X (X) (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Turkey | leader | Ahmet_Davutoğlu</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Turkey | largestCity | Istanbul</otriple>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | "1932-07-27"^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Turkey | largestCity | Istanbul</mtriple>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | "1932-07-27"</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The leader of Turkey, where the currency is the Turkish lira, is Ahmet Davutoglu. While the capital city is Ankara, the largest city in the country is Istanbul. Turkey is the location of the Ataturk Monument (Izmir) which was inaugurated on 27 July 1932.</lex>
+      <lex lang="ru" lid="Id1">Лидером Турции, где валютой является турецкая лира, является Ахмет Давутоглу. Столица Турции – Анкара, тогда как крупнейший город в стране – Стамбул. В Турции находится памятник Ататюрку (Измир), который был открыт 27 июля 1932 года.</lex>
+      <lex lang="en" lid="Id2">Ahmet Davutoglu is the leader of Turkey, where the capital is Ankara, but the largest city is Istanbul; the currency of Turkey is Turkish Lira and in Izmir, Turkey the Ataturk Monument stands, inaugurated on July 27, 1932.</lex>
+      <lex lang="ru" lid="Id2">Ахмет Давутоглу - лидер Турции, столицей которой является Анкара, но самым крупный город в стране - Стамбул. Валюта Турции - Турецкая лира, а в Измире находится памятник Ататюрку, открытый 27 июля 1932 года.</lex>
+      <lex lang="en" lid="Id3">Turkey's capital is Ankara and the country's leader is Ahmet Davutoglu. The currency of Turkey is the Turkish lira and Istanbul is it's largest city. The Atatürk Monument is located in Izmi and was inaugurated on the 27th of July, 1932.</lex>
+      <lex lang="ru" lid="Id3">Столица Турции - Анкара, а лидер страны - Ахмет Давутоглу. Валюта Турции - турецкая лира, а Стамбул - крупнейший её город. Памятник Ататюрку расположен в Измире и был открыт 27 июля 1932 года.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Turkey | sameAs | Турция</dbpedialink>
+        <dbpedialink direction="en2ru">Ahmet_Davutoğlu | sameAs | Давутоглу,_Ахмет</dbpedialink>
+        <dbpedialink direction="en2ru">Turkish_lira | sameAs | Турецкая_лира</dbpedialink>
+        <dbpedialink direction="en2ru">Istanbul | sameAs | Стамбул</dbpedialink>
+        <dbpedialink direction="en2ru">Ankara | sameAs | Анкара</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | памятник Ататюрку</link>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | Измир</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id29" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Turkey | leaderName | Ahmet_Davutoğlu</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Turkey | largestCity | Istanbul</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | "Bronze"@en</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | "1932-07-27"^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Turkey | largestCity | Istanbul</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | "Bronze"</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | "1932-07-27"</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Ahmet Davutoglu is the leader of Turkey where Ankara is the capital, although the largest city is Istanbul. The country is the location of the bronze Ataturk Monument (Izmir) which was inaugurated on 27 July 1932.</lex>
+      <lex lang="ru" lid="Id1">Ахмет Давутоглу - лидер Турции, где Анкара - столица, хотя крупнейшим городом является Стамбул. Страна является местом расположения бронзового памятника Ататюрку (в Измире), который был открыт 27 июля 1932 года.</lex>
+      <lex lang="en" lid="Id2">Izmir, Turkey is the location of the bronze Ataturk Monument which was inaugurated on 27 July 1932. Ahmet Davutoglu is the Turkish leader and the largest city is Istanbul although the capital is Ankara.</lex>
+      <lex lang="ru" lid="Id2">Измир, Турция, – место расположения бронзового памятника Ататюрку, который был открыт 27 июля 1932 года. Ахмет Давутоглу – турецкий лидер, и крупнейший город страны – Стамбул, хотя столица – Анкара.</lex>
+      <lex lang="en" lid="Id3">Although Istanbul is the largest city, Ankara is the capital of Turkey where Ahmet Davutoglu is the leader. Turkey is the location of the bronze Ataturk Monument (Izmir) which was inaugurated on 27 July 1932.</lex>
+      <lex lang="ru" lid="Id3">Хотя Стамбул - крупнейший город, Анкара является столицей Турции, где Ахмет Давутоглу является лидером. Турция является местом расположения бронзового памятника Ататюрку (в Измире), который был открыт 27 июля 1932 года.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Turkey | sameAs | Турция</dbpedialink>
+        <dbpedialink direction="en2ru">Ahmet_Davutoğlu | sameAs | Давутоглу,_Ахмет</dbpedialink>
+        <dbpedialink direction="en2ru">Istanbul | sameAs | Стамбул</dbpedialink>
+        <dbpedialink direction="en2ru">Ankara | sameAs | Анкара</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Bronze | sameAs | бронза</link>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | памятник Ататюрку</link>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | Измир</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id30" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | "1932-07-27"^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leaderTitle | President_of_Turkey</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | "1932-07-27"</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Turkey's leader is the President, the currency is the Turkish lira and the capital city is Ankara. It is the location of the Ataturk monument which was designed by Pietro Canonica and inaugurated in Izmir on 27 July 1932.</lex>
+      <lex lang="ru" lid="Id1">Лидером Турции является Президент, валюта - турецкая лира, и столица - Анкара. Это расположение памятника Ататюрку, который был спроектирован Пьетро Каноникой и открыт в Измире 27 июля 1932 года.</lex>
+      <lex lang="en" lid="Id2">The Ataturk Monument, which was designed by Pietro Canonica, was inaugurated on 27th July, 1932. Turkey's leader is the President, its currency is the Turkish Lira and the capital city is Ankara.</lex>
+      <lex lang="ru" lid="Id2">Памятник Ататюрку, который был спроектирован Пьетро Каноника, был открыт 27 июля 1932 года. Лидером Турции является президент, её валютой является турецкая Лира, а столицей - Анкара.</lex>
+      <lex lang="en" lid="Id3">Pietro Canonica designed the Ataturk Monument (Izmir) which was inaugurated on 27 July 1932 in Turkey. The Turkish leader is known as the President of Turkey, the currency is the Turkish lira and the capital city is Ankara.</lex>
+      <lex lang="ru" lid="Id3">Пьетро Каноника спроектировал памятник Ататюрку (в Измир), который был открыт 27 июля 1932 года в Турции. Турецкий лидер известен как президент Турции, её валютой является турецкая лира, а столицей - Анкара.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Turkey | sameAs | Турция</dbpedialink>
+        <dbpedialink direction="en2ru">Turkish_lira | sameAs | Турецкая_лира</dbpedialink>
+        <dbpedialink direction="en2ru">Ankara | sameAs | Анкара</dbpedialink>
+        <dbpedialink direction="en2ru">Pietro_Canonica | sameAs | Каноника,_Пьетро</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">President of Turkey | sameAs | Президент Турции</link>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | памятник Ататюрку</link>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | Измир</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id31" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Turkey | leaderName | Ahmet_Davutoğlu</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | "Bronze"@en</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | "1932-07-27"^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+        <otriple>Turkey | leader | Ahmet_Davutoğlu</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | "Bronze"@en</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | "1932-07-27"^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leaderTitle | President_of_Turkey</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | "Bronze"</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | "1932-07-27"</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">President Ahmet Davutoglu is the leader of Turkey, the home of the Ataturk monument (Izmir). The monument was designed in bronze by Pietro Canonica and inaugurated on 27 July 1932 in Izmir.</lex>
+      <lex lang="ru" lid="Id1">Президент Ахмет Давутоглу - лидер Турции, родины памятника Ататюрку (в Измире). Памятник был спроектирован в бронзе Пьетро Каноника и открыт 27 июля 1932 года в Измире.</lex>
+      <lex lang="en" lid="Id2">The Ataturk Monument (located in Izmir, Turkey) is made of Bronze. It was inaugurated on the 27th July, 1932 and it was designed by Pietro Canonica. Turkey's leader is President Ahmet Davutoglu.</lex>
+      <lex lang="ru" lid="Id2">Памятник Ататюрку (расположенный в Измире, Турция) выполнен из бронзы. Он был открыт 27 июля 1932 года и был спроектирован Пьетро Каноника. Лидером Турции является президент Ахмет Давутоглу.</lex>
+      <lex lang="en" lid="Id3">President Ahmet Davutoglu is the leader of Turkey which is the location of the Ataturk monument (Izmir) designed by Pietro Canonica. The monument is made of bronze and was inaugurated on 27 July 1932.</lex>
+      <lex lang="ru" lid="Id3">Президент Ахмет Давутоглу - лидер Турции, которая является местом расположения памятника Ататюрку (в Измире), спроектированного Пьетро Каноникой. Памятник выполнен из бронзы и был открыт 27 июля 1932 года.</lex>
+      <lex lang="en" lid="Id4">Ahmet Davutoglu is the Turkish leader and is officially titled President of Turkey where the Ataturk Monument is located in Izmir made of bronze and designed by Pietro Canonica, inaugurated on July 27, 1932.</lex>
+      <lex lang="ru" lid="Id4">Ахмет Давутоглу – турецкий лидер, официально – президент Турции, где в Измире располагается вылитый из бронзы памятник Ататюрку, спроектированный Пьетро Каноника и открытый 27 июля 1932 года.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Turkey | sameAs | Турция</dbpedialink>
+        <dbpedialink direction="en2ru">Ahmet_Davutoğlu | sameAs | Давутоглу,_Ахмет</dbpedialink>
+        <dbpedialink direction="en2ru">Pietro_Canonica | sameAs | Каноника,_Пьетро</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Bronze | sameAs | бронза</link>
+        <link direction="en2ru">President of Turkey | sameAs | Президент Турции</link>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | памятник Ататюрку</link>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | Измир</link>
+      </links>
+    </entry>
+  </entries>
+</benchmark>

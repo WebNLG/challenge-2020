@@ -1,0 +1,986 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="University" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | city | Alba_Iulia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1_Decembrie_1918_University | city | Alba_Iulia</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The "1 Decembrie 1918 University" is in the city Alba Iulia.</lex>
+      <lex lang="ru" lid="Id1">Университет "1 декабря 1918" находится в городе Алба-Юлия.</lex>
+      <lex lang="en" lid="Id2">The city of Alba Iulia has a University called "1 Decembrie 1918 University".</lex>
+      <lex lang="ru" lid="Id2">В городе Алба-Юлия есть университет под названием Университет "1 декабря 1918".</lex>
+      <lex lang="en" lid="Id3">The 1 Decembrie 1918 University is located in the city of Alba Iulia.</lex>
+      <lex lang="ru" lid="Id3">Университет "1 декабря 1918" находится в городе Алба-Юлия.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Alba_Iulia | sameAs | Алба-Юлия</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">1 Decembrie 1918 University | sameAs | Университет «1 декабря 1918»</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 1 Decembrie 1918 University is located in the country of Romania.</lex>
+      <lex lang="ru" lid="Id1">Университет "1 декабря 1918" находится в стране Румынии.</lex>
+      <lex lang="en" lid="Id2">The 1 Decembrie 1918 University is located in Romania.</lex>
+      <lex lang="ru" lid="Id2">Университет "1 декабря 1918" находится в Румынии.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Romania | sameAs | Румыния</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">1 Decembrie 1918 University | sameAs | Университет «1 декабря 1918»</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | latinName | "Universitas Apulensis"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1_Decembrie_1918_University | latinName | "Universitas Apulensis"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Latin name of the 1 Decembrie 1918 University is "Universitas Apulensis".</lex>
+      <lex lang="ru" lid="Id1">Латинское название Университета "1 декабря 1918" - "Universitas Apulensis".</lex>
+      <lex lang="en" lid="Id2">The Latin name of 1 Decembrie 1918 University is Universitas Apulensis.</lex>
+      <lex lang="ru" lid="Id2">Латинское название Университета "1 декабря 1918" - Universitas Apulensis.</lex>
+      <lex lang="en" lid="Id3">The latin name for 1 Decembrie 1918 University is Universitas Apulensis.</lex>
+      <lex lang="ru" lid="Id3">Латинское название Университета "1 декабря 1918" - Universitas Apulensis.</lex>
+      <links>
+        <link direction="en2ru">Universitas Apulensis | sameAs | Universitas Apulensis</link>
+        <link direction="en2ru">1 Decembrie 1918 University | sameAs | Университет «1 декабря 1918»</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | nickname | Uab</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1_Decembrie_1918_University | nickname | Uab</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 1 Decembrie 1918 University has the nickname Uab.</lex>
+      <lex lang="ru" lid="Id1">Университет "1 декабря 1918" имеет прозвище UAB.</lex>
+      <links>
+        <link direction="en2ru">Uab | sameAs | UAB</link>
+        <link direction="en2ru">1 Decembrie 1918 University | sameAs | Университет «1 декабря 1918»</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | rector | "Breaz Valer Daniel"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1_Decembrie_1918_University | rector | "Breaz Valer Daniel"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Breaz Valer Daniel is rector of the 1 Decembrie 1918 University.</lex>
+      <lex lang="ru" lid="Id1">Бреаз Валер Даниэль - ректор Университета "1 декабря 1918".</lex>
+      <lex lang="en" lid="Id2">The rector of the 1 Decembrie 1918 University is Breaz Valer Daniel.</lex>
+      <lex lang="ru" lid="Id2">Ректор Университета "1 декабря 1918" - Бреаз Валер Даниэль.</lex>
+      <links>
+        <link direction="en2ru">Breaz Valer Daniel | sameAs | Бреаз Валер Даниэль</link>
+        <link direction="en2ru">1 Decembrie 1918 University | sameAs | Университет «1 декабря 1918»</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>AWH_Engineering_College | facultySize | "250"^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AWH_Engineering_College | faculty | 250</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AWH_Engineering_College | academicStaffSize | 250</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The academic staff at the AWH Engineering College number 250.</lex>
+      <lex lang="ru" lid="Id1">Преподавательский состав в инженерном колледже AWH насчитывает 250 человек.</lex>
+      <lex lang="en" lid="Id2">The AWH Engineering College has academic staff size of 250.</lex>
+      <lex lang="ru" lid="Id2">Инженерный колледж «AWH» насчитывает 250 человек научных сотрудников.</lex>
+      <lex lang="en" lid="Id3">AWH Engineering College has an academic staff of 250.</lex>
+      <lex lang="ru" lid="Id3">Инженерный колледж "AWH" насчитывает 250 человек работающих сотрудников.</lex>
+      <links>
+        <link direction="en2ru">AWH Engineering College | sameAs | Инженерный колледж «AWH»</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>AWH_Engineering_College | city | "Kuttikkattoor"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AWH_Engineering_College | city | "Kuttikkattoor"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The AWH Engineering College is located in Kuttikkattoor.</lex>
+      <lex lang="ru" lid="Id1">Инженерный колледж "AWH" расположен в Куттиккаттооре.</lex>
+      <lex lang="en" lid="Id2">AWH Engineering College is in the city of Kuttikkattoor.</lex>
+      <lex lang="ru" lid="Id2">Инженерный колледж «AWH» находится в городе Куттиккаттоор.</lex>
+      <lex lang="en" lid="Id3">AWH Engineering College is located in Kuttikkattoor.</lex>
+      <lex lang="ru" lid="Id3">Инженерный колледж «AWH» находится в Куттиккаттоор.</lex>
+      <links>
+        <link direction="en2ru">AWH Engineering College | sameAs | Инженерный колледж «AWH»</link>
+        <link direction="en2ru">Kuttikkattoor | sameAs | Куттиккаттоор</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>AWH_Engineering_College | country | India</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AWH_Engineering_College | country | India</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">AWH Engineering College is located in India.</lex>
+      <lex lang="ru" lid="Id1">Инженерный колледж «AWH» находится в Индии.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">India | sameAs | Индия</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">AWH Engineering College | sameAs | Инженерный колледж «AWH»</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>AWH_Engineering_College | established | 2001</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AWH_Engineering_College | established | 2001</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The AWH Engineering College was established in 2001.</lex>
+      <lex lang="ru" lid="Id1">Инженерный колледж "AWH" был основан в 2001 году.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">2001 | sameAs | 2001_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">AWH Engineering College | sameAs | Инженерный колледж «AWH»</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>AWH_Engineering_College | state | Kerala</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AWH_Engineering_College | state | Kerala</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">AWH Engineering College is located in Kerala state.</lex>
+      <lex lang="ru" lid="Id1">Инженерный колледж «AWH» находится в штате Керала.</lex>
+      <lex lang="en" lid="Id2">The AWH Engineering College is in the State of Kerala.</lex>
+      <lex lang="ru" lid="Id2">Инженерный колледж "AWH" находится в штате Керала.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Kerala | sameAs | Керала</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">AWH Engineering College | sameAs | Инженерный колледж «AWH»</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aarhus | governmentType | Magistrate</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aarhus | governmentType | Magistrate</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The type of government of Aarhus is magistrate.</lex>
+      <lex lang="ru" lid="Id1">Тип правительства Орхуса - магистрат.</lex>
+      <lex lang="en" lid="Id2">The city of Aarhus is governed by Magistrates.</lex>
+      <lex lang="ru" lid="Id2">Город Орхус управляется магистратами.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Aarhus | sameAs | Орхус</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Magistrate | sameAs | магистрат</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aarhus | northeast | Mols</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aarhus | hasToItsNortheast | Mols</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Mols is to the northeast of Aarhus.</lex>
+      <lex lang="ru" lid="Id1">Молс находится к северо-востоку от Орхуса.</lex>
+      <lex lang="en" lid="Id2">Aarhus has to its northeast Mols.</lex>
+      <lex lang="ru" lid="Id2">К северо-востоку от Орхуса расположен Молс.</lex>
+      <lex lang="en" lid="Id3">Mols is the area to the northeast of Aarhus.</lex>
+      <lex lang="ru" lid="Id3">Молс - это район к северо-востоку от Орхуса.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Aarhus | sameAs | Орхус</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Mols | sameAs | Молс</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Accademia di Architettura di Mendrisio is located in the city of Mendrisio.</lex>
+      <lex lang="ru" lid="Id1">Академия архитектуры Мендризио находится в городе Мендризио.</lex>
+      <lex lang="en" lid="Id2">The Accademia di Architettura di Mendrisio is located in the city of Mendrisio.</lex>
+      <lex lang="ru" lid="Id2">Академия архитектуры Мендризио находится в городе Мендризио.</lex>
+      <links>
+        <link direction="en2ru">Accademia di Architettura di Mendrisio | sameAs | Академия архитектуры Мендризио</link>
+        <link direction="en2ru">Mendrisio | sameAs | Мендризио</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Accademia di Architettura di Mendrisio is located in Switzerland.</lex>
+      <lex lang="ru" lid="Id1">Академия архитектуры Мендризио находится в Швейцарии.</lex>
+      <lex lang="en" lid="Id2">Accademia di Architettura di Mendrisio is located in Switzerland.</lex>
+      <lex lang="ru" lid="Id2">Академия архитектуры Мендризио находится в Швейцарии.</lex>
+      <lex lang="en" lid="Id3">Accademia di Architettura di Mendrisio is in Switzerland.</lex>
+      <lex lang="ru" lid="Id3">Академия архитектуры Мендризио находится в Швейцарии.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Switzerland | sameAs | Швейцария</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Accademia di Architettura di Mendrisio | sameAs | Академия архитектуры Мендризио</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The dean of the Accademia di Architettura di Mendrisio is Mario Botta.</lex>
+      <lex lang="ru" lid="Id1">Декан Академии архитектуры Мендризио - Марио Ботта.</lex>
+      <lex lang="en" lid="Id2">Accademia di Architettura di Mendrisio's dean is Mario Botta.</lex>
+      <lex lang="ru" lid="Id2">Марио Ботта - декан Академии архитектуры Мендризио.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Mario_Botta | sameAs | Ботта,_Марио</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Accademia di Architettura di Mendrisio | sameAs | Академия архитектуры Мендризио</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Accademia di Architettura di Mendrisio was established in 1996.</lex>
+      <lex lang="ru" lid="Id1">Академия архитектуры Мендризио была основана в 1996 году.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">1996 | sameAs | 1996_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Accademia di Architettura di Mendrisio | sameAs | Академия архитектуры Мендризио</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | canton | Ticino</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | location | Ticino</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Accademia di Architettura di Mendrisio is located in Ticino.</lex>
+      <lex lang="ru" lid="Id1">Академия архитектуры Мендризио находится в Тичино.</lex>
+      <lex lang="en" lid="Id2">Ticino is the location of the Accademia di Architettura di Mendrisio.</lex>
+      <lex lang="ru" lid="Id2">Тичино - местонахождение Академии архитектуры Мендризио.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Ticino | sameAs | Тичино</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Accademia di Architettura di Mendrisio | sameAs | Академия архитектуры Мендризио</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | "600"^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | students | 600</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">There are 600 students at the Accademia di Architettura di Mendrisio.</lex>
+      <lex lang="ru" lid="Id1">В Академии архитектуры Мендризио - 600 студентов.</lex>
+      <lex lang="en" lid="Id2">Six hundred students attend the Accademia di Architettura di Mendriso.</lex>
+      <lex lang="ru" lid="Id2">Шесть сотен студентов посещают Академию архитектуры Мендризио.</lex>
+      <lex lang="en" lid="Id3">The Accademia di Architettura di Mendrisio has 600 students.</lex>
+      <lex lang="ru" lid="Id3">Академия архитектуры Мендризио насчитывает 600 студентов.</lex>
+      <lex lang="en" lid="Id4">Accademia di Architettura di Mendrisio has 600 students enrolled.</lex>
+      <lex lang="ru" lid="Id4">Академия архитектуры Мендризио насчитывает 600 студентов.</lex>
+      <lex lang="en" lid="Id5">There are 600 students attending the Accademia di Architettura di Mendrisio.</lex>
+      <lex lang="ru" lid="Id5">В Академии архитектуры Мендризио учатся 600 студентов.</lex>
+      <links>
+        <link direction="en2ru">Accademia di Architettura di Mendrisio | sameAs | Академия архитектуры Мендризио</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | academicStaff | "~500"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | academicStaffSize | "~500"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Acharya Institute of Technology's academic staff total is ~500.</lex>
+      <lex lang="ru" lid="Id1">Общая численность академического персонала Технологического института Ачарья составляет ~500 человек.</lex>
+      <lex lang="en" lid="Id2">The Acharya Institute of Technology employs about 500 academic staff.</lex>
+      <lex lang="ru" lid="Id2">В Технологическом институте Ачарья работают около 500 научных сотрудников.</lex>
+      <lex lang="en" lid="Id3">Approximately 500 employees make up the academic staff at Acharya Institute of Technology.</lex>
+      <lex lang="ru" lid="Id3">Примерно 500 сотрудников в Технологическом институте Ачарья составляют научные работники.</lex>
+      <links>
+        <link direction="en2ru">Acharya Institute of Technology | sameAs | Технологический институт Ачарья</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Acharya Institute of Technology is affiliated with Visvesvaraya Technologial University.</lex>
+      <lex lang="ru" lid="Id1">Технологический институт Ачарья связан с Технологическим университетом Висвесварайя.</lex>
+      <lex lang="en" lid="Id2">Acharya Institute of Technology is affiliated to Visvesvaraya Technological University.</lex>
+      <lex lang="ru" lid="Id2">Технологический институт Ачарья входит в Технологический университет Висвесварайя.</lex>
+      <lex lang="en" lid="Id3">The Acharya Institute of Technology is affiliated with the Visvesvaraya Technological University.</lex>
+      <lex lang="ru" lid="Id3">Технологический институт Ачарья связана с Технологическим университетом "Висвесварайя".</lex>
+      <lex lang="en" lid="Id4">Acharya Institute of Technology is affiliated to the Visvesvaraya Technological University.</lex>
+      <lex lang="ru" lid="Id4">Технологический институт Ачарья входит в Технологический университет Висвесварайя.</lex>
+      <lex lang="en" lid="Id5">Acharya Institute of Technology is affilaited with Visvesvaraya Technological University.</lex>
+      <lex lang="ru" lid="Id5">Технологический институт Ачарья аффилирован с Технологическим университетом Висвесварайя.</lex>
+      <links>
+        <link direction="en2ru">Visvesvaraya Technological University | sameAs | Технологический университет Висвесварайя</link>
+        <link direction="en2ru">Acharya Institute of Technology | sameAs | Технологический институт Ачарья</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Acharya Institute of Technology is located in the city of Bangalore.</lex>
+      <lex lang="ru" lid="Id1">Технологический институт Ачарья находится в городе Бангалор.</lex>
+      <lex lang="en" lid="Id2">Acharya Institute of Technology is located in Bangalore.</lex>
+      <lex lang="ru" lid="Id2">Технологический институт Ачарья находится в Бангалоре.</lex>
+      <lex lang="en" lid="Id3">Acharya Institute of Technology is in Bangalore.</lex>
+      <lex lang="ru" lid="Id3">Технологический институт Ачарья находится в Бангалоре.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Bangalore | sameAs | Бангалор</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Acharya Institute of Technology | sameAs | Технологический институт Ачарья</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | country | "India"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | country | "India"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Acharya Institute of Technology can be found in India.</lex>
+      <lex lang="ru" lid="Id1">Технологический институт Ачарья расположен в Индии.</lex>
+      <lex lang="en" lid="Id2">Acharya Institute of Technology is located in India.</lex>
+      <lex lang="ru" lid="Id2">Технологический институт Ачарья находится в Индии.</lex>
+      <lex lang="en" lid="Id3">The Acharya Institute of Technology is located in India.</lex>
+      <lex lang="ru" lid="Id3">Технологический институт Ачарья находится в Индии.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">India | sameAs | Индия</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Acharya Institute of Technology | sameAs | Технологический институт Ачарья</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | director | "Dr. G. P. Prabhukumar"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | director | "Dr. G. P. Prabhukumar"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Dr. G. P. Prabhukumar is the director of the Acharya Institute of Technology.</lex>
+      <lex lang="ru" lid="Id1">Д-р Г.П. Прабхукумар - директор Технологического института Ачарья.</lex>
+      <lex lang="en" lid="Id2">The director of Acharya Institute of Technology is Dr. G. P. Prabhukumar.</lex>
+      <lex lang="ru" lid="Id2">Директор Технологического института Ачарья - доктор Г.П. Прабхукумар.</lex>
+      <lex lang="en" lid="Id3">Acharya Institute of Technology's director is Dr. G. P. Prabhukumar.</lex>
+      <lex lang="ru" lid="Id3">Директор Технологического института Ачарья - д-р Г.П. Прабхукумар.</lex>
+      <links>
+        <link direction="en2ru">Dr. G. P. Prabhukumar | sameAs | доктор Г.П. Прабхукумар</link>
+        <link direction="en2ru">Acharya Institute of Technology | sameAs | Технологический институт Ачарья</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | established | 2000</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | established | 2000</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Acharya Institute of Technology was established in the year 2000.</lex>
+      <lex lang="ru" lid="Id1">Технологический институт Ачарья был создан в 2000 году.</lex>
+      <lex lang="en" lid="Id2">The Acharya Institute of Technology was established in 2000.</lex>
+      <lex lang="ru" lid="Id2">Технологический институт Ачарья был основан в 2000 году.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">2000 | sameAs | 2000_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Acharya Institute of Technology | sameAs | Технологический институт Ачарья</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | motto | "Nurturing Excellence"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | motto | "Nurturing Excellence"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Acharya Institute of Technology's motto is Nurturing Excellence.</lex>
+      <lex lang="ru" lid="Id1">Девиз Технологического института Ачарья - "Воспитывать совершенство".</lex>
+      <lex lang="en" lid="Id2">The motto of the Acharya Institute of Technology is 'Nurturing Excellence.'.</lex>
+      <lex lang="ru" lid="Id2">Девиз Технологического института Ачарья - "Воспитывать совершенство".</lex>
+      <lex lang="en" lid="Id3">The motto of the Acharya Institute of Technology is "Nurturing Excellence".</lex>
+      <lex lang="ru" lid="Id3">Девиз Технологического института Ачарья - "Воспитывать совершенство".</lex>
+      <links>
+        <link direction="en2ru">Acharya Institute of Technology | sameAs | Технологический институт Ачарья</link>
+        <link direction="en2ru">Nurturing Excellence | sameAs | “Воспитывать совершенство”</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id26" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | nickname | "AIT"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | nickname | "AIT"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">AIT is the nickname for the Acharya Institute of Technology.</lex>
+      <lex lang="ru" lid="Id1">AIT - это сокращение для Технологического института Ачарья.</lex>
+      <lex lang="en" lid="Id2">The nickname of the Acharya Institute of Technology is AIT.</lex>
+      <lex lang="ru" lid="Id2">Краткое название Технологического института Ачарья - AIT.</lex>
+      <lex lang="en" lid="Id3">Acharya Institute of Technology is known as AIT.</lex>
+      <lex lang="ru" lid="Id3">Технологический институт Ачарья известен как AIT.</lex>
+      <links>
+        <link direction="en2ru">AIT | sameAs | AIT / Технологический институт Ачарья</link>
+        <link direction="en2ru">Acharya Institute of Technology | sameAs | Технологический институт Ачарья</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | numberOfPostgraduateStudents | "700"^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | postgrad | "~700"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | numberOfPostgraduateStudents | 700</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The number of post graduate students at the Acharya Institute of Technology is about 700.</lex>
+      <lex lang="ru" lid="Id1">Число магистров и аспирантов в Технологическом институте Ачарья составляет около 700 человек.</lex>
+      <lex lang="en" lid="Id2">The number of postgraduate students in Acharya Institute of Technology is ~700.</lex>
+      <lex lang="ru" lid="Id2">Число магистров и аспирантов в Технологическом институте Ачарья составляет ~700 человек.</lex>
+      <lex lang="en" lid="Id3">There are around 700 postgraduate students at the Acharya Institute of Technology.</lex>
+      <lex lang="ru" lid="Id3">В Технологическом институте Ачарья насчитывается около 700 магистров и аспирантов.</lex>
+      <lex lang="en" lid="Id4">There are about 700 post graduate students at the Acharya Institute of Technology.</lex>
+      <lex lang="ru" lid="Id4">В Технологическом институте Ачарья насчитывается около 700 магистров и аспирантов.</lex>
+      <lex lang="en" lid="Id5">Acharya Institute of Technology has 700 postgraduate students.</lex>
+      <lex lang="ru" lid="Id5">Технологический институт Ачарья имеет 700 магистров и аспирантов.</lex>
+      <lex lang="en" lid="Id6">700 students are enrolled in a post-graduate program at Acharya Institute of Technology.</lex>
+      <lex lang="ru" lid="Id6">700 студентов учатся в магистратуре и аспирантуре в Технологическом институте Ачарья.</lex>
+      <links>
+        <link direction="en2ru">Acharya Institute of Technology | sameAs | Технологический институт Ачарья</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | undergrad | "~10000"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | numberOfUndergraduateStudents | "10000"^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | numberOfUndergraduateStudents | 10000</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The number of undergraduates attending the Acharya Institute of Technology is roughly 10000 students.</lex>
+      <lex lang="ru" lid="Id1">Численность учащихся, обучающихся в Технологическом институте Ачарья, составляет примерно 10 000 учащихся.</lex>
+      <lex lang="en" lid="Id2">Acharya Institute of Technology's number of Undergraduate students total to ~10000.</lex>
+      <lex lang="ru" lid="Id2">Число студентов-бакалавров Технологического института Ачарья в общей сложности составляет 10 000 человек.</lex>
+      <lex lang="en" lid="Id3">There are around 10000 undergraduate students at the Acharya Institute of Technology.</lex>
+      <lex lang="ru" lid="Id3">В Технологическом институте Ачарья насчитывается около 10000 студентов-бакалавров.</lex>
+      <lex lang="en" lid="Id4">The Acharya Institude of Technology has 10000 undergraduate students.</lex>
+      <lex lang="ru" lid="Id4">В Технологическом институте Ачарья есть 10000 студентов.</lex>
+      <lex lang="en" lid="Id5">The Acharya Institute of Technology has 10000 undergraduate students.</lex>
+      <lex lang="ru" lid="Id5">Технологический институт Ачарья насчитывает 10 000 студентов.</lex>
+      <lex lang="en" lid="Id6">Acharya Institute of Technology has 10,000 undergraduate students.</lex>
+      <lex lang="ru" lid="Id6">В Технологическом институте Ачарья учатся 10 000 студентов.</lex>
+      <links>
+        <link direction="en2ru">Acharya Institute of Technology | sameAs | Технологический институт Ачарья</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | colours | "Blue, White and Orange"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | officialSchoolColour | "Blue, White and Orange"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | officialSchoolColour | "Blue, White and Orange"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Blue, white and orange are the colours adopted by Acharya Institute of Technology.</lex>
+      <lex lang="ru" lid="Id1">Голубой, белый и оранжевый - это цвета, принятые Технологическим институтом Ачарья.</lex>
+      <lex lang="en" lid="Id2">Blue, white and orange are the colours of Acharya Institute of Technology.</lex>
+      <lex lang="ru" lid="Id2">Синий, белый и оранжевый - цвета Технологического института Ачарья.</lex>
+      <lex lang="en" lid="Id3">Acharya Institute of Technology's official colors are Blue, White and Orange.</lex>
+      <lex lang="ru" lid="Id3">Официальные цвета Технологического университета Ачарья - синий, белый и оранжевый.</lex>
+      <lex lang="en" lid="Id4">The official school colours of the Acharya Institute of Technology are blue, white and orange.</lex>
+      <lex lang="ru" lid="Id4">Официальные цвета Технологического университета Ачарья - синий, белый и оранжевый.</lex>
+      <lex lang="en" lid="Id5">Acharya Institute of Technology official school colors are Blue White and Orange.</lex>
+      <lex lang="ru" lid="Id5">Официальные цвета Технологического университета Ачарья - синий, белый и оранжевый.</lex>
+      <lex lang="en" lid="Id6">Acharya Institute of Technology official school colours are blue, white and orange.</lex>
+      <lex lang="ru" lid="Id6">Цвета Технологического университета Ачарья - синий, белый и оранжевый.</lex>
+      <links>
+        <link direction="en2ru">Acharya Institute of Technology | sameAs | Технологический институт Ачарья</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id30" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | outlook | 63</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | outlookRanking | 63</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The outlook ranking for the Acharya Institute of Technology is 63.</lex>
+      <lex lang="ru" lid="Id1">Рейтинг Outlook Технологического института Ачарья - 63.</lex>
+      <lex lang="en" lid="Id2">Acharya Institute of Technology's outlook ranking is 63.</lex>
+      <lex lang="ru" lid="Id2">Технологический институт Ачарья находится на 63-й позиции в рейтинге Outlook.</lex>
+      <lex lang="en" lid="Id3">Acharya Institute of Technology has an outlook ranking of 63.</lex>
+      <lex lang="ru" lid="Id3">Технологический институт Ачарья имеет рейтинг «Outlook» 63.</lex>
+      <links>
+        <link direction="en2ru">Acharya Institute of Technology | sameAs | Технологический институт Ачарья</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id31" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | sport | Tennis</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | sportsOffered | Tennis</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Tennis is one of the sports offered at the Acharya Institute of Technology.</lex>
+      <lex lang="ru" lid="Id1">Теннис - один из видов спорта, предлагаемых в Технологическом институте Ачарья.</lex>
+      <lex lang="en" lid="Id2">Acharya Institute of Technology offers Tennis as a sport.</lex>
+      <lex lang="ru" lid="Id2">Технологический институт Ачарья предлагает теннис как вид спорта.</lex>
+      <lex lang="en" lid="Id3">One of the sports offered at the Acharya Institute of Technology is tennis.</lex>
+      <lex lang="ru" lid="Id3">Один из видов спорта, предлагаемых в Технологическом институте Ачарья - теннис.</lex>
+      <lex lang="en" lid="Id4">The Acharya Institute of Technology offers sports including tennis.</lex>
+      <lex lang="ru" lid="Id4">Технологический институт Ачарья предлагает спортивные занятия, включая теннис.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Tennis | sameAs | Теннис</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Acharya Institute of Technology | sameAs | Технологический институт Ачарья</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | state | Karnataka</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | state | Karnataka</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Acharya Institute of Technology is in the state of Karnataka.</lex>
+      <lex lang="ru" lid="Id1">Технологический институт Ачарья находится в штате Карнатака.</lex>
+      <lex lang="en" lid="Id2">Acharya Institute of Technology is located in the state of Karnataka.</lex>
+      <lex lang="ru" lid="Id2">Технологический институт Ачарья находится в штате Карнатака.</lex>
+      <lex lang="en" lid="Id3">Acharya Institute of Technology is in Karnataka state.</lex>
+      <lex lang="ru" lid="Id3">Технологический институт Ачарья находится в штате Карнатака.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Karnataka | sameAs | Карнатака</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Acharya Institute of Technology | sameAs | Технологический институт Ачарья</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | free | All_India_Council_for_Technical_Education</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | wasGivenTheTechnicalCampusStatusBy | All_India_Council_for_Technical_Education</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The All India Council for Technical Education was proud to give the Technical Campus status to the Acharya Institute of Technology.</lex>
+      <lex lang="ru" lid="Id1">Всеиндийский совет по техническому образованию с гордостью присвоил статус технического центра Технологическому институту Ачарья.</lex>
+      <lex lang="en" lid="Id2">Acharya Institute of Technology was given the Technical Campus status by the All India Council for Technical Education.</lex>
+      <lex lang="ru" lid="Id2">Технологический институт Ачарья получил статус "Технический кампус" от Всеиндийского совета по техническому образованию.</lex>
+      <lex lang="en" lid="Id3">Acharya Institute of Technology was given the 'Technical Campus' status by All India Council for Technical Education.</lex>
+      <lex lang="ru" lid="Id3">Технологический институт Ачарья получил статус "Технический кампус" от Всеиндийского совета по техническому образованию.</lex>
+      <links>
+        <link direction="en2ru">Acharya Institute of Technology | sameAs | Технологический институт Ачарья</link>
+        <link direction="en2ru">All India Council for Technical Education | sameAs | Всеиндийский совет по техническому образованию</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id34" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>All_India_Council_for_Technical_Education | location | Mumbai</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>All_India_Council_for_Technical_Education | location | Mumbai</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">All India Council for Technical Education is located in Mumbai.</lex>
+      <lex lang="ru" lid="Id1">Всеиндийский совет по техническому образованию находится в Мумбаи.</lex>
+      <lex lang="en" lid="Id2">The All India Council for Technical Education is located in Mumbai.</lex>
+      <lex lang="ru" lid="Id2">Всеиндийский совет по техническому образованию находится в Мумбаи.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Mumbai | sameAs | Мумбаи</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">All India Council for Technical Education | sameAs | Всеиндийский совет по техническому образованию</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id35" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bangalore | founder | Kempe_Gowda_I</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bangalore | founder | Kempe_Gowda_I</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Kempe Gowda I founded Bangalore.</lex>
+      <lex lang="ru" lid="Id1">Кемпе Говда I основал Бангалор.</lex>
+      <lex lang="en" lid="Id2">The founder of Bangalore was Kempe Gowda.</lex>
+      <lex lang="ru" lid="Id2">Основателем Бангалора был Кемпе Говда.</lex>
+      <lex lang="en" lid="Id3">Kempe Gowda I was the founder of Bangalore.</lex>
+      <lex lang="ru" lid="Id3">Кемпе Говда I был основателем Бангалора.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Bangalore | sameAs | Бангалор</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Kempe Gowda I | sameAs | Кемпе Говда I</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id36" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Denmark | leaderName | Lars_Løkke_Rasmussen</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Denmark | leader | Lars_Løkke_Rasmussen</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Denmark | leader | Lars_Løkke_Rasmussen</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Lars Lokke Rasmussen is the leader of Denmark.</lex>
+      <lex lang="ru" lid="Id1">Ларс Лёкке Расмуссен - лидер Дании.</lex>
+      <lex lang="en" lid="Id2">One of Denmark's leaders is Lars Lokke Rasmussen.</lex>
+      <lex lang="ru" lid="Id2">Одним из лидеров Дании является Ларс Лёкке Расмуссен.</lex>
+      <lex lang="en" lid="Id3">Denmark's leader is Lars Løkke Rasmussen.</lex>
+      <lex lang="ru" lid="Id3">Лидером Дании является Ларс Лёкке Расмуссен.</lex>
+      <lex lang="en" lid="Id4">The leader of Denmark is Lars Lokke Rasmussen.</lex>
+      <lex lang="ru" lid="Id4">Лидером Дании является Ларс Лёкке Расмуссен.</lex>
+      <lex lang="en" lid="Id5">The Leader of Denmark is Lars Løkke Rasmussen.</lex>
+      <lex lang="ru" lid="Id5">Лидером Дании является Ларс Лёкке Расмуссен.</lex>
+      <lex lang="en" lid="Id6">Lars Løkke Rasmussen is the leader of Denmark.</lex>
+      <lex lang="ru" lid="Id6">Ларс Лёкке Расмуссен - лидер Дании.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Lars_Løkke_Rasmussen | sameAs | Расмуссен,_Ларс_Лёкке</dbpedialink>
+        <dbpedialink direction="en2ru">Denmark | sameAs | Дания</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="University" eid="Id37" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Denmark | leaderTitle | Monarchy_of_Denmark</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Denmark | leaderTitle | Monarchy_of_Denmark</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Denmark is led by a Monarch.</lex>
+      <lex lang="ru" lid="Id1">Данию возглавляет монарх.</lex>
+      <lex lang="en" lid="Id2">The Monarch of Denmark is the country's leader.</lex>
+      <lex lang="ru" lid="Id2">Монарх Дании - лидер страны.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Denmark | sameAs | Дания</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Monarchy of Denmark | sameAs | монархия Дании</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id38" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Denmark | religion | Church_of_Denmark</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Denmark | religion | Church_of_Denmark</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The official religion of Denmark is the Church of Denmark.</lex>
+      <lex lang="ru" lid="Id1">Официальной религией Дании является Церковь Датского Народа.</lex>
+      <lex lang="en" lid="Id2">Denmark's religion is led by Church of Denmark.</lex>
+      <lex lang="ru" lid="Id2">Религия Дании возглавляется Церковью Датского Народа.</lex>
+      <lex lang="en" lid="Id3">Church of Denmark is the religion of Denmark.</lex>
+      <lex lang="ru" lid="Id3">Церковь Датского народа является религией Дании.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Church_of_Denmark | sameAs | Церковь_Датского_Народа</dbpedialink>
+        <dbpedialink direction="en2ru">Denmark | sameAs | Дания</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="University" eid="Id39" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>European_University_Association | headquarters | Brussels</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>European_University_Association | headquarter | Brussels</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The headquarters of the European University Association is in Brussels.</lex>
+      <lex lang="ru" lid="Id1">Штаб-квартира Ассоциации университетов Европы находится в Брюсселе.</lex>
+      <lex lang="en" lid="Id2">The European University Associatian headquarter is in Brussels.</lex>
+      <lex lang="ru" lid="Id2">Штаб-квартира Ассоциации университетов Европы находится в Брюсселе.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Brussels | sameAs | Брюссельский_столичный_регион</dbpedialink>
+        <dbpedialink direction="en2ru">European_University_Association | sameAs | Ассоциация_университетов_Европы</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="University" eid="Id40" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>India | largestCity | Mumbai</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | largestCity | Mumbai</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The largest city in India is Mumbai.</lex>
+      <lex lang="ru" lid="Id1">Самый крупный город в Индии - Мумбаи.</lex>
+      <lex lang="en" lid="Id2">Mumbai is India's largest city.</lex>
+      <lex lang="ru" lid="Id2">Мумбаи - крупнейший город Индии.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">India | sameAs | Индия</dbpedialink>
+        <dbpedialink direction="en2ru">Mumbai | sameAs | Мумбаи</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="University" eid="Id41" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>India | river | Ganges</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | river | Ganges</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Ganges is a river in India.</lex>
+      <lex lang="ru" lid="Id1">Ганг - река в Индии.</lex>
+      <lex lang="en" lid="Id2">The Ganges is India's most well known river.</lex>
+      <lex lang="ru" lid="Id2">Ганг - самая известная река Индии.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Ganges | sameAs | Ганг</dbpedialink>
+        <dbpedialink direction="en2ru">India | sameAs | Индия</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="University" eid="Id42" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Karnataka | northeast | Telangana</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Karnataka | hasToItsNortheast | Telangana</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Karnataka neighbors Telangana to its northeast.</lex>
+      <lex lang="ru" lid="Id1">Карнатака соседствует с Теланганой на северо-востоке.</lex>
+      <lex lang="en" lid="Id2">Karnataka has to its northeast Telangana.</lex>
+      <lex lang="ru" lid="Id2">На северо-востоке от Карнатаки находится Телангана.</lex>
+      <lex lang="en" lid="Id3">To the northeast of Karnataka is Telagana.</lex>
+      <lex lang="ru" lid="Id3">К северо-востоку от Карнатаки - Телангана.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Telangana | sameAs | Телангана</dbpedialink>
+        <dbpedialink direction="en2ru">Karnataka | sameAs | Карнатака</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="University" eid="Id43" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Karnataka | west | Arabian_Sea</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Karnataka | hasToItsWest | Arabian_Sea</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Arabian Sea is west of Karnataka.</lex>
+      <lex lang="ru" lid="Id1">Аравийское море находится к западу от Карнатаки.</lex>
+      <lex lang="en" lid="Id2">The west of Karnataka is the Arabian Sea.</lex>
+      <lex lang="ru" lid="Id2">К западу от Карнатаки - Аравийское море.</lex>
+      <lex lang="en" lid="Id3">To the west Karnataka borders on the Arabian Sea.</lex>
+      <lex lang="ru" lid="Id3">На западе Карнатака граничит с Аравийским морем.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Arabian_Sea | sameAs | Аравийское_море</dbpedialink>
+        <dbpedialink direction="en2ru">Karnataka | sameAs | Карнатака</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="University" eid="Id44" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Kerala | leaderName | Kochi</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Kerala | leader | Kochi</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Kochi is the leader of Kerala.</lex>
+      <lex lang="ru" lid="Id1">Коччи - лидер Кералы.</lex>
+      <lex lang="en" lid="Id2">The leader of Kerala is Kochi.</lex>
+      <lex lang="ru" lid="Id2">Лидер Кералы - Коччи.</lex>
+      <lex lang="en" lid="Id3">The Kerala leader is in Kochi.</lex>
+      <lex lang="ru" lid="Id3">Лидер Кералы находится в Коччи.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Kochi | sameAs | Коччи</dbpedialink>
+        <dbpedialink direction="en2ru">Kerala | sameAs | Керала</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="University" eid="Id45" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Romania | anthem | Deșteaptă-te,_române!</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Romania | anthem | Deșteaptă-te,_române!</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The anthem of Romania is called Desteapta te romane.</lex>
+      <lex lang="ru" lid="Id1">Гимн Румынии называется "Deșteaptă-te române!".</lex>
+      <lex lang="en" lid="Id2">Desteapta te, romane is the Romanan anthem.</lex>
+      <lex lang="ru" lid="Id2">Desteapta te, romane - это румынский гимн.</lex>
+      <lex lang="en" lid="Id3">The national anthem of Romania is Desteapta-te, romane!</lex>
+      <lex lang="ru" lid="Id3">Национальный гимн Румынии - Desteapta-te, romane!</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Deșteaptă-te,_române! | sameAs | Гимн_Румынии</dbpedialink>
+        <dbpedialink direction="en2ru">Romania | sameAs | Румыния</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="University" eid="Id46" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Romania | ethnicGroup | Germans_of_Romania</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Romania | ethnicGroups | Germans_of_Romania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Romania | ethnicGroup | Germans_of_Romania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">One of the ethnic groups in Romania are the Germans of Romania.</lex>
+      <lex lang="ru" lid="Id1">Одна из этнических групп в Румынии - немцы Румынии.</lex>
+      <lex lang="en" lid="Id2">Germans of Romania is an ethnic group in Romania.</lex>
+      <lex lang="ru" lid="Id2">Немцы Румынии - этническая группа в Румынии.</lex>
+      <lex lang="en" lid="Id3">The Germans of Romania are an ethnic group in Romania.</lex>
+      <lex lang="ru" lid="Id3">Немцы Румынии - этническая группа в Румынии.</lex>
+      <lex lang="en" lid="Id4">Romania has many ethnic groups one of which are Germans.</lex>
+      <lex lang="ru" lid="Id4">В Румынии много этнических групп, одной из которых являются немцы.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Romania | sameAs | Румыния</dbpedialink>
+        <dbpedialink direction="en2ru">Germans_of_Romania | sameAs | Немцы_в_Румынии</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="University" eid="Id47" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Romania | leaderName | Klaus_Iohannis</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Romania | leader | Klaus_Iohannis</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Romania | leader | Klaus_Iohannis</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The leader of Romania is Klaus Iohannis.</lex>
+      <lex lang="ru" lid="Id1">Лидером Румынии является Клаус Йоханнис.</lex>
+      <lex lang="en" lid="Id2">Romania's leader is Klaus Iohannis.</lex>
+      <lex lang="ru" lid="Id2">Лидером Румынии является Клаус Йоханнис.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Romania | sameAs | Румыния</dbpedialink>
+        <dbpedialink direction="en2ru">Klaus_Iohannis | sameAs | Йоханнис,_Клаус</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="University" eid="Id48" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Romania | leaderTitle | Prime_Minister_of_Romania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Romania | leaderTitle | Prime_Minister_of_Romania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The leader of Romania is known as the Prime Minister.</lex>
+      <lex lang="ru" lid="Id1">Лидер Румынии известен как премьер-министр.</lex>
+      <lex lang="en" lid="Id2">Romania's leader is call the Prime Minister of Romania.</lex>
+      <lex lang="ru" lid="Id2">Лидером Румынии называют премьер-министра Румынии.</lex>
+      <lex lang="en" lid="Id3">The title of the leader of Romania is "Prime Minister".</lex>
+      <lex lang="ru" lid="Id3">Звание лидера Румынии - "Премьер-министр".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Romania | sameAs | Румыния</dbpedialink>
+        <dbpedialink direction="en2ru">Prime_Minister_of_Romania | sameAs | Премьер-министр_Румынии</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="University" eid="Id49" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliation | European_University_Association</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Aarhus University School of Business and Social Sciences is affiliated with the European University Association.</lex>
+      <lex lang="ru" lid="Id1">Школа бизнеса и социальных наук Орхусского университета связана с Ассоциацией университетов Европы.</lex>
+      <lex lang="en" lid="Id2">The School of Business and Social Sciences at the Aarhus University is affiliated to European University Association.</lex>
+      <lex lang="ru" lid="Id2">Школа бизнеса и социальных наук в Орхусском университете входит в ассоциацию университетов Европы.</lex>
+      <lex lang="en" lid="Id3">The School of Business and Social Sciences at Aarhus University is affiliated to the European University Association.</lex>
+      <lex lang="ru" lid="Id3">Школа бизнеса и социальных наук в Орхусском университете входит в Ассоциацию университетов Европы.</lex>
+      <lex lang="en" lid="Id4">The School of Business and Social Sciences at the Aarhus University is affiliated with the European University Association.</lex>
+      <lex lang="ru" lid="Id4">"Школа бизнеса и социальных наук" в Орхусском университете связана с Ассоциацией университетов Европы.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">European_University_Association | sameAs | Ассоциация_университетов_Европы</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">School of Business and Social Sciences at the Aarhus University | sameAs | Школа бизнеса и социальных наук Орхусского университета / университета Орхуса</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id50" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Aarhus University School of Business and Social Sciences is in the city of Aarhus.</lex>
+      <lex lang="ru" lid="Id1">"Школа бизнеса и социальных наук" Орхусского университета находится в городе Орхус.</lex>
+      <lex lang="en" lid="Id2">The School of Business and Social Sciences at Aarhus University is situated in the city of Aarhus.</lex>
+      <lex lang="ru" lid="Id2">Школа бизнеса и социальных наук в Орхусском университете расположена в городе Орхус.</lex>
+      <lex lang="en" lid="Id3">The School of Business and Social Sciences at the Aarhus University is located in the city of Aarhus.</lex>
+      <lex lang="ru" lid="Id3">Школа бизнеса и социальных наук в Орхусском университете расположена в городе Орхус.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Aarhus | sameAs | Орхус</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">School of Business and Social Sciences at the Aarhus University | sameAs | Школа бизнеса и социальных наук Орхусского университета / университета Орхуса</link>
+      </links>
+    </entry>
+    <entry category="University" eid="Id51" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The School of Business and Social Sciences at Aarhus University was established in 1928.</lex>
+      <lex lang="ru" lid="Id1">Школа бизнеса и социальных наук в Орхусском университете была создана в 1928 году.</lex>
+      <lex lang="en" lid="Id2">Aarhus University School of Business and Social Sciences was established in 1928.</lex>
+      <lex lang="ru" lid="Id2">В 1928 году была основана Школа бизнеса и социальных наук Орхусского университета.</lex>
+      <lex lang="en" lid="Id3">The School of Business and Social Sciences at the Aarhus University was established in 1928.</lex>
+      <lex lang="ru" lid="Id3">Школа бизнеса и социальных наук в Орхусском университете была создана в 1928 году.</lex>
+      <lex lang="en" lid="Id4">The School of Business and Social Sciences at the Aarhus University is established in 1928.</lex>
+      <lex lang="ru" lid="Id4">Школа бизнеса и социальных наук в Орхусском университете основана в 1928 году.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">1928 | sameAs | 1928_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">School of Business and Social Sciences at the Aarhus University | sameAs | Школа бизнеса и социальных наук Орхусского университета / университета Орхуса</link>
+      </links>
+    </entry>
+  </entries>
+</benchmark>

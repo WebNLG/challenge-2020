@@ -1,0 +1,686 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Monument" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument falls under the category of Contributing property.</lex>
+      <lex lang="ru" lid="Id1">Памятник 11-й пехоте Миссисипи относится к объектам культурного наследия.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument is categorized as a Contributing Property.</lex>
+      <lex lang="ru" lid="Id2">Памятник 11-й пехоте Миссисипи относится к категории «историческое здание».</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument is categorised as a contributing property.</lex>
+      <lex lang="ru" lid="Id3">Памятник 11-й пехоте Миссисипи относится к историческим объектам.</lex>
+      <links>
+        <link direction="en2ru">11th Mississippi Infantry Monument | sameAs | Памятник 11-му пехотному полку Миссисипи</link>
+        <link direction="en2ru">Contributing property | sameAs | историческое здание / историческая ценность</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | "United States"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | country | "United States"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument is located in the United States.</lex>
+      <lex lang="ru" lid="Id1">Памятник 11-й пехоте Миссисипи находится в США.</lex>
+      <lex lang="en" lid="Id2">11th Mississippi Infantry Monument is in the United States.</lex>
+      <lex lang="ru" lid="Id2">Памятник 11-й пехоте Миссисипи находится в США.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument is in the United States.</lex>
+      <lex lang="ru" lid="Id3">Памятник 11-й пехоте Миссисипи находится в США.</lex>
+      <lex lang="en" lid="Id4">The 11th Mississippi Infantry Monument is based in the US.</lex>
+      <lex lang="ru" lid="Id4">Памятник 11-й пехоте Миссисипи находится в США.</lex>
+      <links>
+        <link direction="en2ru">11th Mississippi Infantry Monument | sameAs | Памятник 11-му пехотному полку Миссисипи</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">11th Mississippi Infantry Monument's location is Adams County, Pennsylvania.</lex>
+      <lex lang="ru" lid="Id1">Местонахождение памятника 11-й пехоте Миссисипи - округ Адамс, Пенсильвания.</lex>
+      <lex lang="en" lid="Id2">The location of the 11th Mississippi Infantry Monument is Adams County, Pennsylvania.</lex>
+      <lex lang="ru" lid="Id2">Местонахождение памятника 11-й пехоте Миссисипи - округ Адамс, штат Пенсильвания.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania.</lex>
+      <lex lang="ru" lid="Id3">Памятник 11-й пехоте Миссисипи находится в округе Адамс, штат Пенсильвания.</lex>
+      <lex lang="en" lid="Id4">11th Mississippi Infantry Monument is found in the Adams County in Pennsylvania.</lex>
+      <lex lang="ru" lid="Id4">Памятник 11-й пехоте Миссисипи находится в округе Адамс в штате Пенсильвания.</lex>
+      <links>
+        <link direction="en2ru">11th Mississippi Infantry Monument | sameAs | Памятник 11-му пехотному полку Миссисипи</link>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | округ Адамс</link>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | Пенсильвания</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | range | Seminary_Ridge</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Seminary_Ridge</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument is located at Seminary Ridge.</lex>
+      <lex lang="ru" lid="Id1">Памятник 11-й пехоте Миссисипи находится на Семинарском хребте.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument's location is in the Seminary Ridge.</lex>
+      <lex lang="ru" lid="Id2">Памятник 11-й пехоте Миссисипи находится на Семинарском хребте.</lex>
+      <links>
+        <link direction="en2ru">Seminary Ridge | sameAs | Семинарский хребет</link>
+        <link direction="en2ru">11th Mississippi Infantry Monument | sameAs | Памятник 11-му пехотному полку Миссисипи</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument is in the municipality of Gettysburg , Pennsylvania.</lex>
+      <lex lang="ru" lid="Id1">Памятник 11-й пехоте Миссисипи находится в муниципалитете Геттисберг, штат Пенсильвания.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument is placed in the municipality of Gettysburg in Pennsylvania.</lex>
+      <lex lang="ru" lid="Id2">Памятник 11-й пехоте Миссисипи находится в муниципалитете Геттисберг, штат Пенсильвания.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument is in the municipality of Gettysburg, Pennsylvania.</lex>
+      <lex lang="ru" lid="Id3">Памятник 11-й пехоте Миссисипи находится в муниципалитете Геттисберг, штат Пенсильвания.</lex>
+      <lex lang="en" lid="Id4">The 11th Mississippi Infantry Monument is located in Gettysburg, Pennsylvania.</lex>
+      <lex lang="ru" lid="Id4">Памятник 11-й пехоте Миссисипи находится в городе Геттисберг, штат Пенсильвания.</lex>
+      <lex lang="en" lid="Id5">11th Mississippi Infantry Monument is in Gettysburg, Pennsylvania.</lex>
+      <lex lang="ru" lid="Id5">Памятник 11-й пехоте Миссисипи находится в городе Геттисберге, штат Пенсильвания.</lex>
+      <lex lang="en" lid="Id6">The 11th Mississippi Infantry Monument is in the municipality of Gettysburg Pennsylvania.</lex>
+      <lex lang="ru" lid="Id6">Памятник 11-й пехоте Миссисипи находится в муниципалитете Геттисберг, Пенсильвания.</lex>
+      <lex lang="en" lid="Id7">The municipality for the 11th Mississippi Infantry Monument is Gettysburg, Pennsylvania.</lex>
+      <lex lang="ru" lid="Id7">Муниципалитет памятника 11-й пехоте Миссисипи - Геттисберг, Пенсильвания.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Gettysburg,_Pennsylvania | sameAs | Геттисберг</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">11th Mississippi Infantry Monument | sameAs | Памятник 11-му пехотному полку Миссисипи</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument is in Pennsylvania.</lex>
+      <lex lang="ru" lid="Id1">Памятник 11-й пехоте Миссисипи находится в штате Пенсильвания.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument is located in the state of Pennsylvania.</lex>
+      <lex lang="ru" lid="Id2">Памятник 11-й пехоте Миссисипи находится в штате Пенсильвания.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument stands in the state of Pennsylvania.</lex>
+      <lex lang="ru" lid="Id3">Памятник 11-й пехоте Миссисипи находится в штате Пенсильвания.</lex>
+      <lex lang="en" lid="Id4">11th Mississippi Infantry Monument is in Pennsylvania.</lex>
+      <lex lang="ru" lid="Id4">Памятник 11-й пехоте Миссисипи находится в штате Пенсильвания.</lex>
+      <lex lang="en" lid="Id5">The 11th Mississippi Infantry Monument is found in Pennsylvania.</lex>
+      <lex lang="ru" lid="Id5">Памятник 11-й пехоте Миссисипи находится в Пенсильвании.</lex>
+      <lex lang="en" lid="Id6">The 11th Mississippi Infantry Monument is located in Pennsylvania state.</lex>
+      <lex lang="ru" lid="Id6">Памятник 11-й пехоте Миссисипи находится в штате Пенсильвания.</lex>
+      <links>
+        <link direction="en2ru">11th Mississippi Infantry Monument | sameAs | Памятник 11-му пехотному полку Миссисипи</link>
+        <link direction="en2ru">Pennsylvania | sameAs | Пенсильвания</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monument belongs to the category of Historic districts in the United States.</lex>
+      <lex lang="ru" lid="Id1">Памятник 14-й добровольческой пехоте Нью-Джерси принадлежит к категории исторических районов США.</lex>
+      <lex lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is categorised as a historic district in the United States.</lex>
+      <lex lang="ru" lid="Id2">Памятник 14-й добровольческой пехоте Нью-Джерси принадлежит к категории исторических районов США.</lex>
+      <links>
+        <link direction="en2ru">Historic districts in the United States | sameAs | исторические районы США</link>
+        <link direction="en2ru">14th New Jersey Volunteer Infantry Monument | sameAs | Памятник 14-му добровольческому пехотному полку Нью-Джерси</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is located in the United States.</lex>
+      <lex lang="ru" lid="Id1">Памятник 14-й добровольческой пехоте Нью-Джерси находится в США.</lex>
+      <lex lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is found in the United States.</lex>
+      <lex lang="ru" lid="Id2">Памятник 14-й добровольческой пехоте Нью-Джерси находится в США.</lex>
+      <lex lang="en" lid="Id3">14th New Jersey Volunteer Infantry Monument located in United States.</lex>
+      <lex lang="ru" lid="Id3">Памятник 14-й добровольческой пехоте расположен в Соединенных Штатах.</lex>
+      <lex lang="en" lid="Id4">14th New Jersey Volunteer Infantry Memorial is in the United States.</lex>
+      <lex lang="ru" lid="Id4">Памятник 14-й добровольческой пехоте Нью-Джерси находится в США.</lex>
+      <links>
+        <link direction="en2ru">14th New Jersey Volunteer Infantry Monument | sameAs | Памятник 14-му добровольческому пехотному полку Нью-Джерси</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is located in the district of the Monocacy National Battlefield.</lex>
+      <lex lang="ru" lid="Id1">Памятник 14-й добровольческой пехоте Нью-Джерси находится в районе национального парка "Национальное поле битвы в Монокаси".</lex>
+      <lex lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is located on the Monocacy National Battlefield.</lex>
+      <lex lang="ru" lid="Id2">Памятник 14-й добровольческой пехоте Нью-Джерси находится в национальном парке "Национальное поле битвы в Монокаси".</lex>
+      <lex lang="en" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is located in the Monocacy National Battlefield.</lex>
+      <lex lang="ru" lid="Id3">Памятник 14-й добровольческой пехоте Нью-Джерси находится в парке "Национальное поле битвы в Монокаси".</lex>
+      <lex lang="en" lid="Id4">The 14th New Jersey Volunteer Infantry Monument is found in the Monocacy National Battlefield.</lex>
+      <lex lang="ru" lid="Id4">Памятник 14-й добровольческой пехоте Нью-Джерси находится на Национальном поле битвы в Монокаси.</lex>
+      <links>
+        <link direction="en2ru">Monocacy National Battlefield | sameAs | Национальное поле битвы в Монокаси</link>
+        <link direction="en2ru">14th New Jersey Volunteer Infantry Monument | sameAs | Памятник 14-му добровольческому пехотному полку Нью-Джерси</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monument was established in 1907-07-11.</lex>
+      <lex lang="ru" lid="Id1">Памятник 14-й добровольческой пехоте Нью-Джерси был создан в 1907-2007 годах.</lex>
+      <lex lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument was established 1907-07-11.</lex>
+      <lex lang="ru" lid="Id2">Памятник 14-й добровольческой пехоте Нью-Джерси был создан в 1907-2007 годах.</lex>
+      <lex lang="en" lid="Id3">The 14th New Jersey Volunteer Infantry Monument was established on July 11th, 1907.</lex>
+      <lex lang="ru" lid="Id3">14 июля 1907 года был создан Памятник 14-й добровольческой пехоте Нью-Джерси.</lex>
+      <lex lang="en" lid="Id4">The 14th New Jersey Volunteer Infantry Monument was established on 11th July 1907.</lex>
+      <lex lang="ru" lid="Id4">Памятник 14-й добровольческой пехоте Нью-Джерси был создан 14 июля 1907 года.</lex>
+      <links>
+        <link direction="en2ru">14th New Jersey Volunteer Infantry Monument | sameAs | Памятник 14-му добровольческому пехотному полку Нью-Джерси</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | foundingDate | "1907-07-11"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | foundingDate | 1907-07-11</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">14th New Jersey Volunteer Infantry Monument was founded 1907-07-11.</lex>
+      <lex lang="ru" lid="Id1">Памятник 14-й добровольческой пехоте Нью-Джерси был создан 11.07.1907.</lex>
+      <lex lang="en" lid="Id2">The memorial depicting the 14th New Jersey Volunteer Infantry was founded on July 11th, 1907.</lex>
+      <lex lang="ru" lid="Id2">Мемориал, изображающий 14 пехоту Нью-Джерси, был основан 11 июля 1907 года.</lex>
+      <lex lang="en" lid="Id3">The 14th New Jersey Volunteer Infantry Monument was started on 11th July 1907.</lex>
+      <lex lang="ru" lid="Id3">14 июля 1907 был начат памятник 14-й добровольческой пехоте Нью-Джерси.</lex>
+      <lex lang="en" lid="Id4">The 14th New Jersey Volunteer Infantry Monument's founding date was on 1907-07-11.</lex>
+      <lex lang="ru" lid="Id4">Дата создания памятника 14-й добровольческой пехоте Нью-Джерси - 11.07.1907.</lex>
+      <links>
+        <link direction="en2ru">14th New Jersey Volunteer Infantry Monument | sameAs | Памятник 14-му добровольческому пехотному полку Нью-Джерси</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | owner | National_Park_Service</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | owner | National_Park_Service</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is owned by the National Park Service.</lex>
+      <lex lang="ru" lid="Id1">Памятник 14-й добровольческой пехоте Нью-Джерси принадлежит Службе национальных парков США.</lex>
+      <lex lang="en" lid="Id2">The National Park Service looks after the 14th New Jersey Volunteer Infantry Monument.</lex>
+      <lex lang="ru" lid="Id2">Служба национальных парков США заботится о памятнике 14-й добровольческой пехоте Нью-Джерси.</lex>
+      <lex lang="en" lid="Id3">14th New Jersey Volunteer Infantry Monument is owned by the National Park Service.</lex>
+      <lex lang="ru" lid="Id3">Памятник 14-й добровольческой пехоте Нью-Джерси принадлежит Службе национальных парков США.</lex>
+      <lex lang="en" lid="Id4">The National Park Service is the owner of the 14th New Jersey Volunteer Infantry Monument.</lex>
+      <lex lang="ru" lid="Id4">Служба национальных парков США является владельцем памятника 14-й добровольческой пехоте Нью-Джерси.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">National_Park_Service | sameAs | Служба_национальных_парков_США</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">14th New Jersey Volunteer Infantry Monument | sameAs | Памятник 14-му добровольческому пехотному полку Нью-Джерси</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is owned by the National Park Service.</lex>
+      <lex lang="ru" lid="Id1">Памятник 14-й добровольческой пехоте Нью-Джерси принадлежит Службе национальных парков США.</lex>
+      <lex lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument has been provided by the National Park Service.</lex>
+      <lex lang="ru" lid="Id2">Памятник 14-й добровольческой пехоте Нью-Джерси был создан Службой национальных парков США.</lex>
+      <lex lang="en" lid="Id3">14th New Jersey Volunteer Infantry Monument is owned by the National Park Service.</lex>
+      <lex lang="ru" lid="Id3">Памятник 14-й добровольческой пехоте Нью-Джерси принадлежит Службе национальных парков США.</lex>
+      <lex lang="en" lid="Id4">The National Park Service has responsibility for the 14th New Jersey Volunteer Infantry Monument.</lex>
+      <lex lang="ru" lid="Id4">Служба национальных парков США отвечает за памятник 14-й добровольческой пехоте Нью-Джерси.</lex>
+      <lex lang="en" lid="Id5">The National Park Service owns the 14th New Jersey Volunteer Infantry Monument.</lex>
+      <lex lang="ru" lid="Id5">Служба национальных парков США владеет памятником 14-й добровольческой пехоте Нью-Джерси.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">National_Park_Service | sameAs | Служба_национальных_парков_США</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">14th New Jersey Volunteer Infantry Monument | sameAs | Памятник 14-му добровольческому пехотному полку Нью-Джерси</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | state | "Maryland"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | state | "Maryland"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monuments is located in the state of Maryland.</lex>
+      <lex lang="ru" lid="Id1">Памятник 14-й добровольческой пехоте Нью-Джерси находится в штате Мэриленд.</lex>
+      <lex lang="en" lid="Id2">The 14th New Jersey Volunteer infantry Monument is in the state of Maryland.</lex>
+      <lex lang="ru" lid="Id2">Памятник 14-й добровольческой пехоте Нью-Джерси находится в штате Мэриленд.</lex>
+      <lex lang="en" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is located in the state of Maryland.</lex>
+      <lex lang="ru" lid="Id3">Памятник 14-й добровольческой пехоте Нью-Джерси находится в штате Мэриленд.</lex>
+      <links>
+        <link direction="en2ru">Maryland | sameAs | Мэриленд</link>
+        <link direction="en2ru">14th New Jersey Volunteer Infantry Monument | sameAs | Памятник 14-му добровольческому пехотному полку Нью-Джерси</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Adams County, Pennsylvania has Cumberland County, Pennsylvania to its north.</lex>
+      <lex lang="ru" lid="Id1">К северу от округа Адамс, Пенсильвания, находится округ Камберленд, Пенсильвания.</lex>
+      <lex lang="en" lid="Id2">Cumberland county, Pennsylvania is north of Adams County, Pennsylvania.</lex>
+      <lex lang="ru" lid="Id2">Округ Камберленд, Пенсильвания, находится к северу от округа Адамс, штат Пенсильвания.</lex>
+      <lex lang="en" lid="Id3">Pennsylvania's Cumberland County is to the north of the Adams County.</lex>
+      <lex lang="ru" lid="Id3">Округ Камберленд в Пенсильвании находится к северу от округа Адамс.</lex>
+      <lex lang="en" lid="Id4">Cumberland County Pennsylvania is located in the north of Adams County Pennsylvania.</lex>
+      <lex lang="ru" lid="Id4">Округ Камберленд, Пенсильвания, находится на севере от города Адамс в штате Пенсильвания.</lex>
+      <lex lang="en" lid="Id5">To the north of Adams County, Pennsylvania is Cumberland County, Pennsylvania.</lex>
+      <lex lang="ru" lid="Id5">К северу от округа Адамс, штат Пенсильвания, находится округ Камберленд, штат Пенсильвания.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Cumberland_County,_Pennsylvania | sameAs | Камберленд_(округ,_Пенсильвания)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | округ Адамс</link>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | Пенсильвания</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | southwest | Frederick_County,_Maryland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSouthwest | Frederick_County,_Maryland</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Frederick County, Maryland is to the southwest of Adams County, Pennsylvania.</lex>
+      <lex lang="ru" lid="Id1">Округ Фредерик, Мэриленд, находится к юго-западу от округа Адамс, штат Пенсильвания.</lex>
+      <lex lang="en" lid="Id2">Adams County, Pennsylvania has Frederick County, Maryland to its southwest.</lex>
+      <lex lang="ru" lid="Id2">На юго-западе от округа Адамс, штат Пенсильвания, находится округ Фредерик.</lex>
+      <lex lang="en" lid="Id3">Frederick County Maryland is southwest of Adams Count Pennsylvania.</lex>
+      <lex lang="ru" lid="Id3">Округ Фредерик, Мэриленд, находится к юго-западу от округа Адамс, Пенсильвания.</lex>
+      <lex lang="en" lid="Id4">Maryland's Frederick County is found to the southwest of Pennsylvania's Adams County.</lex>
+      <lex lang="ru" lid="Id4">Округ Фредерик, Мэриленд, находится к юго-западу от округа Адамс, штат Пенсильвания.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Frederick_County,_Maryland | sameAs | Фредерик_(округ,_Мэриленд)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | округ Адамс</link>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | Пенсильвания</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | west | Franklin_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsWest | Franklin_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Adams County Pennsylvania is East of Franklin County, Pennsylvania.</lex>
+      <lex lang="ru" lid="Id1">Округ Адамс, Пенсильвания, находится на востоке от округа Франклин, штат Пенсильвания.</lex>
+      <lex lang="en" lid="Id2">To the west of Adams County, Pennsylvania, is Franklin County, Pennsylvania.</lex>
+      <lex lang="ru" lid="Id2">К западу от округа Адамс, штат Пенсильвания, - округ Франклин, штат Пенсильвания.</lex>
+      <lex lang="en" lid="Id3">Pennsylvania's Franklin County is found to the west of Adams County.</lex>
+      <lex lang="ru" lid="Id3">К западу от округа Адамс в штате Пенсильвания находится округ Франклин, Пенсильвания.</lex>
+      <lex lang="en" lid="Id4">Adams County, Pennsylvania has to its west Franklin County, Pennsylvania.</lex>
+      <lex lang="ru" lid="Id4">На западе от округа Адамс, Пенсильвания, находится округ Франклин, Пенсильвания.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Franklin_County,_Pennsylvania | sameAs | Франклин_(округ,_Пенсильвания)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | округ Адамс</link>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | Пенсильвания</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Atatürk_Monument_(İzmir) | open | "1932-07-27"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | "1932-07-27"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Ataturk Monument was inaugurated on 27th July, 1932.</lex>
+      <lex lang="ru" lid="Id1">Памятник Ататюрку был открыт 27 июля 1932 года.</lex>
+      <lex lang="en" lid="Id2">The inauguration date of the Atatürk Monument in Izmir is the 27th of July, 1932.</lex>
+      <lex lang="ru" lid="Id2">Дата инаугурации памятника Ататюрку в Измире - 27 июля 1932 года.</lex>
+      <lex lang="en" lid="Id3">The inauguration date for the Atatürk Monument (İzmir) is 1932-07-27.</lex>
+      <lex lang="ru" lid="Id3">Дата открытия памятника Ататюрку (Измир) - 27 июля 1932 года.</lex>
+      <lex lang="en" lid="Id4">The inauguration of the Atatürk Monument was at July 27th, 1932.</lex>
+      <lex lang="ru" lid="Id4">Торжественное открытие памятника Ататюрку состоялось 27 июля 1932 года.</lex>
+      <links>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | памятник Ататюрку</link>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | Измир</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Atatürk Monument is located in Izmir, Turkey.</lex>
+      <lex lang="ru" lid="Id1">Памятник Ататюрку расположен в Измире, Турция.</lex>
+      <lex lang="en" lid="Id2">The Ataturk Monument (Izmir) is located in Turkey.</lex>
+      <lex lang="ru" lid="Id2">Памятник Ататюрку (Измир) расположен в Турции.</lex>
+      <lex lang="en" lid="Id3">The Atatürk Monument is in Turkey.</lex>
+      <lex lang="ru" lid="Id3">Памятник Ататюрку находится в Турции.</lex>
+      <lex lang="en" lid="Id4">The Atatürk Monument is located in İzmir, Turkey.</lex>
+      <lex lang="ru" lid="Id4">Памятник Ататюрку расположен в Измире, Турция.</lex>
+      <lex lang="en" lid="Id5">The Atatürk Monument (İzmir) can be found in Turkey.</lex>
+      <lex lang="ru" lid="Id5">Памятник Ататюрку (Измир) находится в Турции.</lex>
+      <lex lang="en" lid="Id6">The Atatürk Monument (İzmir) is found in Turkey.</lex>
+      <lex lang="ru" lid="Id6">Памятник Ататюрку (Измир) находится в Турции.</lex>
+      <lex lang="en" lid="Id7">Atatürk Monument is located in İzmir, Turkey.</lex>
+      <lex lang="ru" lid="Id7">Памятник Ататюрку находится в Измире, Турция.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Turkey | sameAs | Турция</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | памятник Ататюрку</link>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | Измир</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Baku is the capital of Azerbaijan.</lex>
+      <lex lang="ru" lid="Id1">Баку - столица Азербайджана.</lex>
+      <lex lang="en" lid="Id2">The capital of Azerbaijan is Baku.</lex>
+      <lex lang="ru" lid="Id2">Столица Азербайджана - Баку.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Azerbaijan | sameAs | Азербайджан</dbpedialink>
+        <dbpedialink direction="en2ru">Baku | sameAs | Баку</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Monument" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The National Assembly dictates the legislature of Azerbaijan.</lex>
+      <lex lang="ru" lid="Id1">Национальное собрание диктует законодательство Азербайджана.</lex>
+      <lex lang="en" lid="Id2">The National Assembly (Azerbaijan) is the source of legislature in Azerbaijan.</lex>
+      <lex lang="ru" lid="Id2">Национальное собрание (Азербайджан) является источником законодательной власти в Азербайджане.</lex>
+      <lex lang="en" lid="Id3">The Azerbaijan legislature is known as the National Assembly.</lex>
+      <lex lang="ru" lid="Id3">Законодательный орган Азербайджана известен как Национальное собрание.</lex>
+      <lex lang="en" lid="Id4">The National Assembly is the legislative branch of government in Azerbaijan.</lex>
+      <lex lang="ru" lid="Id4">Национальное собрание является законодательной властью в Азербайджане.</lex>
+      <lex lang="en" lid="Id5">the legislature in Azerbaijan is National Assembly.</lex>
+      <lex lang="ru" lid="Id5">Законодательная власть в Азербайджане - Национальное собрание.</lex>
+      <lex lang="en" lid="Id6">Azerbaijan has legislature of National Assembly.</lex>
+      <lex lang="ru" lid="Id6">В Азербайджане законодательство ведется Национальным собранием.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Azerbaijan | sameAs | Азербайджан</dbpedialink>
+        <dbpedialink direction="en2ru">National_Assembly_(Azerbaijan) | sameAs | Милли_Меджлис_Азербайджана</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Monument" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Baku Turkish Martyrs' Memorial is dedicated to the Ottoman Army soldiers killed in the Battle of Baku.</lex>
+      <lex lang="ru" lid="Id1">Мемориал памяти турецких солдат в Баку посвящен солдатам Османской армии, погибшим в битве за Баку.</lex>
+      <lex lang="en" lid="Id2">The Baku Turkish Martyrs' Memorial is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku.</lex>
+      <lex lang="ru" lid="Id2">Мемориал памяти турецких солдат в Баку посвящен солдатам Османской армии, погибшим в битве за Баку.</lex>
+      <lex lang="en" lid="Id3">The Baku Turkish Martyrs Memorial has been dedicated to Ottoman Army soldiers killed in the Battle of Baku.</lex>
+      <lex lang="ru" lid="Id3">Мемориал памяти турецких солдат в Баку был посвящен солдатам Османской армии, погибшим в битве за Баку.</lex>
+      <lex lang="en" lid="Id4">The Baku Turkish Martyrs Memorial is dedicated to the Ottoman Army soldiers killed in the Battle of Baku.</lex>
+      <lex lang="ru" lid="Id4">Мемориал памяти турецких солдат в Баку посвящен солдатам Османской армии, погибшим в битве за Баку.</lex>
+      <links>
+        <link direction="en2ru">Ottoman Army soldiers killed in the Battle of Baku | sameAs | солдаты Османской армии, погибшие в битве за Баку</link>
+        <link direction="en2ru">Baku Turkish Martyrs' Memorial | sameAs | Мемориал памяти турецких солдат/ воинов/ мучеников в Баку</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Baku Turkish Martyrs Memorial designer was Hüseyin Bütüner and Hilmi Güner.</lex>
+      <lex lang="ru" lid="Id1">Создателями мемориала памяти турецких солдат в Баку были Хюсейн Бютюнер и Хилми Гюнер.</lex>
+      <lex lang="en" lid="Id2">The Baku Turkish Martyr's Memorial was designed by Hüseyin Bütüner and Hilmi Güner.</lex>
+      <lex lang="ru" lid="Id2">Мемориала памяти турецких солдат в Баку был спроектирован Хюсейном Бютюнером и Хилми Гюнером.</lex>
+      <lex lang="en" lid="Id3">The designers of the Turkish martyrs memorial are Huseyin Butuner and Hilmi Guner.</lex>
+      <lex lang="ru" lid="Id3">Дизайнеры мемориала турецких мучеников - Гусейн Бутунер и Хилми Гунер.</lex>
+      <lex lang="en" lid="Id4">The Baku Turkish Martyrs' Memorial was designed by Huseyin Butuner and Hilmi Guner.</lex>
+      <lex lang="ru" lid="Id4">Мемориал турецких мучеников был разработан Хусейном Бутунером и Хилми Гунером.</lex>
+      <lex lang="en" lid="Id5">Hüseyin Bütüner and Hilmi Güner designed the Baku Turkish Martyrs' Memorial.</lex>
+      <lex lang="ru" lid="Id5">Хюсейн Бютюнер и Хилми Гюнер разработали мемориал турецких мучеников в Баку.</lex>
+      <lex lang="en" lid="Id6">Baku Turkish Martyrs' Memorial was designed by Huseyin Butuner and Hilmi Guner.</lex>
+      <lex lang="ru" lid="Id6">Мемориал турецких мучеников в Баку был разработан Гусейном Бутунером и Хилми Гунером.</lex>
+      <lex lang="en" lid="Id7">The designers of the Baku Turkish Martyrs' Memorial are Hüseyin Bütüner and Hilmi Güner.</lex>
+      <lex lang="ru" lid="Id7">Создатели мемориала турецких мучеников в Баку - Хюсейн Бютюнер и Хилми Гюнер.</lex>
+      <lex lang="en" lid="Id8">Huseyin Butuner and Hilmi Guner are the designers of the Baku Turkish Martyrs' Memorial.</lex>
+      <lex lang="ru" lid="Id8">Хюсейн Бютюнер и Хилми Гюнер - создатели мемориала турецких мучеников в Баку.</lex>
+      <links>
+        <link direction="en2ru">Hüseyin Bütüner and Hilmi Güner | includes | Хюсейн Бютюнер / Гусейн Бутунер</link>
+        <link direction="en2ru">Hüseyin Bütüner and Hilmi Güner | includes | Хилми Гюнер / Хилми Гунер</link>
+        <link direction="en2ru">Baku Turkish Martyrs' Memorial | sameAs | Мемориал памяти турецких солдат/ воинов/ мучеников в Баку</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Dead Man's Plack is dedicated to Æthelwald, Ealdorman of East Anglia.</lex>
+      <lex lang="ru" lid="Id1">"Плак мертвого человека" посвящен Этельвальду, олдермену из Восточной Англии.</lex>
+      <lex lang="en" lid="Id2">Dead Man's Plack is dedicated to Æthelwald, Ealdorman of East Anglia.</lex>
+      <lex lang="ru" lid="Id2">"Плак мертвого человека" посвящен Этельвальду, альдерману из Восточной Англии.</lex>
+      <links>
+        <link direction="en2ru">Æthelwald, Ealdorman of East Anglia | includes | олдермен / альдерман из Восточной Англии</link>
+        <link direction="en2ru">Æthelwald, Ealdorman of East Anglia | includes | Этельвальд</link>
+        <link direction="en2ru">Dead Man's Plack | sameAs | “Плак мертвеца”</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Dead Man's Plack is located in England.</lex>
+      <lex lang="ru" lid="Id1">"Плак мертвеца" находится в Англии.</lex>
+      <lex lang="en" lid="Id2">Dead Man's Plack is in England.</lex>
+      <lex lang="ru" lid="Id2">"Плак мертвеца" находится в Англии.</lex>
+      <lex lang="en" lid="Id3">Dead Man's Plack is found in England.</lex>
+      <lex lang="ru" lid="Id3">"Плак мертвеца" находится в Англии.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">England | sameAs | Англия</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Dead Man's Plack | sameAs | “Плак мертвеца”</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id26" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | material | Rock_(geology)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | material | Rock_(geology)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Dead Man's Plack is made from rock.</lex>
+      <lex lang="ru" lid="Id1">"Плак мертвеца" сделан из камня.</lex>
+      <lex lang="en" lid="Id2">Dad Man's Plack is made of rock.</lex>
+      <lex lang="ru" lid="Id2">"Плак мертвеца" выполнен из камня.</lex>
+      <lex lang="en" lid="Id3">Dead Man's Plack is made from stone.</lex>
+      <lex lang="ru" lid="Id3">"Плак мертвеца" выполнен из камня.</lex>
+      <lex lang="en" lid="Id4">The Dead Man's Plack is made with rock.</lex>
+      <lex lang="ru" lid="Id4">"Плак мертвеца" выполнен из камня.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Rock_(geology) | sameAs | Горная_порода</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Dead Man's Plack | sameAs | “Плак мертвеца”</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>England | capital | London</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>England | capital | London</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">London is the capital of England.</lex>
+      <lex lang="ru" lid="Id1">Лондон - столица Англии.</lex>
+      <lex lang="en" lid="Id2">The capital of England is London.</lex>
+      <lex lang="ru" lid="Id2">Столица Англии - Лондон.</lex>
+      <lex lang="en" lid="Id3">England's capital is London.</lex>
+      <lex lang="ru" lid="Id3">Столица Англии - Лондон.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">England | sameAs | Англия</dbpedialink>
+        <dbpedialink direction="en2ru">London | sameAs | Лондон</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Monument" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>England | ethnicGroups | British_Arabs</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>England | ethnicGroup | British_Arabs</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">One of the ethnic groups found in England is the British Arabs.</lex>
+      <lex lang="ru" lid="Id1">Одна из этнических групп, найденных в Англии, - это британские арабы.</lex>
+      <lex lang="en" lid="Id2">The British Arabs are an English ethnic group.</lex>
+      <lex lang="ru" lid="Id2">Британские арабы - это английская этническая группа.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">England | sameAs | Англия</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">British Arabs | sameAs | британские арабы</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>England | languages | Cornish_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>England | language | Cornish_language</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">One of the languages spoken in England is the Cornish language.</lex>
+      <lex lang="ru" lid="Id1">Один из языков, на котором говорят в Англии, - корнский.</lex>
+      <lex lang="en" lid="Id2">Cornish language is spoken in England.</lex>
+      <lex lang="ru" lid="Id2">На корнском языке говорят в Англии.</lex>
+      <lex lang="en" lid="Id3">Cornish is a language spoken in the Cornwall region of England.</lex>
+      <lex lang="ru" lid="Id3">Корнский - это язык, на котором говорят в корнуолльском регионе Англии.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">England | sameAs | Англия</dbpedialink>
+        <dbpedialink direction="en2ru">Cornish_language | sameAs | Корнский_язык</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Monument" eid="Id30" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>England | religion | Church_of_England</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>England | religion | Church_of_England</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">In England the main religion is the Church of England.</lex>
+      <lex lang="ru" lid="Id1">В Англии главной религией является Церковь Англии.</lex>
+      <lex lang="en" lid="Id2">The established religion in England is The Church of England.</lex>
+      <lex lang="ru" lid="Id2">Устоявшаяся религия в Англии - Церковь Англии.</lex>
+      <lex lang="en" lid="Id3">the religion of England is Church of England.</lex>
+      <lex lang="ru" lid="Id3">Религия Англии - церковь Англии.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Church_of_England | sameAs | Церковь_Англии</dbpedialink>
+        <dbpedialink direction="en2ru">England | sameAs | Англия</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Monument" eid="Id31" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Monocacy National Battlefield is located in Frederick County, Maryland.</lex>
+      <lex lang="ru" lid="Id1">Национальное поле битвы в Монокаси находится в графстве Фредерик, штат Мэриленд.</lex>
+      <lex lang="en" lid="Id2">The Monocacy National Battlefield is located in Frederick County, Maryland.</lex>
+      <lex lang="ru" lid="Id2">Национальное поле битвы в Монокаси находится в графстве Фредерик, штат Мэриленд.</lex>
+      <lex lang="en" lid="Id3">The Monocacy National Battlefield is in the county Frederick, Maryland.</lex>
+      <lex lang="ru" lid="Id3">Национальное поле битвы в Монокаси находится в графстве Фредерик, штат Мэриленд.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Frederick_County,_Maryland | sameAs | Фредерик_(округ,_Мэриленд)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Monocacy National Battlefield | sameAs | Национальное поле битвы в Монокаси</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The city nearest to Monocacy National Battlefield is Frederick, Maryland.</lex>
+      <lex lang="ru" lid="Id1">Город, ближайший к Национальному поле битвы в Монокаси - Фредерик, штат Мэриленд.</lex>
+      <lex lang="en" lid="Id2">The nearest city to Monocacy National Battlefield is Frederick, Maryland.</lex>
+      <lex lang="ru" lid="Id2">Ближайший к Национальному полю битвы в Монокаси город - Фредерик, штат Мэриленд.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Frederick,_Maryland | sameAs | Фредерик_(Мэриленд)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Monocacy National Battlefield | sameAs | Национальное поле битвы в Монокаси</link>
+      </links>
+    </entry>
+    <entry category="Monument" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Turkey | capital | Ankara</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Ankara is the capital of Turkey.</lex>
+      <lex lang="ru" lid="Id1">Анкара - столица Турции.</lex>
+      <lex lang="en" lid="Id2">The capital of Turkey is Ankara.</lex>
+      <lex lang="ru" lid="Id2">Столица Турции - Анкара.</lex>
+      <lex lang="en" lid="Id3">Turkey's capital is Ankara.</lex>
+      <lex lang="ru" lid="Id3">Столица Турции - Анкара.</lex>
+      <lex lang="en" lid="Id4">Ankara is the Turkish capital.</lex>
+      <lex lang="ru" lid="Id4">Анкара - турецкая столица.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Turkey | sameAs | Турция</dbpedialink>
+        <dbpedialink direction="en2ru">Ankara | sameAs | Анкара</dbpedialink>
+      </dbpedialinks>
+    </entry>
+  </entries>
+</benchmark>

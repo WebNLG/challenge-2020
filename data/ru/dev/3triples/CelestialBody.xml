@@ -1,0 +1,439 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="CelestialBody" eid="Id1" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1101_Clematis | escapeVelocity | "72.0"^^xsd:double</otriple>
+        <otriple>1101_Clematis | mass | "5700.0"^^xsd:double</otriple>
+        <otriple>1101_Clematis | Planet/apoapsis | "5.20906E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | mass | "5700.0"^^xsd:double</otriple>
+        <otriple>1101_Clematis | escapeVelocity | "0.02"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>1101_Clematis | Planet/apoapsis | "5.20906E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | escapeVelocity | "72.0"^^xsd:double</otriple>
+        <otriple>1101_Clematis | mass | "5.7"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>1101_Clematis | Planet/apoapsis | "5.20906E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | escapeVelocity | "0.02"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>1101_Clematis | mass | "5.7"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>1101_Clematis | Planet/apoapsis | "5.20906E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1101_Clematis | escapeVelocity | 0.02 (kilometrePerSeconds)</mtriple>
+        <mtriple>1101_Clematis | mass | 5.7 (kilograms)</mtriple>
+        <mtriple>1101_Clematis | apoapsis | 520906000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">1101 Clematis has an escape velocity of 0.02 kilometres per second and a mass of 5.7 kgs. It has an apoapsis of 520906000.0 Kilometers.</lex>
+      <lex lang="ru" lid="Id1">1101 Клематис имеет скорость убегания 0,02 километров в секунду и массу 5,7 кг. У него есть апоцентр 520906000,0 километров.</lex>
+      <lex lang="en" lid="Id2">1101 Clematis has an apoapsis of 520906000.0 km, a mass of 5.7kg and an escape velocity of 0.02 km per sec.</lex>
+      <lex lang="ru" lid="Id2">1101 Клематис имеет апоцентр 520906000,0 километров, массу 5,7 кг и скорость убегания 0,02 километров в секунду.</lex>
+      <lex lang="en" lid="Id3">The celestial body known as 1101 Clematis has an escape velocity of 0.02 k.p.s, a mass of 5.7kg and an apoapsis of 520906000.0 Kilometers.</lex>
+      <lex lang="ru" lid="Id3">Небесное тело, известное как 1101 Клематис, имеет скорость убегания 0,02 километров в секунду, массу 5,7 кг и апоцентр 520906000,0 километров.</lex>
+      <links>
+        <link direction="en2ru">1101 Clematis | sameAs | 1101 Клематис</link>
+      </links>
+    </entry>
+    <entry category="CelestialBody" eid="Id2" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1101_Clematis | temperature | "155.0"^^xsd:double</otriple>
+        <otriple>1101_Clematis | escapeVelocity | "0.02"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>1101_Clematis | Planet/apoapsis | "5.20906E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | escapeVelocity | "72.0"^^xsd:double</otriple>
+        <otriple>1101_Clematis | temperature | "155.0"^^xsd:double</otriple>
+        <otriple>1101_Clematis | Planet/apoapsis | "5.20906E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1101_Clematis | escapeVelocity | 0.02 (kilometrePerSeconds)</mtriple>
+        <mtriple>1101_Clematis | temperature | 155.0 (kelvins)</mtriple>
+        <mtriple>1101_Clematis | apoapsis | 520906000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The celestial body known as 1101 Clematis has an escape velocity of 0.02 k.p.s., a temperature of 155 kelvins and an apoapsis of 520906000.0 kilometres.</lex>
+      <lex lang="ru" lid="Id1">Небесное тело, известное как 1101 Клематис, имеет скорость убегания 0,02 км/с, температуру 155 кельвинов и апоцентр 520906000,0 километров.</lex>
+      <lex lang="en" lid="Id2">With a temperature of 155 kelvins, 1101 Clematis, has an escape velocity of 0.02 kilometres per second, and an apoapsis of 520906000.0 kilometres.</lex>
+      <lex lang="ru" lid="Id2">При температуре 155 кельвинов 1101 Клематис имеет скорость убегания 0,02 километра в секунду, а апоцентр - 520906000,0 километров.</lex>
+      <lex lang="en" lid="Id3">The celestial body known as 1101 Clematis has an escape velocity of 0.02 k.p.s., a temperature of 155 kelvins and an apoapsis of 520906000.0 Kilometers.</lex>
+      <lex lang="ru" lid="Id3">Небесное тело, известное как 1101 Клематис, имеет скорость убегания 0,02 км/с, температуру 155 Кельвинов и апоцентр 520906000,0 километров.</lex>
+      <links>
+        <link direction="en2ru">1101 Clematis | sameAs | 1101 Клематис</link>
+      </links>
+    </entry>
+    <entry category="CelestialBody" eid="Id3" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1101_Clematis | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1101_Clematis | formerName | "1928 SJ"@en</otriple>
+        <otriple>1101_Clematis | orbitalPeriod | 1.83309e+08</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | formerName | "1928 SJ"@en</otriple>
+        <otriple>1101_Clematis | orbitalPeriod | 1.83309e+08</otriple>
+        <otriple>1101_Clematis | epoch | "2006-12-31"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1101_Clematis | formerName | "1928 SJ"</mtriple>
+        <mtriple>1101_Clematis | orbitalPeriod | 183309000.0</mtriple>
+        <mtriple>1101_Clematis | epoch | 2006-12-31</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The epoch of 1101 Clematis, formely known as 1928 SJ, is 31 December 2006 and it has an orbital period of 183309000.0.</lex>
+      <lex lang="ru" lid="Id1">Эпоха 1101 Клематиса, известного как 1929 SJ, - 31 декабря 2006 года, и он имеет орбитальный период 183309000,0.</lex>
+      <lex lang="en" lid="Id2">1101 Clematis has an orbital period of 183309000.0 and an epoch date of December 31st 2006. "1928 SJ" is the former name of 1101 Clematis.</lex>
+      <lex lang="ru" lid="Id2">1101 Клематис имеет орбитальный период 183309000,0 и эпоху 31 декабря 2006 года. "1929 SJ" - прежнее название 1101 Клематиса.</lex>
+      <links>
+        <link direction="en2ru">1928 SJ | sameAs | 1929 SJ</link>
+        <link direction="en2ru">1101 Clematis | sameAs | 1101 Клематис</link>
+      </links>
+    </entry>
+    <entry category="CelestialBody" eid="Id4" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1101_Clematis | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1101_Clematis | formerName | "1928 SJ"@en</otriple>
+        <otriple>1101_Clematis | periapsis | 4.45895e+11</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | formerName | "1928 SJ"@en</otriple>
+        <otriple>1101_Clematis | periapsis | 4.45895e+11</otriple>
+        <otriple>1101_Clematis | epoch | "2006-12-31"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1101_Clematis | formerName | "1928 SJ"</mtriple>
+        <mtriple>1101_Clematis | periapsis | 445895000000.0</mtriple>
+        <mtriple>1101_Clematis | epoch | 2006-12-31</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">1101 Clemantis has a periapsis of 445895000000. It has the former name of 1928 SJ and an epoch date of 31.12.2006.</lex>
+      <lex lang="ru" lid="Id1">1101 Клематис имеет перицентр 445895000000. Его прежнее название 1928 SJ и эпоха 31.12.2006.</lex>
+      <links>
+        <link direction="en2ru">1928 SJ | sameAs | 1929 SJ</link>
+        <link direction="en2ru">1101 Clematis | sameAs | 1101 Клематис</link>
+      </links>
+    </entry>
+    <entry category="CelestialBody" eid="Id5" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>110_Lydia | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>110_Lydia | mass | "6700.0"^^xsd:double</otriple>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>110_Lydia | mass | "6.7"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | mass | "6700.0"^^xsd:double</otriple>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | epoch | "2006-12-31"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | mass | "6.7"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>110_Lydia | epoch | 2006-12-31</mtriple>
+        <mtriple>110_Lydia | mass | 6.7 (kilograms)</mtriple>
+        <mtriple>110_Lydia | orbitalPeriod | 142603000.0</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">110 Lydia, with a mass of 6.7 kg and the epoch date December 31st 2006, has an orbital period of 142603000.0.</lex>
+      <lex lang="ru" lid="Id1">(110) Лидия с массой 6,7 кг и эпохой 31 декабря 2006 года имеет орбитальный период 142603000.0.</lex>
+      <lex lang="en" lid="Id2">31 December 2006 is the epoch of 110 Lydia, which has a mass of 6.7 kilograms, and an orbital period of 142603000.0.</lex>
+      <lex lang="ru" lid="Id2">31 декабря 2006 года - эпоха (110) Лидии, которая имеет массу 6,7 килограммов, и орбитальный период 142603000,0.</lex>
+      <lex lang="en" lid="Id3">31 December 2006 is the epoch of 110 Lydia which has a mass of 6.7 kg and an orbital period of 142603000.0.</lex>
+      <lex lang="ru" lid="Id3">31 декабря 2006 года - эпоха (110) Лидии, которая имеет массу 6,7 кг и орбитальный период 142603000.0.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">110_Lydia | sameAs | (110)_Лидия</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="CelestialBody" eid="Id6" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | "4.40756E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | "4.40756E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>110_Lydia | epoch | 2006-12-31</mtriple>
+        <mtriple>110_Lydia | orbitalPeriod | 142603000.0</mtriple>
+        <mtriple>110_Lydia | apoapsis | 440756000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The celestial body known as 110 Lydia has an orbital period of 142603000. It has an apoapsis of 440756000.0 kilometres, and an epoch date of December 31st 2006.</lex>
+      <lex lang="ru" lid="Id1">Небесное тело, известное как (110) Лидия, имеет орбитальный период 142603000. У него есть апоцентр 440756000,0 километров, а также эпоха 31 декабря 2006 года.</lex>
+      <lex lang="en" lid="Id2">The apoapsis for 110 Lydia, epoch date 31 December 2006, is 440756000.0 (kilometres) and the orbital period is 142603000.0.</lex>
+      <lex lang="ru" lid="Id2">Апоцентр (110) Лидии, эпоха которой 31 декабря 2006 года, составляет 440756000,0 (километров), а орбитальный период - 142603000,0.</lex>
+      <lex lang="en" lid="Id3">With an orbital period of 142603000.0 , 110 Lydia, has an epoch date of December 31st 2006, and an apoapsis of 440756000.0 kilometres.</lex>
+      <lex lang="ru" lid="Id3">С орбитальным периодом 142603000.0 (110) Лидия имеет эпоху 31 декабря 2006 года и апоцентр 440756000,0 километров.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">110_Lydia | sameAs | (110)_Лидия</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="CelestialBody" eid="Id7" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>110_Lydia | escapeVelocity | "0.0455"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>110_Lydia | mass | "6.7"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | "4.40756E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | escapeVelocity | "163.8"^^xsd:double</otriple>
+        <otriple>110_Lydia | mass | "6700.0"^^xsd:double</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | "4.40756E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | mass | "6700.0"^^xsd:double</otriple>
+        <otriple>110_Lydia | escapeVelocity | "0.0455"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | "4.40756E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | escapeVelocity | "163.8"^^xsd:double</otriple>
+        <otriple>110_Lydia | mass | "6.7"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | "4.40756E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>110_Lydia | escapeVelocity | 0.0455 (kilometrePerSeconds)</mtriple>
+        <mtriple>110_Lydia | mass | 6.7 (kilograms)</mtriple>
+        <mtriple>110_Lydia | apoapsis | 440756000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">110 Lydia has a mass of 6.7 kilograms,an escape velocity of 0.0455km/s and its apoapsis is 440756000.0 kilometres.</lex>
+      <lex lang="ru" lid="Id1">(110) Лидия имеет массу 6,7 килограммов, скорость убегания - 0,0455 км/с, а ее апоцентр - 440756000,0 километров.</lex>
+      <lex lang="en" lid="Id2">The 110 Lydia has a mass of 6.7 kilograms, an apoapsis of 440756000.0 km and an escape velocity of 0.0455 k.p.s.</lex>
+      <lex lang="ru" lid="Id2">(110) Лидия имеет массу 6,7 килограммов, апоцентр 440756000,0 километров и скорость убегания 0,0455 километров в секунду.</lex>
+      <lex lang="en" lid="Id3">110 Lydia has an escape velocity of 0.0455 kilometres per second,an apoapsis of 440756000.0 kms and its mass is 6.7 kilograms.</lex>
+      <lex lang="ru" lid="Id3">(110) Лидия имеет скорость убегания 0,0455 километров в секунду, апоцентр 440756000,0 километров и ее масса составляет 6,7 килограммов.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">110_Lydia | sameAs | (110)_Лидия</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="CelestialBody" eid="Id8" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>110_Lydia | temperature | "168.0"^^xsd:double</otriple>
+        <otriple>110_Lydia | escapeVelocity | "0.0455"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | "4.40756E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | escapeVelocity | "163.8"^^xsd:double</otriple>
+        <otriple>110_Lydia | temperature | "168.0"^^xsd:double</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | "4.40756E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>110_Lydia | escapeVelocity | 0.0455 (kilometrePerSeconds)</mtriple>
+        <mtriple>110_Lydia | temperature | 168.0 (kelvins)</mtriple>
+        <mtriple>110_Lydia | apoapsis | 440756000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">With an escape velocity of 0.0455 km/s, 110 Lydia, has a temperature of 168.0 kelvins and an apoapsis of 440756000.0 kilometres.</lex>
+      <lex lang="ru" lid="Id1">Со скоростью убегания 0,0455 километров в секунду (110) Лидия имеет температуру 168,0 кельвинов и апоцентр 440756000,0 километров.</lex>
+      <lex lang="en" lid="Id2">At a temperature of 168.0 kelvins, and with an escape velocity of 0.0455 kilometres per second, 110 Lydia has an apoapsis of, 440756000.0 kilometres.</lex>
+      <lex lang="ru" lid="Id2">При температуре 168,0 кельвинов и скоростью убегания 0,0455 километров в секунду, (110) Лидия имеет апоцентр 440756000,0 километров.</lex>
+      <lex lang="en" lid="Id3">110 Lydia has an escape velocity of 0.0455 km per sec, a temperature of 168 kelvins and an apoapsis of 440756000.0 (kilometres).</lex>
+      <lex lang="ru" lid="Id3">(110) Лидия имеет скорость убегания 0,0455 км/с, температуру 168 Кельвинов и апоцентр 440756000,0 (километров).</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">110_Lydia | sameAs | (110)_Лидия</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="CelestialBody" eid="Id9" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | Planet/averageSpeed | "18.29"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>11264_Claudiomaccone | discoverer | Nikolai_Chernykh</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | "4.75426E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | averageSpeed | 18.29 (kilometrePerSeconds)</mtriple>
+        <mtriple>11264_Claudiomaccone | discoverer | Nikolai_Chernykh</mtriple>
+        <mtriple>11264_Claudiomaccone | apoapsis | 475426000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Nikolai Chernykh discovered 11264 Claudiomaccone which has an apoapsis of 475426000.0 kilometres and an average speed of 18.29 km per sec.</lex>
+      <lex lang="ru" lid="Id1">Николай Степанович Черных открыл 11264 Клаудиомакконе, у которого есть апоцентр 475426000,0 километров и средняя скорость 18,29 километров в секунду.</lex>
+      <lex lang="en" lid="Id2">Nikolai Chernykh discovered 11264 Claudiomaccone, which has an average speed of 18.29 kilometres per second and an apoapsis of 475426000.0 kilometres.</lex>
+      <lex lang="ru" lid="Id2">Николай Степанович Черных открыл 11264 Клаудиомакконе, который имеет среднюю скорость 18,29 километра в секунду и апоцентра 475426000,0 км.</lex>
+      <lex lang="en" lid="Id3">Nikolai Chernykh was the discoverer of the asteroid 11264 Claudiomaccone. It has an average speed of 18.29 km per sec and an apoapsis of 475426000.0 kms.</lex>
+      <lex lang="ru" lid="Id3">Николай Степанович Черных был первооткрывателем астероида 11264 Клаудиомакконе. Он имеет среднюю скорость в 18,29 километров в секунду и апоцентр 475426000,0 км/с.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Nikolai_Chernykh | sameAs | Черных,_Николай_Степанович</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">11264 Claudiomaccone | sameAs | 11264 Клаудиомакконе</link>
+      </links>
+    </entry>
+    <entry category="CelestialBody" eid="Id10" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | Planet/averageSpeed | "18.29"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>11264_Claudiomaccone | Planet/orbitalPeriod | "1513.722"^^&lt;http://dbpedia.org/datatype/day&gt;</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | "4.75426E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | averageSpeed | 18.29 (kilometrePerSeconds)</mtriple>
+        <mtriple>11264_Claudiomaccone | orbitalPeriod | 1513.722 (days)</mtriple>
+        <mtriple>11264_Claudiomaccone | apoapsis | 475426000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The celestial body known as 11264 Claudiomaccone has an average speed of 18.29km/s. Its orbital period is 1513.722 days, and it has an apoapsis of, 475426000.0 kilometres.</lex>
+      <lex lang="ru" lid="Id1">Небесное тело, известное как 11264 Клаудиомакконе, имеет среднюю скорость 18,29 километров в секунду. Его орбитальный период составляет 1513,722 дня, а у него есть апоцентр 475426000,0 километров.</lex>
+      <lex lang="en" lid="Id2">The asteroid called 11264 Claudiomaccone; has an average speed of 18.29 kilometres per second, an apoapsis of 475426000 kilometres, and an orbital period of 1513.722 days.</lex>
+      <lex lang="ru" lid="Id2">Астероид под названием 11264 Клаудиомакконе имеет среднюю скорость 18,29 километров в секунду, апоцентр 475426000 километров и орбитальный период 1513,722 дня.</lex>
+      <lex lang="en" lid="Id3">11264 Claudiomaccone has an orbital period of 1513.722 days and an average speed of 18.29 kilometres per second. It has an apoapsis of 475426000.0 kilometres.</lex>
+      <lex lang="ru" lid="Id3">11264 Клаудиомакконе имеет орбитальный период 1513,722 дня и среднюю скорость 18,29 километров в секунду. У него есть апоцентр 475426000,0 километров.</lex>
+      <links>
+        <link direction="en2ru">11264 Claudiomaccone | sameAs | 11264 Клаудиомакконе</link>
+      </links>
+    </entry>
+    <entry category="CelestialBody" eid="Id11" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | discoverer | Nikolai_Chernykh</otriple>
+        <otriple>11264_Claudiomaccone | periapsis | 2.96521e+11</otriple>
+        <otriple>11264_Claudiomaccone | epoch | "2005-11-26"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | discoverer | Nikolai_Chernykh</otriple>
+        <otriple>11264_Claudiomaccone | epoch | "November 26, 2005 (JD2453700.5)"</otriple>
+        <otriple>11264_Claudiomaccone | periapsis | 2.96521e+11</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | discoverer | Nikolai_Chernykh</mtriple>
+        <mtriple>11264_Claudiomaccone | epoch | 2005-11-26</mtriple>
+        <mtriple>11264_Claudiomaccone | periapsis | 296521000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Nikolai Chernykh was the discoverer of 11264 Claudiomaccone whose epoch date is November 26, 2005. The celestial body has a periapsis of 296521000.0 kilometres.</lex>
+      <lex lang="ru" lid="Id1">Николай Степанович Черных был первооткрывателем 11264 Клаудиомакконе, эпоха которого - 26 ноября 2005 года. Небесное тело имеет перицентр 296521000,0 километров.</lex>
+      <lex lang="en" lid="Id2">Discovered by Nikolai Chernykh, 11264 Claudiomaccone has an epoch date of November 26th 2005 and has a periapsis of 296521000.0 kilometres.</lex>
+      <lex lang="ru" lid="Id2">Обнаруженный Николаем Степановичем Черных, 11264 Клаудиомакконе имеет эпоху 26 ноября 2005 года и имеет перицентр 296521000,0 километров.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Nikolai_Chernykh | sameAs | Черных,_Николай_Степанович</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">11264 Claudiomaccone | sameAs | 11264 Клаудиомакконе</link>
+      </links>
+    </entry>
+    <entry category="CelestialBody" eid="Id12" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | orbitalPeriod | 1.30786e+08</otriple>
+        <otriple>11264_Claudiomaccone | epoch | "2005-11-26"^^xsd:date</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | "4.75426E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | epoch | "November 26, 2005 (JD2453700.5)"</otriple>
+        <otriple>11264_Claudiomaccone | orbitalPeriod | 1.30786e+08</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | "4.75426E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | epoch | 2005-11-26</mtriple>
+        <mtriple>11264_Claudiomaccone | orbitalPeriod | 1513.722 (days)</mtriple>
+        <mtriple>11264_Claudiomaccone | apoapsis | 475426000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">11264 Claudiomaccone has the epoch date of 26 November 2005,an orbital period of 1513.722 days and its apoapsis is 475426000.0 kilometres.</lex>
+      <lex lang="ru" lid="Id1">11264 Клаудиомакконе имеет эпоху 26 ноября 2005 года, орбитальный период 1513,722 дня и его апоцентр - 475426000,0 километров.</lex>
+      <lex lang="en" lid="Id2">11264 Claudiomaccone has an epoch date of November 26th 2005, an orbital period of 1513.722 days and an apoapsis of 475426000.0 kilometres.</lex>
+      <lex lang="ru" lid="Id2">11264 Клаудиомакконе имеет эпоху 26 ноября 2005 года, орбитальный период 1513,722 дня и апоцентр 475426000,0 километров.</lex>
+      <links>
+        <link direction="en2ru">11264 Claudiomaccone | sameAs | 11264 Клаудиомакконе</link>
+      </links>
+    </entry>
+    <entry category="CelestialBody" eid="Id13" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | periapsis | 2.96521e+11</otriple>
+        <otriple>11264_Claudiomaccone | epoch | "2005-11-26"^^xsd:date</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | "4.75426E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | epoch | "November 26, 2005 (JD2453700.5)"</otriple>
+        <otriple>11264_Claudiomaccone | periapsis | 2.96521e+11</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | "4.75426E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | epoch | 2005-11-26</mtriple>
+        <mtriple>11264_Claudiomaccone | periapsis | 296521000.0 (kilometres)</mtriple>
+        <mtriple>11264_Claudiomaccone | apoapsis | 475426000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 11264 Claudiomaccone which has a periapsis of 296521000.0 km and an apoapsis of 475426000 km has an epoch date of 26th November 2005.</lex>
+      <lex lang="ru" lid="Id1">11264 Клаудиомакконе, имеющий перицентр 296521000,0 километров и апоцентр 475426000 километров, имеет эпоху 26 ноября 2005 года.</lex>
+      <lex lang="en" lid="Id2">11264 Claudiomaccone; has an epoch date of November 26th 2005, a periapsis of 296521000.0 kilometres, and an apoapsis of 475426000.0 kilometres.</lex>
+      <lex lang="ru" lid="Id2">11264 Клаудиомакконе имеет эпоху 26 ноября 2005 года, перицентр 296521000,0 километров и апоцентр 475426000,0 километров.</lex>
+      <lex lang="en" lid="Id3">11264 Claudiomaccone has the epoch date of 26 November 2005, an apoapsis of 475426000.0 kilometres and a periapsis of 296521000.0 (kilometres).</lex>
+      <lex lang="ru" lid="Id3">11264 Клаудиомакконе имеет эпоху 26 ноября 2005 года, апоцентр 475426000,0 километров и перицентр 296521000,0 (километров).</lex>
+      <links>
+        <link direction="en2ru">11264 Claudiomaccone | sameAs | 11264 Клаудиомакконе</link>
+      </links>
+    </entry>
+    <entry category="CelestialBody" eid="Id14" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | epoch | "November 26, 2005 (JD2453700.5)"</otriple>
+        <otriple>11264_Claudiomaccone | rotationPeriod | "11473.9"^^xsd:double</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | "4.75426E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | rotationPeriod | "11473.9"^^xsd:double</otriple>
+        <otriple>11264_Claudiomaccone | epoch | "2005-11-26"^^xsd:date</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | "4.75426E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | epoch | 2005-11-26</mtriple>
+        <mtriple>11264_Claudiomaccone | rotationPeriod | 11473.9</mtriple>
+        <mtriple>11264_Claudiomaccone | apoapsis | 475426000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The rotation period for 11264 Claudiomaccone which has an epoch date of 26.11.2005, is 11473.9. It's apoapsis is 475426000.0 kilometres.</lex>
+      <lex lang="ru" lid="Id1">Период вращения 11264 Клаудиомакконе, который имеет эпоху 26.11.2005, составляет 11473,9. Его апоцентр - 475426000,0 километров.</lex>
+      <lex lang="en" lid="Id2">11264 Claudiomaccone has an epoch date of November 26th 2005,an apoapsis of 475426000 kilometres and its rotation period is 11473.9.</lex>
+      <lex lang="ru" lid="Id2">11264 Клаудиомакконе имеет эпоху 26 ноября 2005 года, апоцентр 475426000 километров и период его вращения - 11473,9.</lex>
+      <lex lang="en" lid="Id3">11264 Claudiomaccone has the epoch date of 26 November 2005, an apoapsis of 475426000 kms and a rotation period of 11473.9.</lex>
+      <lex lang="ru" lid="Id3">11264 Клаудиомакконе имеет эпоху 26 ноября 2005 года, апоцентр 475426000 километров и период вращения - 11473,9.</lex>
+      <links>
+        <link direction="en2ru">11264 Claudiomaccone | sameAs | 11264 Клаудиомакконе</link>
+      </links>
+    </entry>
+    <entry category="CelestialBody" eid="Id15" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | temperature | "173.0"^^xsd:double</otriple>
+        <otriple>11264_Claudiomaccone | epoch | "2005-11-26"^^xsd:date</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | "4.75426E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | epoch | "November 26, 2005 (JD2453700.5)"</otriple>
+        <otriple>11264_Claudiomaccone | temperature | "173.0"^^xsd:double</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | "4.75426E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | epoch | 2005-11-26</mtriple>
+        <mtriple>11264_Claudiomaccone | temperature | 173.0 (kelvins)</mtriple>
+        <mtriple>11264_Claudiomaccone | apoapsis | 475426000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">11264 Claudiomaccone has the epoch date of 26 November 2005, a temperature of 173 kelvins and an apoapsis of 475426000 km.</lex>
+      <lex lang="ru" lid="Id1">11264 Клаудиомакконе имеет эпоху 26 ноября 2005 года, температуру 173 Кельвинов и апоцентр 475426000 километров.</lex>
+      <lex lang="en" lid="Id2">11264 Claudiomaccone, which has an epoch date of November 26th 2005 has a temperature of 173.0 (kelvins) and an apoapsis of 475426000 kilometres.</lex>
+      <lex lang="ru" lid="Id2">11264 Клаудиомакконе, который имеет эпоху 26 ноября 2005 года, имеет температуру 173,0 (Кельвинов) и апоцентр 475426000,0 километров.</lex>
+      <lex lang="en" lid="Id3">1264 Claudiomaccone has a temperature of 173.0 kelvins and an apoapsis of475426000.0 (kilometres). Its epoch date is 26 November 2005.</lex>
+      <lex lang="ru" lid="Id3">11264 Клаудиомакконе имеет температуру 173,0 кельвинов и апоцентр 475426000 0,0 (километров). Его эпоха - 26 ноября 2005 года.</lex>
+      <links>
+        <link direction="en2ru">11264 Claudiomaccone | sameAs | 11264 Клаудиомакконе</link>
+      </links>
+    </entry>
+    <entry category="CelestialBody" eid="Id16" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | orbitalPeriod | 1.30786e+08</otriple>
+        <otriple>11264_Claudiomaccone | periapsis | 2.96521e+11</otriple>
+        <otriple>11264_Claudiomaccone | epoch | "2005-11-26"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | epoch | "November 26, 2005 (JD2453700.5)"</otriple>
+        <otriple>11264_Claudiomaccone | orbitalPeriod | 1.30786e+08</otriple>
+        <otriple>11264_Claudiomaccone | periapsis | 2.96521e+11</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | orbitalPeriod | 1513.722 (days)</mtriple>
+        <mtriple>11264_Claudiomaccone | periapsis | 296521000.0 (kilometres)</mtriple>
+        <mtriple>11264_Claudiomaccone | epoch | 2005-11-26</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">11264 Claudiomaccone has an orbital period of 1513.722 days and a periapsis of 296521000.0 kilometres. It has an epoch date of 26th November 2005.</lex>
+      <lex lang="ru" lid="Id1">11264 Клаудиомакконе имеет орбитальный период 1513,722 дня и перицентр 296521000,0 километров. Он имеет эпоху 26 ноября 2005 года.</lex>
+      <lex lang="en" lid="Id2">11264 Claudiomaccone has the epoch date of 26 November 2005, an orbital period of 1513.722 days and a periapsis of 296521000.0 (kilometres).</lex>
+      <lex lang="ru" lid="Id2">11264 Клаудиомакконе имеет эпоху 26 ноября 2005 года, орбитальный период 1513,722 дня и перицентр 296521000,0 (километров).</lex>
+      <lex lang="en" lid="Id3">11264 Claudiomaccone has an epoch date of November 26th 2005. It has an orbital period of 1513.722 days and a periapsis of 296521000.0 kilometres.</lex>
+      <lex lang="ru" lid="Id3">11264 Клаудиомакконе имеет эпоху 26 ноября 2005 года. Он имеет орбитальный период 1513,722 дня и перицентр 296521000,0 километров.</lex>
+      <links>
+        <link direction="en2ru">11264 Claudiomaccone | sameAs | 11264 Клаудиомакконе</link>
+      </links>
+    </entry>
+  </entries>
+</benchmark>

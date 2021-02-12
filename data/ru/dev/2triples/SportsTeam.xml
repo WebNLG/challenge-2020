@@ -1,0 +1,467 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="SportsTeam" eid="Id1" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Akron Summit Assault's ground is St. Vincent-St. Mary High School in the United States.</lex>
+      <lex lang="ru" lid="Id1">Площадка ФК Акрон - это Школа Сент-Винсент – Сент-Мэри в Соединённых Штатах Америки.</lex>
+      <lex lang="en" lid="Id2">St Vincent-St Mary High School is the ground of Akron Summit Assault and is located in United States.</lex>
+      <lex lang="ru" lid="Id2">Школа Сент-Винсент – Сент-Мэри - это площадка футбольного клуба "Акрон" и располагается в Соединенных Штатах Америки.</lex>
+      <lex lang="en" lid="Id3">St. Vincent-St.Mary High School in the United States is the ground of Akron Summit Assault.</lex>
+      <lex lang="ru" lid="Id3">Школа Сент-Винсент – Сент-Мэри в США является площадкой футбольного клуба Акрон.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">St. Vincent–St. Mary High School | sameAs | Школа Сент-Винсент – Сент-Мэри</link>
+        <link direction="en2ru">Akron Summit Assault | sameAs | Футбольный клуб “Акрон” (США)</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id2" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | state | Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | state | Ohio</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">St Vincent-St Mary High School in Ohio is the ground of Akron Summit Assault.</lex>
+      <lex lang="ru" lid="Id1">Средняя католическая школа св.Винсента и св.Мэри в Огайо - база ФК Акрон (США).</lex>
+      <lex lang="en" lid="Id2">St Vincent-St Mary High School, located in the state of Ohio, is the ground of Akron Summit Assault.</lex>
+      <lex lang="ru" lid="Id2">Школа Сент-Винсент – Сент-Мэри, расположенная в штате Огайо, является площадкой ФК “Акрон” (США).</lex>
+      <lex lang="en" lid="Id3">St. Vincent–St. Mary High School, in the state of Ohio, is the ground of Akron Summit Assault.</lex>
+      <lex lang="ru" lid="Id3">Школа Сент-Винсент – Сент-Мэри в штате Огайо является площадкой футбольного клуба "Акрон" (США).</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Ohio | sameAs | Огайо</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">St. Vincent–St. Mary High School | sameAs | Школа Сент-Винсент – Сент-Мэри</link>
+        <link direction="en2ru">Akron Summit Assault | sameAs | Футбольный клуб “Акрон” (США)</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id3" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | league | Premier_Development_League</otriple>
+        <otriple>Premier_Development_League | champions | K-W_United_FC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | league | Premier_Development_League</mtriple>
+        <mtriple>Premier_Development_League | champions | K-W_United_FC</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Premier Development League has K-W United F.C., (who have been champions) and Akron Summit among its competing teams.</lex>
+      <lex lang="ru" lid="Id1">В лигу развития, входит ФК КВ Юнайтед (которые были чемпионами) и Футбольный клуб “Акрон” (США) среди конкурирующих команд.</lex>
+      <lex lang="en" lid="Id2">Akron Summit Assault play in the Premier Development League, which K-W United FC were once the champions of.</lex>
+      <lex lang="ru" lid="Id2">Футбольный клуб "Акрон" (США) играет в Лиге Развития, которую однажды выиграли КВ Юнайтед.</lex>
+      <lex lang="en" lid="Id3">In the Premier Development League, Akron Summit Assault play and the champions are K-W United FC.</lex>
+      <lex lang="ru" lid="Id3">В Лиге развития играет футбольный клуб "Акрон", и чемпионами являются КВ Юнайтед.</lex>
+      <links>
+        <link direction="en2ru">K-W United FC | sameAs | КВ Юнайтед</link>
+        <link direction="en2ru">Premier Development League | sameAs | Лига развития</link>
+        <link direction="en2ru">Akron Summit Assault | sameAs | Футбольный клуб “Акрон” (США)</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | capacity | 3000</otriple>
+        <otriple>Akron_Summit_Assault | manager | "Denzil Antonio"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | manager | Denzil_Antonio</otriple>
+        <otriple>Akron_Summit_Assault | capacity | 3000</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | manager | Denzil_Antonio</mtriple>
+        <mtriple>Akron_Summit_Assault | numberOfMembers | 3000</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Denzil Antonio is the manager of Akron Summit Assault which has 3000 members.</lex>
+      <lex lang="ru" lid="Id1">Дензил Антонио является менеджером Футбольного клуба “Акрон” (США), насчитывающего 3000 членов.</lex>
+      <lex lang="en" lid="Id2">Denzil Antonio was the manager of Akron Summit Assault, it has 3000 members.</lex>
+      <lex lang="ru" lid="Id2">Дензил Антонио был менеджером Футбольного клуба “Акрон” (США), он насчитывает 3000 членов.</lex>
+      <lex lang="en" lid="Id3">Akron Summit Assault, which has got 3000 members, was managed by Denzil Antonio.</lex>
+      <lex lang="ru" lid="Id3">Дензил Антонио руководил футбольным клубом "Акрон" (США), насчитывавшим 3000 участников.</lex>
+      <links>
+        <link direction="en2ru">Denzil Antonio | sameAs | Дензил Антонио</link>
+        <link direction="en2ru">Akron Summit Assault | sameAs | Футбольный клуб “Акрон” (США)</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id5" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | manager | Denzil_Antonio</otriple>
+        <otriple>Akron_Summit_Assault | season | 2011_PDL_season</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | manager | Denzil_Antonio</mtriple>
+        <mtriple>Akron_Summit_Assault | season | 2011_PDL_season</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The manager of Akron Summit Assault, who play in the 2011 PDL season, is Denzil Antonio.</lex>
+      <lex lang="ru" lid="Id1">Тренером футбольного клуба "Акрон" (США), играющего в сезоне 2011 в Профессиональной лиге развития, является Дензил Антонио.</lex>
+      <lex lang="en" lid="Id2">Akron Summit Assault, (managed by Denzil Antonio), played in the 2011 PDL season.</lex>
+      <lex lang="ru" lid="Id2">ФК “Акрон” (США) (под руководством Дензила Антонио), играл в сезоне 2011 года Лиги профессионального развития.</lex>
+      <lex lang="en" lid="Id3">Denzil Antonio was the manager of Akron Summit Assault and they participated in the 2011 PDL season.</lex>
+      <lex lang="ru" lid="Id3">Дензил Антонио был тренером футбольного клуба "Акрон" (США), и они участвовали в сезоне 2011 Профессиональной лиги развития.</lex>
+      <links>
+        <link direction="en2ru">Denzil Antonio | sameAs | Дензил Антонио</link>
+        <link direction="en2ru">2011 PDL season | includes | ПДЛ / Профессиональная лига развития</link>
+        <link direction="en2ru">Akron Summit Assault | sameAs | Футбольный клуб “Акрон” (США)</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id6" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | capacity | 3000</otriple>
+        <otriple>Akron_Summit_Assault | season | 2011</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | season | 2011</otriple>
+        <otriple>Akron_Summit_Assault | capacity | "3000"^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | numberOfMembers | 3000</mtriple>
+        <mtriple>Akron_Summit_Assault | season | 2011</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Akron Summit Assault has got 3000 members and are in season 2011.</lex>
+      <lex lang="ru" lid="Id1">Футбольный клуб “Акрон” (США) насчитывает 3000 членов и находится в сезоне 2011 года.</lex>
+      <lex lang="en" lid="Id2">Akron Summit Assault has got 3000 members, he played in the 2011 season.</lex>
+      <lex lang="ru" lid="Id2">Футбольный клуб “Акрон” (США) имеет 3000 членов, он играл в сезоне 2011 года.</lex>
+      <lex lang="en" lid="Id3">Akron Summit Assault, has 3000 members, and was in the 2011 season.</lex>
+      <lex lang="ru" lid="Id3">ФК "Акрон" (США) — насчитывает 3000 членов и был в сезоне 2011 года.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">2011 | sameAs | 2011_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Akron Summit Assault | sameAs | Футбольный клуб “Акрон” (США)</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id7" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The ground of A.S. Gubbio 1910 is located in Italy, the capital of which is Rome.</lex>
+      <lex lang="ru" lid="Id1">Площадка "Губбио" расположена в Италии, столицей которой является Рим.</lex>
+      <lex lang="en" lid="Id2">The ground of A.S. Gubbio 1910 is located near Rome, capital of Italy.</lex>
+      <lex lang="ru" lid="Id2">Домашняя площадка Губбио расположена недалеко от Рима, столицы Италии.</lex>
+      <lex lang="en" lid="Id3">The ground of A.S. Gubbio 1910 is located in Italy, which has Rome as its capital.</lex>
+      <lex lang="ru" lid="Id3">Площадка "Губбио" расположена в Италии, которая имеет Рим в качестве своей столицы.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Italy | sameAs | Италия</dbpedialink>
+        <dbpedialink direction="en2ru">A.S._Gubbio_1910 | sameAs | Губбио_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">Rome | sameAs | Рим</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id8" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Italy | demonym | Italians</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | demonym | Italians</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Italians inhabit Italy where the ground of A.S. Gubbio 1910 is located.</lex>
+      <lex lang="ru" lid="Id1">Итальянцы населяют Италию, где находится площадка "Губбио".</lex>
+      <lex lang="en" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy, where the people who live there are called Italians.</lex>
+      <lex lang="ru" lid="Id2">Домашняя площадка Губбио распложена в Италии, где живущие там люди называются итальянцами.</lex>
+      <lex lang="en" lid="Id3">The ground of A.S. Gubbio 1910 is located in Italy, where Italians live.</lex>
+      <lex lang="ru" lid="Id3">Площадка "Губбио" расположена в Италии, где живут итальянцы.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Italy | sameAs | Италия</dbpedialink>
+        <dbpedialink direction="en2ru">A.S._Gubbio_1910 | sameAs | Губбио_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">Italians | sameAs | Итальянцы</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id9" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Italy | leader | Sergio_Mattarella</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | leader | Sergio_Mattarella</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The ground of A.S. Gubbio 1910 is located in Italy where Sergio Mattarella is the leader.</lex>
+      <lex lang="ru" lid="Id1">Площадка "Губбио" расположена в Италии, где Серджо Маттарелла является лидером.</lex>
+      <lex lang="en" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy, where the leader is Sergio Mattarella.</lex>
+      <lex lang="ru" lid="Id2">Площадка "Губбио" расположена в Италии, где лидером является Серджо Маттарелла.</lex>
+      <lex lang="en" lid="Id3">The ground of A.S. Gubbio 1910 is located in Italy, which has the leader Sergio Mattarella.</lex>
+      <lex lang="ru" lid="Id3">Домашняя площадка ФК Губбио расположена в Италии, у которой есть лидер Серджо Маттарелла.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Italy | sameAs | Италия</dbpedialink>
+        <dbpedialink direction="en2ru">Sergio_Mattarella | sameAs | Маттарелла,_Серджо</dbpedialink>
+        <dbpedialink direction="en2ru">A.S._Gubbio_1910 | sameAs | Губбио_(футбольный_клуб)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id10" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Italy | officialLanguage | Italian_language</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | officialLanguage | Italian_language</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The ground of A.S. Gubbio 1910 is located in Italy, where the official language is Italian.</lex>
+      <lex lang="ru" lid="Id1">Площадка "Губбио" расположена в Италии, где официальным языком является итальянский.</lex>
+      <lex lang="en" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy, where unsurprisingly they speak Italian.</lex>
+      <lex lang="ru" lid="Id2">Площадка ФК "Губбио" расположена в Италии, где неудивительно, что они говорят по-итальянски.</lex>
+      <lex lang="en" lid="Id3">The ground of A.S. Gubbio 1910 is located in Italy where the official language is Italian.</lex>
+      <lex lang="ru" lid="Id3">Площадка "Губбио" расположена в Италии, где официальным языком является итальянский.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Italian_language | sameAs | Итальянский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">Italy | sameAs | Италия</dbpedialink>
+        <dbpedialink direction="en2ru">A.S._Gubbio_1910 | sameAs | Губбио_(футбольный_клуб)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id11" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Luciano_Spalletti | managerClub | Udinese_Calcio</otriple>
+        <otriple>A.S._Roma | manager | Luciano_Spalletti</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Luciano_Spalletti | club | Udinese_Calcio</mtriple>
+        <mtriple>A.S._Roma | manager | Luciano_Spalletti</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Luciano Spalletti, who manages A.S. Roma, played for Udinese Calcio.</lex>
+      <lex lang="ru" lid="Id1">Лучано Спаллетти, который управляет ФК “Рома”, играл за Удинезе.</lex>
+      <lex lang="en" lid="Id2">Luciano Spalletti plays for Udinese Calcio and manages AS Roma.</lex>
+      <lex lang="ru" lid="Id2">Лучано Спаллетти играет за Удинезе и управляет ФК Рома.</lex>
+      <lex lang="en" lid="Id3">Luciano Spalletti manages A S Roma and plays for Udinese Calcio.</lex>
+      <lex lang="ru" lid="Id3">Лучано Спаллетти управляет ФК Рома и играет за Удинезе.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Luciano_Spalletti | sameAs | Спаллетти,_Лучано</dbpedialink>
+        <dbpedialink direction="en2ru">A.S._Roma | sameAs | Рома_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">Udinese_Calcio | sameAs | Удинезе</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id12" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Massimo_Drago | team | U.S._Castrovillari_Calcio</otriple>
+        <otriple>A.C._Cesena | manager | Massimo_Drago</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | U.S._Castrovillari_Calcio</mtriple>
+        <mtriple>A.C._Cesena | manager | Massimo_Drago</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Massimo Drago plays for U.S Castrovillari Calcio and manages A.C. Cesena.</lex>
+      <lex lang="ru" lid="Id1">Массимо Драго играет за СК “Кастровиллари Кальчо” и управляет ФК "Чезена".</lex>
+      <lex lang="en" lid="Id2">Massimo Drago, who manages A.C. Cesena, was once a player for US Castrovillari Calcio.</lex>
+      <lex lang="ru" lid="Id2">Массимо Драго, который тренирует ФК "Чезена", когда-то был игроком СК “Кастровиллари Кальчо”.</lex>
+      <lex lang="en" lid="Id3">Massimo Drago plays for U.S Castrovillari Calcio and has been the manager of A C Cesena.</lex>
+      <lex lang="ru" lid="Id3">Массимо Драго играет за СК “Кастровиллари Кальчо” и являлся менеджером ФК Чезена.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">A.C._Cesena | sameAs | Чезена_(футбольный_клуб)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">U.S. Castrovillari Calcio | sameAs | СК “Кастровиллари Кальчо”</link>
+        <link direction="en2ru">Massimo Drago | sameAs | Массимо Драго</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id13" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Massimo_Drago | team | Vigor_Lamezia</otriple>
+        <otriple>A.C._Cesena | manager | Massimo_Drago</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | Vigor_Lamezia</mtriple>
+        <mtriple>A.C._Cesena | manager | Massimo_Drago</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Massimo Drago is attached to the club Vigor Lamezia and manages A.C. Cesena.</lex>
+      <lex lang="ru" lid="Id1">Массимо Драго прикреплен к ФК "Вигор Ламеция" и тренирует ФК "Чезена".</lex>
+      <lex lang="en" lid="Id2">Massimo Drago is attached to the club Vigor Lamezia and he has been the manager of A C Cesena.</lex>
+      <lex lang="ru" lid="Id2">Массимо Драго числится в ФК “Вигор Ламеция” и был тренером ФК Чезена.</lex>
+      <lex lang="en" lid="Id3">Massimo Drago is attached to the club Vigor Lamezia and has been the manager of A C Cesena.</lex>
+      <lex lang="ru" lid="Id3">Массимо Драго числится в ФК «Вигор Ламеция» и был менеджером в «Чезена».</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">A.C._Cesena | sameAs | Чезена_(футбольный_клуб)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Vigor Lamezia | sameAs | ФК “Вигор Ламеция”</link>
+        <link direction="en2ru">Massimo Drago | sameAs | Массимо Драго</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id14" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>National_League_North | champions | Barrow_A.F.C.</otriple>
+        <otriple>A.F.C._Fylde | league | National_League_North</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>National_League_North | champions | Barrow_A.F.C.</mtriple>
+        <mtriple>A.F.C._Fylde | league | National_League_North</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Barrow A.F.C. team won the championship before in the National League North, obviously they are in that league.</lex>
+      <lex lang="ru" lid="Id1">ФК "Файлд" (Англия) выиграли предыдущий чемпионат Северной Конференции, и, очевидно, они находятся в этой лиге.</lex>
+      <lex lang="en" lid="Id2">Barrow A.F.C. are the National League North Champions and A.F.C. Fylde play in the same league.</lex>
+      <lex lang="ru" lid="Id2">ФК « Барроу » - чемпион Северной Конференции и ФК “Файлд” (Англия) играют в той же лиге.</lex>
+      <lex lang="en" lid="Id3">Fylde played in the National League North league of which Barrow AFC are the champions.</lex>
+      <lex lang="ru" lid="Id3">ФК “Файлд” (Англия) играл в Северной Конференции, в которой чемпионы - ФК "Барроу".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Barrow_A.F.C. | sameAs | Барроу_(футбольный_клуб)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">National League North | sameAs | Северная Конференция</link>
+        <link direction="en2ru">A.F.C. Fylde | sameAs | ФК “Файлд” (Англия)</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id15" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Olympic_Stadium_(Athens) | location | Athens</otriple>
+        <otriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Olympic_Stadium_(Athens) | location | Athens</mtriple>
+        <mtriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Olympic Stadium, located in Athens, is the home ground of AEK Athens FC.</lex>
+      <lex lang="ru" lid="Id1">Олимпийский стадион, расположенный в Афинах, является домашней площадкой ФК АЕК.</lex>
+      <lex lang="en" lid="Id2">The Olympic Stadium in Athens is where the AEK Athens football club play.</lex>
+      <lex lang="ru" lid="Id2">Олимпийский стадион в Афинах - это там, где играет футбольный клуб АЕК.</lex>
+      <lex lang="en" lid="Id3">The Olympic Stadium, in Athens, is the home ground of AEK Athens FC.</lex>
+      <lex lang="ru" lid="Id3">Олимпийский стадион в Афинах является домашней площадкой ФК АЕК Афины.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">AEK_Athens_F.C. | sameAs | АЕК_(футбольный_клуб,_Афины)</dbpedialink>
+        <dbpedialink direction="en2ru">Athens | sameAs | Афины</dbpedialink>
+        <dbpedialink direction="en2ru">Olympic_Stadium_(Athens) | sameAs | Олимпийский_стадион_(Афины)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id16" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Olympic_Stadium_(Athens) | location | Marousi</otriple>
+        <otriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Olympic_Stadium_(Athens) | location | Marousi</mtriple>
+        <mtriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Olympic Stadium (Athens) is located in Marousi and is the home ground of AEK Athens FC.</lex>
+      <lex lang="ru" lid="Id1">Олимпийский стадион (Афины) расположен в Амарусионе и является домашней площадкой ФК АЕК.</lex>
+      <lex lang="en" lid="Id2">The ground for AEK Athens FC is the Olympic Stadium (Athens) located in Marousi.</lex>
+      <lex lang="ru" lid="Id2">Домашняя площадка ФК "АЕК" - Олимпийский Стадион (Афины), расположенный в Амарусионе.</lex>
+      <lex lang="en" lid="Id3">The ground for AEK Athens FC is the Olympic Stadium (Athens) in Marousi.</lex>
+      <lex lang="ru" lid="Id3">Домашняя площадка ФК "АЕК" - Олимпийский Стадион (Афины) в Амарусионе.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">AEK_Athens_F.C. | sameAs | АЕК_(футбольный_клуб,_Афины)</dbpedialink>
+        <dbpedialink direction="en2ru">Olympic_Stadium_(Athens) | sameAs | Олимпийский_стадион_(Афины)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Marousi | sameAs | Амарусион</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id17" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | FC_Admira_Wacker_Mödling</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | FC_Admira_Wacker_Mödling</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Peter Stöger's club is the FC Admira Wacker Mödling and he is the manager of 1. FC Koln.</lex>
+      <lex lang="ru" lid="Id1">Клуб Петера Штёгера - это Адмира Ваккер Мёдлинг и он является менеджером ФК Кёльн.</lex>
+      <lex lang="en" lid="Id2">Peter Stoger is the manager of FC Kolin and his club is FC Admira Wacker Modling.</lex>
+      <lex lang="ru" lid="Id2">Петер Штёгер является менеджером ФК "Кёльн" и членом ФК "Адмира Ваккер Мёдлинг".</lex>
+      <lex lang="en" lid="Id3">The manager of 1.FC Koln is Peter Stoger, who's club is FC Admira Wacker Modling.</lex>
+      <lex lang="ru" lid="Id3">Менеджер ФК «Кёльн» - Петер Штёгер, клубом которого является «Адмира Ваккер Мёдлинг».</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">1._FC_Köln | sameAs | Кёльн_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">FC_Admira_Wacker_Mödling | sameAs | Адмира_Ваккер_Мёдлинг</dbpedialink>
+        <dbpedialink direction="en2ru">Peter_Stöger | sameAs | Штёгер,_Петер</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id18" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Rapid_Wien</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Rapid_Wien</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Peter Stoger plays for SK Rapid Wien and is the manager of 1. FC Koln.</lex>
+      <lex lang="ru" lid="Id1">Петер Штёгер играет за Рапид и является тренером ФК Кёльн.</lex>
+      <lex lang="en" lid="Id2">The manager of 1. FC Koln isPeter Stöger, who plays for SK Rapid Wien club.</lex>
+      <lex lang="ru" lid="Id2">Менеджером ФК Кёльн является Петер Штёгер, который играет в Рапиде.</lex>
+      <lex lang="en" lid="Id3">Peter Stöger, the manager of 1. FC Köln, plays for SK Rapid Wien.</lex>
+      <lex lang="ru" lid="Id3">Петер Штёгер, менеджер ФК "Кёльн", играет за Рапид.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">1._FC_Köln | sameAs | Кёльн_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">SK_Rapid_Wien | sameAs | Рапид_(футбольный_клуб,_Вена)</dbpedialink>
+        <dbpedialink direction="en2ru">Peter_Stöger | sameAs | Штёгер,_Петер</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id19" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Vorwärts_Steyr</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Vorwärts_Steyr</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Peter Stoger, manager of 1.FC Koln, is also in the SK Vorwarts Steyr club.</lex>
+      <lex lang="ru" lid="Id1">Петер Штёгер, тренер ФК Кёльн, также состоит в клубе Форвертс.</lex>
+      <lex lang="en" lid="Id2">Peter Stoger is in the SK Vorwarts Steyr club and is the manager of 1. FC Koln.</lex>
+      <lex lang="ru" lid="Id2">Петер Штёгер числится в ФК Форвертс (Штайр) и является главным тренером ФК Кёльн.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">1._FC_Köln | sameAs | Кёльн_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">SK_Vorwärts_Steyr | sameAs | Форвертс_(футбольный_клуб,_Штайр)</dbpedialink>
+        <dbpedialink direction="en2ru">Peter_Stöger | sameAs | Штёгер,_Петер</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id20" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.C._Chievo_Verona | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.C._Chievo_Verona | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">A.C. Chievo Verona play in Serie A where Juventus FC have been champions .</lex>
+      <lex lang="ru" lid="Id1">ФК “Кьево” (Верона) участвует в Чемпионате Италии по футболу, победителем которого был Ювентус.</lex>
+      <lex lang="en" lid="Id2">Juventus F.C. are former champions of Serie A, and A.C. Chievo Verona are also in the same competition.</lex>
+      <lex lang="ru" lid="Id2">Ювентус - бывшие чемпионы Чемпионата Италии по футболу, а "Кьево" (Верона) тоже в том же соревновании.</lex>
+      <lex lang="en" lid="Id3">AC Chievo Verona play in the Serie A league in which Juventus FC have been champions.</lex>
+      <lex lang="ru" lid="Id3">ФК "Кьево" (Верона) играет в лиге Чемпионата Италии по футболу, в которой "Ювентус" был чемпионом.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Serie_A | sameAs | Чемпионат_Италии_по_футболу_(Серия_A)</dbpedialink>
+        <dbpedialink direction="en2ru">Juventus_F.C. | sameAs | Ювентус</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">A.C. Chievo Verona | includes | “Кьево” (Верона)</link>
+        <link direction="en2ru">A.C. Chievo Verona | includes | Верона</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id21" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">AS Roma play in the Serie A league where the champions are Juventus FC.</lex>
+      <lex lang="ru" lid="Id1">Рома играет в Чемпионате Италии по футболу, в котором чемпионами являются Ювентус.</lex>
+      <lex lang="en" lid="Id2">Juventus FC have been Serie A champions and AS Roma play in the same league.</lex>
+      <lex lang="ru" lid="Id2">Ювентус был чемпионом Чемпионата Италии по футболу и Рома играет в той же лиге.</lex>
+      <lex lang="en" lid="Id3">Juventus F.C. are former champions of Serie A, A.S. Roma also play in the same competition.</lex>
+      <lex lang="ru" lid="Id3">ФК "Ювентус" является бывшим чемпионом Чемпионата Италии по футболу, в этом же соревновании участвует ФК "Рома".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Serie_A | sameAs | Чемпионат_Италии_по_футболу_(Серия_A)</dbpedialink>
+        <dbpedialink direction="en2ru">Juventus_F.C. | sameAs | Ювентус</dbpedialink>
+        <dbpedialink direction="en2ru">A.S._Roma | sameAs | Рома_(футбольный_клуб)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+  </entries>
+</benchmark>

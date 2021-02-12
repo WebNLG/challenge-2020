@@ -1,0 +1,689 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Airport" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Punjab,_Pakistan | leaderTitle | Provincial_Assembly_of_the_Punjab</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Punjab,_Pakistan | leaderTitle | Provincial_Assembly_of_the_Punjab</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Punjab, Pakistan, is led by the Provincial Assembly of the Punjab.</lex>
+      <lex lang="ru" lid="Id1">Пенджаб, Пакистан, возглавляется Провинциальной ассамблеей Пенджаба.</lex>
+      <lex lang="en" lid="Id2">Punjab, Pakistan is led by the Provincial Assembly of the Punjab.</lex>
+      <lex lang="ru" lid="Id2">Пенджаб, Пакистан возглавляется Провинциальной ассамблеей Пенджаба.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Punjab,_Pakistan | sameAs | Пенджаб_(Пакистан)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Provincial Assembly of the Punjab | sameAs | Провинциальная ассамблея Пенджаба</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>San_Sebastián_de_los_Reyes | isPartOf | Community_of_Madrid</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>San_Sebastián_de_los_Reyes | isPartOf | Community_of_Madrid</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">San Sebastian de los Reyes is part of the Community of Madrid.</lex>
+      <lex lang="ru" lid="Id1">Сан-Себастьян-де-лос-Рейес является частью Сообщества Мадрида.</lex>
+      <lex lang="en" lid="Id2">San Sebastián de los Reyes is part of the Community of Madrid.</lex>
+      <lex lang="ru" lid="Id2">Сан-Себастьян-де-лос-Рейес входит в состав Мадрида.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">San_Sebastián_de_los_Reyes | sameAs | Сан-Себастьян-де-лос-Рейес</dbpedialink>
+        <dbpedialink direction="en2ru">Community_of_Madrid | sameAs | Мадрид_(автономное_сообщество)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Airport" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>San_Sebastián_de_los_Reyes | leaderParty | People's_Party_(Spain)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>San_Sebastián_de_los_Reyes | leaderParty | People's_Party_(Spain)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The People's Party is the lead party of San Sebastian de los Reyes, Spain.</lex>
+      <lex lang="ru" lid="Id1">Народная партия - ведущая партия Сан-Себастьян-де-лос-Рейеса, Испания.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">People's_Party_(Spain) | sameAs | Народная_партия_(Испания)</dbpedialink>
+        <dbpedialink direction="en2ru">San_Sebastián_de_los_Reyes | sameAs | Сан-Себастьян-де-лос-Рейес</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Airport" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Saranac Lake, New York is located in the U.S.</lex>
+      <lex lang="ru" lid="Id1">Саранак-Лейк, штат Нью-Йорк находится в США.</lex>
+      <lex lang="en" lid="Id2">Saranac Lake New York is located in the United States.</lex>
+      <lex lang="ru" lid="Id2">Саранак-Лейк, штат Нью-Йорк, находится в США.</lex>
+      <lex lang="en" lid="Id3">Saranac Lake, New York is located in the United States.</lex>
+      <lex lang="ru" lid="Id3">Саранак-Лейк, штат Нью-Йорк, находится в США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Saranac Lake, New York | includes | Саранак-Лейк</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Saranac Lake, New York is part of Essex County, New York.</lex>
+      <lex lang="ru" lid="Id1">Саранак-Лейк, штат Нью-Йорк, является частью округа Эссекс, штат Нью-Йорк.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Essex_County,_New_York | sameAs | Эссекс_(округ,_Нью-Йорк)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Saranac Lake, New York | includes | Саранак-Лейк</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Saranac Lake, New York is part of Harrietstown, New York.</lex>
+      <lex lang="ru" lid="Id1">Саранак-Лейк, штат Нью-Йорк, является частью Хэрритстауна, штат Нью-Йорк.</lex>
+      <lex lang="en" lid="Id2">Saranac Lake, New York, is part of Harrietstown, New York.</lex>
+      <lex lang="ru" lid="Id2">Саранак-Лейк, штат Нью-Йорк, является частью Хэрритстауна, штат Нью-Йорк.</lex>
+      <links>
+        <link direction="en2ru">Saranac Lake, New York | includes | Саранак-Лейк</link>
+        <link direction="en2ru">Harrietstown, New York | includes | Хэрритстаун</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>South_Jersey_Transportation_Authority | leader | Stephen_Dilts</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>South_Jersey_Transportation_Authority | leader | Stephen_Dilts</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">South Jersey Transportation Authority's leader name is Stephen Dilts.</lex>
+      <lex lang="ru" lid="Id1">Лидером Транспортного управления Саус Джерси является Стивен Дилтс.</lex>
+      <lex lang="en" lid="Id2">Stephen Dilts is the head of the South Jersey Transportation Authority.</lex>
+      <lex lang="ru" lid="Id2">Стивен Дилтс - глава транспортного управления Саус Джерси.</lex>
+      <lex lang="en" lid="Id3">Stephen Dilts is the leader of the South Jersey Transportation Authority.</lex>
+      <lex lang="ru" lid="Id3">Стивен Дилтс - лидер Транспортного управления Саус Джерси.</lex>
+      <links>
+        <link direction="en2ru">South Jersey Transportation Authority | sameAs | Транспортное управление Саус Джерси</link>
+        <link direction="en2ru">Stephen Dilts | sameAs | Стивен Дилтс</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>São_José_dos_Pinhais | isPartOf | Paraná_(state)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>São_José_dos_Pinhais | subdivisionName | Paraná_(state)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>São_José_dos_Pinhais | isPartOf | Paraná_(state)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">São José dos Pinhais is part Of Paraná (state).</lex>
+      <lex lang="ru" lid="Id1">Сан-Жозе-дус-Пиньяйс входит в состав Параны (штат).</lex>
+      <lex lang="en" lid="Id2">São José dos Pinhais is part of the state of Paraná.</lex>
+      <lex lang="ru" lid="Id2">Сан-Жозе-дус-Пиньяйс является частью штата Парана.</lex>
+      <lex lang="en" lid="Id3">Sao Jose dos Pinhais is part of Parana.</lex>
+      <lex lang="ru" lid="Id3">Сан-Жозе-дус-Пиньяйс - часть Параны.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">São_José_dos_Pinhais | sameAs | Сан-Жозе-дус-Пиньяйс</dbpedialink>
+        <dbpedialink direction="en2ru">Paraná_(state) | sameAs | Парана_(штат)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Airport" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>São_José_dos_Pinhais | isPartOf | South_Region,_Brazil</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>São_José_dos_Pinhais | subdivisionName | South_Region,_Brazil</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>São_José_dos_Pinhais | isPartOf | South_Region,_Brazil</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">São José dos Pinhais is part of the south region of Brazil.</lex>
+      <lex lang="ru" lid="Id1">Сан-Жозе-дус-Пиньяйс является частью Южного региона Бразилии.</lex>
+      <lex lang="en" lid="Id2">Sao Jose dos Pinhais is part of the South Region, Brazil.</lex>
+      <lex lang="ru" lid="Id2">Сан-Жозе-дус-Пиньяйс - часть Южного региона, Бразилия.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">São_José_dos_Pinhais | sameAs | Сан-Жозе-дус-Пиньяйс</dbpedialink>
+        <dbpedialink direction="en2ru">South_Region,_Brazil | sameAs | Южный_регион_(Бразилия)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Airport" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Texas | capital | Austin,_Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Texas | capital | Austin,_Texas</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Austin is the capital of Texas.</lex>
+      <lex lang="ru" lid="Id1">Остин - столица Техаса.</lex>
+      <lex lang="en" lid="Id2">The capital of Texas is Austin.</lex>
+      <lex lang="ru" lid="Id2">Столица Техаса - Остин.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Austin,_Texas | sameAs | Остин_(Техас)</dbpedialink>
+        <dbpedialink direction="en2ru">Texas | sameAs | Техас</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Airport" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Texas | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Texas | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Texas is in the United States.</lex>
+      <lex lang="ru" lid="Id1">Техас находится в США.</lex>
+      <lex lang="en" lid="Id2">Texas is located in the United States.</lex>
+      <lex lang="ru" lid="Id2">Техас находится в США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Texas | sameAs | Техас</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Airport" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Texas | demonym | Tejano</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Texas | demonym | Tejano</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Texas demonym is Tejano.</lex>
+      <lex lang="ru" lid="Id1">Демоним Техаса - техасец.</lex>
+      <lex lang="en" lid="Id2">The inhabitants of Texas have the demonym of Tejano.</lex>
+      <lex lang="ru" lid="Id2">У жителей Техаса есть демоним «техасцы».</lex>
+      <lex lang="en" lid="Id3">A Tejano is a demonym term used in Texas.</lex>
+      <lex lang="ru" lid="Id3">Техасец - это этнохороним, используемый в Техасе.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Texas | sameAs | Техас</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Tejano | sameAs | техасец</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Texas | demonym | Texan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Texas | demonym | Texan</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The people of Texas are known as Texans.</lex>
+      <lex lang="ru" lid="Id1">Жители Техаса известны как техасцы.</lex>
+      <lex lang="en" lid="Id2">The inhabitants of Texas have the demonym Texan.</lex>
+      <lex lang="ru" lid="Id2">У жителей Техаса этнохороним - техасец.</lex>
+      <lex lang="en" lid="Id3">The people of Texas are called Texans.</lex>
+      <lex lang="ru" lid="Id3">Жителей Техаса называют техасцами.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Texas | sameAs | Техас</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Texan | sameAs | техасский/техасец</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Texas | language | English_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Texas | language | English_language</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">English is spoken in Texas.</lex>
+      <lex lang="ru" lid="Id1">В Техасе говорят по-английски.</lex>
+      <lex lang="en" lid="Id2">English is the language of Texas.</lex>
+      <lex lang="ru" lid="Id2">Английский язык - язык Техаса.</lex>
+      <lex lang="en" lid="Id3">The language spoken in Texas is English.</lex>
+      <lex lang="ru" lid="Id3">Язык, на котором говорят в Техасе, - английский.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">English_language | sameAs | Английский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">Texas | sameAs | Техас</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Airport" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Texas | language | Spanish_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Texas | language | Spanish_language</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Spanish is spoken in Texas.</lex>
+      <lex lang="ru" lid="Id1">На испанском языке говорят в Техасе.</lex>
+      <lex lang="en" lid="Id2">Spanish is a language spoken in Texas.</lex>
+      <lex lang="ru" lid="Id2">Испанский - язык, на котором говорят в Техасе.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Spanish_language | sameAs | Испанский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">Texas | sameAs | Техас</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Airport" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Tirstrup | country | Denmark</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tirstrup | country | Denmark</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Tirstrup is located in the country of Denmark.</lex>
+      <lex lang="ru" lid="Id1">Тирструп находится в Дании.</lex>
+      <lex lang="en" lid="Id2">Tirstrup is in the country of Denmark.</lex>
+      <lex lang="ru" lid="Id2">Тирструп находится в Дании.</lex>
+      <lex lang="en" lid="Id3">Tirstrup is in Denmark.</lex>
+      <lex lang="ru" lid="Id3">Тирструп находится в Дании.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Denmark | sameAs | Дания</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Tirstrup | sameAs | Тирструп</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Tirstrup | isPartOf | Central_Denmark_Region</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Tirstrup | subdivisionName | Central_Denmark_Region</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tirstrup | isPartOf | Central_Denmark_Region</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Tirstrup is part of the Central Denmark region.</lex>
+      <lex lang="ru" lid="Id1">Тирструп - часть региона Центральной Ютландии.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Central_Denmark_Region | sameAs | Центральная_Ютландия_(область)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Tirstrup | sameAs | Тирструп</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Tirstrup | subdivisionName | Denmark</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tirstrup | isPartOf | Denmark</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Tirstrup is part of Denmark.</lex>
+      <lex lang="ru" lid="Id1">Тирструп - часть Дании.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Denmark | sameAs | Дания</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Tirstrup | sameAs | Тирструп</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | headquarters | Ashgabat</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | headquarter | Ashgabat</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkmenistan_Airlines | headquarter | Ashgabat</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The headquarters of Turkmenistan Airlines are located in Ashgabat.</lex>
+      <lex lang="ru" lid="Id1">Штаб-квартира авиакомпании «Туркменские авиалинии» находится в Ашхабаде.</lex>
+      <lex lang="en" lid="Id2">The headquarters of Turkmenistan Airlines are in Ashgabat.</lex>
+      <lex lang="ru" lid="Id2">Штаб-квартира авиакомпании "Туркменские авиалинии" находится в Ашхабаде.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Ashgabat | sameAs | Ашхабад</dbpedialink>
+        <dbpedialink direction="en2ru">Turkmenistan_Airlines | sameAs | Туркменские_авиалинии</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Airport" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | headquarters | Turkmenistan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | headquarter | Turkmenistan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkmenistan_Airlines | headquarter | Turkmenistan</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The headquarters of Turkmenistan Airlines are located in Turkmenistan.</lex>
+      <lex lang="ru" lid="Id1">Штаб-квартира авиакомпании "Туркменские авиалинии" находится в Туркменистане.</lex>
+      <lex lang="en" lid="Id2">The headquarters of Turkmenistan Airlines are in Turkmenistan.</lex>
+      <lex lang="ru" lid="Id2">Штаб-квартира авиакомпании Туркменские авиалинии находится в Туркменистане.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Turkmenistan | sameAs | Туркмения</dbpedialink>
+        <dbpedialink direction="en2ru">Turkmenistan_Airlines | sameAs | Туркменские_авиалинии</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Airport" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | hubAirport | Ashgabat_International_Airport</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | hubs | Ashgabat_International_Airport</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkmenistan_Airlines | hubAirport | Ashgabat_International_Airport</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The hub airport for Turkmenistan airlines is Ashgabat International airport.</lex>
+      <lex lang="ru" lid="Id1">Узловой аэропорт Туркменских авиалиний - Аэропорт имени Сапармурата Туркменбаши.</lex>
+      <lex lang="en" lid="Id2">Turkmenistan Airlines utilizes the Ashgabat International Airport as its hub.</lex>
+      <lex lang="ru" lid="Id2">"Туркменские авиалинии" используют Аэропорт имени Сапармурата Туркменбаши в качестве своего хаба.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Turkmenistan_Airlines | sameAs | Туркменские_авиалинии</dbpedialink>
+        <dbpedialink direction="en2ru">Ashgabat_International_Airport | sameAs | Аэропорт_имени_Сапармурата_Туркменбаши</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Airport" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | targetAirport | Turkmenabat_Airport</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkmenistan_Airlines | hubAirport | Turkmenabat_Airport</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The hub airport for Turkmenistan Airlines is Turkmenabat Airport.</lex>
+      <lex lang="ru" lid="Id1">Узловой аэропорт для Туркменских авиалиний - Аэропорт Туркменабад.</lex>
+      <lex lang="en" lid="Id2">Turkmenabat airport is the hub for Turkmenistan airlines.</lex>
+      <lex lang="ru" lid="Id2">Аэропорт Туркменабад является центром для Туркменских авиалиний.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Turkmenistan_Airlines | sameAs | Туркменские_авиалинии</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Turkmenabat Airport | sameAs | Аэропорт Туркменабад</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | targetAirport | Turkmenbashi_International_Airport</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkmenistan_Airlines | hubAirport | Turkmenbashi_International_Airport</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The hub airport for Turkmenistan Airlines is Turkmenbashi International Airport.</lex>
+      <lex lang="ru" lid="Id1">Узловой аэропорт Туркменских авиалиний - Международный аэропорт Туркменбаши.</lex>
+      <lex lang="en" lid="Id2">The hub Airport of Turkmenistan Airlines is Turkmenbashi International Airport.</lex>
+      <lex lang="ru" lid="Id2">Хабом "Туркменских авиалиний" является Международный аэропорт Туркменбаши.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Turkmenistan_Airlines | sameAs | Туркменские_авиалинии</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Turkmenbashi International Airport | sameAs | Международный аэропорт Туркменбаши</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States_Air_Force | aircraftFighter | General_Dynamics_F-16_Fighting_Falcon</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States_Air_Force | aircraftFighter | General_Dynamics_F-16_Fighting_Falcon</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">United States Air FOrce aircraft fighter is General Dynamics F-16 Fighting Falcon.</lex>
+      <lex lang="ru" lid="Id1">Истребитель ВВС США - General Dynamics F-16 Fighting Falcon.</lex>
+      <lex lang="en" lid="Id2">The General Dynamics F-16 Fighting Falcon is an aircraft fighter in the United States Air Force.</lex>
+      <lex lang="ru" lid="Id2">General Dynamics F-16 Fighting Falcon - истребитель ВВС США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States_Air_Force | sameAs | Военно-воздушные_силы_США</dbpedialink>
+        <dbpedialink direction="en2ru">General_Dynamics_F-16_Fighting_Falcon | sameAs | General_Dynamics_F-16_Fighting_Falcon</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Airport" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States_Air_Force | aircraftFighter | McDonnell_Douglas_F-15_Eagle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States_Air_Force | aircraftFighter | McDonnell_Douglas_F-15_Eagle</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">United States Air Force's aircraft fighter is called McDonnell Douglas F-15 Eagle.</lex>
+      <lex lang="ru" lid="Id1">Истребитель ВВС США называется McDonnell Douglas F-15 Eagle.</lex>
+      <lex lang="en" lid="Id2">The McDonnell Douglas F-15 Eagle is an aircraft fighter in the U.S. Air Force.</lex>
+      <lex lang="ru" lid="Id2">McDonnell Douglas F-15 Eagle - истребитель ВВС США.</lex>
+      <lex lang="en" lid="Id3">McDonnell Douglas F-15 Eagle was a Fighter Aircraft of the United States Air Force.</lex>
+      <lex lang="ru" lid="Id3">McDonnell Douglas F-15 Eagle был истребителем ВВС США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States_Air_Force | sameAs | Военно-воздушные_силы_США</dbpedialink>
+        <dbpedialink direction="en2ru">McDonnell_Douglas_F-15_Eagle | sameAs | McDonnell_Douglas_F-15_Eagle</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Airport" eid="Id26" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States_Air_Force | aircraftAttack | Lockheed_AC-130</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States_Air_Force | attackAircraft | Lockheed_AC-130</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Lockheed AC-130 can be found on USAF aircraft carriers.</lex>
+      <lex lang="ru" lid="Id1">Lockheed AC-130 можно найти на авианосцах Военно-воздушных сил США.</lex>
+      <lex lang="en" lid="Id2">The Lockheed AC-130 is an attack aircraft of the United States Air Force.</lex>
+      <lex lang="ru" lid="Id2">Lockheed AC-130 - атакующий самолет ВВС США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States_Air_Force | sameAs | Военно-воздушные_силы_США</dbpedialink>
+        <dbpedialink direction="en2ru">Lockheed_AC-130 | sameAs | Lockheed_AC-130</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Airport" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States_Air_Force | battles | Invasion_of_Grenada</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_States_Air_Force | battle | Invasion_of_Grenada</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States_Air_Force | battle | Invasion_of_Grenada</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">One of the noted United States Air Force battles was the Invasion of Grenada.</lex>
+      <lex lang="ru" lid="Id1">Одним из выдающихся сражений ВВС США было Вторжение США на Гренаду.</lex>
+      <lex lang="en" lid="Id2">The United States Air Force was involved in battles at the Invasion of Grenada.</lex>
+      <lex lang="ru" lid="Id2">Военно-воздушные силы США участвовали в боях при вторжении США на Гренаду.</lex>
+      <lex lang="en" lid="Id3">The United States Air Force battled in the Invasion of Grenada.</lex>
+      <lex lang="ru" lid="Id3">ВВС США сражались во время вторжения на Гренаду.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States_Air_Force | sameAs | Военно-воздушные_силы_США</dbpedialink>
+        <dbpedialink direction="en2ru">Invasion_of_Grenada | sameAs | Вторжение_США_на_Гренаду</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Airport" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States_Air_Force | battles | Korean_War</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_States_Air_Force | battle | Korean_War</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States_Air_Force | battle | Korean_War</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The United States Air Force fought battles in the Korean war.</lex>
+      <lex lang="ru" lid="Id1">ВВС США вели бои в Корейской войне.</lex>
+      <lex lang="en" lid="Id2">The United States Air Force has fought in the Korean War.</lex>
+      <lex lang="ru" lid="Id2">ВВС США воевали в Корейской войне.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States_Air_Force | sameAs | Военно-воздушные_силы_США</dbpedialink>
+        <dbpedialink direction="en2ru">Korean_War | sameAs | Корейская_война</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Airport" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States_Air_Force | battle | Operation_Enduring_Freedom</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_States_Air_Force | battles | Operation_Enduring_Freedom</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States_Air_Force | battle | Operation_Enduring_Freedom</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Operation Enduring Freedom is one of the battles of the United States Air Force.</lex>
+      <lex lang="ru" lid="Id1">Операция «Несокрушимая свобода» - одно из сражений ВВС США.</lex>
+      <lex lang="en" lid="Id2">Operation Enduring Freedom was a battle involving the United States Air Force.</lex>
+      <lex lang="ru" lid="Id2">Операция «Несокрушимая свобода» была битвой с участием Военно-воздушных сил США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States_Air_Force | sameAs | Военно-воздушные_силы_США</dbpedialink>
+        <dbpedialink direction="en2ru">Operation_Enduring_Freedom | sameAs | Операция_«Несокрушимая_свобода»</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Airport" eid="Id30" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States_Air_Force | battle | United_States_invasion_of_Panama</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States_Air_Force | battle | United_States_invasion_of_Panama</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The USAF was involved in the Invasion of Panama.</lex>
+      <lex lang="ru" lid="Id1">Военно-воздушные силы США были задействованы при вторжении в Панаму.</lex>
+      <lex lang="en" lid="Id2">The United States invasion of Panama was a battle involving the United States Air Force.</lex>
+      <lex lang="ru" lid="Id2">Вторжением Соединенных Штатов в Панаму было сражение с участием ВВС Соединенных Штатов.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States_Air_Force | sameAs | Военно-воздушные_силы_США</dbpedialink>
+        <dbpedialink direction="en2ru">United_States_invasion_of_Panama | sameAs | Вторжение_США_в_Панаму</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Airport" eid="Id31" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States_Air_Force | aircraftTransport | Lockheed_C-130_Hercules</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States_Air_Force | transportAircraft | Lockheed_C-130_Hercules</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Lockheed C-130 Hercules is a transport aircraft in the United States Air Force.</lex>
+      <lex lang="ru" lid="Id1">Lockheed C-130 Hercules - транспортный самолет в ВВС США.</lex>
+      <lex lang="en" lid="Id2">The transport aircraft for the United States Air Force is the Lockheed C-130 Hercules.</lex>
+      <lex lang="ru" lid="Id2">Транспортный самолет для ВВС США - Lockheed C-130 Hercules.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States_Air_Force | sameAs | Военно-воздушные_силы_США</dbpedialink>
+        <dbpedialink direction="en2ru">Lockheed_C-130_Hercules | sameAs | Lockheed_C-130_Hercules</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Airport" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Uttar_Pradesh | subdivisionName | Awadh</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Uttar_Pradesh | isPartOf | Awadh</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Uttar_Pradesh | isPartOf | Awadh</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Uttar Pradesh is part of Awadh.</lex>
+      <lex lang="ru" lid="Id1">Уттар-Прадеш - часть Ауд.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Uttar_Pradesh | sameAs | Уттар-Прадеш</dbpedialink>
+        <dbpedialink direction="en2ru">Awadh | sameAs | Ауд_(Индия)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Airport" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Uttar_Pradesh | isPartOf | Bundelkhand</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Uttar_Pradesh | isPartOf | Bundelkhand</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Uttar Pradesh is part of Bundelkhand.</lex>
+      <lex lang="ru" lid="Id1">Уттар-Прадеш входит в состав Бунделкханда.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Uttar_Pradesh | sameAs | Уттар-Прадеш</dbpedialink>
+        <dbpedialink direction="en2ru">Bundelkhand | sameAs | Бунделкханд</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Airport" eid="Id34" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Uttar_Pradesh | leaderName | Ram_Naik</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Uttar_Pradesh | leader | Ram_Naik</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Ram Naik is the leader in Uttar Pradesh.</lex>
+      <lex lang="ru" lid="Id1">Рам Найк - лидер в штате Уттар-Прадеш.</lex>
+      <lex lang="en" lid="Id2">The leader name of Uttar Pradesh is Ram Naik.</lex>
+      <lex lang="ru" lid="Id2">Имя лидера Уттар-Прадеш - Рам Найк.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Uttar_Pradesh | sameAs | Уттар-Прадеш</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Ram Naik | sameAs | Рам Найк</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id35" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Wilson_Township,_Alpena_County,_Michigan | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Wilson_Township,_Alpena_County,_Michigan | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Wilson Township, in Alpena County, Michigan is in the U.S.A.</lex>
+      <lex lang="ru" lid="Id1">Поселок Уилсон в Алпине, Мичиган, находится в США.</lex>
+      <lex lang="en" lid="Id2">Wilson Township, Alpena County, Michigan is in the United States.</lex>
+      <lex lang="ru" lid="Id2">Поселок Уилсон, округ Алпина, Мичиган находится в США.</lex>
+      <lex lang="en" lid="Id3">The Wilson Township, Alpena County, Michigan is in the United States.</lex>
+      <lex lang="ru" lid="Id3">Поселок Уилсон, округ Алпина, Мичиган, находится в США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Wilson Township, Alpena County, Michigan | includes | Алпина</link>
+        <link direction="en2ru">Wilson Township, Alpena County, Michigan | includes | поселок Уилсон</link>
+        <link direction="en2ru">Wilson Township, Alpena County, Michigan | includes | Мичиган</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id36" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Wilson_Township,_Alpena_County,_Michigan | subdivisionName | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Wilson_Township,_Alpena_County,_Michigan | isPartOf | United_States</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Wilson Township, Alpena County, Michigan is part of the United States.</lex>
+      <lex lang="ru" lid="Id1">Поселок Уилсон, Алпина, Мичиган - это часть Соединенных Штатов Америки.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Wilson Township, Alpena County, Michigan | includes | Алпина</link>
+        <link direction="en2ru">Wilson Township, Alpena County, Michigan | includes | поселок Уилсон</link>
+        <link direction="en2ru">Wilson Township, Alpena County, Michigan | includes | Мичиган</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id37" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ícolo_e_Bengo | country | Angola</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ícolo_e_Bengo | country | Angola</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Ícolo e Bengo is in Angola.</lex>
+      <lex lang="ru" lid="Id1">Иколу-э-Бенгу находится в Анголе.</lex>
+      <lex lang="en" lid="Id2">Ícolo e Bengo is located in Angola.</lex>
+      <lex lang="ru" lid="Id2">Иколу-э-Бенгу находится в Анголе.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Angola | sameAs | Ангола</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Ícolo e Bengo | sameAs | Иколу-э-Бенгу</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id38" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ícolo_e_Bengo | subdivisionName | Luanda_Province</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Ícolo e Bengo is in the Luanda Province.</lex>
+      <lex lang="ru" lid="Id1">Иколу-э-Бенгу находится в провинции Луанда.</lex>
+      <lex lang="en" lid="Id2">Ícolo e bengo is part of Luanda Province.</lex>
+      <lex lang="ru" lid="Id2">Иколу-э-Бенгу - часть провинции Луанда.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Luanda_Province | sameAs | Луанда_(провинция)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Ícolo e Bengo | sameAs | Иколу-э-Бенгу</link>
+      </links>
+    </entry>
+  </entries>
+</benchmark>

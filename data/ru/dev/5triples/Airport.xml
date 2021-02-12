@@ -1,0 +1,973 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Airport" eid="Id1" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Egg_Harbor_Township,_New_Jersey | isPartOf | New_Jersey</otriple>
+        <otriple>Atlantic_City_International_Airport | runwayLength | "1873.0"^^xsd:double</otriple>
+        <otriple>Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey</otriple>
+        <otriple>Egg_Harbor_Township,_New_Jersey | country | United_States</otriple>
+        <otriple>Egg_Harbor_Township,_New_Jersey | subdivisionName | Atlantic_County,_New_Jersey</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Egg_Harbor_Township,_New_Jersey | isPartOf | New_Jersey</otriple>
+        <otriple>Atlantic_City_International_Airport | runwayLength | "1872.69"^^xsd:double</otriple>
+        <otriple>Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey</otriple>
+        <otriple>Egg_Harbor_Township,_New_Jersey | country | United_States</otriple>
+        <otriple>Egg_Harbor_Township,_New_Jersey | subdivisionName | Atlantic_County,_New_Jersey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | New_Jersey</mtriple>
+        <mtriple>Atlantic_City_International_Airport | runwayLength | 1873.0</mtriple>
+        <mtriple>Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey</mtriple>
+        <mtriple>Egg_Harbor_Township,_New_Jersey | country | United_States</mtriple>
+        <mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Atlantic City International Airport in Egg Harbor Township, New Jersey is in the U.S.A. The airport has a runway that is 1,873 long.</lex>
+      <lex lang="ru" lid="Id1">Международный аэропорт Атлантик-Сити в поселке Эгг Харбор, Нью-Джерси, находится в Соединённых Штатах Америки. Аэропорт имеет взлетно-посадочную полосу, которая длиной 1873.</lex>
+      <lex lang="en" lid="Id2">The Egg Harbor Township in New Jersey is located in Atlantic City, New Jersey. It is served by Atlantic City International Airport which has a runway length of 1873.</lex>
+      <lex lang="ru" lid="Id2">Поселок Эгг Харбор в Нью-Джерси расположен в Атлантик-Сити, штат Нью-Джерси. Его обслуживает международный аэропорт Атлантик-Сити, имеющий длину взлетно-посадочной полосы - 1873.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">New_Jersey | sameAs | Нью-Джерси</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Atlantic_County,_New_Jersey | sameAs | Атлантик_(округ,_Нью-Джерси)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Atlantic City International Airport | sameAs | Международный аэропорт Атлантик Сити</link>
+        <link direction="en2ru">Egg Harbor Township, New Jersey | includes | поселок Эгг Харбор</link>
+        <link direction="en2ru">Egg Harbor Township, New Jersey | includes | Нью-Джерси</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id2" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Egg_Harbor_Township,_New_Jersey | isPartOf | New_Jersey</otriple>
+        <otriple>Atlantic_City_International_Airport | runwayLength | "3048.0"^^xsd:double</otriple>
+        <otriple>Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey</otriple>
+        <otriple>Egg_Harbor_Township,_New_Jersey | country | United_States</otriple>
+        <otriple>Egg_Harbor_Township,_New_Jersey | subdivisionName | Atlantic_County,_New_Jersey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | New_Jersey</mtriple>
+        <mtriple>Atlantic_City_International_Airport | runwayLength | 3048.0</mtriple>
+        <mtriple>Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey</mtriple>
+        <mtriple>Egg_Harbor_Township,_New_Jersey | country | United_States</mtriple>
+        <mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Egg Harbor Township is a township in Atlantic County, New Jersey, United States, and is where Atlantic City International Airport is located. This airport has a runway length of 3048.0.</lex>
+      <lex lang="ru" lid="Id1">Поселок Эгг Харбор - это населенный пункт в округе Атлантик, Нью-Джерси, США, и является местом расположения международного аэропорта Атлантик-Сити. Этот аэропорт имеет длину взлетно-посадочной полосы 3048,0.</lex>
+      <lex lang="en" lid="Id2">Atlantic City International Airport, which has a runway length of 3048.0 is located in Egg Harbor Township, Atlantic County, New Jersey in the United States.</lex>
+      <lex lang="ru" lid="Id2">Международный аэропорт Атлантик-Сити, имеющий длину взлетно-посадочной полосы 3048,0, расположен в поселке Эгг Харбор, округ Атлантик, штат Нью-Джерси в США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">New_Jersey | sameAs | Нью-Джерси</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Atlantic_County,_New_Jersey | sameAs | Атлантик_(округ,_Нью-Джерси)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Atlantic City International Airport | sameAs | Международный аэропорт Атлантик Сити</link>
+        <link direction="en2ru">Egg Harbor Township, New Jersey | includes | поселок Эгг Харбор</link>
+        <link direction="en2ru">Egg Harbor Township, New Jersey | includes | Нью-Джерси</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id3" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Egg_Harbor_Township,_New_Jersey | isPartOf | New_Jersey</otriple>
+        <otriple>Atlantic_City_International_Airport | runwayDesignation | "13/31"</otriple>
+        <otriple>Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey</otriple>
+        <otriple>Egg_Harbor_Township,_New_Jersey | country | United_States</otriple>
+        <otriple>Egg_Harbor_Township,_New_Jersey | subdivisionName | Atlantic_County,_New_Jersey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | New_Jersey</mtriple>
+        <mtriple>Atlantic_City_International_Airport | runwayName | "13/31"</mtriple>
+        <mtriple>Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey</mtriple>
+        <mtriple>Egg_Harbor_Township,_New_Jersey | country | United_States</mtriple>
+        <mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Atlantic City International Airport in Egg Harbor Township, New Jersey is part of Atlantic County in the U.S.A. Its runway name is 13/31.</lex>
+      <lex lang="ru" lid="Id1">Международный аэропорт Атлантик Сити в поселке Эгг Харбор, Нью-Джерси, часть Атлантик в Соединённых Штатах Америки. Его взлетно-посадочная полоса - 13 / 31.</lex>
+      <lex lang="en" lid="Id2">13/31 is the runway name for Atlantic City International airport located in Egg Harbor Township, Atlantic County, New Jersey, United States.</lex>
+      <lex lang="ru" lid="Id2">13/31 - название взлетно-посадочной полосы международного аэропорта Атлантик-Сити, расположенного в поселке Эгг Харбор, округ Атлантик, Нью-Джерси, Соединенные Штаты Америки.</lex>
+      <lex lang="en" lid="Id3">Atlantic City International Airport is located in Egg Harbor Township, New Jersey in the United States.The Airport's runway name is called "13/31".</lex>
+      <lex lang="ru" lid="Id3">Международный аэропорт Атлантик-Сити расположен в поселке Эгг Харбор, штат Нью-Джерси в США. Взлетно-посадочная полоса аэропорта называется 13/31.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">New_Jersey | sameAs | Нью-Джерси</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Atlantic_County,_New_Jersey | sameAs | Атлантик_(округ,_Нью-Джерси)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Atlantic City International Airport | sameAs | Международный аэропорт Атлантик Сити</link>
+        <link direction="en2ru">Egg Harbor Township, New Jersey | includes | поселок Эгг Харбор</link>
+        <link direction="en2ru">Egg Harbor Township, New Jersey | includes | Нью-Джерси</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id4" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Egg_Harbor_Township,_New_Jersey | isPartOf | New_Jersey</otriple>
+        <otriple>Atlantic_City_International_Airport | runwayDesignation | "4/22"</otriple>
+        <otriple>Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey</otriple>
+        <otriple>Egg_Harbor_Township,_New_Jersey | country | United_States</otriple>
+        <otriple>Egg_Harbor_Township,_New_Jersey | subdivisionName | Atlantic_County,_New_Jersey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | New_Jersey</mtriple>
+        <mtriple>Atlantic_City_International_Airport | runwayName | "4/22"</mtriple>
+        <mtriple>Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey</mtriple>
+        <mtriple>Egg_Harbor_Township,_New_Jersey | country | United_States</mtriple>
+        <mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">4/22 is the runway name of Atlantic City International Airport which is located in Egg Harbor Township, New Jersey, (part of Atlantic County), in the United States.</lex>
+      <lex lang="ru" lid="Id1">4/22 - взлетно-посадочная полоса международного аэропорта Атлантик-Сити, который расположен в поселке Эгг Харбор, штат Нью-Джерси, (часть округа Атлантик), в Соединенных Штатах Америки.</lex>
+      <lex lang="en" lid="Id2">Atlantic City International Airport has the runway name 4/22 and is located at Egg Harbor Township, New Jersey (part of Atlantic County), in the United States.</lex>
+      <lex lang="ru" lid="Id2">Международный аэропорт Атлантик-Сити имеет взлетно-посадочную полосу под названием 4/22 и находится в поселке Эгг Харбор, штат Нью-Джерси (часть округа Атлантик), в Соединенных Штатах Америки.</lex>
+      <lex lang="en" lid="Id3">Egg Harbor Township, New Jersey (part of Atlantic county), in the United States, is where Atlantic City International Airport is located. It has the runway name 4/22.</lex>
+      <lex lang="ru" lid="Id3">Поселок Эгг Харбор, Нью-Джерси (часть округа Атлантик), в США, место, где расположен международный аэропорт Атлантик-Сити. Он имеет взлетно-посадочную полосу под названием 4/22.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">New_Jersey | sameAs | Нью-Джерси</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Atlantic_County,_New_Jersey | sameAs | Атлантик_(округ,_Нью-Джерси)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Atlantic City International Airport | sameAs | Международный аэропорт Атлантик Сити</link>
+        <link direction="en2ru">Egg Harbor Township, New Jersey | includes | поселок Эгг Харбор</link>
+        <link direction="en2ru">Egg Harbor Township, New Jersey | includes | Нью-Джерси</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id5" shape="(X (X) (X (X (X) (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Harrietstown,_New_York | country | United_States</otriple>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+        <otriple>Harrietstown,_New_York | isPartOf | New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Lake_Placid,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Harrietstown,_New_York | country | United_States</otriple>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+        <otriple>Harrietstown,_New_York | isPartOf | New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Harrietstown,_New_York | country | United_States</mtriple>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</mtriple>
+        <mtriple>Harrietstown,_New_York | isPartOf | New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Saranac Lake, New York is part of Harrietstown, New York in the United States and it is served by Adirondack Regional Airport. This airport also serves the city of Lake Placid, New York.</lex>
+      <lex lang="ru" lid="Id1">Саранак-Лейк, Нью-Йорк, является частью Хэрритстауна, Нью-Йорк, в США и обслуживается региональным аэропортом Адирондак. Этот аэропорт также обслуживает город Лейк-Плэсид.</lex>
+      <lex lang="en" lid="Id2">Adirondack Regional Airport serves Lake Placid, New York, and also Saranac Lake (part of Harrietstown), New York.</lex>
+      <lex lang="ru" lid="Id2">Региональный аэропорт Адирондак обслуживает деревню Лейк-Плэсид, Нью-Йорк, а также село Саранак-Лейк, Нью-Йорк.</lex>
+      <lex lang="en" lid="Id3">Saranac Lake and Harrietsown, are parts of New York which is located in the United States. Adirondack Regional Airport serves both the city of Saranac Lake and Lake Plaid, N.Y.</lex>
+      <lex lang="ru" lid="Id3">Саранак-Лейк и Хэрритстаун - это части Нью-Йорка, которые находятся в США. Региональный аэропорт Адирондак обслуживает оба города - Саранак-Лейк и Лейк-Плэсид, штат Нью-Йорк.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">New_York | sameAs | Нью-Йорк_(штат)</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Lake_Placid,_New_York | sameAs | Лейк-Плэсид</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adirondack Regional Airport | sameAs | Региональный аэропорт Адирондак</link>
+        <link direction="en2ru">Harrietstown, New York | includes | Хэрритстаун</link>
+        <link direction="en2ru">Saranac Lake, New York | includes | Саранак-Лейк</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id6" shape="(X (X (X)) (X (X (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Harrietstown,_New_York | country | United_States</otriple>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+        <otriple>Lake_Placid,_New_York | isPartOf | New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Harrietstown,_New_York | country | United_States</otriple>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+        <otriple>Lake_Placid,_New_York | isPartOf | New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Lake_Placid,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Harrietstown,_New_York | country | United_States</mtriple>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</mtriple>
+        <mtriple>Lake_Placid,_New_York | isPartOf | New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Adirondack Regional Airport serves the city of Lake Placid, part of New York, and also the city of Saranac Lake, part of Harrietstown, New York, United States.</lex>
+      <lex lang="ru" lid="Id1">Региональный аэропорт Адирондак обслуживает город Лейк-Плэсид, часть Нью-Йорка, а также город Саранак-Лейк, часть Хэрритстаун, Нью-Йорк, Соединенные Штаты.</lex>
+      <lex lang="en" lid="Id2">Adirondack Regional Airport serves Lake Placid and Saranac Lake,New York. Saranac Lake is part of Harrietstown,New York and is located in the United States.</lex>
+      <lex lang="ru" lid="Id2">Региональный аэропорт Адирондак обслуживает Лейк-Плэсид и Саранак-Лейк, штат Нью-Йорк. Саранак-Лейк является частью Хэрритстаун, штат Нью-Йорк, и, находится в Соединённых Штатах Америки.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">New_York | sameAs | Нью-Йорк_(штат)</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Lake_Placid,_New_York | sameAs | Лейк-Плэсид</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adirondack Regional Airport | sameAs | Региональный аэропорт Адирондак</link>
+        <link direction="en2ru">Harrietstown, New York | includes | Хэрритстаун</link>
+        <link direction="en2ru">Saranac Lake, New York | includes | Саранак-Лейк</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id7" shape="(X (X) (X (X) (X (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Harrietstown,_New_York | country | United_States</otriple>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Lake_Placid,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Harrietstown,_New_York | country | United_States</otriple>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Harrietstown,_New_York | country | United_States</mtriple>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</mtriple>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">A part of both Harrietstown and Essex county, in New York (United States), the the city of Saranac Lake is served by Adirondack Regional Airport. the same airport also serves the city of Lake Placid, New York.</lex>
+      <lex lang="ru" lid="Id1">Региональный аэропорт Адирондак обслуживает город Саранак-Лейк, часть как округа Хэрритстаун, так и округа Эссекс в Нью-Йорке (Соединённые Штаты Америки). Этот же аэропорт обслуживает город Лейк-Плэсид, Нью-Йорк.</lex>
+      <lex lang="en" lid="Id2">Saranac Lake is part of Harrietstown and part of Essex County, in New York, United States. Adirondack Regional Airport serves both the city of Saranac Lake and the city of Lake Placid, New York.</lex>
+      <lex lang="ru" lid="Id2">Саранак-Лейк является частью Хэрритстауна и частью Эссекса в Нью-Йорке, США. Региональный аэропорт Адирондак обслуживает как город Саранак-Лейк, так и город Лейк-Плэсид.</lex>
+      <lex lang="en" lid="Id3">Adirondack Regional Airport serves the city of Saranac Lake and Lake Placid both in New York. Saranac Lake is part of Essex County where you will also find Harriestown.</lex>
+      <lex lang="ru" lid="Id3">Региональный аэропорт Адирондак обслуживает города Саранак-Лейк и Лейк-Плэсид в Нью-Йорке. Саранак-Лейк является частью округа Эссекс, где также находится Хэрритстаун.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Essex_County,_New_York | sameAs | Эссекс_(округ,_Нью-Йорк)</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Lake_Placid,_New_York | sameAs | Лейк-Плэсид</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adirondack Regional Airport | sameAs | Региональный аэропорт Адирондак</link>
+        <link direction="en2ru">Harrietstown, New York | includes | Хэрритстаун</link>
+        <link direction="en2ru">Saranac Lake, New York | includes | Саранак-Лейк</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id8" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Indian_Air_Force | aircraftHelicopter | HAL_Light_Combat_Helicopter</otriple>
+        <otriple>Agra_Airport | location | Uttar_Pradesh</otriple>
+        <otriple>Agra_Airport | operator | Indian_Air_Force</otriple>
+        <otriple>Indian_Air_Force | aircraftTransport | Boeing_C-17_Globemaster_III</otriple>
+        <otriple>Uttar_Pradesh | isPartOf | Bundelkhand</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Indian_Air_Force | aircraftHelicopter | HAL_Light_Combat_Helicopter</mtriple>
+        <mtriple>Agra_Airport | location | Uttar_Pradesh</mtriple>
+        <mtriple>Agra_Airport | operatingOrganisation | Indian_Air_Force</mtriple>
+        <mtriple>Indian_Air_Force | transportAircraft | Boeing_C-17_Globemaster_III</mtriple>
+        <mtriple>Uttar_Pradesh | isPartOf | Bundelkhand</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Agra Airport is in Uttar Pradesh which is part of Bundelkhand, the airport is operated by the Indian Air Force which has an aircraft-capable helicopter known as the "HAL Light Combat Helicopter" and a "Boeing C-17 Globemaster III" as a transport aircraft.</lex>
+      <lex lang="ru" lid="Id1">Аэропорт Агра находится в штате Уттар-Прадеш, части Бунделкханд, управляется Военно-воздушными силами Индии, которые обладают вертолетом, известным как HAL LCH, и транспортным самолетом Boeing C-17 Globemaster III.</lex>
+      <lex lang="en" lid="Id2">Agra Airport, operated by the Indian Air Force, is found in Uttar Pradesh which is part of Bundelkhand. The air force uses the Boeing C-17 Globemaster III as one of its transport planes and also the HAL Light Combat Helicopter.</lex>
+      <lex lang="ru" lid="Id2">Аэропорт Агра, эксплуатируемый военно-воздушными силами Индии, находится в штате Уттар-Прадеш, входящем в состав области Бунделкханд. Военно-воздушные силы используют Boeing C-17 Globemaster III как один из своих транспортных самолетов, а также HAL LCH.</lex>
+      <lex lang="en" lid="Id3">Agra Airport is located in Uttar Pradesh, Bundelhand and is operated by the Indian Air Force. The HAL Light Combat Helicopter is owned by the Indian Air Force along with the transport plane the Boeing C-1 Globemaster III.</lex>
+      <lex lang="ru" lid="Id3">Аэропорт Агра расположен в штате Уттар-Прадеш, Бунделкханд и эксплуатируется военно-воздушными силами Индии. HAL LCH принадлежит военно-воздушным силам Индии вместе с транспортным самолетом Boeing C-1 Globemaster III.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">HAL_Light_Combat_Helicopter | sameAs | HAL_LCH</dbpedialink>
+        <dbpedialink direction="en2ru">Boeing_C-17_Globemaster_III | sameAs | Boeing_C-17_Globemaster_III</dbpedialink>
+        <dbpedialink direction="en2ru">Bundelkhand | sameAs | Бунделкханд</dbpedialink>
+        <dbpedialink direction="en2ru">Uttar_Pradesh | sameAs | Уттар-Прадеш</dbpedialink>
+        <dbpedialink direction="en2ru">Indian_Air_Force | sameAs | Военно-воздушные_силы_Индии</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Agra Airport | sameAs | аэропорт Агра</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id9" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Indian_Air_Force | aircraftHelicopter | HAL_Light_Combat_Helicopter</otriple>
+        <otriple>Agra_Airport | location | Uttar_Pradesh</otriple>
+        <otriple>Uttar_Pradesh | subdivisionName | Awadh</otriple>
+        <otriple>Agra_Airport | operator | Indian_Air_Force</otriple>
+        <otriple>Uttar_Pradesh | isPartOf | Bundelkhand</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Indian_Air_Force | aircraftHelicopter | HAL_Light_Combat_Helicopter</mtriple>
+        <mtriple>Agra_Airport | location | Uttar_Pradesh</mtriple>
+        <mtriple>Uttar_Pradesh | isPartOf | Awadh</mtriple>
+        <mtriple>Agra_Airport | operatingOrganisation | Indian_Air_Force</mtriple>
+        <mtriple>Uttar_Pradesh | isPartOf | Bundelkhand</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Uttar Pradesh is part of both Awadh and Bundelkhand. It is the location of Agra airport which is operated by the Indian Air Force who use the HAL Light Combat helicopter.</lex>
+      <lex lang="ru" lid="Id1">Уттар-Прадеш является частью региона Ауд и области Бунделкханд. Это место расположения аэропорта Агра, эксплуатируемого военно-воздушными силами Индии, использующими HAL LCH.</lex>
+      <lex lang="en" lid="Id2">Uttar Pradesh is part of Awadh and Bundelkhand. It is the location of Agra Airport which is operated by the Indian Air Force who deploy the aircraft capable helicopter known as the HAL Light Combat Helicopter.</lex>
+      <lex lang="ru" lid="Id2">Уттар-Прадеш входит в состав Ауда и Бунделкханда. Это местоположение аэропорта Агра, который эксплуатируется ВВС Индии, которые применяют вертолет с возможностями самолета, известный как HAL LCH.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">HAL_Light_Combat_Helicopter | sameAs | HAL_LCH</dbpedialink>
+        <dbpedialink direction="en2ru">Bundelkhand | sameAs | Бунделкханд</dbpedialink>
+        <dbpedialink direction="en2ru">Uttar_Pradesh | sameAs | Уттар-Прадеш</dbpedialink>
+        <dbpedialink direction="en2ru">Indian_Air_Force | sameAs | Военно-воздушные_силы_Индии</dbpedialink>
+        <dbpedialink direction="en2ru">Awadh | sameAs | Ауд_(Индия)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Agra Airport | sameAs | аэропорт Агра</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id10" shape="(X (X (X (X) (X) (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Iraq | language | Kurdish_languages</otriple>
+        <otriple>Iraq | leaderName | Haider_al-Abadi</otriple>
+        <otriple>Iraq | leader | Fuad_Masum</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+        <otriple>Al-Taqaddum_Air_Base | city | Fallujah</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Iraq | leader | Haider_al-Abadi</otriple>
+        <otriple>Iraq | language | Kurdish_languages</otriple>
+        <otriple>Iraq | leaderName | Fuad_Masum</otriple>
+        <otriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Iraq | leader | Haider_al-Abadi</otriple>
+        <otriple>Iraq | language | Kurdish_languages</otriple>
+        <otriple>Iraq | leaderName | Fuad_Masum</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+        <otriple>Al-Taqaddum_Air_Base | city | Fallujah</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Iraq | language | Kurdish_languages</otriple>
+        <otriple>Iraq | leaderName | Haider_al-Abadi</otriple>
+        <otriple>Iraq | leader | Fuad_Masum</otriple>
+        <otriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Iraq | language | Kurdish_languages</mtriple>
+        <mtriple>Iraq | leader | Haider_al-Abadi</mtriple>
+        <mtriple>Iraq | leader | Fuad_Masum</mtriple>
+        <mtriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</mtriple>
+        <mtriple>Fallujah | country | Iraq</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Al Taqaddum Air Base serves the city of Fallujah Iraq. Kurdish is spoken in Iraq where Haider al-Abadi and Fuad Masum are leaders.</lex>
+      <lex lang="ru" lid="Id1">Авиабаза Аль Такаддум обслуживает город Эль-Фаллуджа, Ирак. На курдских языках говорят в Ираке, где Хайдер аль-Абади и Фуад Масум - лидеры.</lex>
+      <lex lang="en" lid="Id2">Al-Taqaddum Air base serves the city of Fallujah in Iraq. Haider al-Abadi is the prime minister of the country and the president is called Fuad Masum(a kurdish politician).Kurdish is one of the spoken languages of Iraq.</lex>
+      <lex lang="ru" lid="Id2">Авиабаза Аль Такаддум обслуживает город Эль-Фаллуджа в Ираке. Хайдер аль-Абади - премьер-министр страны, а президент - Фуад Масум (курдский политик). Курдский - один из разговорных языков Ирака.</lex>
+      <lex lang="en" lid="Id3">Al-Taqaddum Air Base serves the city of Fallujah in Iraq. The Kurdish languages are spoken in Iraq, where there are leaders called Haider Al-Abadi and Fuad Masum.</lex>
+      <lex lang="ru" lid="Id3">Авиабаза Аль Такаддум обслуживает город Эль-Фаллуджа в Ираке. На курдских языках говорят в Ираке, где есть лидеры по имени Хайдер Аль-Абади и Фуад Масум.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Fuad_Masum | sameAs | Масум,_Фуад</dbpedialink>
+        <dbpedialink direction="en2ru">Kurdish_languages | sameAs | Курдские_языки</dbpedialink>
+        <dbpedialink direction="en2ru">Iraq | sameAs | Ирак</dbpedialink>
+        <dbpedialink direction="en2ru">Haider_al-Abadi | sameAs | Аль-Абади,_Хайдер</dbpedialink>
+        <dbpedialink direction="en2ru">Fallujah | sameAs | Эль-Фаллуджа</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Al-Taqaddum Air Base | sameAs | Авиабаза Аль Такаддум</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id11" shape="(X (X (X (X) (X) (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Iraq | leader | Haider_al-Abadi</otriple>
+        <otriple>Iraq | currency | Iraqi_dinar</otriple>
+        <otriple>Iraq | leaderName | Fuad_Masum</otriple>
+        <otriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Iraq | currency | Iraqi_dinar</otriple>
+        <otriple>Iraq | leaderName | Haider_al-Abadi</otriple>
+        <otriple>Iraq | leader | Fuad_Masum</otriple>
+        <otriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Iraq | leader | Haider_al-Abadi</mtriple>
+        <mtriple>Iraq | currency | Iraqi_dinar</mtriple>
+        <mtriple>Iraq | leader | Fuad_Masum</mtriple>
+        <mtriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</mtriple>
+        <mtriple>Fallujah | country | Iraq</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Al-Taqaddum Air Base serves the city of Fallujah in Iraq. Haider al-Abadi is the prime minister and Fuad Masum is the president of Iraq.The currency of Iraq is the Iraqi dinar.</lex>
+      <lex lang="ru" lid="Id1">Авиабаза Аль-Такаддум обслуживает город Эль-Фаллуджа в Ираке. Хайдер Аль-Абади - премьер-министр, и Фуад Масум - президент Ирака. Валютой Ирака является иракский динар.</lex>
+      <lex lang="en" lid="Id2">Al-Taqaddum Air Base serves the city of Fallujah in Iraq.Iraq is led by President Fuad Masum and Prime minister Haider al-Abadi.The currency in Iraq is the Iraqi dinar.</lex>
+      <lex lang="ru" lid="Id2">Авиабаза Аль Такаддум обслуживает город Эль-Фаллуджа в Ираке. Ирак возглавляется президентом Фуадом Масумом и премьер-министром Хайдером Аль-Абади. Валюта Ирака - иракский динар.</lex>
+      <lex lang="en" lid="Id3">Haider al-Abadi is the name of the leader of Iraq, where the currency is the Iraqi dinar and where the Al Taqaddum Air Base serves the city of Fallujah, Iraq. Fuad Masum is another leader in the country.</lex>
+      <lex lang="ru" lid="Id3">Хайдер Аль-Абади - это имя лидера Ирака, где валютой является иракский динар, и где авиабаза Аль Такаддум обслуживает город Эль-Фаллуджа, Ирак. Фуад Масум - еще один лидер в стране.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Fuad_Masum | sameAs | Масум,_Фуад</dbpedialink>
+        <dbpedialink direction="en2ru">Iraq | sameAs | Ирак</dbpedialink>
+        <dbpedialink direction="en2ru">Iraqi_dinar | sameAs | Иракский_динар</dbpedialink>
+        <dbpedialink direction="en2ru">Haider_al-Abadi | sameAs | Аль-Абади,_Хайдер</dbpedialink>
+        <dbpedialink direction="en2ru">Fallujah | sameAs | Эль-Фаллуджа</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Al-Taqaddum Air Base | sameAs | Авиабаза Аль Такаддум</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id12" shape="(X (X (X (X) (X) (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Iraq | leader | Haider_al-Abadi</otriple>
+        <otriple>Iraq | leaderName | Fuad_Masum</otriple>
+        <otriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+        <otriple>Iraq | language | Arabic</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Iraq | leaderName | Haider_al-Abadi</otriple>
+        <otriple>Iraq | leader | Fuad_Masum</otriple>
+        <otriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+        <otriple>Iraq | language | Arabic</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Iraq | leaderName | Haider_al-Abadi</otriple>
+        <otriple>Iraq | leader | Fuad_Masum</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+        <otriple>Al-Taqaddum_Air_Base | city | Fallujah</otriple>
+        <otriple>Iraq | language | Arabic</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Iraq | leader | Haider_al-Abadi</otriple>
+        <otriple>Iraq | leaderName | Fuad_Masum</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+        <otriple>Al-Taqaddum_Air_Base | city | Fallujah</otriple>
+        <otriple>Iraq | language | Arabic</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Iraq | leader | Haider_al-Abadi</mtriple>
+        <mtriple>Iraq | leader | Fuad_Masum</mtriple>
+        <mtriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</mtriple>
+        <mtriple>Fallujah | country | Iraq</mtriple>
+        <mtriple>Iraq | language | Arabic</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Iraq is led by Haider al-Abadi and Fuad Masum and uses the Arabic language. The country is the location of Al-Taqaddum air base in Fallujah.</lex>
+      <lex lang="ru" lid="Id1">Ирак возглавляется Хайдером Аль-Абади и Фуадом Масумом и использует арабский язык. Страна является местом расположения авиабазы Аль Такаддум в городе Эль-Фаллуджа.</lex>
+      <lex lang="en" lid="Id2">The leaders of Iraq are Halder al-Abadi and Fuad Masum, who speak Arabic. In the city of Fallujah, Iraq, there is the Al-Taqaddum Air Base.</lex>
+      <lex lang="ru" lid="Id2">Лидерами Ирака являются Хайдер Аль-Абади и Фуад Масум, которые говорят на арабском языке. В городе Эль-Фаллуджа, Ирак, есть авиабаза Аль Такаддум.</lex>
+      <lex lang="en" lid="Id3">Al-Taqaddum Air Base serves the city of Fallujah in Iraq. Leaders in Iraq include Haider Al-Abadi and Fuad Masum and Arabic is spoken in the country.</lex>
+      <lex lang="ru" lid="Id3">Авиабаза Аль Такаддум обслуживает город Эль-Фаллуджа в Ираке. В число лидеров Ирака входят Хайдер Аль-Абади и Фуад Масум, и арабский язык является разговорным в стране.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Fuad_Masum | sameAs | Масум,_Фуад</dbpedialink>
+        <dbpedialink direction="en2ru">Arabic | sameAs | Арабский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">Iraq | sameAs | Ирак</dbpedialink>
+        <dbpedialink direction="en2ru">Haider_al-Abadi | sameAs | Аль-Абади,_Хайдер</dbpedialink>
+        <dbpedialink direction="en2ru">Fallujah | sameAs | Эль-Фаллуджа</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Al-Taqaddum Air Base | sameAs | Авиабаза Аль Такаддум</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id13" shape="(X (X (X (X) (X) (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Iraq | leader | Haider_al-Abadi</otriple>
+        <otriple>Iraq | officialLanguage | Arabic</otriple>
+        <otriple>Iraq | leaderName | Fuad_Masum</otriple>
+        <otriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Iraq | officialLanguage | Arabic</otriple>
+        <otriple>Iraq | leaderName | Haider_al-Abadi</otriple>
+        <otriple>Iraq | leader | Fuad_Masum</otriple>
+        <otriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Iraq | leader | Haider_al-Abadi</mtriple>
+        <mtriple>Iraq | officialLanguage | Arabic</mtriple>
+        <mtriple>Iraq | leader | Fuad_Masum</mtriple>
+        <mtriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</mtriple>
+        <mtriple>Fallujah | country | Iraq</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Al-Taqaddum Air Base serves the city of Fallujah in Iraq. Haider Al-Abadi and Fuad Masum are two leaders in Iraq where the official language is Arabic.</lex>
+      <lex lang="ru" lid="Id1">Авиабаза Аль Такаддум обслуживает город Эль-Фаллуджа в Ираке. Хайдер аль-Абади и Фуад Масум являются двумя лидерами Ирака, где официальным языком является арабский.</lex>
+      <lex lang="en" lid="Id2">Al-Taqaddum Air Base serves the city of Fallujah which is in Iraq and is led by Fuad Masum. Arabic is spoken in the country which has Haider Al-Abadi as its leader.</lex>
+      <lex lang="ru" lid="Id2">Авиабаза Аль Такаддум обслуживает город Эль-Фаллуджа, который находится в Ираке и возглавляется Фуадом Масумом. На арабском языке говорят в стране, где лидером является Хайдер Аль-Абади.</lex>
+      <lex lang="en" lid="Id3">Fallujah , Iraq is served by an airbase called Al-Taqaddum. Iraq is led by Haider al-Abadi and Fuad Masum and the official language of the country is Arabic.</lex>
+      <lex lang="ru" lid="Id3">Эль-Фаллуджа, Ирак, обслуживается авиабазой Аль-Такаддум. Ирак возглавляет Хайдер аль-Абади и Фуад Масум, а официальным языком страны является арабский.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Fuad_Masum | sameAs | Масум,_Фуад</dbpedialink>
+        <dbpedialink direction="en2ru">Arabic | sameAs | Арабский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">Iraq | sameAs | Ирак</dbpedialink>
+        <dbpedialink direction="en2ru">Haider_al-Abadi | sameAs | Аль-Абади,_Хайдер</dbpedialink>
+        <dbpedialink direction="en2ru">Fallujah | sameAs | Эль-Фаллуджа</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Al-Taqaddum Air Base | sameAs | Авиабаза Аль Такаддум</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id14" shape="(X (X (X)) (X (X (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Madrid | isPartOf | Community_of_Madrid</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Alcobendas</otriple>
+        <otriple>ENAIRE | locationCity | Madrid</otriple>
+        <otriple>Alcobendas | country | Spain</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | operator | ENAIRE</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Madrid | isPartOf | Community_of_Madrid</mtriple>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Alcobendas</mtriple>
+        <mtriple>ENAIRE | city | Madrid</mtriple>
+        <mtriple>Alcobendas | country | Spain</mtriple>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | operatingOrganisation | ENAIRE</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">ENAIRE in the city of Madrid (part of the community of Madrid) is the operating organisation for Adolfo Suarez Madrid-Barajas airport in Alcobendas, Spain.</lex>
+      <lex lang="ru" lid="Id1">Компания ENAIRE в Мадриде (часть сообщества Мадрид) представляет собой эксплуатирующую организацию аэропорта Барахас, Испания.</lex>
+      <lex lang="en" lid="Id2">Adolfo Suárez Madrid–Barajas Airport is located in Alcobendas, Spain and is operated by ENAIRE, a company located in Madrid, which is part of the Community of Madrid.</lex>
+      <lex lang="ru" lid="Id2">Аэропорт Барахас расположен в городе Алькобендас, Испания, и управляется компанией ENAIRE - компанией, расположенной в Мадриде, который входит в состав Сообщества Мадрид.</lex>
+      <lex lang="en" lid="Id3">Adolfo Suárez Madrid Barajas Airport is found in Alcobendas, Spain and is operated by the Madrid based company ENAIRE. Madrid is part of the Community of Madrid.</lex>
+      <lex lang="ru" lid="Id3">Аэропорт Барахас находится в городе Алькобендас, Испания, и управляется базирующейся в Мадриде компанией ENAIRE. Мадрид входит в состав сообщества Мадрид.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Adolfo_Suárez_Madrid–Barajas_Airport | sameAs | Барахас</dbpedialink>
+        <dbpedialink direction="en2ru">Spain | sameAs | Испания</dbpedialink>
+        <dbpedialink direction="en2ru">Alcobendas | sameAs | Алькобендас</dbpedialink>
+        <dbpedialink direction="en2ru">Community_of_Madrid | sameAs | Мадрид_(автономное_сообщество)</dbpedialink>
+        <dbpedialink direction="en2ru">Madrid | sameAs | Мадрид</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">ENAIRE | sameAs | ENAIRE</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id15" shape="(X (X) (X (X (X) (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Madrid | isPartOf | Community_of_Madrid</otriple>
+        <otriple>ENAIRE | locationCity | Madrid</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | "Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas"@en</otriple>
+        <otriple>Madrid | country | Spain</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | operator | ENAIRE</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Madrid | isPartOf | Community_of_Madrid</mtriple>
+        <mtriple>ENAIRE | city | Madrid</mtriple>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | "Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas"</mtriple>
+        <mtriple>Madrid | country | Spain</mtriple>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | operatingOrganisation | ENAIRE</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">ENAIRE, located in Madrid, is the operating organisation of Adolfo Suárez Madrid–Barajas Airport, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas, Madrid (part of the community of Madrid) Spain.</lex>
+      <lex lang="ru" lid="Id1">Компания ENAIRE, расположенная в Мадриде, является эксплуатирующей организацией аэропорта Барахас, города Паракуэльос-де-Харама, Сан-Себастьян-де-лос-Рейес и Алькобендас, Мадрид (часть сообщества Мадрид).</lex>
+      <lex lang="en" lid="Id2">Adolfo Suarez Madrid-Barajas airport is located at Madrid, Paracuellos de Jarama, San Sebastian de los Reyes and Alcobendas. The airport is operated by ENAIRE. ENAIRE is located in the city of Madrid, which is part of the community of Madrid in Spain.</lex>
+      <lex lang="ru" lid="Id2">Барахас расположен в Мадриде, Паракуэльос-де-Харама, Сан-Себастьян-де-лос-Рейес и Алькобендас. Аэропорт эксплуатируется ENAIRE. ENAIRE находится в городе Мадрид, который входит в состав сообщества Мадрид в Испании.</lex>
+      <lex lang="en" lid="Id3">Adolfo Suarez Madrid-Barajas Airport, located in: Madrid (Spain), Paracuellos de Jarama, San Sebastian de los Reyes and Alcobendas and operated by ENAIRE.</lex>
+      <lex lang="ru" lid="Id3">Аэропорт Барахас расположен в городах: Мадрид (Испания), Паракуэльос-де-Харама, Сан-Себастьян-де-лос-Рейес и Алькобендас и эксплуатируется ENAIRE.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Adolfo_Suárez_Madrid–Barajas_Airport | sameAs | Барахас</dbpedialink>
+        <dbpedialink direction="en2ru">Spain | sameAs | Испания</dbpedialink>
+        <dbpedialink direction="en2ru">Community_of_Madrid | sameAs | Мадрид_(автономное_сообщество)</dbpedialink>
+        <dbpedialink direction="en2ru">Madrid | sameAs | Мадрид</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">ENAIRE | sameAs | ENAIRE</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id16" shape="(X (X (X)) (X (X (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Madrid | isPartOf | Community_of_Madrid</otriple>
+        <otriple>ENAIRE | locationCity | Madrid</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</otriple>
+        <otriple>San_Sebastián_de_los_Reyes | country | Spain</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | operator | ENAIRE</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Madrid | isPartOf | Community_of_Madrid</mtriple>
+        <mtriple>ENAIRE | city | Madrid</mtriple>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</mtriple>
+        <mtriple>San_Sebastián_de_los_Reyes | country | Spain</mtriple>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | operatingOrganisation | ENAIRE</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Adolfo Suárez Madrid–Barajas Airport which is operated by ENAIRE (Madrid) is in San Sebastián de los Reyes, in Spain.</lex>
+      <lex lang="ru" lid="Id1">Аэропорт Барахас, эксплуатируемый компанией ENAIRE (Мадрид), находится в городе Сан-Себастьян-де-лос-Рейес в Испании.</lex>
+      <lex lang="en" lid="Id2">Located in the community of Madrid, lies ENAIRE. ENAIRE operates an airport called The Adolfo Suárez Madrid–Barajas Airport, which lies in San Sebastián de los Reyes, Spain.</lex>
+      <lex lang="ru" lid="Id2">ENAIRE расположен в сообществе Мадрида. ENAIRE эксплуатирует аэропорт под названием Барахас, который находится в Сан-Себастьян-де-лос-Рейесе, Испания.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Adolfo_Suárez_Madrid–Barajas_Airport | sameAs | Барахас</dbpedialink>
+        <dbpedialink direction="en2ru">Spain | sameAs | Испания</dbpedialink>
+        <dbpedialink direction="en2ru">Community_of_Madrid | sameAs | Мадрид_(автономное_сообщество)</dbpedialink>
+        <dbpedialink direction="en2ru">San_Sebastián_de_los_Reyes | sameAs | Сан-Себастьян-де-лос-Рейес</dbpedialink>
+        <dbpedialink direction="en2ru">Madrid | sameAs | Мадрид</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">ENAIRE | sameAs | ENAIRE</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id17" shape="(X (X) (X (X (X) (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Madrid | isPartOf | Community_of_Madrid</otriple>
+        <otriple>ENAIRE | locationCity | Madrid</otriple>
+        <otriple>Madrid | country | Spain</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | operator | ENAIRE</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Madrid | isPartOf | Community_of_Madrid</mtriple>
+        <mtriple>ENAIRE | city | Madrid</mtriple>
+        <mtriple>Madrid | country | Spain</mtriple>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</mtriple>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | operatingOrganisation | ENAIRE</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Adolfo Suárez Madrid–Barajas Airport in San Sebastian de los Reyes, is operated by ENAIRE which is in Madrid, Spain.</lex>
+      <lex lang="ru" lid="Id1">Барахас в городе Сан-Себастьян-де-лос-Рейес эксплуатируется компанией ENAIRE, которая находится в городе Мадрид, Испания.</lex>
+      <lex lang="en" lid="Id2">Madrid is part of the Community of Madrid in Spain and is the location of the company ENAIRE who are the operators of Adolfo Suárez Madrid–Barajas Airport in San Sebastián de los Reyes.</lex>
+      <lex lang="ru" lid="Id2">Мадрид входит в состав сообщества Мадрид в Испании и является местом расположения компании ENAIRE, которая является эксплуатирующей организацией аэропорта Барахас в городе Сан-Себастьян-де-лос-Рейес.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Spain | sameAs | Испания</dbpedialink>
+        <dbpedialink direction="en2ru">Adolfo_Suárez_Madrid–Barajas_Airport | sameAs | Барахас</dbpedialink>
+        <dbpedialink direction="en2ru">Community_of_Madrid | sameAs | Мадрид_(автономное_сообщество)</dbpedialink>
+        <dbpedialink direction="en2ru">San_Sebastián_de_los_Reyes | sameAs | Сан-Себастьян-де-лос-Рейес</dbpedialink>
+        <dbpedialink direction="en2ru">Madrid | sameAs | Мадрид</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">ENAIRE | sameAs | ENAIRE</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id18" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Poaceae | unrankedDivisio | Flowering_plant</otriple>
+        <otriple>Alderney_Airport | r1Surface | Poaceae</otriple>
+        <otriple>Poaceae | order | Poales</otriple>
+        <otriple>Poaceae | unrankedOrdo | Commelinids</otriple>
+        <otriple>Poaceae | unrankedClassis | Monocotyledon</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Poaceae | division | Flowering_plant</otriple>
+        <otriple>Alderney_Airport | r1Surface | Poaceae</otriple>
+        <otriple>Poaceae | ordo | Poales</otriple>
+        <otriple>Poaceae | order | Commelinids</otriple>
+        <otriple>Poaceae | unrankedClassis | Monocotyledon</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Poaceae | unrankedDivisio | Flowering_plant</otriple>
+        <otriple>Alderney_Airport | r1Surface | Poaceae</otriple>
+        <otriple>Poaceae | ordo | Poales</otriple>
+        <otriple>Poaceae | order | Commelinids</otriple>
+        <otriple>Poaceae | class | Monocotyledon</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Poaceae | division | Flowering_plant</otriple>
+        <otriple>Alderney_Airport | r1Surface | Poaceae</otriple>
+        <otriple>Poaceae | ordo | Poales</otriple>
+        <otriple>Poaceae | order | Commelinids</otriple>
+        <otriple>Poaceae | class | Monocotyledon</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Poaceae | unrankedDivisio | Flowering_plant</otriple>
+        <otriple>Alderney_Airport | r1Surface | Poaceae</otriple>
+        <otriple>Poaceae | ordo | Poales</otriple>
+        <otriple>Poaceae | unrankedOrdo | Commelinids</otriple>
+        <otriple>Poaceae | class | Monocotyledon</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Poaceae | unrankedDivisio | Flowering_plant</otriple>
+        <otriple>Alderney_Airport | r1Surface | Poaceae</otriple>
+        <otriple>Poaceae | ordo | Poales</otriple>
+        <otriple>Poaceae | order | Commelinids</otriple>
+        <otriple>Poaceae | unrankedClassis | Monocotyledon</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Poaceae | unrankedDivisio | Flowering_plant</otriple>
+        <otriple>Alderney_Airport | r1Surface | Poaceae</otriple>
+        <otriple>Poaceae | order | Poales</otriple>
+        <otriple>Poaceae | unrankedOrdo | Commelinids</otriple>
+        <otriple>Poaceae | class | Monocotyledon</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Poaceae | division | Flowering_plant</otriple>
+        <otriple>Alderney_Airport | r1Surface | Poaceae</otriple>
+        <otriple>Poaceae | ordo | Poales</otriple>
+        <otriple>Poaceae | unrankedOrdo | Commelinids</otriple>
+        <otriple>Poaceae | class | Monocotyledon</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Poaceae | division | Flowering_plant</otriple>
+        <otriple>Alderney_Airport | r1Surface | Poaceae</otriple>
+        <otriple>Poaceae | order | Poales</otriple>
+        <otriple>Poaceae | unrankedOrdo | Commelinids</otriple>
+        <otriple>Poaceae | unrankedClassis | Monocotyledon</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Poaceae | division | Flowering_plant</otriple>
+        <otriple>Alderney_Airport | r1Surface | Poaceae</otriple>
+        <otriple>Poaceae | order | Poales</otriple>
+        <otriple>Poaceae | unrankedOrdo | Commelinids</otriple>
+        <otriple>Poaceae | class | Monocotyledon</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Poaceae | division | Flowering_plant</mtriple>
+        <mtriple>Alderney_Airport | 1stRunwaySurfaceType | Poaceae</mtriple>
+        <mtriple>Poaceae | order | Poales</mtriple>
+        <mtriple>Poaceae | order | Commelinids</mtriple>
+        <mtriple>Poaceae | class | Monocotyledon</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 1st runway at Alderney Airport is made from Poaceae which is member of the Poales order.Poaceae belongs to the Commelinid order,within the flowering plants and classed as Monocotyledon.</lex>
+      <lex lang="ru" lid="Id1">1-я взлетно-посадочная полоса аэропорта Олдерни сделана из злаков, которые являются членами порядка Злакоцветные. Злаки принадлежат порядку Коммелиниды внутри цветущих растений и классифицируются как Однодольные.</lex>
+      <lex lang="en" lid="Id2">The surface of the 1st runway at Alderney airport is poaceae. Poacea, in the class Monocotyledon, belongs to the division of flowering plants. It is in the order Poales and belongs to the order of Commelinids.</lex>
+      <lex lang="ru" lid="Id2">Поверхность 1-й взлетно-посадочной полосы в аэропорту Олдерни - это злаки. Злаки из класса Однодольные принадлежат отделу Цветущие растения. Они относятся к порядку Злакоцветные и принадлежат порядку Коммелиниды.</lex>
+      <lex lang="en" lid="Id3">The 1st runway at Alderney Airport is made from Poaceae, which belongs to the division of flowering plants. Poaceae - from the order of the Poales - class is Monocotyledon, which is the order of the Commelinids.</lex>
+      <lex lang="ru" lid="Id3">1-я взлетно-посадочная полоса в аэропорту Олдерни сделана из злаков, которая относится к разделу цветущих растений. Злаки - из порядка злакоцветные - класса однодольные, который является порядком коммелиниды.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Poaceae | sameAs | Злаки</dbpedialink>
+        <dbpedialink direction="en2ru">Poales | sameAs | Злакоцветные</dbpedialink>
+        <dbpedialink direction="en2ru">Monocotyledon | sameAs | Однодольные</dbpedialink>
+        <dbpedialink direction="en2ru">Alderney_Airport | sameAs | Олдерни_(аэропорт)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Flowering plant | sameAs | цветущее растение</link>
+        <link direction="en2ru">Commelinids | sameAs | Коммелиниды</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id19" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Poaceae | ordo | Poales</otriple>
+        <otriple>Poaceae | class | Monocotyledon</otriple>
+        <otriple>Poaceae | division | Flowering_plant</otriple>
+        <otriple>Poaceae | order | Commelinids</otriple>
+        <otriple>Ardmore_Airport_(New_Zealand) | r2Surface | Poaceae</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Poaceae | class | Monocotyledon</otriple>
+        <otriple>Poaceae | division | Flowering_plant</otriple>
+        <otriple>Poaceae | unrankedOrdo | Commelinids</otriple>
+        <otriple>Ardmore_Airport_(New_Zealand) | r2Surface | Poaceae</otriple>
+        <otriple>Poaceae | order | Poales</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Poaceae | ordo | Poales</otriple>
+        <otriple>Poaceae | class | Monocotyledon</otriple>
+        <otriple>Poaceae | unrankedDivisio | Flowering_plant</otriple>
+        <otriple>Poaceae | order | Commelinids</otriple>
+        <otriple>Ardmore_Airport_(New_Zealand) | r2Surface | Poaceae</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Poaceae | order | Poales</mtriple>
+        <mtriple>Poaceae | class | Monocotyledon</mtriple>
+        <mtriple>Poaceae | division | Flowering_plant</mtriple>
+        <mtriple>Poaceae | order | Commelinids</mtriple>
+        <mtriple>Ardmore_Airport_(New_Zealand) | 2ndRunwaySurfaceType | Poaceae</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Poaceae is the surface type of the second runway of Ardmore Airport, New Zealand. Poaceae is a flowering plant belonging to the class Monocotyledon and to the order of Poales and Commelinids.</lex>
+      <lex lang="ru" lid="Id1">Злаки - это тип поверхности второй взлетно-посадочной полосы аэропорта Ардмор (Новая Зеландия). Злаки - это цветущие растения, принадлежащие классу Однодольные и порядкам Злакоцветные и Коммелиниды.</lex>
+      <lex lang="en" lid="Id2">The 2nd runway at Ardmore Airport, New Zealand is made of Poaceae. Poaceae is a member of the order of Poales, in the class of Monocotyledon, the division of flowering plants and in the order of Commelinids.</lex>
+      <lex lang="ru" lid="Id2">Вторая взлетно-посадочная полоса в аэропорту Ардмор, Новая Зеландия, сделана из Злаков. Злаки - член порядка Злакоцветных, в классе Однодольные, раздел цветущих растений и в порядке Коммелиниды.</lex>
+      <lex lang="en" lid="Id3">Poaceae, which belongs to the division of flowering plants, is the surface type of the second runway of Ardmore Airport, New Zealand. Poaceae is in the class Monocotyledon and belongs to the order Poales and Commelinds.</lex>
+      <lex lang="ru" lid="Id3">Злаки, которые принадлежат отделу цветущих растений, - это тип поверхности второй взлетно-посадочной полосы аэропорта Ардмор (Новая Зеландия). Злаки находятся в классе Однодольные и принадлежат порядкам Злакоцветные и Коммелиниды.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Poaceae | sameAs | Злаки</dbpedialink>
+        <dbpedialink direction="en2ru">Poales | sameAs | Злакоцветные</dbpedialink>
+        <dbpedialink direction="en2ru">Monocotyledon | sameAs | Однодольные</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Flowering plant | sameAs | цветущее растение</link>
+        <link direction="en2ru">Ardmore Airport (New Zealand) | sameAs | Аэропорт Ардмор (Новая Зеландия)</link>
+        <link direction="en2ru">Commelinids | sameAs | Коммелиниды</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id20" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>San_Sebastián_de_los_Reyes | isPartOf | Community_of_Madrid</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | elevation | "610.0"^^xsd:double</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | "3499.71"^^xsd:double</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</otriple>
+        <otriple>San_Sebastián_de_los_Reyes | country | Spain</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>San_Sebastián_de_los_Reyes | isPartOf | Community_of_Madrid</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | elevation | "609.6"^^xsd:double</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | "3500.0"^^xsd:double</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</otriple>
+        <otriple>San_Sebastián_de_los_Reyes | country | Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>San_Sebastián_de_los_Reyes | isPartOf | Community_of_Madrid</mtriple>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | elevationAboveTheSeaLevel | 610.0</mtriple>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | 3500.0</mtriple>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</mtriple>
+        <mtriple>San_Sebastián_de_los_Reyes | country | Spain</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Adolfo Suárez Madrid–Barajas Airport is elevated 610 metres above sea level in San Sebastian de los Reyes, part of the Community of Madrid in Spain. It has a runway length of 3500.0.</lex>
+      <lex lang="ru" lid="Id1">Аэропорт Барахас находится на высоте 610 метров над уровнем моря в городе Сан-Себастьян-де-лос-Рейес, входящем в состав сообщества Мадрид в Испании. Он имеет длину взлетно-посадочной полосы 3500,0.</lex>
+      <lex lang="en" lid="Id2">Adolfo Suarez Madrid- Barajas airport is located at San Sebastian de los Reyes in the community of Madrid in Spain. Its airport is 610 m above sea level and the runway is 3500 m long.</lex>
+      <lex lang="ru" lid="Id2">Аэропорт Барахас находится в городе Сан-Себастьян-де-лос-Рейес в сообществе Мадрид в Испании. Его аэропорт находится на высоте 610 метров над уровнем моря, а взлетно-посадочная полоса длиной 3500 м.</lex>
+      <lex lang="en" lid="Id3">Adolfo Suarez Madrid-Barajas airport is located at San Sebastian de los Reyes, Spain. San Sebastian de los Reyes is part of the Community of Madrid and it is elevated 610 meters above sea level. It has a runway which measures a length of 3500.0.</lex>
+      <lex lang="ru" lid="Id3">Барахас расположен в Сан-Себастьян-де-лос-Рейесе, Испания. Сан-Себастьян-де-лос-Рейес входит в сообщество Мадрид, и находится на высоте 610 метров над уровнем моря. Он имеет взлетно-посадочную полосу, которая имеет длину 3500,0.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Adolfo_Suárez_Madrid–Barajas_Airport | sameAs | Барахас</dbpedialink>
+        <dbpedialink direction="en2ru">Spain | sameAs | Испания</dbpedialink>
+        <dbpedialink direction="en2ru">Community_of_Madrid | sameAs | Мадрид_(автономное_сообщество)</dbpedialink>
+        <dbpedialink direction="en2ru">San_Sebastián_de_los_Reyes | sameAs | Сан-Себастьян-де-лос-Рейес</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Airport" eid="Id21" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>San_Sebastián_de_los_Reyes | isPartOf | Community_of_Madrid</otriple>
+        <otriple>ENAIRE | locationCity | Madrid</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</otriple>
+        <otriple>San_Sebastián_de_los_Reyes | country | Spain</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | operator | ENAIRE</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>San_Sebastián_de_los_Reyes | isPartOf | Community_of_Madrid</mtriple>
+        <mtriple>ENAIRE | city | Madrid</mtriple>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</mtriple>
+        <mtriple>San_Sebastián_de_los_Reyes | country | Spain</mtriple>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | operatingOrganisation | ENAIRE</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">ENAIRE in the city of Madrid is the operator of Adolfo Suárez Madrid–Barajas Airport which is located in San Sebastian de los Reyes, part of the Community of Madrid in Spain.</lex>
+      <lex lang="ru" lid="Id1">Компания ENAIRE в городе Мадрид является эксплуатирующей организацией аэропорта Барахас, который расположен в городе Сан-Себастьян-де-лос-Рейес, входящем в состав сообщества Мадрид в Испании.</lex>
+      <lex lang="en" lid="Id2">ENAIRE is located in the city of Madrid and operates Adolfo Suárez Madrid–Barajas Airport. The airport is in San Sebastian de los Reyes which is part of the Community of Madrid in Spain.</lex>
+      <lex lang="ru" lid="Id2">ENAIRE находится в городе Мадрид и эксплуатирует аэропорт Барахас. Аэропорт находится в городе Сан-Себастьян-де-лос-Рейес, который входит в состав сообщества Мадрид в Испании.</lex>
+      <lex lang="en" lid="Id3">Adolfo Suárez Madrid–Barajas Airport is found in San Sebastián de los Reyes which is located in Spain and considered part of the community of Madrid. this airport is operated by ENAIRE which also in the city of Madrid.</lex>
+      <lex lang="ru" lid="Id3">Барахас находится в городе Сан-Себастьян-де-лос-Рейес, который находится в Испании и считается частью сообщества Мадрид. Этот аэропорт эксплуатируется компанией ENAIRE, которая также находится в городе Мадрид.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Adolfo_Suárez_Madrid–Barajas_Airport | sameAs | Барахас</dbpedialink>
+        <dbpedialink direction="en2ru">Spain | sameAs | Испания</dbpedialink>
+        <dbpedialink direction="en2ru">Community_of_Madrid | sameAs | Мадрид_(автономное_сообщество)</dbpedialink>
+        <dbpedialink direction="en2ru">San_Sebastián_de_los_Reyes | sameAs | Сан-Себастьян-де-лос-Рейес</dbpedialink>
+        <dbpedialink direction="en2ru">Madrid | sameAs | Мадрид</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">ENAIRE | sameAs | ENAIRE</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id22" shape="(X (X) (X (X) (X (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+        <otriple>Harrietstown,_New_York | isPartOf | New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York</otriple>
+        <otriple>Saranac_Lake,_New_York | country | United_States</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+        <otriple>Harrietstown,_New_York | isPartOf | New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Lake_Placid,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</otriple>
+        <otriple>Saranac_Lake,_New_York | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</mtriple>
+        <mtriple>Harrietstown,_New_York | isPartOf | New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
+        <mtriple>Saranac_Lake,_New_York | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Adirondack Regional Airport serves the cities of Lake Placid, NY and Saranac Lake, NY, which is part of Harrietstown, New York, United States.</lex>
+      <lex lang="ru" lid="Id1">Региональный аэропорт Адирондак обслуживает города Лейк-Плэсид и Саранак-Лейк, штат Нью-Йорк, который является частью Хэрритстауна, штат Нью-Йорк, США.</lex>
+      <lex lang="en" lid="Id2">Saranac Lake, New York is located in the United States and is a part of Harrietstown, New York. Adirondack Regional Airport serves both the city of Lake Placid and the city of Saranac Lake in New York.</lex>
+      <lex lang="ru" lid="Id2">Саранак-Лейк, штат Нью-Йорк, находится в США и является частью Хэрритстауна, штат Нью-Йорк. Региональный аэропорт Адирондак обслуживает как город Лейк-Плэсид, так и город Саранак-Лейк в штате Нью-Йорк.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">New_York | sameAs | Нью-Йорк_(штат)</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Lake_Placid,_New_York | sameAs | Лейк-Плэсид</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adirondack Regional Airport | sameAs | Региональный аэропорт Адирондак</link>
+        <link direction="en2ru">Harrietstown, New York | includes | Хэрритстаун</link>
+        <link direction="en2ru">Saranac Lake, New York | includes | Саранак-Лейк</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id23" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+        <otriple>Lake_Placid,_New_York | isPartOf | Essex_County,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York</otriple>
+        <otriple>Saranac_Lake,_New_York | country | United_States</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</mtriple>
+        <mtriple>Lake_Placid,_New_York | isPartOf | Essex_County,_New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York</mtriple>
+        <mtriple>Saranac_Lake,_New_York | country | United_States</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Adirondack Regional Airport serves the city of Lake Placid, Essex County, New York, and also Saranac Lake (part of Harrietstown) New York, United States.</lex>
+      <lex lang="ru" lid="Id1">Региональный аэропорт Адирондак обслуживает город Лейк-Плэсид, Эссекс, а также Саранак-Лейк (часть Хэрритстауна), штат Нью-Йорк, США.</lex>
+      <lex lang="en" lid="Id2">Adirondack Regional Airport in the US serves Lake Placid, Essex County New York, and also Saranac Lake, part of Harrietstown, New York.</lex>
+      <lex lang="ru" lid="Id2">Региональный аэропорт Адирондак в США обслуживает Лейк-Плэсид, Эссекс, а также Саранак-Лейк, часть Хэрритстауна, штат Нью-Йорк.</lex>
+      <lex lang="en" lid="Id3">Adirondack Regional Airport serves Lake Placid, Essex County, New York and Saranac Lake (part of Harrietstown, New York in the United States).</lex>
+      <lex lang="ru" lid="Id3">Региональный аэропорт Адирондак обслуживает Лейк-Плэсид, Эссекс, и Саранак-Лейк (часть Хэрритстауна, штат Нью-Йорк в США).</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Essex_County,_New_York | sameAs | Эссекс_(округ,_Нью-Йорк)</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Lake_Placid,_New_York | sameAs | Лейк-Плэсид</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adirondack Regional Airport | sameAs | Региональный аэропорт Адирондак</link>
+        <link direction="en2ru">Harrietstown, New York | includes | Хэрритстаун</link>
+        <link direction="en2ru">Saranac Lake, New York | includes | Саранак-Лейк</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id24" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+        <otriple>Lake_Placid,_New_York | isPartOf | New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York</otriple>
+        <otriple>Saranac_Lake,_New_York | country | United_States</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+        <otriple>Lake_Placid,_New_York | isPartOf | New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Lake_Placid,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</otriple>
+        <otriple>Saranac_Lake,_New_York | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</mtriple>
+        <mtriple>Lake_Placid,_New_York | isPartOf | New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
+        <mtriple>Saranac_Lake,_New_York | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Adirondack Regional Airport serves the cities of Lake Placid, and Saranac Lake, Harrietstown, New York in the U.S.</lex>
+      <lex lang="ru" lid="Id1">Региональный аэропорт Адирондак обслуживает города Лейк-Плэсид и Саранак-Лейк, Хэрритстаун, Нью-Йорк в США.</lex>
+      <lex lang="en" lid="Id2">Adirondack Regional Airport serves Lake Placid, New York and also Saranac Lake, part of Harrietstown in New York, United States.</lex>
+      <lex lang="ru" lid="Id2">Региональный аэропорт Адирондак обслуживает Лейк-Плэсид, а также Саранак-Лейк, часть Хэрритстауна в Нью-Йорке, США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">New_York | sameAs | Нью-Йорк_(штат)</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Lake_Placid,_New_York | sameAs | Лейк-Плэсид</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adirondack Regional Airport | sameAs | Региональный аэропорт Адирондак</link>
+        <link direction="en2ru">Harrietstown, New York | includes | Хэрритстаун</link>
+        <link direction="en2ru">Saranac Lake, New York | includes | Саранак-Лейк</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id25" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York</otriple>
+        <otriple>Saranac_Lake,_New_York | country | United_States</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Lake_Placid,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</otriple>
+        <otriple>Saranac_Lake,_New_York | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</mtriple>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
+        <mtriple>Saranac_Lake,_New_York | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Adirondack Regional Airport serves the city of Lake Placid and Saranac Lake in New York. Saranac Lake is part of Harrietstown and Essex County in New York in the U.S.</lex>
+      <lex lang="ru" lid="Id1">Региональный аэропорт Адирондак обслуживает город Лейк-Плэсид и Саранак-Лейк в Нью-Йорке. Саранак-Лейк входит в состав Хэрритстауна и округа Эссекс в Нью-Йорке в США.</lex>
+      <lex lang="en" lid="Id2">Adirondack Regional Airport serves the cities of Lake Placid and Saranac Lake, New York,United States.Saranac Lake, New York is part of Harrietstown,Essex County,New York.</lex>
+      <lex lang="ru" lid="Id2">Региональный аэропорт Адирондак обслуживает города Лейк-Плэсид и Саранак-Лейк, Нью-Йорк, США. Саранак-Лейк штат Нью-Йорк, является частью Хэрритстауна, Эссекс.</lex>
+      <lex lang="en" lid="Id3">Adirondack Regional Airport serves the cities of Lake Placid and Saranac Lake in New York state,United States. Saranac Lake, New York is part of Harrietstown in Essex County,New York.</lex>
+      <lex lang="ru" lid="Id3">Региональный аэропорт Адирондак обслуживает города Лейк-Плэсид и Саранак-Лейк в штате Нью-Йорк, Соединенные Штаты. Саранак-Лейк, штат Нью-Йорк, является частью Хэрритстауна в округе Эссекс, штат Нью-Йорк.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Essex_County,_New_York | sameAs | Эссекс_(округ,_Нью-Йорк)</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Lake_Placid,_New_York | sameAs | Лейк-Плэсид</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adirondack Regional Airport | sameAs | Региональный аэропорт Адирондак</link>
+        <link direction="en2ru">Harrietstown, New York | includes | Хэрритстаун</link>
+        <link direction="en2ru">Saranac Lake, New York | includes | Саранак-Лейк</link>
+      </links>
+    </entry>
+  </entries>
+</benchmark>

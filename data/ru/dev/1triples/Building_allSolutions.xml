@@ -1,0 +1,518 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Building" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>New_York_City | isPartOf | Manhattan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>New_York_City | subdivisionName | Manhattan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>New_York_City | isPartOf | Manhattan</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Manhattan is part of New York City.</lex>
+      <lex lang="ru" lid="Id1">Манхэттен - часть Нью-Йорка.</lex>
+      <lex lang="en" lid="Id2">New York City is part of Manhattan.</lex>
+      <lex lang="ru" lid="Id2">Нью-Йорк - часть Манхэттена.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">New_York_City | sameAs | Нью-Йорк</dbpedialink>
+        <dbpedialink direction="en2ru">Manhattan | sameAs | Манхэттен</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Building" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>New_York_City | isPartOf | New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>New_York_City | isPartOf | New_York</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">New York City is part of New York.</lex>
+      <lex lang="ru" lid="Id1">Нью-Йорк - часть Нью-Йорка.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">New_York_City | sameAs | Нью-Йорк</dbpedialink>
+        <dbpedialink direction="en2ru">New_York | sameAs | Нью-Йорк_(штат)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Building" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Pacific_Grove,_California | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Pacific_Grove,_California | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Pacific Grove, California is in the United States.</lex>
+      <lex lang="ru" lid="Id1">Пасифик Гров, Калифорния, находится в США.</lex>
+      <lex lang="en" lid="Id2">Pacific Grove, California is located in the United States.</lex>
+      <lex lang="ru" lid="Id2">Пасифик Гров, Калифорния находится в США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Pacific Grove, California | includes | Пасифик Гров</link>
+        <link direction="en2ru">Pacific Grove, California | includes | Калифорния</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Perth | country | Australia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Perth | country | Australia</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Perth is located in Australia.</lex>
+      <lex lang="ru" lid="Id1">Перт находится в Австралии.</lex>
+      <lex lang="en" lid="Id2">Perth is in Australia.</lex>
+      <lex lang="ru" lid="Id2">Перт находится в Австралии.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Australia | sameAs | Австралия</dbpedialink>
+        <dbpedialink direction="en2ru">Perth | sameAs | Перт_(Австралия)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Building" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Republic_of_Ireland | currency | Euro</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Republic_of_Ireland | currency | Euro</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The currency of the Republic of Ireland is the euro.</lex>
+      <lex lang="ru" lid="Id1">Валюта Ирландии - евро.</lex>
+      <lex lang="en" lid="Id2">The Republic of Ireland's currency is the Euro.</lex>
+      <lex lang="ru" lid="Id2">Валюта Ирландии - это евро.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Republic_of_Ireland | sameAs | Ирландия</dbpedialink>
+        <dbpedialink direction="en2ru">Euro | sameAs | Евро</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Building" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Republic_of_Ireland | demonym | Irish_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Republic_of_Ireland | demonym | Irish_people</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Irish people are the inhabitants of the Republic of Ireland.</lex>
+      <lex lang="ru" lid="Id1">Ирландцы - жители Республики Ирландия.</lex>
+      <lex lang="en" lid="Id2">Irish people inhabit the Republic of Ireland.</lex>
+      <lex lang="ru" lid="Id2">Ирландцы населяют Республику Ирландия.</lex>
+      <lex lang="en" lid="Id3">The demonym of natives of the Republic of Ireland is Irish people.</lex>
+      <lex lang="ru" lid="Id3">Название коренных жителей республики Ирландия - ирландцы.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Republic_of_Ireland | sameAs | Ирландия</dbpedialink>
+        <dbpedialink direction="en2ru">Irish_people | sameAs | Ирландцы</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Building" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Republic_of_Ireland | languages | Irish_language</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Republic_of_Ireland | language | Irish_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Republic_of_Ireland | language | Irish_language</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">In the Republic of Ireland they speak Irish.</lex>
+      <lex lang="ru" lid="Id1">В Республике Ирландия говорят на ирландском языке.</lex>
+      <lex lang="en" lid="Id2">Irish is one of the official language in the Republic of Ireland.</lex>
+      <lex lang="ru" lid="Id2">Ирландский язык является одним из официальных языков в Ирландии.</lex>
+      <lex lang="en" lid="Id3">Irish is the official language of the Republic of Ireland.</lex>
+      <lex lang="ru" lid="Id3">Ирландский язык является официальным языком Республики Ирландия.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Irish_language | sameAs | Ирландский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">Republic_of_Ireland | sameAs | Ирландия</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Building" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Republic_of_Ireland | leaderName | Enda_Kenny</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Republic_of_Ireland | leader | Enda_Kenny</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Republic_of_Ireland | leader | Enda_Kenny</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The leader of the Republic of Ireland is Enda Kenny.</lex>
+      <lex lang="ru" lid="Id1">Лидером Республики Ирландия является Энда Кенни.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Republic_of_Ireland | sameAs | Ирландия</dbpedialink>
+        <dbpedialink direction="en2ru">Enda_Kenny | sameAs | Кенни,_Энда</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Building" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>South_Africa | demonym | South_Africa</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>South_Africa | demonym | South_Africa</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">People from South Africa can say they are from South Africa.</lex>
+      <lex lang="ru" lid="Id1">Люди из Южной Африки могут сказать, что они из Южной Африки.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">South_Africa | sameAs | Южно-Африканская_Республика</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Building" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>South_Africa | ethnicGroup | Asian_South_Africans</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>South_Africa | ethnicGroups | Asian_South_Africans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>South_Africa | ethnicGroup | Asian_South_Africans</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">In South Africa there is an ethnic group of Asian South Africans.</lex>
+      <lex lang="ru" lid="Id1">В Южной Африке существует этническая группа азиатских южноафриканцев.</lex>
+      <lex lang="en" lid="Id2">One of the ethnic groups within South Africa is Asian South Africans.</lex>
+      <lex lang="ru" lid="Id2">Одной из этнических групп в Южной Африке являются азиатские южноафриканцы.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">South_Africa | sameAs | Южно-Африканская_Республика</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Asian South Africans | sameAs | азиатские южноафриканцы</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>South_Africa | ethnicGroups | Coloured</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>South_Africa | ethnicGroup | Coloured</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>South_Africa | ethnicGroup | Coloured</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">One of South Africa's ethnic groups are the Coloured.</lex>
+      <lex lang="ru" lid="Id1">Одной из этнических групп Южной Африки являются Цветные.</lex>
+      <lex lang="en" lid="Id2">Coloured people are an ethnic group in South Africa.</lex>
+      <lex lang="ru" lid="Id2">Цветные люди - это этническая группа в Южной Африке.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">South_Africa | sameAs | Южно-Африканская_Республика</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Coloured | sameAs | Цветные</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>South_Africa | leader | Cyril_Ramaphosa</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>South_Africa | leaderName | Cyril_Ramaphosa</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>South_Africa | leader | Cyril_Ramaphosa</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Cyril Ramaphosa is the leader of South Africa.</lex>
+      <lex lang="ru" lid="Id1">Сирил Рамафоса - лидер ЮАР.</lex>
+      <lex lang="en" lid="Id2">Cyril Ramaphosa is one of the leaders of South Africa.</lex>
+      <lex lang="ru" lid="Id2">Сирил Рамафоса - один из лидеров ЮАР.</lex>
+      <lex lang="en" lid="Id3">The leader of South Africa is called Cyril Ramaphosa.</lex>
+      <lex lang="ru" lid="Id3">Лидера ЮАР зовут Сирил Рамафоса.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Cyril_Ramaphosa | sameAs | Рамафоса,_Сирил</dbpedialink>
+        <dbpedialink direction="en2ru">South_Africa | sameAs | Южно-Африканская_Республика</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Building" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>South_Africa | leader | Jacob_Zuma</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>South_Africa | leaderName | Jacob_Zuma</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>South_Africa | leader | Jacob_Zuma</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">South Africa's leader is called Jacob Zuma.</lex>
+      <lex lang="ru" lid="Id1">Лидером ЮАР является Джейкоб Зума.</lex>
+      <lex lang="en" lid="Id2">The leader of South Africa is Jacob Zuma.</lex>
+      <lex lang="ru" lid="Id2">Лидер ЮАР - Джейкоб Зума.</lex>
+      <lex lang="en" lid="Id3">Jacob Zuma is a leader in South Africa.</lex>
+      <lex lang="ru" lid="Id3">Джейкоб Зума - лидер в ЮАР.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Jacob_Zuma | sameAs | Зума,_Джейкоб</dbpedialink>
+        <dbpedialink direction="en2ru">South_Africa | sameAs | Южно-Африканская_Республика</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Building" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The capital of Sri Lanka is Sri Jayawardenepura Kotte.</lex>
+      <lex lang="ru" lid="Id1">Столица Шри-Ланки - Шри-Джаяварденепура-Котте.</lex>
+      <lex lang="en" lid="Id2">Sri Jayawardenepura Kotte is the capital of Sri Lanka.</lex>
+      <lex lang="ru" lid="Id2">Шри-Джаяварденепура-Котте - столица Шри-Ланки.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Sri_Jayawardenepura_Kotte | sameAs | Шри-Джаяварденепура-Котте</dbpedialink>
+        <dbpedialink direction="en2ru">Sri_Lanka | sameAs | Шри-Ланка</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Building" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Sri_Lanka | currency | Sri_Lankan_rupee</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sri_Lanka | currency | Sri_Lankan_rupee</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Ski Lanka's currency is the Ski Lankan rupee.</lex>
+      <lex lang="ru" lid="Id1">Валюта Шри-Ланки - Шри-Ланкийская рупия.</lex>
+      <lex lang="en" lid="Id2">The currency of Sri Lanka is the Sri Lankan rupee.</lex>
+      <lex lang="ru" lid="Id2">Валютой Шри-Ланки является Шри-Ланкийская рупия.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Sri_Lanka | sameAs | Шри-Ланка</dbpedialink>
+        <dbpedialink direction="en2ru">Sri_Lankan_rupee | sameAs | Шри-Ланкийская_рупия</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Building" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Sri_Lanka | language | Tamil_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sri_Lanka | language | Tamil_language</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The language of Sri Lanka is the Tamil language.</lex>
+      <lex lang="ru" lid="Id1">Язык Шри-Ланки - тамильский язык.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Tamil_language | sameAs | Тамильский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">Sri_Lanka | sameAs | Шри-Ланка</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Building" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Sri_Lanka | leader | Ranil_Wickremesinghe</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sri_Lanka | leader | Ranil_Wickremesinghe</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Ranil Wickremesinghe is a leader of Sri Lanka.</lex>
+      <lex lang="ru" lid="Id1">Ранил Викрамасингхе - лидер Шри-Ланки.</lex>
+      <lex lang="en" lid="Id2">Sri Lanka's leader is called Ranil Wickremesinghe.</lex>
+      <lex lang="ru" lid="Id2">Лидером Шри-Ланки является Ранил Викрамасингхе.</lex>
+      <lex lang="en" lid="Id3">The leader of Sri Lanka is Ranil Wickremesinghe.</lex>
+      <lex lang="ru" lid="Id3">Лидером Шри-Ланки является Ранил Викрамасингхе.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Ranil_Wickremesinghe | sameAs | Викрамасингхе,_Ранил</dbpedialink>
+        <dbpedialink direction="en2ru">Sri_Lanka | sameAs | Шри-Ланка</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Building" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_Kingdom | currency | Pound_sterling</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_Kingdom | currency | Pound_sterling</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The United Kingdom's currency is Pound sterling.</lex>
+      <lex lang="ru" lid="Id1">Валюта Великобритании - фунт стерлингов.</lex>
+      <lex lang="en" lid="Id2">The currency of the United Kingdom is the Pound sterling.</lex>
+      <lex lang="ru" lid="Id2">Валютой Соединенного Королевства является фунт стерлингов.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_Kingdom | sameAs | Великобритания</dbpedialink>
+        <dbpedialink direction="en2ru">Pound_sterling | sameAs | Фунт_стерлингов</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Building" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_Kingdom | demonym | British_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_Kingdom | demonym | British_people</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The demonym for natives of the United kingdom is British people.</lex>
+      <lex lang="ru" lid="Id1">Название коренных жителей Соединенного королевства - британцы.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_Kingdom | sameAs | Великобритания</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">British people | sameAs | британцы</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Washington DC is the capital of the United States.</lex>
+      <lex lang="ru" lid="Id1">Вашингтон - столица Соединенных Штатов.</lex>
+      <lex lang="en" lid="Id2">The capital of the United States is Washington D.C.</lex>
+      <lex lang="ru" lid="Id2">Столица Соединенных Штатов - Вашингтон.</lex>
+      <lex lang="en" lid="Id3">Washington D.C. is the capital of the USA.</lex>
+      <lex lang="ru" lid="Id3">Вашингтон - столица США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Washington,_D.C. | sameAs | Вашингтон_(округ_Колумбия)</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Building" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">One of the ethnic groups of the United States are the African Americans.</lex>
+      <lex lang="ru" lid="Id1">Одна из этнических групп США - афроамериканцы.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">African_Americans | sameAs | Афроамериканцы</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Building" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">An ethnic group of the United States is Asian Americans.</lex>
+      <lex lang="ru" lid="Id1">Этническая группа США - Американцы азиатского происхождения.</lex>
+      <lex lang="en" lid="Id2">Asian Americans are an ethnic group in the U.S.</lex>
+      <lex lang="ru" lid="Id2">Американцы азиатского происхождения - этническая группа в США.</lex>
+      <lex lang="en" lid="Id3">There is an ethnic group of Asians in the United States.</lex>
+      <lex lang="ru" lid="Id3">В США существует этническая группа Американцев азиатского происхождения.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Asian_Americans | sameAs | Американцы_азиатского_происхождения</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Building" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | White_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">One United States ethnic group is White Americans.</lex>
+      <lex lang="ru" lid="Id1">Одной из этнических групп Соединенных Штатов являются белые американцы.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">White Americans | sameAs | белые американцы</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">English is the language of the U.S..</lex>
+      <lex lang="ru" lid="Id1">Английский язык - язык США.</lex>
+      <lex lang="en" lid="Id2">English is the language in the United States.</lex>
+      <lex lang="ru" lid="Id2">Английский язык - это язык в Соединенных Штатах.</lex>
+      <lex lang="en" lid="Id3">The English language is the language of the United States.</lex>
+      <lex lang="ru" lid="Id3">Английский язык - это язык Соединенных Штатов.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">English_language | sameAs | Английский_язык</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Building" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_States | leaderName | Barack_Obama</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leader | Barack_Obama</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The leader of the United States was Barack Obama.</lex>
+      <lex lang="ru" lid="Id1">Лидером США был Барак Обама.</lex>
+      <lex lang="en" lid="Id2">Barack Obama is the leader of the U.S.</lex>
+      <lex lang="ru" lid="Id2">Барак Обама - лидер США.</lex>
+      <lex lang="en" lid="Id3">Barack Obama is the leader of the United States.</lex>
+      <lex lang="ru" lid="Id3">Барак Обама - лидер США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Barack_Obama | sameAs | Обама,_Барак</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Building" eid="Id26" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | leaderName | Joe_Biden</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_States | leader | Joe_Biden</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leader | Joe_Biden</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Joe Biden is a leader of the United States.</lex>
+      <lex lang="ru" lid="Id1">Джо Байден - лидер США.</lex>
+      <lex lang="en" lid="Id2">The leader of the United States is Joe Biden.</lex>
+      <lex lang="ru" lid="Id2">Лидером США является Джо Байден.</lex>
+      <lex lang="en" lid="Id3">Joe Biden is a leader of the U.S.</lex>
+      <lex lang="ru" lid="Id3">Джо Байден - лидер США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Joe_Biden | sameAs | Байден,_Джо</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Building" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | leaderName | John_Roberts</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_States | leader | John_Roberts</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leader | John_Roberts</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The United States of America`s Chief Justice is John Roberts.</lex>
+      <lex lang="ru" lid="Id1">Главным судьей Соединенных Штатов Америки является Джон Робертс.</lex>
+      <lex lang="en" lid="Id2">John Roberts is a leader in the United States.</lex>
+      <lex lang="ru" lid="Id2">Джон Гловер Робертс - лидер в США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">John_Roberts | sameAs | Робертс,_Джон_Гловер</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Building" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The leader of the United States is known as the President of the United States.</lex>
+      <lex lang="ru" lid="Id1">Лидер Соединенных Штатов известен как президент США.</lex>
+      <lex lang="en" lid="Id2">The title of the leader of the United States is President of the United States.</lex>
+      <lex lang="ru" lid="Id2">Звание лидера США носит президент США.</lex>
+      <lex lang="en" lid="Id3">The leader of the United States has the title President of the United States.</lex>
+      <lex lang="ru" lid="Id3">Лидер Соединенных Штатов имеет звание президента Соединенных Штатов.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">President_of_the_United_States | sameAs | Президент_США</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Building" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Virginia | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Virginia | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Virginia is in the United States.</lex>
+      <lex lang="ru" lid="Id1">Виргиния находится в США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Virginia | sameAs | Виргиния</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+      </dbpedialinks>
+    </entry>
+  </entries>
+</benchmark>

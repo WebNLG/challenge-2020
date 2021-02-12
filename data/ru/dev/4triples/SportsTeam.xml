@@ -1,0 +1,535 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="SportsTeam" eid="Id1" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Olympic_Stadium_(Athens) | location | Athens</otriple>
+        <otriple>AEK_Athens_F.C. | league | Superleague_Greece</otriple>
+        <otriple>Superleague_Greece | champions | Olympiacos_F.C.</otriple>
+        <otriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Olympic_Stadium_(Athens) | location | Athens</mtriple>
+        <mtriple>AEK_Athens_F.C. | league | Superleague_Greece</mtriple>
+        <mtriple>Superleague_Greece | champions | Olympiacos_F.C.</mtriple>
+        <mtriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Previous Greece Superleague champions AEK Athens FC play their home games at The Olympic Stadium, Athens.</lex>
+      <lex lang="ru" lid="Id1">Предыдущие чемпионы Чемпионата Греции по футболу - ФК "АЕК" играют свои домашние игры на Олимпийском стадионе в Афинах.</lex>
+      <lex lang="en" lid="Id2">AEK Athens F.C. have there home ground at the Olympic Stadium (Athens) which is located in Athens. They currently play in the Superleague of Greece whose current champions are Olympiacos F.C..</lex>
+      <lex lang="ru" lid="Id2">ФК "АЕК" имеют домашнюю площадку на Олимпийском Стадионе, который расположен в Афинах. В настоящее время они играют в Чемпионате Греции по футболу, где действующим чемпионом является ФК "Олимпиакос".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Olympiacos_F.C. | sameAs | Олимпиакос_(футбольный_клуб,_Пирей)</dbpedialink>
+        <dbpedialink direction="en2ru">Athens | sameAs | Афины</dbpedialink>
+        <dbpedialink direction="en2ru">Olympic_Stadium_(Athens) | sameAs | Олимпийский_стадион_(Афины)</dbpedialink>
+        <dbpedialink direction="en2ru">Superleague_Greece | sameAs | Чемпионат_Греции_по_футболу</dbpedialink>
+        <dbpedialink direction="en2ru">AEK_Athens_F.C. | sameAs | АЕК_(футбольный_клуб,_Афины)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id2" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Olympic_Stadium_(Athens) | location | Athens</otriple>
+        <otriple>AEK_Athens_F.C. | manager | Gus_Poyet</otriple>
+        <otriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</otriple>
+        <otriple>Gus_Poyet | team | Chelsea_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Olympic_Stadium_(Athens) | location | Athens</mtriple>
+        <mtriple>AEK_Athens_F.C. | manager | Gus_Poyet</mtriple>
+        <mtriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</mtriple>
+        <mtriple>Gus_Poyet | club | Chelsea_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Olympic Stadium, in Athens, is the home ground of AEK Athens FC. the manager of which, is Gus Poyet, who played for Chelsea F.C.</lex>
+      <lex lang="ru" lid="Id1">Олимпийский стадион в Афинах является домашней площадкой ФК "АЕК Афины, менеджером которого является Густаво Пойет, который играл за ФК "Челси".</lex>
+      <lex lang="en" lid="Id2">The Olympic Stadium (Athens) is the home ground of AEK Athens F.C. whose manager is Gus Poyet. He played for Chelsea F.C.</lex>
+      <lex lang="ru" lid="Id2">Олимпийский стадион (Афины) - домашняя площадка ФК "АЕК Афины", менеджером которого является Густаво Пойет. Он играл за ФК "Челси".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Chelsea_F.C. | sameAs | Челси_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">Gus_Poyet | sameAs | Пойет,_Густаво</dbpedialink>
+        <dbpedialink direction="en2ru">Athens | sameAs | Афины</dbpedialink>
+        <dbpedialink direction="en2ru">Olympic_Stadium_(Athens) | sameAs | Олимпийский_стадион_(Афины)</dbpedialink>
+        <dbpedialink direction="en2ru">AEK_Athens_F.C. | sameAs | АЕК_(футбольный_клуб,_Афины)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id3" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Olympic_Stadium_(Athens) | location | Athens</otriple>
+        <otriple>AEK_Athens_F.C. | manager | Gus_Poyet</otriple>
+        <otriple>Gus_Poyet | team | Real_Zaragoza</otriple>
+        <otriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Olympic_Stadium_(Athens) | location | Athens</mtriple>
+        <mtriple>AEK_Athens_F.C. | manager | Gus_Poyet</mtriple>
+        <mtriple>Gus_Poyet | club | Real_Zaragoza</mtriple>
+        <mtriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Located in Athens, the Olympic Stadium, is the ground for AEK Athens FC. The manager of which, used to be Gus Poyet, who, is in the Real Zaragoza club.</lex>
+      <lex lang="ru" lid="Id1">Расположенный в Афинах Олимпийский стадион - площадка для ФК "AEK Афины", менеджером которого раньше был Густаво Пойет, который является членом ФК "Реал Сарагоса".</lex>
+      <lex lang="en" lid="Id2">The Olympic Stadium in Athens is the home of AEK Athens FC. The football club's manager used to be Gus Poyet, who played for Real Zaragoza in the past.</lex>
+      <lex lang="ru" lid="Id2">Олимпийский стадион в Афинах - дом ФК "АЕК". Руководителем футбольного клуба раньше был Густаво Пойет, который играл за "Реал Сарагоса" в прошлом.</lex>
+      <lex lang="en" lid="Id3">The Olympic Stadium (Athens) is the home ground of AEK Athens F.C. whose manager is Gus Poyet. His club is Real Zaragoza.</lex>
+      <lex lang="ru" lid="Id3">Олимпийский стадион (Афины) - домашняя площадка ФК "АЕК", руководителем которого является Густаво Пойет. Его клубом является "Реал Сарагоса".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Gus_Poyet | sameAs | Пойет,_Густаво</dbpedialink>
+        <dbpedialink direction="en2ru">Athens | sameAs | Афины</dbpedialink>
+        <dbpedialink direction="en2ru">Real_Zaragoza | sameAs | Реал_Сарагоса</dbpedialink>
+        <dbpedialink direction="en2ru">Olympic_Stadium_(Athens) | sameAs | Олимпийский_стадион_(Афины)</dbpedialink>
+        <dbpedialink direction="en2ru">AEK_Athens_F.C. | sameAs | АЕК_(футбольный_клуб,_Афины)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id4" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | FC_Admira_Wacker_Mödling</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | clubs | Favoritner_AC</otriple>
+        <otriple>Peter_Stöger | managerClub | FK_Austria_Wien</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | FC_Admira_Wacker_Mödling</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | Favoritner_AC</mtriple>
+        <mtriple>Peter_Stöger | club | FK_Austria_Wien</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Peter Stoger, manager for the FC Koln, was also a part of FC Admira Wacker Modling and Favoritner AC as well as the FK Austria Wien Soccer Club.</lex>
+      <lex lang="ru" lid="Id1">Петер Штёгер, менеджер ФК "Кёльн", также входил в состав ФК "Адмира Ваккер Мёдлинг" и Спортивный Клуб “Фаворитнер”, а также ФК "Аустрия".</lex>
+      <lex lang="en" lid="Id2">Peter Stöger is a player in FC Admira Wacker Mödling and Favoritner AC. He also manages 1. FC Köln and is at the FK Austria Wien club.</lex>
+      <lex lang="ru" lid="Id2">Петер Штёгер - игрок в ФК "Адмира Ваккер Мёдлинг" и в Спортивном Клубе “Фаворитнер”. Он также управляет ФК "Кёльн" и работает в ФК "Аустрия ".</lex>
+      <lex lang="en" lid="Id3">Peter Stöger's club is the FC Admira Wacker Mödling. He is also manager of 1. FC Köln, a player for Favoritner AC and a member of the FK Austria Wien soccer club.</lex>
+      <lex lang="ru" lid="Id3">Клуб Петера Штёгера - это ФК "Адмира Ваккер Мёдлинг". Он также является менеджером ФК "Кёльн", игроком Спортивного Клуба “Фаворитнер” и членом ФК "Аустрия".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">FC_Admira_Wacker_Mödling | sameAs | Адмира_Ваккер_Мёдлинг</dbpedialink>
+        <dbpedialink direction="en2ru">Peter_Stöger | sameAs | Штёгер,_Петер</dbpedialink>
+        <dbpedialink direction="en2ru">1._FC_Köln | sameAs | Кёльн_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">FK_Austria_Wien | sameAs | Аустрия_(футбольный_клуб,_Вена)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Favoritner AC | sameAs | Спортивный Клуб “Фаворитнер”</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id5" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | FC_Admira_Wacker_Mödling</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | managerClub | SC_Wiener_Neustadt</otriple>
+        <otriple>Peter_Stöger | clubs | LASK_Linz</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | FC_Admira_Wacker_Mödling</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | SC_Wiener_Neustadt</mtriple>
+        <mtriple>Peter_Stöger | club | LASK_Linz</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Peter Stöger is the manager of 1. FC Köln and plays for FC Admira Wacker Mödling. He is affiliated with SC Wiener Neustadt club and previously played for the club LASK Linz.</lex>
+      <lex lang="ru" lid="Id1">Петер Штёгер является руководителем ФК "Кёльн" и играет за ФК "Адмира Ваккер Мёдлинг". Он связан с клубом СК “Винер-Нойштадт” и ранее играл за клуб "ЛАСК".</lex>
+      <lex lang="en" lid="Id2">Peter Stoger plays for both LASK Linz and FC Admira Wacker Modling. He previously played for SC Wiener Neustadt but is now the manager of FC Kolin.</lex>
+      <lex lang="ru" lid="Id2">Петер Штёгер играет как за "ЛАСК", так и за ФК "Адмира Ваккер Мёдлинг". Ранее он играл за СК “Винер-Нойштадт”, но сейчас является руководителем ФК "Кёльн".</lex>
+      <lex lang="en" lid="Id3">Peter Stoger, who plays for FC Admira Wacker Modling is also the manager of FC Kolin. He is affiliated with the SC Wiener Neustadt club and previously played for the club LASK Linz.</lex>
+      <lex lang="ru" lid="Id3">Петер Штёгер, который играет за ФК "Адмира Ваккер Мёдлинг", также является менеджером ФК "Кёльн". Он связан с СК “Винер-Нойштадт” и ранее играл за ФК "ЛАСК".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">FC_Admira_Wacker_Mödling | sameAs | Адмира_Ваккер_Мёдлинг</dbpedialink>
+        <dbpedialink direction="en2ru">Peter_Stöger | sameAs | Штёгер,_Петер</dbpedialink>
+        <dbpedialink direction="en2ru">1._FC_Köln | sameAs | Кёльн_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">LASK_Linz | sameAs | ЛАСК_(футбольный_клуб)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">SC Wiener Neustadt | sameAs | СК “Винер-Нойштадт”</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id6" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Vorwärts_Steyr</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | clubs | FK_Austria_Wien</otriple>
+        <otriple>Peter_Stöger | managerClub | First_Vienna_FC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Vorwärts_Steyr</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | FK_Austria_Wien</mtriple>
+        <mtriple>Peter_Stöger | club | First_Vienna_FC</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Peter Stoger is attached to First Vienna FC and is also in FK Austria Wien Club and SK Vorwarts Steyr. He is currently manager of 1FC Koln.</lex>
+      <lex lang="ru" lid="Id1">Петер Штёгер приписан к ФК "Фёрст" и также находится в ФК "Аустрия" и ФК "Форвертс". В настоящее время он является руководителем ФК "Кёльн".</lex>
+      <lex lang="en" lid="Id2">Peter Stoger is in the SK Vorwarts Steyr club and attached to the club First Vienna F.C.. He is additionally at the FK Austria Wien club while managing FC Kolin.</lex>
+      <lex lang="ru" lid="Id2">Петер Штёгер находится в ФК "Форвертс" и приписан к ФК "Фёрст". Кроме того, он работает в ФК "Аустрия", помимо руководства ФК "Кёльн".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Peter_Stöger | sameAs | Штёгер,_Петер</dbpedialink>
+        <dbpedialink direction="en2ru">1._FC_Köln | sameAs | Кёльн_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">First_Vienna_FC | sameAs | Фёрст_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">SK_Vorwärts_Steyr | sameAs | Форвертс_(футбольный_клуб,_Штайр)</dbpedialink>
+        <dbpedialink direction="en2ru">FK_Austria_Wien | sameAs | Аустрия_(футбольный_клуб,_Вена)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id7" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Peter_Stöger | clubs | SK_Vorwärts_Steyr</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | team | Favoritner_AC</otriple>
+        <otriple>Peter_Stöger | managerClub | FK_Austria_Wien</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Vorwärts_Steyr</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | Favoritner_AC</mtriple>
+        <mtriple>Peter_Stöger | club | FK_Austria_Wien</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Peter Stöger is the manager of FC Kolin and has played for the following clubs: SK Vorwärts Steyr, Favoritner AC and FK Austria Wien.</lex>
+      <lex lang="ru" lid="Id1">Петер Штёгер является менеджером ФК "Кёльн" и играл за следующие клубы: ФК "Форвертс", Спортивный Клуб “Фаворитнер” и ФК "Аустрия".</lex>
+      <lex lang="en" lid="Id2">Peter Stoger previously played football for SK Vorwarts Steyr and now plays for Favoritner AC. In addition he is a member of FK Austria Wien coccer club and the manager or 1.FC Koln.</lex>
+      <lex lang="ru" lid="Id2">Петер Штёгер ранее играл в футбол за ФК "Форвертс", а теперь играет за Спортивный Клуб “Фаворитнер”. Кроме того, он является членом ФК "Аустрия" и руководителем ФК "Кёльн".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Peter_Stöger | sameAs | Штёгер,_Петер</dbpedialink>
+        <dbpedialink direction="en2ru">1._FC_Köln | sameAs | Кёльн_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">SK_Vorwärts_Steyr | sameAs | Форвертс_(футбольный_клуб,_Штайр)</dbpedialink>
+        <dbpedialink direction="en2ru">FK_Austria_Wien | sameAs | Аустрия_(футбольный_клуб,_Вена)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Favoritner AC | sameAs | Спортивный Клуб “Фаворитнер”</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id8" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Vorwärts_Steyr</otriple>
+        <otriple>Peter_Stöger | clubs | FC_Admira_Wacker_Mödling</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | managerClub | First_Vienna_FC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Vorwärts_Steyr</mtriple>
+        <mtriple>Peter_Stöger | club | FC_Admira_Wacker_Mödling</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | First_Vienna_FC</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Peter Stöger has played for FC Admira Wacker Modling, has managed FC Kolin and also worked for SK Vorwärts Steyr and First Vienna FC.</lex>
+      <lex lang="ru" lid="Id1">Петер Штёгер играл за ФК "Адмира Ваккер Мёдлинг", управлял ФК "Кёльн", а также работал в ФК "Форвертс" и ФК "Фёрст".</lex>
+      <lex lang="en" lid="Id2">Peter Stoger is attached to First Vienna FC and is in SK Vorwarts Steyr club. He plays for FC Admira Wacker Modling and is the manager of 1 FC Koln.</lex>
+      <lex lang="ru" lid="Id2">Петер Штёгер приписан к ФК "Фёрст" и находится в ФК "Форвертс". Он играет за ФК "Адмира Ваккер Мёдлинг" и является руководителем ФК "Кёльн".</lex>
+      <lex lang="en" lid="Id3">Peter Soger has previously played football for SK Vorwarts Steyr and his club now is FC Admira Wacker Modling. He is currently attached to the club First Vienna FC and manages FC Kolin.</lex>
+      <lex lang="ru" lid="Id3">Петер Штёгер ранее играл в футбол за ФК "Форвертс", а сейчас его клубом является ФК "Адмира Ваккер Мёдлинг". В настоящее время он приписан к ФК "Фёрст" и руководит ФК "Кёльн".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">FC_Admira_Wacker_Mödling | sameAs | Адмира_Ваккер_Мёдлинг</dbpedialink>
+        <dbpedialink direction="en2ru">Peter_Stöger | sameAs | Штёгер,_Петер</dbpedialink>
+        <dbpedialink direction="en2ru">1._FC_Köln | sameAs | Кёльн_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">First_Vienna_FC | sameAs | Фёрст_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">SK_Vorwärts_Steyr | sameAs | Форвертс_(футбольный_клуб,_Штайр)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id9" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Vorwärts_Steyr</otriple>
+        <otriple>Peter_Stöger | clubs | FC_Admira_Wacker_Mödling</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | managerClub | SC_Wiener_Neustadt</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Vorwärts_Steyr</mtriple>
+        <mtriple>Peter_Stöger | club | FC_Admira_Wacker_Mödling</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | SC_Wiener_Neustadt</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Peter Stöger, previously a player for SC Wiener Neustadt, is now in the SK Vorwärts Steyr club and managing 1. FC Köln. His club is the FC Admira Wacker Mödling.</lex>
+      <lex lang="ru" lid="Id1">Петер Штёгер, ранее являвшийся игроком для СК “Винер-Нойштадт”, сейчас находится в ФК "Форвертс" и руководит ФК "Кёльн". Его клуб - ФК "Адмира Ваккер Мёдлинг".</lex>
+      <lex lang="en" lid="Id2">Peter Stoger is in the SK Vorwarts Steyr club and is affiliated with the SC Wiener Neustadt club. He is currently a player in FC Admira Wacker Modling while being a manager at 1.FC Koln.</lex>
+      <lex lang="ru" lid="Id2">Петер Штёгер находится в ФК "Форвертс" и он связан со СК “Винер-Нойштадт”. В настоящее время он является игроком в ФК "Адмира Ваккер Мёдлинг".</lex>
+      <lex lang="en" lid="Id3">Peter Stöger is manager of FC Kolin, as well as playing for SC Wiener Neustadt. He is also in the SK Vorwärts Steyr and FC Admira Wacker Mödling clubs.</lex>
+      <lex lang="ru" lid="Id3">Петер Штёгер - руководитель ФК "Кёльн", а также играет за СК “Винер-Нойштадт”. Он также имеет отношение к ФК "Форвертс" и ФК "Адмира Ваккер Мёдлинг".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">FC_Admira_Wacker_Mödling | sameAs | Адмира_Ваккер_Мёдлинг</dbpedialink>
+        <dbpedialink direction="en2ru">Peter_Stöger | sameAs | Штёгер,_Петер</dbpedialink>
+        <dbpedialink direction="en2ru">1._FC_Köln | sameAs | Кёльн_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">SK_Vorwärts_Steyr | sameAs | Форвертс_(футбольный_клуб,_Штайр)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">SC Wiener Neustadt | sameAs | СК “Винер-Нойштадт”</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id10" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Peter_Stöger | clubs | SK_Vorwärts_Steyr</otriple>
+        <otriple>Peter_Stöger | team | SK_Rapid_Wien</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | managerClub | SC_Wiener_Neustadt</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Vorwärts_Steyr</mtriple>
+        <mtriple>Peter_Stöger | club | SK_Rapid_Wien</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | SC_Wiener_Neustadt</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Peter Stöger, the manager of FC Kolin is also a part of the SK Vorwärts Steyr club, the SK Rapid Wien Club and SC Wiener Neustadt.</lex>
+      <lex lang="ru" lid="Id1">Петер Штёгер, руководитель ФК "Кёльн", также входит в состав ФК "Форвертс", ФК "Рапид" и СК “Винер-Нойштадт”.</lex>
+      <lex lang="en" lid="Id2">Peter Stoger played for both SC Wiener Neustadt and SK Vorwarts Steyr. He is now manager of 1 FC Koln and plays for SK Rapid Wien club.</lex>
+      <lex lang="ru" lid="Id2">Петер Штёгер играл как за СК “Винер-Нойштадт”, так и за ФК "Форвертс". Сейчас он руководитель ФК "Кёльн" и играет за ФК "Рапид".</lex>
+      <lex lang="en" lid="Id3">Peter Stöger is the manager of FC Koln. In his career so far, he has played for SK Vorwärts Steyr and SK Rapid Wien, and managed at SC Wiener Neustadt club.</lex>
+      <lex lang="ru" lid="Id3">Петер Штёгер - руководитель ФК "Кёльн". В своей карьере он до сих пор играл за ФК "Форвертс" и ФК "Рапид", и руководил в СК “Винер-Нойштадт”.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Peter_Stöger | sameAs | Штёгер,_Петер</dbpedialink>
+        <dbpedialink direction="en2ru">1._FC_Köln | sameAs | Кёльн_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">SK_Rapid_Wien | sameAs | Рапид_(футбольный_клуб,_Вена)</dbpedialink>
+        <dbpedialink direction="en2ru">SK_Vorwärts_Steyr | sameAs | Форвертс_(футбольный_клуб,_Штайр)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">SC Wiener Neustadt | sameAs | СК “Винер-Нойштадт”</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id11" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.S._Roma | fullname | "Associazione Sportiva Roma S.p.A."@en</otriple>
+        <otriple>A.S._Roma | ground | "Rome, Italy"@en</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.S._Roma | fullName | "Associazione Sportiva Roma S.p.A."</mtriple>
+        <mtriple>A.S._Roma | ground | "Rome, Italy"</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Juventus F.C, former champions of Serie A, compete with A.S. Roma, known under the full name Associazione Sportiva Roma S.p.A., based in Rome, Italy, playing in Serie A.</lex>
+      <lex lang="ru" lid="Id1">ФК "Ювентус", бывший чемпион Серии А, соревнуется с ФК “Рома”, известным под полным названием Футбольный клуб “Рома”, базирующимся в Риме, Италия, в Серии А.</lex>
+      <lex lang="en" lid="Id2">Juventus FC are champions of Serie A in which AS Roma also play. Their full name is "Associazione Sportiva Roma S.p.A." and they have a ground in Rome, Italy.</lex>
+      <lex lang="ru" lid="Id2">ФК "Ювентус" - чемпионы Серии А, в которой также играет ФК "Рома". Его полное название - Футбольный клуб “Рома”.</lex>
+      <lex lang="en" lid="Id3">Juventus FC have been champions of Serie A in which AS Roma also play. AS Roma's full name is Associazione Sportiva Roma S.p.A. and their ground is in Rome, Italy.</lex>
+      <lex lang="ru" lid="Id3">ФК "Ювентус" были чемпионами Серии А, в которой также играет ФК "Рома". Полное название ФК "Рома" - Футбольный клуб “Рома”, а их домашняя площадка находится в Риме, Италия.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">A.S._Roma | sameAs | Рома_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">Juventus_F.C. | sameAs | Ювентус</dbpedialink>
+        <dbpedialink direction="en2ru">Serie_A | sameAs | Чемпионат_Италии_по_футболу_(Серия_A)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Associazione Sportiva Roma S.p.A. | sameAs | Футбольный клуб “Рома”</link>
+        <link direction="en2ru">Rome, Italy | includes | Рим</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id12" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.S._Roma | ground | Rome</otriple>
+        <otriple>A.S._Roma | fullname | "Associazione Sportiva Roma S.p.A."@en</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.S._Roma | ground | Rome</mtriple>
+        <mtriple>A.S._Roma | fullName | "Associazione Sportiva Roma S.p.A."</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Associazione Sportiva Roma S.p.A. is the full name A.S. Roma. They have a ground in Rome and play in the Serie A league. the former champions of this league are Juventus F.C.</lex>
+      <lex lang="ru" lid="Id1">Футбольный клуб "Рома" - это полное название ФК "Рома". Клуб имеет домашнее поле в Риме и играет в Чемпионате Италии по футболу. Бывший победитель этой лиги - ФК "Ювентус".</lex>
+      <lex lang="en" lid="Id2">Previous champions of Serie A have been Juventus FC. A S Roma also play in Serie A and their home ground is in Rome and their full name is Associazione Sportiva Roma S.p.A.</lex>
+      <lex lang="ru" lid="Id2">Предыдущими чемпионами Серии А был ФК "Ювентус". ФК "Рома" также играет в Серии А, а их домашняя площадка находится в Риме и их полное имя - Футбольный клуб “Рома” .</lex>
+      <lex lang="en" lid="Id3">Serie A league former champions are Juventus FC. AS Roma ( fullname Associazione Sportiva Roma S.p.A.) who have a ground in Rome also play in the league.</lex>
+      <lex lang="ru" lid="Id3">Бывший победитель Чемпионата Италии по футболу - ФК "Ювентус". ФК "Рома" (полное название - Футбольный клуб "Рома"), чье домашнее поле находится в Риме, также играет в чемпионате.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">A.S._Roma | sameAs | Рома_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">Rome | sameAs | Рим</dbpedialink>
+        <dbpedialink direction="en2ru">Juventus_F.C. | sameAs | Ювентус</dbpedialink>
+        <dbpedialink direction="en2ru">Serie_A | sameAs | Чемпионат_Италии_по_футболу_(Серия_A)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Associazione Sportiva Roma S.p.A. | sameAs | Футбольный клуб “Рома”</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id13" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.S._Roma | ground | Rome</otriple>
+        <otriple>A.S._Roma | capacity | 70634</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.S._Roma | ground | Rome</mtriple>
+        <mtriple>A.S._Roma | numberOfMembers | 70634</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">A.S. Roma's ground in Rome holds 70634 fans. The club play in Serie A, the champions of which are Juventus F.C.</lex>
+      <lex lang="ru" lid="Id1">Домашний стадион ФК "Рома" в Риме вмещает 70634 болельщиков. Клуб играет в Чемпионате Италии по футболу, победитель которого - ФК "Ювентус".</lex>
+      <lex lang="en" lid="Id2">AS Roma have a ground in Rome and have 70634 members. They play in the Serie A league which was previously won by Juventus FC.</lex>
+      <lex lang="ru" lid="Id2">ФК "Рома" имеет домашнюю площадку в Риме и имеет 70634 члена. Они играют в Серии А Чемпионата Италии по футболу, в которой ранее побеждал ФК "Ювентус".</lex>
+      <lex lang="en" lid="Id3">A.S. Roma play in Serie A, of which the current champions are Juventus F.C. Their home ground is in Rome and they have 70634 members.</lex>
+      <lex lang="ru" lid="Id3">ФК "Рома" играет в Серии А Чемпионата Италии по футболу, где действующим чемпионом является ФК "Ювентус". Их домашняя площадка находится в Риме и у них 70634 участника.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">A.S._Roma | sameAs | Рома_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">Rome | sameAs | Рим</dbpedialink>
+        <dbpedialink direction="en2ru">Juventus_F.C. | sameAs | Ювентус</dbpedialink>
+        <dbpedialink direction="en2ru">Serie_A | sameAs | Чемпионат_Италии_по_футболу_(Серия_A)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id14" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.S._Roma | ground | Rome</otriple>
+        <otriple>A.S._Roma | season | 2014</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.S._Roma | ground | Rome</mtriple>
+        <mtriple>A.S._Roma | season | 2014</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">With a ground in Rome, A.S. Roma, competed in the 2014 season. They play in Serie A, the champions of which have been Juventus FC.</lex>
+      <lex lang="ru" lid="Id1">Имея домашнюю площадку в Риме, ФК "Рома" соревновался в сезоне 2014 года. Они играют в Серии А Чемпионата Италии по футболу, чемпионами которого был ФК "Ювентус".</lex>
+      <lex lang="en" lid="Id2">AS Roma 's home ground is in Rome. They played in the 2014 season in Serie A which has Juventus FC as former champions.</lex>
+      <lex lang="ru" lid="Id2">Домашнее поле ФК "Рома" находится в Риме. Клуб играл в сезоне 2014 года в Чемпионате Италии по футболу, бывшим победителем которого является ФК "Ювентус".</lex>
+      <lex lang="en" lid="Id3">Juventus FC are previous champions of Serie A in which AS Roma also play. AS Roma played in the 2014 season and have a ground in Rome.</lex>
+      <lex lang="ru" lid="Id3">ФК "Ювентус" - предыдущий чемпион Серии А Чемпионата Италии по футболу, в котором также играет и ФК "Рома". ФК "Рома" играл в сезоне 2014 года и имеет домашнюю площадку в Риме.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">2014 | sameAs | 2014_год</dbpedialink>
+        <dbpedialink direction="en2ru">A.S._Roma | sameAs | Рома_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">Rome | sameAs | Рим</dbpedialink>
+        <dbpedialink direction="en2ru">Juventus_F.C. | sameAs | Ювентус</dbpedialink>
+        <dbpedialink direction="en2ru">Serie_A | sameAs | Чемпионат_Италии_по_футболу_(Серия_A)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id15" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.S._Roma | manager | Luciano_Spalletti</otriple>
+        <otriple>Luciano_Spalletti | team | Virtus_Entella</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.S._Roma | manager | Luciano_Spalletti</otriple>
+        <otriple>Luciano_Spalletti | clubs | Virtus_Entella</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.S._Roma | manager | Luciano_Spalletti</mtriple>
+        <mtriple>Luciano_Spalletti | club | Virtus_Entella</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Luciano Spalletti plays for Virtus Entella and manages AS Roma who play in the Serie A league. Juventus FC are the champions of the league.</lex>
+      <lex lang="ru" lid="Id1">Лучано Спаллетти играет за ФК "Виртус Энтелла" и руководит ФК "Рома", который играет в Серии А Чемпионата Италии по футболу. ФК "Ювентус" - чемпионы этой серии.</lex>
+      <lex lang="en" lid="Id2">AS Roma's manager is Luciano Spalletti ( who was also at Virtus Entella) and they play in the Serie A league. The Champions of that league are Juventus F.C.</lex>
+      <lex lang="ru" lid="Id2">Руководителем ФК "Рома" является Лучано Спаллетти (который также был в ФК "Виртус Энтелла") и они играют в Серии А Чемпионата Италии по футболу. Чемпионы этой серии - ФК "Ювентус".</lex>
+      <lex lang="en" lid="Id3">A.S. Roma is managed by Luciano Spalletti, who was formerly involved with Virtus Entella. Serie A, the league that A.S. Roma play in, has Juventus F.C. as past champions.</lex>
+      <lex lang="ru" lid="Id3">ФК "Рома" находится под руководством Лучано Спаллетти, кто ранее был связан с ФК "Виртус Энтелла". Серия А, в которой ФК "Рома" играет, имеет ФК "Ювентус" в качестве прошлых чемпионов.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">A.S._Roma | sameAs | Рома_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">Luciano_Spalletti | sameAs | Спаллетти,_Лучано</dbpedialink>
+        <dbpedialink direction="en2ru">Juventus_F.C. | sameAs | Ювентус</dbpedialink>
+        <dbpedialink direction="en2ru">Serie_A | sameAs | Чемпионат_Италии_по_футболу_(Серия_A)</dbpedialink>
+        <dbpedialink direction="en2ru">Virtus_Entella | sameAs | Виртус_Энтелла</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id16" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.S._Roma | capacity | 70634</otriple>
+        <otriple>A.S._Roma | ground | "Rome, Italy"@en</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.S._Roma | numberOfMembers | 70634</mtriple>
+        <mtriple>A.S._Roma | ground | "Rome, Italy"</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">AS Roma play in Serie A which have Juventus FC as previous champions. AS Roma's ground is in Rome, Italy and they have 70634 members.</lex>
+      <lex lang="ru" lid="Id1">ФК "Рома" играет в Серии А Чемпионата Италии по футболу, которые имеют ФК "Ювентус" в качестве предыдущих чемпионов. Домашняя площадка ФК "Рома" находится в Риме, Италия и они имеют 70634 участника.</lex>
+      <lex lang="en" lid="Id2">AS Roma's ground is located in Rome, Italy and they have 70634 members. They play in Serie A which has Juventus FC as former champions.</lex>
+      <lex lang="ru" lid="Id2">Домашняя площадка ФК "Рома" находится в Риме, Италия и у них 70634 участника. Они играют в Серии А Чемпионата Италии по футболу, которая имеет ФК "Ювентус"в качестве бывших чемпионов.</lex>
+      <lex lang="en" lid="Id3">A.S. Roma of Rome Italy, has 70634 members and plays in Serie A where Juventus F. C. are champions.</lex>
+      <lex lang="ru" lid="Id3">ФК "Рома" из Рима, Италия, имеет 70634 участника и играет в Серии А Чемпионата Италии по футболу, где ФК "Ювентус" - чемпионы.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">A.S._Roma | sameAs | Рома_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">Juventus_F.C. | sameAs | Ювентус</dbpedialink>
+        <dbpedialink direction="en2ru">Serie_A | sameAs | Чемпионат_Италии_по_футболу_(Серия_A)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Rome, Italy | includes | Рим</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id17" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.S._Roma | capacity | 70634</otriple>
+        <otriple>A.S._Roma | ground | Stadio_Olimpico</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.S._Roma | numberOfMembers | 70634</mtriple>
+        <mtriple>A.S._Roma | ground | Stadio_Olimpico</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Juventus FC and AS Roma are former Serie A champions, where Roma has 70634 members, its headquarters is the Olimpico stadium.</lex>
+      <lex lang="ru" lid="Id1">ФК "Ювентус" и ФК "Рома" - бывшие чемпионы Серии А Чемпионата Италии по Футболу. ФК "Рома" имеет 70634 участника и её штаб - Олимпийский стадион.</lex>
+      <lex lang="en" lid="Id2">AS Roma 's ground is Stadio Olimpico and they have 70634 members. They play in the Serie A league of which Juventus FC have previously been champions.</lex>
+      <lex lang="ru" lid="Id2">Домашней площадкой ФК "Рома" является Олимпийский стадион и у них 70634 участника. Они играют в Серии А Чемпионата Италии по футболу, предыдущим чемпионом которой был ФК "Ювентус".</lex>
+      <lex lang="en" lid="Id3">Juventus FC are champions of Serie A in which AS Roma also play. The AS Roma ground is Stadio Olimpico and they have 70634 members.</lex>
+      <lex lang="ru" lid="Id3">ФК "Ювентус" - чемпионы Серии А Чемпионата Италии по футболу, в которой также играет и ФК "Рома". Домашней площадкой ФК "Рома" является Олимпийский стадион и у них 70634 участника.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">A.S._Roma | sameAs | Рома_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">Juventus_F.C. | sameAs | Ювентус</dbpedialink>
+        <dbpedialink direction="en2ru">Serie_A | sameAs | Чемпионат_Италии_по_футболу_(Серия_A)</dbpedialink>
+        <dbpedialink direction="en2ru">Stadio_Olimpico | sameAs | Олимпийский_стадион_(Рим)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id18" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>Luciano_Spalletti | team | Empoli_F.C.</otriple>
+        <otriple>A.S._Roma | manager | Luciano_Spalletti</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>Luciano_Spalletti | clubs | Empoli_F.C.</otriple>
+        <otriple>A.S._Roma | manager | Luciano_Spalletti</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>Luciano_Spalletti | managerClub | Empoli_F.C.</otriple>
+        <otriple>A.S._Roma | manager | Luciano_Spalletti</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>Luciano_Spalletti | club | Empoli_F.C.</mtriple>
+        <mtriple>A.S._Roma | manager | Luciano_Spalletti</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Luciano Spalletti manages A.S. Roma and plays for Empoli F.C.. A.S. Roma play in Serie A of which Juventus F.C. are champions.</lex>
+      <lex lang="ru" lid="Id1">Лучано Спаллетти руководит ФК "Рома" и играет за ФК "Эмполи". ФК "Рома" играет в Серии А Чемпионата Италии по футболу, чемпионом которой является ФК "Ювентус".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">A.S._Roma | sameAs | Рома_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">Luciano_Spalletti | sameAs | Спаллетти,_Лучано</dbpedialink>
+        <dbpedialink direction="en2ru">Empoli_F.C. | sameAs | Эмполи_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">Juventus_F.C. | sameAs | Ювентус</dbpedialink>
+        <dbpedialink direction="en2ru">Serie_A | sameAs | Чемпионат_Италии_по_футболу_(Серия_A)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id19" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>Luciano_Spalletti | managerClub | Udinese_Calcio</otriple>
+        <otriple>A.S._Roma | manager | Luciano_Spalletti</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>Luciano_Spalletti | club | Udinese_Calcio</mtriple>
+        <mtriple>A.S._Roma | manager | Luciano_Spalletti</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Luciano Spalletti, who has been associated with Udinese Calcio, manages A.S. Roma who play in Serie A. Juventus FC have been Serie A champions.</lex>
+      <lex lang="ru" lid="Id1">Лучано Спаллетти, ранее связанный с ФК "Удинезе", руководит ФК "Рома", который играет в Серии А Чемпионата Италии по футболу. ФК "Ювентус" был чемпионом Серии А.</lex>
+      <lex lang="en" lid="Id2">AS Roma play in the Serie A league where Juventus FC are the champions. Their manager is Luciano Spalletti who has been associated with Udinese Calcio.</lex>
+      <lex lang="ru" lid="Id2">Рома играет в лиге Чемпионата Италии по футболу, где Ювентус - чемпионы. Их менеджером является Лучано Спаллетти, который был связанный с Удинезе.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">A.S._Roma | sameAs | Рома_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">Luciano_Spalletti | sameAs | Спаллетти,_Лучано</dbpedialink>
+        <dbpedialink direction="en2ru">Juventus_F.C. | sameAs | Ювентус</dbpedialink>
+        <dbpedialink direction="en2ru">Serie_A | sameAs | Чемпионат_Италии_по_футболу_(Серия_A)</dbpedialink>
+        <dbpedialink direction="en2ru">Udinese_Calcio | sameAs | Удинезе</dbpedialink>
+      </dbpedialinks>
+    </entry>
+  </entries>
+</benchmark>

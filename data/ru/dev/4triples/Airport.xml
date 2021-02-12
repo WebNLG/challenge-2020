@@ -1,0 +1,853 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Airport" eid="Id1" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Harrietstown,_New_York | country | United_States</otriple>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+        <otriple>Harrietstown,_New_York | isPartOf | New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Harrietstown,_New_York | country | United_States</otriple>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+        <otriple>Harrietstown,_New_York | isPartOf | New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Harrietstown,_New_York | country | United_States</mtriple>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</mtriple>
+        <mtriple>Harrietstown,_New_York | isPartOf | New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Adirondack Regional Airport serves the city of Saranac Lake, which is part of Harrietstown in New York, in the United States.</lex>
+      <lex lang="ru" lid="Id1">Региональный аэропорт Адирондак обслуживает село Саранак-Лейк, которое является частью города Хэрритстаун в штате Нью-Йорк, в США.</lex>
+      <lex lang="en" lid="Id2">Adirondack Regional Airport serves the city of Saranac Lake, Harrietstown, New York, United States.</lex>
+      <lex lang="ru" lid="Id2">Региональный аэропорт Адирондак обслуживает село Саранак-Лейк, город Хэрритстаун, штат Нью-Йорк, США.</lex>
+      <lex lang="en" lid="Id3">Adirondack Regional Airport serves Saranac Lakewhich is in Harrietstown, New York.</lex>
+      <lex lang="ru" lid="Id3">Региональный аэропорт Адирондак обслуживает село Саранак-Лейк в городе Хэрритстаун, штат Нью-Йорк.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">New_York | sameAs | Нью-Йорк_(штат)</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adirondack Regional Airport | sameAs | Региональный аэропорт Адирондак</link>
+        <link direction="en2ru">Harrietstown, New York | includes | Хэрритстаун</link>
+        <link direction="en2ru">Saranac Lake, New York | includes | Саранак-Лейк</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id2" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Harrietstown,_New_York | country | United_States</otriple>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Harrietstown,_New_York | country | United_States</otriple>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Harrietstown,_New_York | country | United_States</mtriple>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</mtriple>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Adirondack Regional Airport serves the city of Saranac Lake, New York part of Harrietstown and Essex County, New York, U.S.</lex>
+      <lex lang="ru" lid="Id1">Региональный аэропорт Адирондак обслуживает город Саранак-Лейк, Нью-Йорк, часть города Хэрритстаун и округа Эссекс, штат Нью-Йорк, США.</lex>
+      <lex lang="en" lid="Id2">Adirondack Regional Airport serves the city of Saranac Lake which is part of Harrietstown and Essex County, New York.</lex>
+      <lex lang="ru" lid="Id2">Региональный аэропорт Адирондак обслуживает город Саранак-Лейк, входящий в состав Хэрритстауна и округа Эссекс, Нью-Йорк.</lex>
+      <lex lang="en" lid="Id3">Adirondack Regional Airport serves Harrietstown, Essex County and Saranac Lake, New York (United States).</lex>
+      <lex lang="ru" lid="Id3">Региональный аэропорт Адирондак обслуживает город Хэрритстаун, округ Эссекс и Саранак-Лейк, штат Нью-Йорк (США).</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Essex_County,_New_York | sameAs | Эссекс_(округ,_Нью-Йорк)</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adirondack Regional Airport | sameAs | Региональный аэропорт Адирондак</link>
+        <link direction="en2ru">Harrietstown, New York | includes | Хэрритстаун</link>
+        <link direction="en2ru">Saranac Lake, New York | includes | Саранак-Лейк</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id3" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Indian_Air_Force | aircraftHelicopter | HAL_Light_Combat_Helicopter</otriple>
+        <otriple>Agra_Airport | location | Uttar_Pradesh</otriple>
+        <otriple>Agra_Airport | operator | Indian_Air_Force</otriple>
+        <otriple>Uttar_Pradesh | isPartOf | Bundelkhand</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Indian_Air_Force | aircraftHelicopter | HAL_Light_Combat_Helicopter</mtriple>
+        <mtriple>Agra_Airport | location | Uttar_Pradesh</mtriple>
+        <mtriple>Agra_Airport | operatingOrganisation | Indian_Air_Force</mtriple>
+        <mtriple>Uttar_Pradesh | isPartOf | Bundelkhand</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">As well as having an aircraft-capable helicopter known as the HAL Light Combat Helicopter, the Indian Air Force, operate Agra Airpori. This airport is in Uttar Pradesh which is part of Bundelkhand.</lex>
+      <lex lang="ru" lid="Id1">Помимо владения вертолетом, известным как HAL LCH, военно-воздушные силы Индии управляют аэропортом Агра. Этот аэропорт находится в штате Уттар-Прадеш, Бунделкханд.</lex>
+      <lex lang="en" lid="Id2">Agra Airport is located in Uttar Pradesh, Bundelkhand which is oprated by Indian Air Force who uses Hal Light Combat Helicopers.</lex>
+      <lex lang="ru" lid="Id2">Аэропорт Агра расположен в штате Уттар-Прадеш, Бунделкханд и управляется ВВС Индии, которые используют HAL LCH.</lex>
+      <lex lang="en" lid="Id3">Agra Airport is located in Uttar Pradesh part of Bundelkhand. The airport is operated by the Indian Air Force. The HAL Light Combat Helicopter is an aircraft helicopter there.</lex>
+      <lex lang="ru" lid="Id3">Аэропорт Агра расположен в штате Уттар-Прадеш, область Бунделкханд. Аэропорт эксплуатируется военно-воздушными силами Индии. HAL LCH - это авиационный вертолет.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">HAL_Light_Combat_Helicopter | sameAs | HAL_LCH</dbpedialink>
+        <dbpedialink direction="en2ru">Bundelkhand | sameAs | Бунделкханд</dbpedialink>
+        <dbpedialink direction="en2ru">Uttar_Pradesh | sameAs | Уттар-Прадеш</dbpedialink>
+        <dbpedialink direction="en2ru">Indian_Air_Force | sameAs | Военно-воздушные_силы_Индии</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Agra Airport | sameAs | аэропорт Агра</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id4" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Infraero | location | Brasília</otriple>
+        <otriple>Afonso_Pena_International_Airport | elevation | "910.742"^^xsd:double</otriple>
+        <otriple>Afonso_Pena_International_Airport | runwayLength | "2215.0"^^xsd:double</otriple>
+        <otriple>Afonso_Pena_International_Airport | operator | Infraero</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Infraero | location | Brasília</mtriple>
+        <mtriple>Afonso_Pena_International_Airport | elevationAboveTheSeaLevel | 911.0</mtriple>
+        <mtriple>Afonso_Pena_International_Airport | runwayLength | 2215.0</mtriple>
+        <mtriple>Afonso_Pena_International_Airport | operatingOrganisation | Infraero</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Afonso Pena International Airport is operated by Infraero, Brasilia. The airport is 911 meters above sea level and its runway length 2215.</lex>
+      <lex lang="ru" lid="Id1">Международный аэропорт Афонсу Пена эксплуатируется компанией Инфраеро, Бразилиа. Аэропорт находится на высоте 911 метров над уровнем моря, и длина его взлетно-посадочной полосы - 2215.</lex>
+      <lex lang="en" lid="Id2">Afonso Pena International Airport is located in Brasilia. The Airport is elevated 911 meters above sea level and the runway length is 2215.0. The Afonso Pena International Airport is also known as Infraero.</lex>
+      <lex lang="ru" lid="Id2">Международный аэропорт Афонсу Пена находится в городе Бразилиа. Аэропорт находится на высоте 911 метров над уровнем моря, а длина взлетно-посадочной полосы - 2215,0. Международный аэропорт Афонсу Пена также известен как подчиняющийся Инфраеро.</lex>
+      <lex lang="en" lid="Id3">Brasilia based Infraero are the operating organization for Afonso Pena International Airport. It is 911 metres above sea level and has a runway length of 2215.</lex>
+      <lex lang="ru" lid="Id3">Базирующаяся в городе Бразилиа компания Инфраеро - эксплуатирующая организация международного аэропорта Афонсу Пена. Он находится на высоте 911 метров над уровнем моря и имеет длину взлетно-посадочной полосы 2215.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Brasília | sameAs | Бразилиа</dbpedialink>
+        <dbpedialink direction="en2ru">Afonso_Pena_International_Airport | sameAs | Афонсу_Пена_(аэропорт)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Infraero | sameAs | Инфраеро</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id5" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Iraq | language | Kurdish_languages</otriple>
+        <otriple>Iraq | leaderName | Fuad_Masum</otriple>
+        <otriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Iraq | language | Kurdish_languages</otriple>
+        <otriple>Iraq | leader | Fuad_Masum</otriple>
+        <otriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Iraq | language | Kurdish_languages</mtriple>
+        <mtriple>Iraq | leader | Fuad_Masum</mtriple>
+        <mtriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</mtriple>
+        <mtriple>Fallujah | country | Iraq</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Al-Taqaddum Air Base serves the city of Fallujah, in Iraq, where Kurdish languages are spoken and Fuad Masum is the leader.</lex>
+      <lex lang="ru" lid="Id1">Авиабаза Аль Такаддум обслуживает город Эль-Фаллуджа в Ираке, где говорят на курдских языках, и Фуад Масум - лидер.</lex>
+      <lex lang="en" lid="Id2">Al-Taqaddum Air Base serves the city of Fallujah, which is in Iraq, where Fuad Masum is the leader and the Kurdish languages are spoken.</lex>
+      <lex lang="ru" lid="Id2">Авиабаза Аль Такаддум обслуживает город Эль-Фаллуджа, который находится в Ираке, где лидер - Фуад Масум, и курдские языки - разговорные.</lex>
+      <lex lang="en" lid="Id3">The Kurdish languages are spoken in Iraq which is led by Fuad Masum. The city of Fallujah is in the country and served by the Al Taqaddum air base.</lex>
+      <lex lang="ru" lid="Id3">На курдских языках говорят в государстве Ирак, которое возглавляет Фуад Масум. Город Эль-Фаллуджа находится в стране и обслуживается авиабазой Аль Такаддум.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Fuad_Masum | sameAs | Масум,_Фуад</dbpedialink>
+        <dbpedialink direction="en2ru">Kurdish_languages | sameAs | Курдские_языки</dbpedialink>
+        <dbpedialink direction="en2ru">Iraq | sameAs | Ирак</dbpedialink>
+        <dbpedialink direction="en2ru">Fallujah | sameAs | Эль-Фаллуджа</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Al-Taqaddum Air Base | sameAs | Авиабаза Аль Такаддум</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id6" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Iraq | leaderName | Fuad_Masum</otriple>
+        <otriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+        <otriple>Iraq | language | Arabic</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Iraq | leader | Fuad_Masum</otriple>
+        <otriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+        <otriple>Iraq | language | Arabic</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Iraq | leader | Fuad_Masum</mtriple>
+        <mtriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</mtriple>
+        <mtriple>Fallujah | country | Iraq</mtriple>
+        <mtriple>Iraq | language | Arabic</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Al-Taqaddum Air Base serves the city of Falluja located in Iraq where Fuad Masum is leader and they speak Arabic.</lex>
+      <lex lang="ru" lid="Id1">Авиабаза Аль Такаддум обслуживает город Эль-Фаллуджа, расположенный в Ираке, где Фуад Масум является лидером, и говорят на арабском языке.</lex>
+      <lex lang="en" lid="Id2">Al-Taqaddum Air Base serves the city of Fallujah in Iraq. Fuad Masum leads that country where Arabic is the spoken language.</lex>
+      <lex lang="ru" lid="Id2">Авиабаза Аль-Такаддум обслуживает город Эль-Фаллуджа в Ираке. Фуад Масум возглавляет эту страну, где арабский язык является разговорным языком.</lex>
+      <lex lang="en" lid="Id3">Al-Taqaddum Air Base serves the city of Fallujah, Iraq. Fuad Masam is the leader of Iraq, where the language spoken is Arabic.</lex>
+      <lex lang="ru" lid="Id3">Авиабаза Аль-Такаддум обслуживает город Эль-Фаллуджа, Ирак. Фуад Масум - лидер Ирака, где язык, на котором говорят, - арабский.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Fuad_Masum | sameAs | Масум,_Фуад</dbpedialink>
+        <dbpedialink direction="en2ru">Arabic | sameAs | Арабский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">Iraq | sameAs | Ирак</dbpedialink>
+        <dbpedialink direction="en2ru">Fallujah | sameAs | Эль-Фаллуджа</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Al-Taqaddum Air Base | sameAs | Авиабаза Аль Такаддум</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id7" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Iraq | leader | Haider_al-Abadi</otriple>
+        <otriple>Iraq | language | Kurdish_languages</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+        <otriple>Al-Taqaddum_Air_Base | city | Fallujah</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Iraq | leader | Haider_al-Abadi</otriple>
+        <otriple>Iraq | language | Kurdish_languages</otriple>
+        <otriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Iraq | leader | Haider_al-Abadi</mtriple>
+        <mtriple>Iraq | language | Kurdish_languages</mtriple>
+        <mtriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</mtriple>
+        <mtriple>Fallujah | country | Iraq</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Al-Taqaddum Air Base serves the city of Fallujah in Iraq. The country is led by Haider al-Abadi and uses the Kurdish languages.</lex>
+      <lex lang="ru" lid="Id1">Авиабаза Аль-Такаддум обслуживает город Эль-Фаллуджа в Ираке. Страну возглавляет Хайдер Аль-Абади, и в ней используются курдские языки.</lex>
+      <lex lang="en" lid="Id2">Al-Taqaddum air base serves the city of Fallujah in Iraq. The leader of the country is Haider al-Abadi and the Kurdish language is spoken.</lex>
+      <lex lang="ru" lid="Id2">Авиабаза Аль-Такаддум обслуживает город Эль-Фаллуджа в государстве Ирак. Лидер страны - Хайдер Аль-Абади, и курдский язык - разговорный.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Kurdish_languages | sameAs | Курдские_языки</dbpedialink>
+        <dbpedialink direction="en2ru">Iraq | sameAs | Ирак</dbpedialink>
+        <dbpedialink direction="en2ru">Haider_al-Abadi | sameAs | Аль-Абади,_Хайдер</dbpedialink>
+        <dbpedialink direction="en2ru">Fallujah | sameAs | Эль-Фаллуджа</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Al-Taqaddum Air Base | sameAs | Авиабаза Аль Такаддум</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id8" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Iraq | leader | Haider_al-Abadi</otriple>
+        <otriple>Iraq | leaderName | Fuad_Masum</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+        <otriple>Al-Taqaddum_Air_Base | city | Fallujah</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Iraq | leader | Haider_al-Abadi</otriple>
+        <otriple>Iraq | leaderName | Fuad_Masum</otriple>
+        <otriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Iraq | leaderName | Haider_al-Abadi</otriple>
+        <otriple>Iraq | leader | Fuad_Masum</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+        <otriple>Al-Taqaddum_Air_Base | city | Fallujah</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Iraq | leaderName | Haider_al-Abadi</otriple>
+        <otriple>Iraq | leader | Fuad_Masum</otriple>
+        <otriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Iraq | leader | Haider_al-Abadi</mtriple>
+        <mtriple>Iraq | leader | Fuad_Masum</mtriple>
+        <mtriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</mtriple>
+        <mtriple>Fallujah | country | Iraq</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">In Iraq there are two leaders: Haider Al-Abadi and Fuad Madum. Fallujah in Iraq is served by Al-Taqaddum.</lex>
+      <lex lang="ru" lid="Id1">В Ираке есть два лидера: Хайдер Аль-Абади и Фуад Масум. Город Эль-Фаллуджа в государстве Ирак обслуживается авиабазой Аль Такаддум.</lex>
+      <lex lang="en" lid="Id2">The Al Taqaddum Air Base serves the city of Fallujah, Iraq. Two leaders of Iraq are Haider al-Abadi and Fuad Masum.</lex>
+      <lex lang="ru" lid="Id2">Авиабаза Аль Такаддум обслуживает город Эль-Фаллуджа, Ирак. Двумя лидерами Ирака являются Хайдер Аль-Абади и Фуад Масум.</lex>
+      <lex lang="en" lid="Id3">Al-Taqaddum Air Base serves the city of Fallujah in Iraq, the country where there are leaders called Haider al-Abadi and Fuad Masum.</lex>
+      <lex lang="ru" lid="Id3">Авиабаза Аль Такаддум обслуживает город Эль-Фаллуджа в Ираке, стране, где лидеры - Хайдер Аль-Абади и Фуад Масум.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Fuad_Masum | sameAs | Масум,_Фуад</dbpedialink>
+        <dbpedialink direction="en2ru">Iraq | sameAs | Ирак</dbpedialink>
+        <dbpedialink direction="en2ru">Haider_al-Abadi | sameAs | Аль-Абади,_Хайдер</dbpedialink>
+        <dbpedialink direction="en2ru">Fallujah | sameAs | Эль-Фаллуджа</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Al-Taqaddum Air Base | sameAs | Авиабаза Аль Такаддум</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id9" shape="(X (X) (X (X (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Lahore | country | Pakistan</otriple>
+        <otriple>Allama_Iqbal_International_Airport | location | Punjab,_Pakistan</otriple>
+        <otriple>Allama_Iqbal_International_Airport | cityServed | Lahore</otriple>
+        <otriple>Pakistan | leaderName | Nawaz_Sharif</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Lahore | country | Pakistan</otriple>
+        <otriple>Allama_Iqbal_International_Airport | cityServed | Lahore</otriple>
+        <otriple>Pakistan | leaderName | Nawaz_Sharif</otriple>
+        <otriple>Allama_Iqbal_International_Airport | location | "Punjab, Pakistan"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Lahore | country | Pakistan</mtriple>
+        <mtriple>Allama_Iqbal_International_Airport | location | Punjab,_Pakistan</mtriple>
+        <mtriple>Allama_Iqbal_International_Airport | cityServed | Lahore</mtriple>
+        <mtriple>Pakistan | leader | Nawaz_Sharif</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Nawaz Sharif is the leader of Pakistan where Allama Iqbal International airport is located in Punjab and serves the city of Lahore.</lex>
+      <lex lang="ru" lid="Id1">Наваз Шариф является лидером Пакистана, где международный аэропорт Лахор находится в провинции Пенджаб и обслуживает город Лахор.</lex>
+      <lex lang="en" lid="Id2">The city of Lahore in Pakistan is served by Allama Iqbal International airport. Pakistan's leader is Nawaz Sharif and the airport is located in the Punjab region of the country.</lex>
+      <lex lang="ru" lid="Id2">Город Лахор в Пакистане обслуживает международный аэропорт Лахор. Главой Пакистана является Наваз Шариф, а аэропорт находится в районе Пенджаб в стране.</lex>
+      <lex lang="en" lid="Id3">Pakistan has the leader Nawaz Shiraf and is the country where you will find the city of Lahore, which is served by Allama Iqbal International Airport, which is located in Punjab.</lex>
+      <lex lang="ru" lid="Id3">Пакистан имеет лидера Наваза Шарифа и является страной, где вы найдете город Лахор, который обслуживается международным аэропортом Лахор, который находится в провинции Пенджаб.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Lahore | sameAs | Лахор</dbpedialink>
+        <dbpedialink direction="en2ru">Nawaz_Sharif | sameAs | Шариф,_Наваз</dbpedialink>
+        <dbpedialink direction="en2ru">Punjab,_Pakistan | sameAs | Пенджаб_(Пакистан)</dbpedialink>
+        <dbpedialink direction="en2ru">Pakistan | sameAs | Пакистан</dbpedialink>
+        <dbpedialink direction="en2ru">Allama_Iqbal_International_Airport | sameAs | Лахор_(аэропорт)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Airport" eid="Id10" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Madrid | isPartOf | Community_of_Madrid</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | elevation | "610.0"^^xsd:double</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid</otriple>
+        <otriple>Madrid | country | Spain</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Madrid | isPartOf | Community_of_Madrid</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | elevation | "609.6"^^xsd:double</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid</otriple>
+        <otriple>Madrid | country | Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Madrid | isPartOf | Community_of_Madrid</mtriple>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | elevationAboveTheSeaLevel | 610.0</mtriple>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid</mtriple>
+        <mtriple>Madrid | country | Spain</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">At an elevation of 610 metres above sea level, Adolfo Suárez Madrid–Barajas Airport is in Madrid (part of the Madrid community), in Spain.</lex>
+      <lex lang="ru" lid="Id1">На высоте 610 метров над уровнем моря аэропорт Барахас находится в Мадриде (часть сообщества Мадрид), в Испании.</lex>
+      <lex lang="en" lid="Id2">Adolfo Suarez Madrid-Barajas Aiport, at 610 metres above sea level, is located in Madrid, part of the community of Madrid in Spain.</lex>
+      <lex lang="ru" lid="Id2">Аэропорт Барахас на высоте 610 метров над уровнем моря расположен в городе Мадрид, часть сообщества Мадрид в Испании.</lex>
+      <lex lang="en" lid="Id3">Adolfo Suárez Madrid-Barajas Airport in Madrid has an elevation of 610.0 metres above sea level. Madrid is part of the community of Madrid and located in Spain.</lex>
+      <lex lang="ru" lid="Id3">Аэропорт Барахас в городе Мадрид расположен на высоте 610,0 метров над уровнем моря. Мадрид является частью сообщества Мадрид и находится в Испании.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Spain | sameAs | Испания</dbpedialink>
+        <dbpedialink direction="en2ru">Adolfo_Suárez_Madrid–Barajas_Airport | sameAs | Барахас</dbpedialink>
+        <dbpedialink direction="en2ru">Community_of_Madrid | sameAs | Мадрид_(автономное_сообщество)</dbpedialink>
+        <dbpedialink direction="en2ru">Madrid | sameAs | Мадрид</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Airport" eid="Id11" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Madrid | isPartOf | Community_of_Madrid</otriple>
+        <otriple>Madrid | leaderParty | Ahora_Madrid</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid</otriple>
+        <otriple>Madrid | country | Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Madrid | isPartOf | Community_of_Madrid</mtriple>
+        <mtriple>Madrid | leaderParty | Ahora_Madrid</mtriple>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid</mtriple>
+        <mtriple>Madrid | country | Spain</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Madrid is a city in Spain, in which the Adolfo Suarez Maadrid-Barajas airport is located. The leading part in Madrid is called Ahora Madrid.</lex>
+      <lex lang="ru" lid="Id1">Мадрид - город в Испании, в котором находится аэропорт Барахас. Лидирующая партия в Мадриде называется Аора Мадрид.</lex>
+      <lex lang="en" lid="Id2">Adolfo Suarez Madrid-Barajas Aiport is located in Madrid, part of the community of Madrid in Spain where the leading party is Ahora Madrid.</lex>
+      <lex lang="ru" lid="Id2">Аэропорт Барахас находится в Мадриде, часть общины Мадрида в Испании, где лидирует партия Аора Мадрид.</lex>
+      <lex lang="en" lid="Id3">Adolfo Suarez Madrid-Barajas Aiport is located in Madrid, part of the community of Madrid in Spain where the leader party is Ahora Madrid.</lex>
+      <lex lang="ru" lid="Id3">Аэропорт Барахас расположен в Мадриде, часть сообщества Мадрид в Испании, где лидером партии является Аора Мадрид.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Adolfo_Suárez_Madrid–Barajas_Airport | sameAs | Барахас</dbpedialink>
+        <dbpedialink direction="en2ru">Spain | sameAs | Испания</dbpedialink>
+        <dbpedialink direction="en2ru">Community_of_Madrid | sameAs | Мадрид_(автономное_сообщество)</dbpedialink>
+        <dbpedialink direction="en2ru">Madrid | sameAs | Мадрид</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Ahora Madrid | sameAs | Аора Мадрид</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id12" shape="(X (X) (X (X (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Pakistan | leaderName | Mamnoon_Hussain</otriple>
+        <otriple>Allama_Iqbal_International_Airport | location | Punjab,_Pakistan</otriple>
+        <otriple>Allama_Iqbal_International_Airport | cityServed | Lahore</otriple>
+        <otriple>Punjab,_Pakistan | country | Pakistan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Pakistan | leader | Mamnoon_Hussain</mtriple>
+        <mtriple>Allama_Iqbal_International_Airport | location | Punjab,_Pakistan</mtriple>
+        <mtriple>Allama_Iqbal_International_Airport | cityServed | Lahore</mtriple>
+        <mtriple>Punjab,_Pakistan | country | Pakistan</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Lahore is served by the Allama Iqbal International airport located in Punjab, Pakistan which is led by Mamnoon Hussain.</lex>
+      <lex lang="ru" lid="Id1">Город Лахор обслуживается международным аэропортом Лахор, расположенным в провинции Пенджаб, государство Пакистан, которое возглавляет Мамнун Хусейн.</lex>
+      <lex lang="en" lid="Id2">Mamnoon Hussain is the leader of Pakistan where Allama Iqbal International airport serves the city of Lahore and is located in Punjab.</lex>
+      <lex lang="ru" lid="Id2">Мамнун Хусейн - лидер Пакистана, где аэропорт Лахор обслуживает город Лахор и находится в провинции Пенджаб.</lex>
+      <lex lang="en" lid="Id3">Allama Iqbal International Airport (serving Lahore) is found in Punjab, Pakistan. Mamnoon Hussain is a leader of Pakistan.</lex>
+      <lex lang="ru" lid="Id3">Аэропорт Лахор (обслуживающий город Лахор) находится в провинции Пенджаб, Пакистан. Мамнун Хусейн - лидер Пакистана.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Lahore | sameAs | Лахор</dbpedialink>
+        <dbpedialink direction="en2ru">Mamnoon_Hussain | sameAs | Хусейн,_Мамнун</dbpedialink>
+        <dbpedialink direction="en2ru">Punjab,_Pakistan | sameAs | Пенджаб_(Пакистан)</dbpedialink>
+        <dbpedialink direction="en2ru">Pakistan | sameAs | Пакистан</dbpedialink>
+        <dbpedialink direction="en2ru">Allama_Iqbal_International_Airport | sameAs | Лахор_(аэропорт)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Airport" eid="Id13" shape="(X (X) (X (X (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Pakistan | leaderName | Mamnoon_Hussain</otriple>
+        <otriple>Lahore | country | Pakistan</otriple>
+        <otriple>Allama_Iqbal_International_Airport | cityServed | Lahore</otriple>
+        <otriple>Allama_Iqbal_International_Airport | location | "Punjab, Pakistan"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Pakistan | leaderName | Mamnoon_Hussain</otriple>
+        <otriple>Lahore | country | Pakistan</otriple>
+        <otriple>Allama_Iqbal_International_Airport | location | Punjab,_Pakistan</otriple>
+        <otriple>Allama_Iqbal_International_Airport | cityServed | Lahore</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Pakistan | leader | Mamnoon_Hussain</mtriple>
+        <mtriple>Lahore | country | Pakistan</mtriple>
+        <mtriple>Allama_Iqbal_International_Airport | location | Punjab,_Pakistan</mtriple>
+        <mtriple>Allama_Iqbal_International_Airport | cityServed | Lahore</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Mamnoon Hussain is a leader of Pakistan which is where the city of Lahore is. This city is served by Allama Iqbal International airport which is located in Punjab Pakistan.</lex>
+      <lex lang="ru" lid="Id1">Мамнун Хусейн - лидер Пакистана, где находится город Лахор. Этот город обслуживается международным аэропортом Лахор, который расположен в провинции Пенджаб.</lex>
+      <lex lang="en" lid="Id2">Mamnoon Hussain is the leader of Pakistan where the the city of Lahore is . This city is served by Allama Iqbal International airport which is located in Punjab Pakistan.</lex>
+      <lex lang="ru" lid="Id2">Мамнун Хусейн - лидер Пакистана, где находится город Лахор. Этот город обслуживается международным аэропортом Лахор, который расположен в провинции Пенджаб.</lex>
+      <lex lang="en" lid="Id3">Mamnoon Hussain is the leader of Pakistan where Allama Iqbal International Airport is located in Punjab and serves the city of Lahore.</lex>
+      <lex lang="ru" lid="Id3">Мамнун Хусейн - лидер Пакистана, где международный аэропорт Лахор находится в провинции Пенджаб и обслуживает город Лахор.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Lahore | sameAs | Лахор</dbpedialink>
+        <dbpedialink direction="en2ru">Mamnoon_Hussain | sameAs | Хусейн,_Мамнун</dbpedialink>
+        <dbpedialink direction="en2ru">Punjab,_Pakistan | sameAs | Пенджаб_(Пакистан)</dbpedialink>
+        <dbpedialink direction="en2ru">Pakistan | sameAs | Пакистан</dbpedialink>
+        <dbpedialink direction="en2ru">Allama_Iqbal_International_Airport | sameAs | Лахор_(аэропорт)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Airport" eid="Id14" shape="(X (X) (X (X (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Pakistan | leaderName | Sardar_Ayaz_Sadiq</otriple>
+        <otriple>Lahore | country | Pakistan</otriple>
+        <otriple>Allama_Iqbal_International_Airport | cityServed | Lahore</otriple>
+        <otriple>Allama_Iqbal_International_Airport | location | "Punjab, Pakistan"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Pakistan | leaderName | Sardar_Ayaz_Sadiq</otriple>
+        <otriple>Lahore | country | Pakistan</otriple>
+        <otriple>Allama_Iqbal_International_Airport | location | Punjab,_Pakistan</otriple>
+        <otriple>Allama_Iqbal_International_Airport | cityServed | Lahore</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Pakistan | leader | Sardar_Ayaz_Sadiq</mtriple>
+        <mtriple>Lahore | country | Pakistan</mtriple>
+        <mtriple>Allama_Iqbal_International_Airport | location | Punjab,_Pakistan</mtriple>
+        <mtriple>Allama_Iqbal_International_Airport | cityServed | Lahore</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Sardar Ayaz Sadiq is the leader of Pakistan where Allama Iqbal International airport, serving the city of Lahore is situated in Punjab.</lex>
+      <lex lang="ru" lid="Id1">Сардар Садик - лидер Пакистана, где международный аэропорт Лахор, обслуживающий город Лахор, находится в провинции Пенджаб.</lex>
+      <lex lang="en" lid="Id2">Allama Iqbal International Airport is found in Punjab, Pakistan. The airport serves Lahore, Pakistan. The leader of that country is Sardar Ayaz Sadiq.</lex>
+      <lex lang="ru" lid="Id2">Международный аэропорт Лахор находится в провинции Пенджаб, Пакистан. Аэропорт обслуживает город Лахор, Пакистан. Главой этой страны является Сардар Садик.</lex>
+      <lex lang="en" lid="Id3">Allama Iqbal International Airport serves the city of Lahore in Punjab, Pakistan. The countr is led by Sardar Ayaz Sadiq.</lex>
+      <lex lang="ru" lid="Id3">Аэропорт Лахор обслуживает город Лахор в провинции Пенджаб, Пакистан. Страну возглавляет Сардар Садик.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Lahore | sameAs | Лахор</dbpedialink>
+        <dbpedialink direction="en2ru">Pakistan | sameAs | Пакистан</dbpedialink>
+        <dbpedialink direction="en2ru">Punjab,_Pakistan | sameAs | Пенджаб_(Пакистан)</dbpedialink>
+        <dbpedialink direction="en2ru">Allama_Iqbal_International_Airport | sameAs | Лахор_(аэропорт)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Sardar Ayaz Sadiq | sameAs | Сардар Садик</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id15" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Poaceae | class | Monocotyledon</otriple>
+        <otriple>Poaceae | division | Flowering_plant</otriple>
+        <otriple>Ardmore_Airport_(New_Zealand) | r2Surface | Poaceae</otriple>
+        <otriple>Poaceae | order | Poales</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Poaceae | class | Monocotyledon</mtriple>
+        <mtriple>Poaceae | division | Flowering_plant</mtriple>
+        <mtriple>Ardmore_Airport_(New_Zealand) | 2ndRunwaySurfaceType | Poaceae</mtriple>
+        <mtriple>Poaceae | order | Poales</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">A member of the Monocotyledon class, as well as being in the division of flowering plants and belonging to the Poales order, Poaceae is the surface type of the second runway of Ardmore Airport, New Zealand.</lex>
+      <lex lang="ru" lid="Id1">Относящиеся к классу однодольные, а также находящиеся в разделе цветущие растения и принадлежащие к порядку злакоцветные, злаки - это тип поверхности второй взлетно-посадочной полосы аэропорта Ардмор (Новая Зеландия).</lex>
+      <lex lang="en" lid="Id2">Poaceae (monocotyledon and Polales) are flowering plants that are the surface type of the second runway of Ardmore Airport, New Zealand.</lex>
+      <lex lang="ru" lid="Id2">Злаки (однодольные и злакоцветные) - это цветущие растения, которые являются типом поверхности второй взлетно-посадочной полосы аэропорта Ардмор (Новая Зеландия).</lex>
+      <lex lang="en" lid="Id3">Poaceae is of the Poales order, and Monocotyledon class. It belongs to the flowering plants and the runway at Ardmore Airport in New Zealand is made from Poaceae.</lex>
+      <lex lang="ru" lid="Id3">Злаки относятся к порядку Злакоцветные и классу Однодольные. Они относятся к цветковым растениям, а взлетно-посадочная полоса в аэропорту "Ардмор" в Новой Зеландии сделана из злаков.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Poaceae | sameAs | Злаки</dbpedialink>
+        <dbpedialink direction="en2ru">Poales | sameAs | Злакоцветные</dbpedialink>
+        <dbpedialink direction="en2ru">Monocotyledon | sameAs | Однодольные</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Flowering plant | sameAs | цветущее растение</link>
+        <link direction="en2ru">Ardmore Airport (New Zealand) | sameAs | Аэропорт Ардмор (Новая Зеландия)</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id16" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Poaceae | unrankedDivisio | Flowering_plant</otriple>
+        <otriple>Alderney_Airport | r1Surface | Poaceae</otriple>
+        <otriple>Poaceae | order | Commelinids</otriple>
+        <otriple>Poaceae | class | Monocotyledon</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Poaceae | division | Flowering_plant</otriple>
+        <otriple>Alderney_Airport | r1Surface | Poaceae</otriple>
+        <otriple>Poaceae | order | Commelinids</otriple>
+        <otriple>Poaceae | class | Monocotyledon</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Poaceae | division | Flowering_plant</otriple>
+        <otriple>Alderney_Airport | r1Surface | Poaceae</otriple>
+        <otriple>Poaceae | order | Commelinids</otriple>
+        <otriple>Poaceae | unrankedClassis | Monocotyledon</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Poaceae | division | Flowering_plant</mtriple>
+        <mtriple>Alderney_Airport | 1stRunwaySurfaceType | Poaceae</mtriple>
+        <mtriple>Poaceae | order | Commelinids</mtriple>
+        <mtriple>Poaceae | class | Monocotyledon</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Poaceae belongs to the division of flowering plants, the order of Commelinids and the class of Monocotyledon. It constitutes the surface of the 1st runway at Alderney airport.</lex>
+      <lex lang="ru" lid="Id1">Злаки относятся к разделу цветущих растений, порядку коммелиниды и классу однодольные. Они составляют поверхность 1-й взлетно-посадочной полосы в аэропорту Олдерни.</lex>
+      <lex lang="en" lid="Id2">Poaceae is in the order of Commelinids, the class of Monocotyledon and belongs to the division of flowering plants. It forms the surface to the 1st runway at Alderney airport.</lex>
+      <lex lang="ru" lid="Id2">Злаки относятся к порядку Коммелиниды, классу Однодольные и к отделу цветковых растений. Из них сформирована поверхность 1-й взлетно-посадочной полосы в аэропорту "Олдерни".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Poaceae | sameAs | Злаки</dbpedialink>
+        <dbpedialink direction="en2ru">Monocotyledon | sameAs | Однодольные</dbpedialink>
+        <dbpedialink direction="en2ru">Alderney_Airport | sameAs | Олдерни_(аэропорт)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Flowering plant | sameAs | цветущее растение</link>
+        <link direction="en2ru">Commelinids | sameAs | Коммелиниды</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id17" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Poaceae | division | Flowering_plant</otriple>
+        <otriple>Alderney_Airport | r1Surface | Poaceae</otriple>
+        <otriple>Poaceae | order | Poales</otriple>
+        <otriple>Poaceae | unrankedClassis | Monocotyledon</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Poaceae | division | Flowering_plant</otriple>
+        <otriple>Alderney_Airport | r1Surface | Poaceae</otriple>
+        <otriple>Poaceae | order | Poales</otriple>
+        <otriple>Poaceae | class | Monocotyledon</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Poaceae | unrankedDivisio | Flowering_plant</otriple>
+        <otriple>Alderney_Airport | r1Surface | Poaceae</otriple>
+        <otriple>Poaceae | order | Poales</otriple>
+        <otriple>Poaceae | class | Monocotyledon</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Poaceae | division | Flowering_plant</otriple>
+        <otriple>Alderney_Airport | r1Surface | Poaceae</otriple>
+        <otriple>Poaceae | ordo | Poales</otriple>
+        <otriple>Poaceae | class | Monocotyledon</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Poaceae | division | Flowering_plant</mtriple>
+        <mtriple>Alderney_Airport | 1stRunwaySurfaceType | Poaceae</mtriple>
+        <mtriple>Poaceae | order | Poales</mtriple>
+        <mtriple>Poaceae | class | Monocotyledon</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Poaceae belongs to the division of flowering plants and is in the class Monocotyledon. Alderney airport is made from Poaceae.</lex>
+      <lex lang="ru" lid="Id1">Злаки относятся к отделу цветковых растений и принадлежат к классу Однодольных. Аэропорт "Олдерни" сделан из злаков.</lex>
+      <lex lang="en" lid="Id2">The first runway surface at Alderney airport is poaceae, which is a member of the Poales order, and in the class Monocotyledon.</lex>
+      <lex lang="ru" lid="Id2">Поверхность первой взлетно-посадочной полосы в аэропорту "Олдерни" сделана из злаков, которые относятся к порядку Злакоцветных и к классу Однодольных.</lex>
+      <lex lang="en" lid="Id3">Poaceae, which is the surface of the 1st runway at Alderney airport, belongs to the division of flowering plants and is of the order poales and the class Monocotyledon.</lex>
+      <lex lang="ru" lid="Id3">Злаки, из которых состоит поверхность 1-й взлетно-посадочной полосы в аэропорту "Олдерни", относятся к отделу цветковых растений и принадлежат к порядку Злакоцветных и к классу Однодольных.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Poaceae | sameAs | Злаки</dbpedialink>
+        <dbpedialink direction="en2ru">Poales | sameAs | Злакоцветные</dbpedialink>
+        <dbpedialink direction="en2ru">Monocotyledon | sameAs | Однодольные</dbpedialink>
+        <dbpedialink direction="en2ru">Alderney_Airport | sameAs | Олдерни_(аэропорт)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Flowering plant | sameAs | цветущее растение</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id18" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Punjab,_Pakistan | leaderName | Shehbaz_Sharif</otriple>
+        <otriple>Allama_Iqbal_International_Airport | location | Punjab,_Pakistan</otriple>
+        <otriple>Allama_Iqbal_International_Airport | cityServed | Lahore</otriple>
+        <otriple>Punjab,_Pakistan | country | Pakistan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Punjab,_Pakistan | leader | Shehbaz_Sharif</mtriple>
+        <mtriple>Allama_Iqbal_International_Airport | location | Punjab,_Pakistan</mtriple>
+        <mtriple>Allama_Iqbal_International_Airport | cityServed | Lahore</mtriple>
+        <mtriple>Punjab,_Pakistan | country | Pakistan</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Allama Iqbal International Airport serves the city of Lahore and is located in Punjab Pakistan where the leader is Shehbaz Sharif.</lex>
+      <lex lang="ru" lid="Id1">Аэропорт Лахор обслуживает город Лахор и расположен в провинции Пенджаб, Пакистан, где лидером является Шахбаз Шариф.</lex>
+      <lex lang="en" lid="Id2">Allama Iqbal International airport serves the city of Lahore and is located in Punjab, Pakistan, where the leader is Shehbaz Sharif.</lex>
+      <lex lang="ru" lid="Id2">Аэропорт Лахор обслуживает город Лахор и находится в провинции Пенджаб, Пакистан, где лидером является Шахбаз Шариф.</lex>
+      <lex lang="en" lid="Id3">Allama Iqbal International Airport is found in Punjab, Pakistan. It serves the city of Lahore. The leader of Punjab is Shehbaz Sharif.</lex>
+      <lex lang="ru" lid="Id3">Международный аэропорт Лахор находится в провинции Пенджаб, Пакистан. Он обслуживает город Лахор. Главой провинции Пенджаб является Шахбаз Шариф.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Lahore | sameAs | Лахор</dbpedialink>
+        <dbpedialink direction="en2ru">Shehbaz_Sharif | sameAs | Шариф,_Шахбаз</dbpedialink>
+        <dbpedialink direction="en2ru">Punjab,_Pakistan | sameAs | Пенджаб_(Пакистан)</dbpedialink>
+        <dbpedialink direction="en2ru">Pakistan | sameAs | Пакистан</dbpedialink>
+        <dbpedialink direction="en2ru">Allama_Iqbal_International_Airport | sameAs | Лахор_(аэропорт)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Airport" eid="Id19" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Punjab,_Pakistan | leaderName | Shehbaz_Sharif</otriple>
+        <otriple>Lahore | country | Pakistan</otriple>
+        <otriple>Allama_Iqbal_International_Airport | location | Punjab,_Pakistan</otriple>
+        <otriple>Allama_Iqbal_International_Airport | cityServed | Lahore</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Punjab,_Pakistan | leader | Shehbaz_Sharif</mtriple>
+        <mtriple>Lahore | country | Pakistan</mtriple>
+        <mtriple>Allama_Iqbal_International_Airport | location | Punjab,_Pakistan</mtriple>
+        <mtriple>Allama_Iqbal_International_Airport | cityServed | Lahore</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Lohore is a city in Pakistan. it is served by Allama Iqbal international airport, located in Punjab Pakistan and the leader of Punjab is Shehbaz Sharif.</lex>
+      <lex lang="ru" lid="Id1">Лахор - город в Пакистане. Он обслуживается международным аэропортом Лахор, расположенным в провинции Пенджаб, Пакистан, и лидер провинции Пенджаб - Шахбаз Шариф.</lex>
+      <lex lang="en" lid="Id2">Located in Shehbaz Sharif led, Pakistan, the city of Lahore is served by Allama Iqbal International Airport which is found in Punjab, Pakistan.</lex>
+      <lex lang="ru" lid="Id2">Расположенный в государстве Пакистан, лидером которого является Шахбаз Шариф, город Лахор обслуживается международным аэропортом Лахор, который находится в провинции Пенджаб, Пакистан.</lex>
+      <lex lang="en" lid="Id3">Shehbaz Sharif is the leader of Punjab, Pakistan, where the Allama Iqbal International airport is located and serves the city of Lahore.</lex>
+      <lex lang="ru" lid="Id3">Шахбаз Шариф является лидером провинции Пенджаб, Пакистан, где расположен международный аэропорт Лахор, обслуживающий город Лахор.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Lahore | sameAs | Лахор</dbpedialink>
+        <dbpedialink direction="en2ru">Shehbaz_Sharif | sameAs | Шариф,_Шахбаз</dbpedialink>
+        <dbpedialink direction="en2ru">Punjab,_Pakistan | sameAs | Пенджаб_(Пакистан)</dbpedialink>
+        <dbpedialink direction="en2ru">Pakistan | sameAs | Пакистан</dbpedialink>
+        <dbpedialink direction="en2ru">Allama_Iqbal_International_Airport | sameAs | Лахор_(аэропорт)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Airport" eid="Id20" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>San_Sebastián_de_los_Reyes | isPartOf | Community_of_Madrid</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | elevation | "610.0"^^xsd:double</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</otriple>
+        <otriple>San_Sebastián_de_los_Reyes | country | Spain</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>San_Sebastián_de_los_Reyes | isPartOf | Community_of_Madrid</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | elevation | "609.6"^^xsd:double</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</otriple>
+        <otriple>San_Sebastián_de_los_Reyes | country | Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>San_Sebastián_de_los_Reyes | isPartOf | Community_of_Madrid</mtriple>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | elevationAboveTheSeaLevel | 610.0</mtriple>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</mtriple>
+        <mtriple>San_Sebastián_de_los_Reyes | country | Spain</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Adolfo Suárez Madrid–Barajas Airport which is 610 metres above sea level is in San Sebastián de los Reyes, part of the Community of Madrid, Spain.</lex>
+      <lex lang="ru" lid="Id1">Аэропорт Барахас, который находится на высоте 610 метров над уровнем моря, расположен в городе Сан-Себастьян-де-лос-Рейес, входящем в сообщество Мадрид, Испания.</lex>
+      <lex lang="en" lid="Id2">Adolfo Suárez Madrid–Barajas Airport is elevated 610 metres above sea level and is located at San Sebastian de los Reyes in Spain and is part of the Community of Madrid.</lex>
+      <lex lang="ru" lid="Id2">Аэропорт Барахас расположен на высоте 610 метров над уровнем моря, находится в Сан-Себастьян-де-лос-Рейесе в Испании и входит в состав автономного сообщества Мадрид.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Adolfo_Suárez_Madrid–Barajas_Airport | sameAs | Барахас</dbpedialink>
+        <dbpedialink direction="en2ru">Spain | sameAs | Испания</dbpedialink>
+        <dbpedialink direction="en2ru">Community_of_Madrid | sameAs | Мадрид_(автономное_сообщество)</dbpedialink>
+        <dbpedialink direction="en2ru">San_Sebastián_de_los_Reyes | sameAs | Сан-Себастьян-де-лос-Рейес</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Airport" eid="Id21" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>San_Sebastián_de_los_Reyes | leaderParty | People's_Party_(Spain)</otriple>
+        <otriple>San_Sebastián_de_los_Reyes | isPartOf | Community_of_Madrid</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</otriple>
+        <otriple>San_Sebastián_de_los_Reyes | country | Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>San_Sebastián_de_los_Reyes | leaderParty | People's_Party_(Spain)</mtriple>
+        <mtriple>San_Sebastián_de_los_Reyes | isPartOf | Community_of_Madrid</mtriple>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</mtriple>
+        <mtriple>San_Sebastián_de_los_Reyes | country | Spain</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">San Sebastian de los Reyes is part of the Community of Madrid, in Spain. It is where the Adolfo Suarez Madrid- Barajas airport is located and is led by the People's Party.</lex>
+      <lex lang="ru" lid="Id1">Сан-Себастьян-де-лос-Рейес является частью Сообщества Мадрида, в Испании. Именно там находится Барахас, и город возглавляет Народная партия.</lex>
+      <lex lang="en" lid="Id2">Adolfo Suárez Madrid–Barajas Airport is found in San Sebastián de los Reyes, in Spain. The People's Party is the lead party of San Sebastian de los Reyes and area considered to be part of the Community of Madrid.</lex>
+      <lex lang="ru" lid="Id2">Аэропорт Барахас находится в Сан-Себастьян-де-лос-Рейесе в Испании. Народная партия является ведущей партией Сан-Себастьян-де-лос-Рейеса и района, считающегося частью сообщества Мадрид.</lex>
+      <lex lang="en" lid="Id3">The People's Party is the lead party of San Sebastian de los Reyes (Spain) which is part of the Community of Madrid and is where Adolfo Suárez Madrid–Barajas Airport is found.</lex>
+      <lex lang="ru" lid="Id3">Народная партия является ведущей партией Сан-Себастьян-де-лос-Рейеса (Испания), входящей в состав Сообщества Мадрида и где находится аэропорт Барахас.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Adolfo_Suárez_Madrid–Barajas_Airport | sameAs | Барахас</dbpedialink>
+        <dbpedialink direction="en2ru">Spain | sameAs | Испания</dbpedialink>
+        <dbpedialink direction="en2ru">Community_of_Madrid | sameAs | Мадрид_(автономное_сообщество)</dbpedialink>
+        <dbpedialink direction="en2ru">San_Sebastián_de_los_Reyes | sameAs | Сан-Себастьян-де-лос-Рейес</dbpedialink>
+        <dbpedialink direction="en2ru">People's_Party_(Spain) | sameAs | Народная_партия_(Испания)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Airport" eid="Id22" shape="(X (X) (X (X (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Saranac_Lake,_New_York</otriple>
+        <otriple>Harrietstown,_New_York | subdivisionName | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
+        <mtriple>Harrietstown,_New_York | isPartOf | United_States</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Adirondack Regional Airport serves the city of Lake Placid, and also Saranac Lake (part of Harrietstown) in New York, United States.</lex>
+      <lex lang="ru" lid="Id1">Региональный аэропорт "Адирондак" обслуживает город Лейк-Плэсид, а также Саранак-Лейк (часть Хэрритстауна) в Нью-Йорке, Соединенные Штаты Америки.</lex>
+      <lex lang="en" lid="Id2">Adirondack Regional airport serves the city of Saranac Lake, part of Harrietstown, New York in the USA, and also Lake Placid, New York.</lex>
+      <lex lang="ru" lid="Id2">Региональный аэропорт "Адирондак" обслуживает город Саранак-Лейк, часть Хэрритстауна, в Нью-Йорке, США, а также Лейк-Плэсид, Нью-Йорк.</lex>
+      <lex lang="en" lid="Id3">Both the cities of Lake Placid and Saranac Lake (part of Harrietstown, in New York, United States, are served by Adirondack Regional Airport.</lex>
+      <lex lang="ru" lid="Id3">Оба города - Лейк-Плэсид и Саранак-Лейк (часть Хэрритстауна, в Нью-Йорке, США) обслуживает региональный аэропорт Адирондак.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Lake_Placid,_New_York | sameAs | Лейк-Плэсид</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adirondack Regional Airport | sameAs | Региональный аэропорт Адирондак</link>
+        <link direction="en2ru">Harrietstown, New York | includes | Хэрритстаун</link>
+        <link direction="en2ru">Saranac Lake, New York | includes | Саранак-Лейк</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id23" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York</otriple>
+        <otriple>Saranac_Lake,_New_York | country | United_States</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York</mtriple>
+        <mtriple>Saranac_Lake,_New_York | country | United_States</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">In New York (United States), both Lake Placid and the city of Saranac Lake (part of Harrietstown) are served by the Adirondack Regional Airport.</lex>
+      <lex lang="ru" lid="Id1">В Нью-Йорке (Соединенные Штаты Америки) как Лейк-Плэсид, так и город Саранак-Лейк (часть Хэрритстауна) обслуживаются региональным аэропортом "Адирондак".</lex>
+      <lex lang="en" lid="Id2">Lake Placid, New York, and Saranac Lake, part of Harrietstown in New York, United States are served by Adirondack Regional airport.</lex>
+      <lex lang="ru" lid="Id2">Лейк-Плэсид, Нью-Йорк, и Саранак-Лейк, часть Хэрритстауна в Нью-Йорке, США обслуживаются региональным аэропортом "Адирондак".</lex>
+      <lex lang="en" lid="Id3">Adirondack Regional Airport serves the cities of Saranac Lake (Harrietsown) and Lake Placid, both in New York, United States.</lex>
+      <lex lang="ru" lid="Id3">Региональный аэропорт "Адирондак" обслуживает города Саранак-Лейк (Хэрритстаун) и Лейк-Плэсид. Оба города находятся в Нью-Йорке, Соединенные Штаты Америки.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Lake_Placid,_New_York | sameAs | Лейк-Плэсид</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adirondack Regional Airport | sameAs | Региональный аэропорт Адирондак</link>
+        <link direction="en2ru">Harrietstown, New York | includes | Хэрритстаун</link>
+        <link direction="en2ru">Saranac Lake, New York | includes | Саранак-Лейк</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id24" shape="(X (X) (X (X (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+        <otriple>Harrietstown,_New_York | isPartOf | New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Lake_Placid,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</mtriple>
+        <mtriple>Harrietstown,_New_York | isPartOf | New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Adirondack Regional Airport serves Lake Placid, New York, and also Saranac Lake which is part of Harrietstown, New York.</lex>
+      <lex lang="ru" lid="Id1">Региональный аэропорт "Адирондак" обслуживает Лейк-Плэсид, Нью-Йорк, а также Саранак-Лейк, который является частью Хэрритстауна, штат Нью-Йорк,.</lex>
+      <lex lang="en" lid="Id2">Lake Placid, ew York and Saranac Lake (part of Harrietstown, New York) are served by Adirondack Regional airport.</lex>
+      <lex lang="ru" lid="Id2">Лейк-Плэсид, штат Нью-Йорк, и Саранак-Лейк (часть Хэрритстауна, штат Нью-Йорк) обслуживаются региональным аэропортом "Адирондак".</lex>
+      <lex lang="en" lid="Id3">Saranac Lake, New York is part of Harrietstown, New York. Adirondack Regional Airport serves the city of Lake Placid and Saranac Lake, New York.</lex>
+      <lex lang="ru" lid="Id3">Саранак-Лейк, штат Нью-Йорк, является частью Хэрритстауна, штат Нью-Йорк. Региональный аэропорт Адирондак обслуживает города Лейк-Плэсид и Саранак-Лейк, Нью-Йорк.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">New_York | sameAs | Нью-Йорк_(штат)</dbpedialink>
+        <dbpedialink direction="en2ru">Lake_Placid,_New_York | sameAs | Лейк-Плэсид</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adirondack Regional Airport | sameAs | Региональный аэропорт Адирондак</link>
+        <link direction="en2ru">Harrietstown, New York | includes | Хэрритстаун</link>
+        <link direction="en2ru">Saranac Lake, New York | includes | Саранак-Лейк</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id25" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+        <otriple>Harrietstown,_New_York | isPartOf | New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</otriple>
+        <otriple>Saranac_Lake,_New_York | country | United_States</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+        <otriple>Harrietstown,_New_York | isPartOf | New_York</otriple>
+        <otriple>Saranac_Lake,_New_York | country | United_States</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</mtriple>
+        <mtriple>Harrietstown,_New_York | isPartOf | New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
+        <mtriple>Saranac_Lake,_New_York | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Adirondack Regional Airport serves the city of Saranac Lake, part of Harrietstown, New York, United States.</lex>
+      <lex lang="ru" lid="Id1">Региональный аэропорт "Адирондак" обслуживает город Саранак-Лейк, часть Хэрритстауна, штат Нью-Йорк, Соединённые Штаты Америки.</lex>
+      <lex lang="en" lid="Id2">Adirondack Regional Airport serves the city of Saranac Lake which is part of Harrietstown, New York in the United States.</lex>
+      <lex lang="ru" lid="Id2">Региональный аэропорт Адирондак обслуживает город Саранак-Лейк, который является частью Хэрритстауна, штат Нью-Йорк в США.</lex>
+      <lex lang="en" lid="Id3">Adirondack Regional Airport serves the city of Saranac Lake, New York, which is part of Harrietstown, New York, United States.</lex>
+      <lex lang="ru" lid="Id3">Региональный аэропорт "Адирондак" обслуживает город Саранак-Лейк, штат Нью-Йорк, который является частью Хэрритстауна, штат Нью-Йорк, Соединённые Штаты Америки.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">New_York | sameAs | Нью-Йорк_(штат)</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adirondack Regional Airport | sameAs | Региональный аэропорт Адирондак</link>
+        <link direction="en2ru">Harrietstown, New York | includes | Хэрритстаун</link>
+        <link direction="en2ru">Saranac Lake, New York | includes | Саранак-Лейк</link>
+      </links>
+    </entry>
+    <entry category="Airport" eid="Id26" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York</otriple>
+        <otriple>Saranac_Lake,_New_York | country | United_States</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</otriple>
+        <otriple>Saranac_Lake,_New_York | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</mtriple>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
+        <mtriple>Saranac_Lake,_New_York | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Saranac Lake, which is served by Adirondack Regional Airport, is part of Harrietstown, Essex County, New York, US.</lex>
+      <lex lang="ru" lid="Id1">Саранак-Лейк, который обслуживается региональным аэропортом Адирондак, является частью Хэрритстауна, округ Эссекс, Нью-Йорк, США.</lex>
+      <lex lang="en" lid="Id2">Adirondack Regional Airport serves Saranac Lake, New York. It is part of Harrietstow, Essex County in the United States.</lex>
+      <lex lang="ru" lid="Id2">Региональный аэропорт "Адирондак" обслуживает Саранак-Лейк, штат Нью-Йорк. Это часть Хэрритстауна, округ Эссекс, в Соединённых Штатах Америки.</lex>
+      <lex lang="en" lid="Id3">Adirondack Regional Airport serves the city of Saranac Lake, which is part of Essex County and part of Harrietstown, both of New York, United States.</lex>
+      <lex lang="ru" lid="Id3">Региональный аэропорт "Адирондак" обслуживает город Саранак-Лейк, входящий в округ Эссекс, и являющийся частью Хэрритстауна, оба из которых расположены в штате Нью-Йорк, Соединённые Штаты Америки.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Essex_County,_New_York | sameAs | Эссекс_(округ,_Нью-Йорк)</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adirondack Regional Airport | sameAs | Региональный аэропорт Адирондак</link>
+        <link direction="en2ru">Harrietstown, New York | includes | Хэрритстаун</link>
+        <link direction="en2ru">Saranac Lake, New York | includes | Саранак-Лейк</link>
+      </links>
+    </entry>
+  </entries>
+</benchmark>

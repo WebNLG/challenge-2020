@@ -1,0 +1,541 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="SportsTeam" eid="Id1" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Italy | leaderName | Pietro_Grasso</otriple>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Italy | leader | Pietro_Grasso</otriple>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | leader | Pietro_Grasso</mtriple>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The ground of A.S. Gubbio 1910 is located in Italy where Pietro Grasso is the leader and the capital city is Rome.</lex>
+      <lex lang="ru" lid="Id1">Площадка "Губбио" расположена в Италии, где Пьетро Грассо является лидером и столица - Рим.</lex>
+      <lex lang="en" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy. whose leader is Pietro Grasso and capital is Rome.</lex>
+      <lex lang="ru" lid="Id2">Площадка ФК "Губбио" расположена в Италии, лидером которой является Пьетро Грассо, а столицей - Рим.</lex>
+      <lex lang="en" lid="Id3">The ground of A.S. Gubbio 1910 is located in Italy, the capital of which is Rome and it's leader is Pietro Grasso.</lex>
+      <lex lang="ru" lid="Id3">Площадка ФК "Губбио" находится в Италии, столицей которой является Рим, а лидером - Пьетро Грассо.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Italy | sameAs | Италия</dbpedialink>
+        <dbpedialink direction="en2ru">Pietro_Grasso | sameAs | Грассо,_Пьетро</dbpedialink>
+        <dbpedialink direction="en2ru">A.S._Gubbio_1910 | sameAs | Губбио_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">Rome | sameAs | Рим</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id2" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Italy | leader | Pietro_Grasso</otriple>
+        <otriple>Italy | demonym | Italians</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | leader | Pietro_Grasso</mtriple>
+        <mtriple>Italy | demonym | Italians</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The ground of A.S. Gubbio 1910 is located in Italy where Pietro Grasso is the leader of the Italians.</lex>
+      <lex lang="ru" lid="Id1">Площадка "Губбио" расположена в Италии, где Пьетро Грассо является лидером итальянцев.</lex>
+      <lex lang="en" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy, the country of Italians where the leader is Pietro Grasso.</lex>
+      <lex lang="ru" lid="Id2">Площадка "Губбио" расположена в Италии, в стране итальянцев, где лидером является Пьетро Грассо.</lex>
+      <lex lang="en" lid="Id3">Italy (led by Pietro Grasso) is home to the Italian people and A.S. Gubbio 1910.</lex>
+      <lex lang="ru" lid="Id3">Италия (во главе с Пьетро Грассо) - родина итальянского народа и "Губбио".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Italy | sameAs | Италия</dbpedialink>
+        <dbpedialink direction="en2ru">Pietro_Grasso | sameAs | Грассо,_Пьетро</dbpedialink>
+        <dbpedialink direction="en2ru">A.S._Gubbio_1910 | sameAs | Губбио_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">Italians | sameAs | Итальянцы</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id3" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Italy | leaderName | Pietro_Grasso</otriple>
+        <otriple>Italy | leader | Sergio_Mattarella</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | leader | Pietro_Grasso</mtriple>
+        <mtriple>Italy | leader | Sergio_Mattarella</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Pietro Grasso and Sergio Mattarella are leaders in Italy where the ground of AS Gubbio 1910 is located.</lex>
+      <lex lang="ru" lid="Id1">Пьетро Грассо и Серджо Маттарелла - лидеры в Италии, где расположена площадка "Губбио".</lex>
+      <lex lang="en" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy. The leader of Italy is Pietro Grasso and/or Sergio Mattarella.</lex>
+      <lex lang="ru" lid="Id2">Площадка "Губбио" находится в Италии. Лидером Италии является Пьетро Грассо и / или Серджо Маттарелла.</lex>
+      <lex lang="en" lid="Id3">The ground of A.S. Gubbio 1910 is located in Italy, where Sergio Mattarella and Pietro Grasso are leaders.</lex>
+      <lex lang="ru" lid="Id3">Площадка "Губбио" расположена в Италии, где лидерами являются Серджо Маттарелла и Пьетро Грассо.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Italy | sameAs | Италия</dbpedialink>
+        <dbpedialink direction="en2ru">Pietro_Grasso | sameAs | Грассо,_Пьетро</dbpedialink>
+        <dbpedialink direction="en2ru">A.S._Gubbio_1910 | sameAs | Губбио_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">Sergio_Mattarella | sameAs | Маттарелла,_Серджо</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id4" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Italy | leader | Sergio_Mattarella</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+        <otriple>Italy | language | Italian_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | leader | Sergio_Mattarella</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+        <mtriple>Italy | language | Italian_language</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The ground of A.S. Gubbio 1910 is located in Italy where the leader is Sergio Mattarella and Italian is the spoken language.</lex>
+      <lex lang="ru" lid="Id1">Площадка "Губбио" расположена в Италии, где лидер - Серджо Маттарелла и итальянский - разговорный язык.</lex>
+      <lex lang="en" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy, who's leader is Sergio Mattarella and where they speak Italian.</lex>
+      <lex lang="ru" lid="Id2">Площадка ФК "Губбио" расположена в Италии, лидером которой является Серджо Маттарелла и где говорят по-итальянски.</lex>
+      <lex lang="en" lid="Id3">The ground of A.S. Gubbio 1910 is located in Italy. The country's leader is Sergio Mattarella and there they speak Italian.</lex>
+      <lex lang="ru" lid="Id3">Площадка ФК "Губбио" находится в Италии. Лидер страны - Серджо Маттарелла, и там говорят по-итальянски.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Italian_language | sameAs | Итальянский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">Italy | sameAs | Италия</dbpedialink>
+        <dbpedialink direction="en2ru">Sergio_Mattarella | sameAs | Маттарелла,_Серджо</dbpedialink>
+        <dbpedialink direction="en2ru">A.S._Gubbio_1910 | sameAs | Губбио_(футбольный_клуб)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id5" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Luciano_Spalletti | managerClub | Empoli_F.C.</otriple>
+        <otriple>A.S._Roma | manager | Luciano_Spalletti</otriple>
+        <otriple>Luciano_Spalletti | team | Virtus_Entella</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Luciano_Spalletti | team | Empoli_F.C.</otriple>
+        <otriple>A.S._Roma | manager | Luciano_Spalletti</otriple>
+        <otriple>Luciano_Spalletti | clubs | Virtus_Entella</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Luciano_Spalletti | clubs | Empoli_F.C.</otriple>
+        <otriple>A.S._Roma | manager | Luciano_Spalletti</otriple>
+        <otriple>Luciano_Spalletti | team | Virtus_Entella</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Luciano_Spalletti | club | Empoli_F.C.</mtriple>
+        <mtriple>A.S._Roma | manager | Luciano_Spalletti</mtriple>
+        <mtriple>Luciano_Spalletti | club | Virtus_Entella</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Luciano Spalletti played for Empoli F.C. and Virtus Entella. He has also been manager of AS Roma.</lex>
+      <lex lang="ru" lid="Id1">Лучано Спаллетти играл за "Эмполи" и "Виртус Энтелла". Он также был менеджером "Ромы".</lex>
+      <lex lang="en" lid="Id2">Luciano Spalletti is a manager for the AS Roma club and plays for Empoli F. C. as well as Virtus Entella.</lex>
+      <lex lang="ru" lid="Id2">Лучано Спаллетти является менеджером ФК "Рома" и играет за ФК "Эмполи", а также за "Виртус Энтелла".</lex>
+      <lex lang="en" lid="Id3">Luciano Spalletti plays for Empoli F.C. and Virtus Entella while managing A.S. Roma.</lex>
+      <lex lang="ru" lid="Id3">Лучано Спаллетти играет за ФК "Эмполи" и "Виртус Энтелла", одновременно управляя ФК “Рома”.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Luciano_Spalletti | sameAs | Спаллетти,_Лучано</dbpedialink>
+        <dbpedialink direction="en2ru">Empoli_F.C. | sameAs | Эмполи_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">Virtus_Entella | sameAs | Виртус_Энтелла</dbpedialink>
+        <dbpedialink direction="en2ru">A.S._Roma | sameAs | Рома_(футбольный_клуб)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id6" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Luciano_Spalletti | managerClub | Udinese_Calcio</otriple>
+        <otriple>A.S._Roma | manager | Luciano_Spalletti</otriple>
+        <otriple>Luciano_Spalletti | team | Virtus_Entella</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Luciano_Spalletti | club | Udinese_Calcio</mtriple>
+        <mtriple>A.S._Roma | manager | Luciano_Spalletti</mtriple>
+        <mtriple>Luciano_Spalletti | club | Virtus_Entella</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The manager of AS Roma, Luciano Spalletti, plays for Udinese Calcio and was at the club Virtus Entella.</lex>
+      <lex lang="ru" lid="Id1">Менеджер "Ромы", Лучано Спаллетти, играет за "Удинезе" и был в клубе "Виртус Энтелла".</lex>
+      <lex lang="en" lid="Id2">Luciano Spalletti manages AS Roma and also plays for Udinese Calcio and Virtus Entella.</lex>
+      <lex lang="ru" lid="Id2">Лучано Спаллетти управляет ФК "Рома", а также играет за "Удинезе" и "Виртус Энтелла".</lex>
+      <lex lang="en" lid="Id3">Luciano Spalletti played for Udinese Calcio. He now manages A.S. Roma and plays for Virtus Entella.</lex>
+      <lex lang="ru" lid="Id3">Лучано Спаллетти играл за Удинезе. Теперь он управляет ФК “Рома” и играет за Виртус Энтелла.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Luciano_Spalletti | sameAs | Спаллетти,_Лучано</dbpedialink>
+        <dbpedialink direction="en2ru">A.S._Roma | sameAs | Рома_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">Virtus_Entella | sameAs | Виртус_Энтелла</dbpedialink>
+        <dbpedialink direction="en2ru">Udinese_Calcio | sameAs | Удинезе</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id7" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Massimo_Drago | clubs | S.S._Chieti_Calcio</otriple>
+        <otriple>A.C._Cesena | manager | Massimo_Drago</otriple>
+        <otriple>Massimo_Drago | team | A.S.D._S.S._Nola_1925</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | S.S._Chieti_Calcio</mtriple>
+        <mtriple>A.C._Cesena | manager | Massimo_Drago</mtriple>
+        <mtriple>Massimo_Drago | club | A.S.D._S.S._Nola_1925</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Massimo Drago has been the manager of A C Cesena whose club is the S.S. Chieti Calcio. and played for A.S.D. S.S. Nola 1925.</lex>
+      <lex lang="ru" lid="Id1">Массимо Драго был менеджером ФК Чезена, чей клуб - ФК “Кьети” и играл за ФК СС "Нола" (Италия) в 1925.</lex>
+      <lex lang="en" lid="Id2">Massimo Drago has been the manager of A C Cesena and plays for both S.S. Chieti Calcio and A.S.D. S.S. Nola 1925.</lex>
+      <lex lang="ru" lid="Id2">Массимо Драго был менеджером ФК "Чезена" и играет за ФК “Кьети” и ФК СС "Нола" (Италия).</lex>
+      <lex lang="en" lid="Id3">Massimo Drago played for. A.S.D. S.S. Nola 1925, he now plays for S.S. Chieti Calcio and manages A.C. Cesana.</lex>
+      <lex lang="ru" lid="Id3">Массимо Драго играл за ФК СС "Нола" (Италия). Сейчас он играет за ФК “Кьети” и управляет ФК "Чезена".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">A.C._Cesena | sameAs | Чезена_(футбольный_клуб)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">S.S. Chieti Calcio | sameAs | ФК “Кьети”</link>
+        <link direction="en2ru">A.S.D. S.S. Nola 1925 | sameAs | СС “Нола” (Италия)</link>
+        <link direction="en2ru">Massimo Drago | sameAs | Массимо Драго</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id8" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Massimo_Drago | team | U.S._Castrovillari_Calcio</otriple>
+        <otriple>A.C._Cesena | manager | Massimo_Drago</otriple>
+        <otriple>Massimo_Drago | clubs | A.S.D._Licata_1931</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | U.S._Castrovillari_Calcio</mtriple>
+        <mtriple>A.C._Cesena | manager | Massimo_Drago</mtriple>
+        <mtriple>Massimo_Drago | club | A.S.D._Licata_1931</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Massimo Drago has been the manager of A C Cesena and was at the club ASD Licita 1931 but he currently plays for U.S Castrovillari Calcio.</lex>
+      <lex lang="ru" lid="Id1">Массимо Драго был менеджером ФК "Чезена" и состоял в клубе ФК "Ликата" (Италия), но в настоящее время он играет за СК “Кастровиллари Кальчо”.</lex>
+      <lex lang="en" lid="Id2">Massimo Drago was once a player for US Castrovillari Calcio and has been the manager of A C Cesena. He was also at the club ASD Licita 1931.</lex>
+      <lex lang="ru" lid="Id2">Массимо Драго когда-то был игроком СК “Кастровиллари Кальчо” и был менеджером ФК "Чезена". Он также входил в состав клуба ФК “Ликата” (Италия).</lex>
+      <lex lang="en" lid="Id3">Massimo Drago was at the club ASD Licita 1931. He currently plays for U.S Castrovillari Calcio and manages A.C. Cesena.</lex>
+      <lex lang="ru" lid="Id3">Массимо Драго входил в состав клуба ФК “Ликата” (Италия). В настоящее время он играет за СК “Кастровиллари Кальчо” и управляет ФК "Чезена".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">A.C._Cesena | sameAs | Чезена_(футбольный_клуб)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">U.S. Castrovillari Calcio | sameAs | СК “Кастровиллари Кальчо”</link>
+        <link direction="en2ru">A.S.D. Licata 1931 | sameAs | ФК “Ликата” (Италия)</link>
+        <link direction="en2ru">Massimo Drago | sameAs | Массимо Драго</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id9" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Massimo_Drago | clubs | U.S._Castrovillari_Calcio</otriple>
+        <otriple>A.C._Cesena | manager | Massimo_Drago</otriple>
+        <otriple>Massimo_Drago | team | Calcio_Catania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | U.S._Castrovillari_Calcio</mtriple>
+        <mtriple>A.C._Cesena | manager | Massimo_Drago</mtriple>
+        <mtriple>Massimo_Drago | club | Calcio_Catania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Massimo Drago's club was Calcio Catania and he played for US Castrovillari Calcio. He is now the manager of A.C. Cesena.</lex>
+      <lex lang="ru" lid="Id1">Клубом Массимо Драго был "Катания" и он играл за СК “Кастровиллари Кальчо”. Сейчас он является менеджером ФК "Чезена".</lex>
+      <lex lang="en" lid="Id2">Massimo Drago once played for US Castrovillari Calcio, is in the club Calcio Catania and manages A.C. Cesena.</lex>
+      <lex lang="ru" lid="Id2">Массимо Драго когда-то играл за СК “Кастровиллари Кальчо”. Сейчас он входит в состав клуба "Катания" и управляет ФК "Чезена".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">A.C._Cesena | sameAs | Чезена_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">Calcio_Catania | sameAs | Катания_(футбольный_клуб)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">U.S. Castrovillari Calcio | sameAs | СК “Кастровиллари Кальчо”</link>
+        <link direction="en2ru">Massimo Drago | sameAs | Массимо Драго</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id10" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Massimo_Drago | clubs | U.S._Castrovillari_Calcio</otriple>
+        <otriple>A.C._Cesena | manager | Massimo_Drago</otriple>
+        <otriple>Massimo_Drago | team | Delfino_Pescara_1936</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | U.S._Castrovillari_Calcio</mtriple>
+        <mtriple>A.C._Cesena | manager | Massimo_Drago</mtriple>
+        <mtriple>Massimo_Drago | club | Delfino_Pescara_1936</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">A.C. Cesena's manager Massimo Drago was once a player for US Castrovillari Calcio and is now attached to the club Delfino Pescara 1936.</lex>
+      <lex lang="ru" lid="Id1">Менеджер ФК "Чезена" Массимо Драго когда-то был игроком СК “Кастровиллари Кальчо” и теперь прикреплен к клубу "Пескара".</lex>
+      <lex lang="en" lid="Id2">Massimo Drago plays for U.S Castrovillari Calcio and manages A.C. Cesena. He is also attached to the club Delfino Pescara 1936.</lex>
+      <lex lang="ru" lid="Id2">Массимо Драго играет за СК “Кастровиллари Кальчо” и управляет ФК" Чезена ". Он также прикреплен к ФК" Пескара ".</lex>
+      <lex lang="en" lid="Id3">Massimo Drago plays for U.S Castrovillari Calcio; he has been the manager of A C Cesena and is attached to the club Delfino Pescara 1936.</lex>
+      <lex lang="ru" lid="Id3">Массимо Драго играет за СК “Кастровиллари Кальчо”. Он был менеджером ФК "Чезена" и входит в состав ФК "Пескара".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">A.C._Cesena | sameAs | Чезена_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">Delfino_Pescara_1936 | sameAs | Пескара_(футбольный_клуб)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">U.S. Castrovillari Calcio | sameAs | СК “Кастровиллари Кальчо”</link>
+        <link direction="en2ru">Massimo Drago | sameAs | Массимо Драго</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id11" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Massimo_Drago | team | Vigor_Lamezia</otriple>
+        <otriple>A.C._Cesena | manager | Massimo_Drago</otriple>
+        <otriple>Massimo_Drago | clubs | S.S.D._Potenza_Calcio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | Vigor_Lamezia</mtriple>
+        <mtriple>A.C._Cesena | manager | Massimo_Drago</mtriple>
+        <mtriple>Massimo_Drago | club | S.S.D._Potenza_Calcio</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Massimo Drago manages A.C. Cesena and is a former player of Vigor Lamezia and S.S.D. Potenza Calcio.</lex>
+      <lex lang="ru" lid="Id1">Массимо Драго управляет ФК "Чезена" и является бывшим игроком ФК “Вигор Ламеция” и Потенца.</lex>
+      <lex lang="en" lid="Id2">Attached to the club Vigor Lamezia, Massimo Drago manages A.C. Cesena and once played for the club SSD Potenza Calcio.</lex>
+      <lex lang="ru" lid="Id2">Прикрепленный к клубу "Вигор Ламеция", Массимо Драго управляет ФК "Чезена" и когда-то играл за клуб "Потенца".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">S.S.D._Potenza_Calcio | sameAs | Потенца_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">A.C._Cesena | sameAs | Чезена_(футбольный_клуб)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Vigor Lamezia | sameAs | ФК “Вигор Ламеция”</link>
+        <link direction="en2ru">Massimo Drago | sameAs | Массимо Драго</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id12" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | FC_Admira_Wacker_Mödling</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | managerClub | SC_Wiener_Neustadt</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | FC_Admira_Wacker_Mödling</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | SC_Wiener_Neustadt</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Peter Stöger is affiliated with the SC Wiener Neustadt club and manages 1 FC Koln. He also plays for FC Admira Wacker Modling.</lex>
+      <lex lang="ru" lid="Id1">Петер Штёгер является членом клуба СК “Винер-Нойштадт” и управляет ФК "Кёльн". Он также играет за ФК "Адмира Ваккер Мёдлинг".</lex>
+      <lex lang="en" lid="Id2">Peter Stöger is a player in FC Admira Wacker Mödling. He is also the manager of FC Kolin and is affiliated with the SC Wiener Neustadt club.</lex>
+      <lex lang="ru" lid="Id2">Петер Штёгер является игроком Адмира Ваккер Мёдлинг. Он также является менеджером ФК Кёльн и связан с клубом СК Винер-Нойштадт.</lex>
+      <lex lang="en" lid="Id3">Peter Stöger is the manager of 1. FC Koln, his club is the FC Admira Wacker Mödling and he is affiliated with the SC Wiener Neustadt club.</lex>
+      <lex lang="ru" lid="Id3">Петер Штёгер - менеджер ФК "Кёльн", его клуб - ФК "Адмира Ваккер Мёдлинг", и он связан с клубом СК “Винер-Нойштадт”.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">1._FC_Köln | sameAs | Кёльн_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">FC_Admira_Wacker_Mödling | sameAs | Адмира_Ваккер_Мёдлинг</dbpedialink>
+        <dbpedialink direction="en2ru">Peter_Stöger | sameAs | Штёгер,_Петер</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">SC Wiener Neustadt | sameAs | СК “Винер-Нойштадт”</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id13" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Rapid_Wien</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | managerClub | SC_Wiener_Neustadt</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Rapid_Wien</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | SC_Wiener_Neustadt</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">PeterStöger, manager of FC Kolin plays for both SK Rapid Wien and SC Wiener Neustadt.</lex>
+      <lex lang="ru" lid="Id1">Петер Штёгер, менеджер ФК "Кёльн", играет как за ФК "Рапид", так и за СК “Винер-Нойштадт”.</lex>
+      <lex lang="en" lid="Id2">Peter Stöger, previously of SK Rapid Wien, is affiliated with the SC Wiener Neustadt club and manages 1. FC Koln.</lex>
+      <lex lang="ru" lid="Id2">Петер Штёгер, бывший член ФК "Рапид", является членом клуба СК “Винер-Нойштадт” и управляет ФК "Кёльн".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">1._FC_Köln | sameAs | Кёльн_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">SK_Rapid_Wien | sameAs | Рапид_(футбольный_клуб,_Вена)</dbpedialink>
+        <dbpedialink direction="en2ru">Peter_Stöger | sameAs | Штёгер,_Петер</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">SC Wiener Neustadt | sameAs | СК “Винер-Нойштадт”</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id14" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Vorwärts_Steyr</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | managerClub | First_Vienna_FC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Vorwärts_Steyr</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | First_Vienna_FC</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The manager of 1. FC Koln is Peter Stoger who played football for SK Vorwärts Steyr and is attached to the club First Vienna FC.</lex>
+      <lex lang="ru" lid="Id1">Менеджер ФК "Кёльн "- Петер Штёгер, который играл в футбол за "Форвертс" и является членом клуба "Фёрст".</lex>
+      <lex lang="en" lid="Id2">Peter Stoger (football), First Vienna FC, now a manager of 1. FC Koln, played for SK Vorwarts Steyr.</lex>
+      <lex lang="ru" lid="Id2">Петер Штёгер (футбол), ФК "Фёрст", ныне руководитель ФК "Кёльн", играл за "Форвертс".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">1._FC_Köln | sameAs | Кёльн_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">SK_Vorwärts_Steyr | sameAs | Форвертс_(футбольный_клуб,_Штайр)</dbpedialink>
+        <dbpedialink direction="en2ru">Peter_Stöger | sameAs | Штёгер,_Петер</dbpedialink>
+        <dbpedialink direction="en2ru">First_Vienna_FC | sameAs | Фёрст_(футбольный_клуб)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id15" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Vorwärts_Steyr</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | managerClub | SC_Wiener_Neustadt</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Vorwärts_Steyr</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | SC_Wiener_Neustadt</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The manager of 1. FC Koln is Peter Stoger, he has played for SC Wiener Neustadt and is in the SK Vorwärts Steyr club.</lex>
+      <lex lang="ru" lid="Id1">Менеджер ФК "Кёльн" - Петер Штёгер, он играл за СК “Винер-Нойштадт” и состоит в клубе "Форвертс".</lex>
+      <lex lang="en" lid="Id2">Peter Stöger is in the SK Vorwärts Steyr club, is manager of 1. FC Köln and is affiliated with the SC Wiener Neustadt club.</lex>
+      <lex lang="ru" lid="Id2">Петер Штёгер входит в состав ФК "Форвертс", является менеджером ФК "Кёльн", а также членом СК “Винер-Нойштадт”.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">1._FC_Köln | sameAs | Кёльн_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">SK_Vorwärts_Steyr | sameAs | Форвертс_(футбольный_клуб,_Штайр)</dbpedialink>
+        <dbpedialink direction="en2ru">Peter_Stöger | sameAs | Штёгер,_Петер</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">SC Wiener Neustadt | sameAs | СК “Винер-Нойштадт”</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id16" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.C._Chievo_Verona | league | Serie_A</otriple>
+        <otriple>A.C._Chievo_Verona | ground | "Verona, Italy"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.C._Chievo_Verona | league | Serie_A</mtriple>
+        <mtriple>A.C._Chievo_Verona | ground | "Verona, Italy"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Verona, Italy is the home to A.C. Chievo Verona who played in Serie A where the champions were Juventus F.C.</lex>
+      <lex lang="ru" lid="Id1">Верона, Италия - родина ФК “Кьево” (Верона), который играл на Чемпионате Италии по футболу, где чемпионом был ФК "Ювентус".</lex>
+      <lex lang="en" lid="Id2">Verona, Italy is the home to A.C. Chievo Verona who is in the league, Juventus FC have been Serie A champions.</lex>
+      <lex lang="ru" lid="Id2">Верона, Италия - родина ФК “Кьево” (Верона), который находится в высшей Лиге, "Ювентус" был чемпионом Италии по футболу.</lex>
+      <lex lang="en" lid="Id3">Verona, Italy is home to A.C. Chievo Verona who play in Serie A. Juventus FC have previously been champions of Serie A.</lex>
+      <lex lang="ru" lid="Id3">Верона, Италия - родина ФК “Кьево” (Верона), который участвует в чемпионате Италии по футболу. ФК "Ювентус" ранее стал чемпионом чемпионата Италии по футболу .</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Serie_A | sameAs | Чемпионат_Италии_по_футболу_(Серия_A)</dbpedialink>
+        <dbpedialink direction="en2ru">Juventus_F.C. | sameAs | Ювентус</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">A.C. Chievo Verona | includes | “Кьево” (Верона)</link>
+        <link direction="en2ru">A.C. Chievo Verona | includes | Верона</link>
+        <link direction="en2ru">Verona, Italy | includes | Верона</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id17" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.C._Chievo_Verona | league | Serie_A</otriple>
+        <otriple>A.C._Chievo_Verona | ground | Stadio_Marc'Antonio_Bentegodi</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.C._Chievo_Verona | league | Serie_A</mtriple>
+        <mtriple>A.C._Chievo_Verona | ground | Stadio_Marc'Antonio_Bentegodi</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">AC Chievo Verona's home ground is Stadio Marc Antonio Bentegodi. They play in the Serie A league of which Juventus FC have been champions.</lex>
+      <lex lang="ru" lid="Id1">Домашняя площадка ФК "Кьево" (Верона) - "Маркантонио Бентегоди". Они играют в высшей лиге чемпионата Италии по футболу, в котором "Ювентус" были чемпионами.</lex>
+      <lex lang="en" lid="Id2">The home ground of A.C. Chievo Verona is Stadio Marc'Antonio Bentegodi. They play in the Serie A league, which was won by Juventus F.C.</lex>
+      <lex lang="ru" lid="Id2">Домашней площадкой ФК Клуб Кьево "(Верона) является стадион Маркантонио Бентегоди. Они играют в лиге Чемпионата Италии по футболу, которую выиграл ФК Ювентус.</lex>
+      <lex lang="en" lid="Id3">The home ground of A.C. Chievo Verona is Stadio Marc'Antonio Bentegodi, they are in the Serie A league, of which Juventus FC have been champions.</lex>
+      <lex lang="ru" lid="Id3">Домашним стадионом ФК Кьево (Верона) является стадион Маркантонио Бентегоди, они участвуют в Чемпионате Италии по футболу, в котором "Ювентус" - чемпион.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Serie_A | sameAs | Чемпионат_Италии_по_футболу_(Серия_A)</dbpedialink>
+        <dbpedialink direction="en2ru">Juventus_F.C. | sameAs | Ювентус</dbpedialink>
+        <dbpedialink direction="en2ru">Stadio_Marc'Antonio_Bentegodi | sameAs | Маркантонио_Бентегоди_(стадион)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">A.C. Chievo Verona | includes | “Кьево” (Верона)</link>
+        <link direction="en2ru">A.C. Chievo Verona | includes | Верона</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id18" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.C._Chievo_Verona | league | Serie_A</otriple>
+        <otriple>A.C._Chievo_Verona | ground | Verona</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.C._Chievo_Verona | league | Serie_A</mtriple>
+        <mtriple>A.C._Chievo_Verona | ground | Verona</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">With grounds in Verona, AC Chievo Verona play in the Serie A league, of which Juventus FC have been champions.</lex>
+      <lex lang="ru" lid="Id1">С площадок в Вероне, ФК Клуб Кьево Клуб (Верона) сыграют в лиге Чемпионата Италии по футболу, из которых "Ювентус" был чемпионом.</lex>
+      <lex lang="en" lid="Id2">A.C. Chievo Verona's playing ground is at Verona and they play in Serie A, where Juventus FC have been champions.</lex>
+      <lex lang="ru" lid="Id2">Игровая площадка ФК "Кьево" (Верона) находится в Вероне, и они играют в Чемпионате Италии по футболу, где Ювентус был чемпионом.</lex>
+      <lex lang="en" lid="Id3">Juventus F.C. are former champions of Serie A. A.C. Chievo Verona is in that league now and play in Verona.</lex>
+      <lex lang="ru" lid="Id3">ФК "Ювентус" - предыдущие чемпионы Серии А чемпионата Италии по футболу. ФК "Кьево" сейчас в этой лиге и играют в Вероне.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Serie_A | sameAs | Чемпионат_Италии_по_футболу_(Серия_A)</dbpedialink>
+        <dbpedialink direction="en2ru">Juventus_F.C. | sameAs | Ювентус</dbpedialink>
+        <dbpedialink direction="en2ru">Verona | sameAs | Верона</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">A.C. Chievo Verona | includes | “Кьево” (Верона)</link>
+        <link direction="en2ru">A.C. Chievo Verona | includes | Верона</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id19" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.S._Roma | ground | "Rome, Italy"@en</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.S._Roma | ground | "Rome, Italy"</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">A.S. Roma plays in the Serie A league in Rome, Italy but the Serie A champions are Juventus F.C.</lex>
+      <lex lang="ru" lid="Id1">ФК "Рома" участвует в чемпионате Италии по футболу в Риме, Италия, но чемпионом является ФК "Ювентус".</lex>
+      <lex lang="en" lid="Id2">A.S.Roma's ground is in Rome, Italy and they played in Serie A where the champions were Juventus F.C.</lex>
+      <lex lang="ru" lid="Id2">Домашняя площадка ФК Рома находится в Риме, Италия и они играли в Серии А , где чемпионами были Ювентус ФК.</lex>
+      <lex lang="en" lid="Id3">Juventus F.C. are former champions of Serie A. AS Roma also play in the same league, their ground is in Rome, Italy.</lex>
+      <lex lang="ru" lid="Id3">ФК "Ювентус" - предыдущие чемпионы Серии А Чемпионата Италии по футболу. ФК "Рома" также играет в той же лиге, их домашняя площадка расположена в Риме, Италия.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Serie_A | sameAs | Чемпионат_Италии_по_футболу_(Серия_A)</dbpedialink>
+        <dbpedialink direction="en2ru">Juventus_F.C. | sameAs | Ювентус</dbpedialink>
+        <dbpedialink direction="en2ru">A.S._Roma | sameAs | Рома_(футбольный_клуб)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Rome, Italy | includes | Рим</link>
+      </links>
+    </entry>
+    <entry category="SportsTeam" eid="Id20" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.S._Roma | ground | Rome</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.S._Roma | ground | Rome</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">AS Roma, who have a ground in Rome, play in Serie A alongside Juventus FC who are former champions.</lex>
+      <lex lang="ru" lid="Id1">ФК "Рома", который имеет домашнюю площадку в Риме, играет в Серии А вместе с клубом "Ювентус", который является бывшим чемпионом.</lex>
+      <lex lang="en" lid="Id2">A.S.Roma play their home games in Serie A in Rome, the current champions are Juventus.</lex>
+      <lex lang="ru" lid="Id2">ФК "Рома" играет свои домашние игры чемпионата Италии по футболу в Риме; текущий чемпион - ФК "Ювентус".</lex>
+      <lex lang="en" lid="Id3">With grounds in Rome, A.S. Roma play in Serie A. Juventus FC have been champions of that league.</lex>
+      <lex lang="ru" lid="Id3">С домашней площадкой в Риме "Рома" играет в Чемпионате Италии по футболу. "Ювентус" были чемпионами этой лиги.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Rome | sameAs | Рим</dbpedialink>
+        <dbpedialink direction="en2ru">Serie_A | sameAs | Чемпионат_Италии_по_футболу_(Серия_A)</dbpedialink>
+        <dbpedialink direction="en2ru">Juventus_F.C. | sameAs | Ювентус</dbpedialink>
+        <dbpedialink direction="en2ru">A.S._Roma | sameAs | Рома_(футбольный_клуб)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="SportsTeam" eid="Id21" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.S._Roma | ground | Stadio_Olimpico</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.S._Roma | ground | Stadio_Olimpico</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">AS Roma, whose ground is the Stadio Olimpico play in the Serie A League of which Juventus FC are former champions.</lex>
+      <lex lang="ru" lid="Id1">"Рома", чьей домашней площадкой является Олимпийский стадион, играет в лиге Серия А чемпионата Италии по футболу, в которой ФК "Ювентус" - предыдущие чемпионы.</lex>
+      <lex lang="en" lid="Id2">Juventus FC have been Serie A champions. A.S. Roma, who's ground is Stadio Olimpico also play in the same league.</lex>
+      <lex lang="ru" lid="Id2">ФК "Ювентус" были победителями Чемпионата Италии по футболу. ФК "Рома", который располагается на Олимпийском стадионе, тоже играет в этой же лиге.</lex>
+      <lex lang="en" lid="Id3">The Serie A champions are Juventus F.C. A.S Roma also play in the same league and their ground is Stadio Olimpico.</lex>
+      <lex lang="ru" lid="Id3">Чемпионы Серии А - ФК "Ювентус". ФК "Рома" также играет в той лиге, а их площадка - Олимпийский стадион.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Serie_A | sameAs | Чемпионат_Италии_по_футболу_(Серия_A)</dbpedialink>
+        <dbpedialink direction="en2ru">Juventus_F.C. | sameAs | Ювентус</dbpedialink>
+        <dbpedialink direction="en2ru">A.S._Roma | sameAs | Рома_(футбольный_клуб)</dbpedialink>
+        <dbpedialink direction="en2ru">Stadio_Olimpico | sameAs | Олимпийский_стадион_(Рим)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+  </entries>
+</benchmark>

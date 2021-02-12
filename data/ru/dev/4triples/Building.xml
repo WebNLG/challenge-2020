@@ -1,0 +1,760 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Building" eid="Id1" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Ethiopia | language | Amharic</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leader | Mulatu_Teshome</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+        <mtriple>Ethiopia | language | Amharic</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Addis Ababa City Hall is in Addis Ababa, Ethiopia. Amharic is the national language, and their leader is Malatu Teshome.</lex>
+      <lex lang="ru" lid="Id1">Ратуша Аддис-Абебы находится в Аддис-Абебе, Эфиопия. Амхарский - национальный язык, а их лидером является Мулату Тешоме.</lex>
+      <lex lang="en" lid="Id2">Malatu Teshome is the leader of Ethiopia which has the Amharic language. Addis Ababa City Hall is located in Addis Ababa in the country.</lex>
+      <lex lang="ru" lid="Id2">Мулату Тешоме является лидером Эфиопии, в которой говорят на амхарском языке. Ратуша Аддис-Абебы расположена в этой стране в Аддис-Абебе.</lex>
+      <lex lang="en" lid="Id3">Ethiopia is led by Mulatu Teshome and has the spoken language of Amharic, and is the location of Addis Ababa City Hall, which can be found in Addis Ababa.</lex>
+      <lex lang="ru" lid="Id3">Эфиопия возглавляется Мулату Тешоме и имеет разговорный язык - амхарский, и является местом расположения ратуши Аддис-Абебы, которая находится в Аддис-Абебе.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Addis_Ababa | sameAs | Аддис-Абеба</dbpedialink>
+        <dbpedialink direction="en2ru">Ethiopia | sameAs | Эфиопия</dbpedialink>
+        <dbpedialink direction="en2ru">Amharic | sameAs | Амхарский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">Mulatu_Teshome | sameAs | Мулату_Тешоме</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Addis Ababa City Hall | sameAs | Ратуша Аддис-Абебы</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id2" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Ethiopia | leaderName | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
+        <otriple>Ethiopia | leaderName | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leader | Mulatu_Teshome</mtriple>
+        <mtriple>Ethiopia | leader | Hailemariam_Desalegn</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Addis Ababa City Hall is located in Addis Ababa, Ethiopia, where main leaders are Malatu Teshome and Hailemariam Desalegn.</lex>
+      <lex lang="ru" lid="Id1">Ратуша Аддис-Абебы расположена в Аддис-Абебе, Эфиопия, где основными лидерами являются Мулату Тешоме и Хайлемариам Десалень.</lex>
+      <lex lang="en" lid="Id2">Addis Ababa City Hall can be found in Addis Ababa, Ethiopia, a country led by Mulatu Teshome and Hailemariam Desalegn.</lex>
+      <lex lang="ru" lid="Id2">Ратуша Аддис-Абебы находится в Аддис-Абебе, Эфиопии, стране, возглавляемой Мулату Тешоме и Хайлемариамом Десаленем.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Hailemariam_Desalegn | sameAs | Десалень,_Хайлемариам</dbpedialink>
+        <dbpedialink direction="en2ru">Addis_Ababa | sameAs | Аддис-Абеба</dbpedialink>
+        <dbpedialink direction="en2ru">Ethiopia | sameAs | Эфиопия</dbpedialink>
+        <dbpedialink direction="en2ru">Mulatu_Teshome | sameAs | Мулату_Тешоме</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Addis Ababa City Hall | sameAs | Ратуша Аддис-Абебы</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id3" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
+        <otriple>Ethiopia | leaderName | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Addis_Ababa | country | Ethiopia</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Hailemariam_Desalegn</otriple>
+        <otriple>Ethiopia | leaderName | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Addis_Ababa | country | Ethiopia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leader | Mulatu_Teshome</mtriple>
+        <mtriple>Ethiopia | leader | Hailemariam_Desalegn</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+        <mtriple>Addis_Ababa | country | Ethiopia</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Hailemariam Desalegn is the leader of Ethiopia along with Mulatu Teshome. Addis Ababa City Hall is located in the country in the city of Addis Ababa.</lex>
+      <lex lang="ru" lid="Id1">Хайлемариам Десалень является лидером Эфиопии вместе с Мулату Тешоме. Ратуша Аддис-Абебы расположена в стране в городе Аддис-Абеба.</lex>
+      <lex lang="en" lid="Id2">Leaders in Ethiopia are Malatu Teshome and Hailemariam Desalegn. Addis City Hall, Ethiopia is in Addis Ababa.</lex>
+      <lex lang="ru" lid="Id2">Лидерами в Эфиопии являются Мулату Тешоме и Хайлемариам Десалень. Ратуша Аддис-Абебы, Эфиопия находится в Аддис-Абебе.</lex>
+      <lex lang="en" lid="Id3">Addis Ababa City Hall is located in Addis Ababa, Ethiopia which is led by Malatu Teshome and Hailemariam Desalegn.</lex>
+      <lex lang="ru" lid="Id3">Ратуша Аддис-Абебы расположена в Аддис-Абебе, Эфиопии, которую возглавляют Мулату Тешоме и Хайлемариам Десалень.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Hailemariam_Desalegn | sameAs | Десалень,_Хайлемариам</dbpedialink>
+        <dbpedialink direction="en2ru">Addis_Ababa | sameAs | Аддис-Абеба</dbpedialink>
+        <dbpedialink direction="en2ru">Ethiopia | sameAs | Эфиопия</dbpedialink>
+        <dbpedialink direction="en2ru">Mulatu_Teshome | sameAs | Мулату_Тешоме</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Addis Ababa City Hall | sameAs | Ратуша Аддис-Абебы</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id4" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Gujarat | leaderName | Anandiben_Patel</otriple>
+        <otriple>India | leader | T._S._Thakur</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Gujarat</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Gujarat | leader | Anandiben_Patel</mtriple>
+        <mtriple>India | leader | T._S._Thakur</mtriple>
+        <mtriple>Amdavad_ni_Gufa | location | Gujarat</mtriple>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Led by Anandiben Patel, Amdavad ni Gufa can be found in Gujarat, India, where India is led by T S Thakur.</lex>
+      <lex lang="ru" lid="Id1">Амдавад ни Гуфа находится в Гуджарате (Индия), возглавляемом Анандибен Пател; всю Индию возглавляет Т.С. Тхакур.</lex>
+      <lex lang="en" lid="Id2">Amdavad ni Gufa is located in Gujarat, India. The leader of Gujarat is Anandiben Patel and T.S. Thakur was an Indian leader.</lex>
+      <lex lang="ru" lid="Id2">Амдавад ни Гуфа находится в Гуджарате, Индия. Лидером Гуджарата является Анандибен Пател, а Т.С. Тхакур - индийский лидер.</lex>
+      <lex lang="en" lid="Id3">Amdavad ni Gufa is located in Gujarat India. Anandiben Patel is leader in Gujarat whilst TS Thakur is leader in India.</lex>
+      <lex lang="ru" lid="Id3">Амдавад ни Гуфа находится в Гуджарате,Индии. Анандибен Пател является лидером в Гуджарате, в то время как Т.С. Тхакур является лидером в Индии.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Gujarat | sameAs | Гуджарат</dbpedialink>
+        <dbpedialink direction="en2ru">India | sameAs | Индия</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">T. S. Thakur | sameAs | Т.С. Тхакур (муж)</link>
+        <link direction="en2ru">Amdavad ni Gufa | sameAs | Амдавад ни Гуфа</link>
+        <link direction="en2ru">Anandiben Patel | sameAs | Анандибен Пател (жен)</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id5" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>India | leader | T._S._Thakur</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Ahmedabad</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+        <otriple>India | leaderName | Narendra_Modi</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | leader | T._S._Thakur</mtriple>
+        <mtriple>Amdavad_ni_Gufa | location | Ahmedabad</mtriple>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+        <mtriple>India | leader | Narendra_Modi</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Two of India's leaders are Narendra Modi and T S Thakur. Amdavad ni Gufa is located in Ahmedabad in the country.</lex>
+      <lex lang="ru" lid="Id1">Двое из лидеров Индии - Нарендра Моди и Т.С. Тхакур. Галерея Амдавад ни Гуфа находится в Ахмадабаде.</lex>
+      <lex lang="en" lid="Id2">Amdavad ni Gufa is located in Ahmedabad, India. Two leaders of the country are T S Thakur and Narendra Modi.</lex>
+      <lex lang="ru" lid="Id2">Амдавад ни Гуфа находится в Ахмадабаде, Индия. Два лидера страны - Т.С. Тхакур и Нарендра Моди.</lex>
+      <lex lang="en" lid="Id3">Amdavad ni Gufa is located in Ahmedabad, India, a country which has the leaders T S Thakur and Narendra Modi.</lex>
+      <lex lang="ru" lid="Id3">Амдавад ни Гуфа находится в Ахмадабаде, Индии, стране, в которой лидеры - Т.С. Тхакур и Нарендра Моди.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Narendra_Modi | sameAs | Моди,_Нарендра</dbpedialink>
+        <dbpedialink direction="en2ru">India | sameAs | Индия</dbpedialink>
+        <dbpedialink direction="en2ru">Ahmedabad | sameAs | Ахмадабад</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">T. S. Thakur | sameAs | Т.С. Тхакур (муж)</link>
+        <link direction="en2ru">Amdavad ni Gufa | sameAs | Амдавад ни Гуфа</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id6" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>India | leaderName | T._S._Thakur</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Ahmedabad</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+        <otriple>India | leader | Sumitra_Mahajan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | leader | T._S._Thakur</mtriple>
+        <mtriple>Amdavad_ni_Gufa | location | Ahmedabad</mtriple>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+        <mtriple>India | leader | Sumitra_Mahajan</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Amdavad ni Gufa is located in Ahmedabad, India, a country which prevously had the leader T. S. Thakur and now has leader Sumitra Mahajan.</lex>
+      <lex lang="ru" lid="Id1">Амдавад ни Гуфа находится в Ахмадабаде, Индии, стране, в которой ранее был лидер Т.С. Тхакур, а теперь лидер - Самитра Махаджан.</lex>
+      <lex lang="en" lid="Id2">The leader of India is called T S Thakur and another leader there is Sumitra Mahajan. Amdavad ni Gufa is located in Ahmedabad in India.</lex>
+      <lex lang="ru" lid="Id2">Лидером Индии называется Т.С. Тхакур и еще один лидер там - Самитра Махаджан. Амдавад ни Гуфа находится в Ахмадабаде в Индии.</lex>
+      <lex lang="en" lid="Id3">Amdavad ni Gufa is located in Ahmedabad, in India, the country where T S Thakur and Sumitra Mahajan are leaders.</lex>
+      <lex lang="ru" lid="Id3">Амдавад ни Гуфа находится в Ахмадабаде, в Индии, в стране, где Т.С. Тхакур и Самитра Махаджан являются лидерами.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">India | sameAs | Индия</dbpedialink>
+        <dbpedialink direction="en2ru">Ahmedabad | sameAs | Ахмадабад</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Sumitra Mahajan | sameAs | Самитра Махаджан (жен)</link>
+        <link direction="en2ru">T. S. Thakur | sameAs | Т.С. Тхакур (муж)</link>
+        <link direction="en2ru">Amdavad ni Gufa | sameAs | Амдавад ни Гуфа</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id7" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>India | leaderName | T._S._Thakur</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Gujarat</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+        <otriple>India | leader | Sumitra_Mahajan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | leader | T._S._Thakur</mtriple>
+        <mtriple>Amdavad_ni_Gufa | location | Gujarat</mtriple>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+        <mtriple>India | leader | Sumitra_Mahajan</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Amdavad ni Gufa is located in Gujarat, India. T. S. Thakur and Sumitra Mahajan have been leaders of India.</lex>
+      <lex lang="ru" lid="Id1">Амдавад ни Гуфа находится в Гуджарате, Индия. Т.С. Тхакур и Самитра Махаджан были лидерами Индии.</lex>
+      <lex lang="en" lid="Id2">Amdavad ni Gufa is located in Gujarat India. Both T S Thakur and Sumitra Mahajan have been leaders in India.</lex>
+      <lex lang="ru" lid="Id2">Амдавад ни Гуфа находится в Гуджарате в Индии. Т.С. Тхакур и Самитра Махаджан были лидерами Индии.</lex>
+      <lex lang="en" lid="Id3">T S Thakur and Sumitra Mahajan are leaders in India. Amdavad ni Gufa is located in Gujarat, India.</lex>
+      <lex lang="ru" lid="Id3">Т.С. Тхакур и Самитра Махаджан являются лидерами Индии. Амдавад ни Гуфа находится в Гуджарате, Индия.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">India | sameAs | Индия</dbpedialink>
+        <dbpedialink direction="en2ru">Gujarat | sameAs | Гуджарат</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Sumitra Mahajan | sameAs | Самитра Махаджан (жен)</link>
+        <link direction="en2ru">T. S. Thakur | sameAs | Т.С. Тхакур (муж)</link>
+        <link direction="en2ru">Amdavad ni Gufa | sameAs | Амдавад ни Гуфа</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id8" shape="(X (X) (X (X (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Japan | ethnicGroup | Brazilians_in_Japan</otriple>
+        <otriple>Akita_Museum_of_Art | locationTown | Akita_Prefecture</otriple>
+        <otriple>Akita,_Akita | country | Japan</otriple>
+        <otriple>Akita_Museum_of_Art | location | Akita,_Akita</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Japan | ethnicGroup | Brazilians_in_Japan</mtriple>
+        <mtriple>Akita_Museum_of_Art | location | Akita_Prefecture</mtriple>
+        <mtriple>Akita,_Akita | country | Japan</mtriple>
+        <mtriple>Akita_Museum_of_Art | location | Akita,_Akita</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Japan, home to many Brazilians, is also home to the Akita Museum of Art, founded and located in Akita Prefecture.</lex>
+      <lex lang="ru" lid="Id1">В Японии, где проживает много бразильцев, также находится Музей искусства Акита, основанный и расположенный в префектуре Акита.</lex>
+      <lex lang="en" lid="Id2">The Akita Museum of Art is located in Akita Prefecture, in Akita, Akita, Japan, a country with the ethnic group the Brazilians.</lex>
+      <lex lang="ru" lid="Id2">Музей искусств "Акита" расположен в префектуре Акита, Акита, Япония, в стране с этнической группой бразильцев.</lex>
+      <lex lang="en" lid="Id3">Brazilians are One of the ethnic groups in Japan the country where the Akita Museum of Art is located in Akita, Akita, in Akita Prefecture.</lex>
+      <lex lang="ru" lid="Id3">Бразильцы - одна из этнических групп в Японии, стране, где находится Музей искусств Акита, Акита, префектура Акита.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Akita,_Akita | sameAs | Акита_(город)</dbpedialink>
+        <dbpedialink direction="en2ru">Japan | sameAs | Япония</dbpedialink>
+        <dbpedialink direction="en2ru">Akita_Prefecture | sameAs | Акита_(префектура)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Brazilians in Japan | sameAs | диаспора бразильцев в Японии</link>
+        <link direction="en2ru">Akita Museum of Art | sameAs | Музей искусств Акита</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id9" shape="(X (X) (X (X (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Japan | ethnicGroup | Filipinos_in_Japan</otriple>
+        <otriple>Akita_Prefecture | country | Japan</otriple>
+        <otriple>Akita_Museum_of_Art | locationTown | Akita_Prefecture</otriple>
+        <otriple>Akita_Museum_of_Art | location | Akita,_Akita</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Japan | ethnicGroup | Filipinos_in_Japan</mtriple>
+        <mtriple>Akita_Prefecture | country | Japan</mtriple>
+        <mtriple>Akita_Museum_of_Art | location | Akita_Prefecture</mtriple>
+        <mtriple>Akita_Museum_of_Art | location | Akita,_Akita</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Akita Museum of Art is located in Akita Prefecture, in Akita, Japan, which has an ethnic group called Filipinos.</lex>
+      <lex lang="ru" lid="Id1">Музей искусств Акита расположен в префектуре Акита, в Акита, Япония, где проживает этническая группа филиппинцев.</lex>
+      <lex lang="en" lid="Id2">Akita Museum of Art is an art museum in the city of Akita, part of the Akita Prefecture which is in Japan. One of the ethnic groups in Japan is the Filipinos.</lex>
+      <lex lang="ru" lid="Id2">Музей искусств Акита - художественный музей в городе Акита, части префектуры Акита, которая находится в Японии. Одной из этнических групп в Японии являются филиппинцы.</lex>
+      <lex lang="en" lid="Id3">The Filipinos are one of the ethnic groups in Japan which is the location of the Akita Museum of Art in Akita, Akita Prefecture.</lex>
+      <lex lang="ru" lid="Id3">Филиппинцы являются одной из этнических групп Японии, которая является местом расположения музея искусств Акита в Аките, в префектуре Акита.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Akita,_Akita | sameAs | Акита_(город)</dbpedialink>
+        <dbpedialink direction="en2ru">Japan | sameAs | Япония</dbpedialink>
+        <dbpedialink direction="en2ru">Akita_Prefecture | sameAs | Акита_(префектура)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Filipinos in Japan | sameAs | филиппинцы в Японии</link>
+        <link direction="en2ru">Akita Museum of Art | sameAs | Музей искусств Акита</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id10" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Marriott_International | location | Bethesda,_Maryland</otriple>
+        <otriple>Marriott_International | foundation | Washington,_D.C.</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | operator | Marriott_International</otriple>
+        <otriple>Marriott_International | keyPerson | Bill_Marriott</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Marriott_International | location | Bethesda,_Maryland</otriple>
+        <otriple>Marriott_International | foundationPlace | Washington,_D.C.</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | operator | Marriott_International</otriple>
+        <otriple>Marriott_International | keyPeople | Bill_Marriott</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Marriott_International | location | Bethesda,_Maryland</otriple>
+        <otriple>Marriott_International | foundationPlace | Washington,_D.C.</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | operator | Marriott_International</otriple>
+        <otriple>Marriott_International | keyPerson | Bill_Marriott</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Marriott_International | location | Bethesda,_Maryland</mtriple>
+        <mtriple>Marriott_International | foundationPlace | Washington,_D.C.</mtriple>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
+        <mtriple>Marriott_International | keyPerson | Bill_Marriott</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Bill Marriot is the key person at Marriott International which was founded in Washington D.C. and is now located in Bethesda Maryland as well as being the tenant of the AC Hotel Bella Sky Copenhagen.</lex>
+      <lex lang="ru" lid="Id1">Билл Мариотт является ключевым человеком в компании Marriott International, которая была основана в Вашингтоне и в настоящее время находится в Бетесде, а также является арендатором отеля Белла Скай.</lex>
+      <lex lang="en" lid="Id2">Mariott International, led by Bill Marriott and founded in Washington D.C., is located in Bethesda Maryland and is a key tenant of AC Hotel Bella Sky Corporation.</lex>
+      <lex lang="ru" lid="Id2">Компания Marriott International, возглавляемая Биллом Мариоттом и основанная в Вашингтоне, находится в Бетесде и является ключевым арендатором отеля Белла Скай.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Bethesda,_Maryland | sameAs | Бетесда_(Мэриленд)</dbpedialink>
+        <dbpedialink direction="en2ru">Washington,_D.C. | sameAs | Вашингтон_(округ_Колумбия)</dbpedialink>
+        <dbpedialink direction="en2ru">Marriott_International | sameAs | Marriott_International</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">AC Hotel Bella Sky Copenhagen | includes | Копенгаген</link>
+        <link direction="en2ru">AC Hotel Bella Sky Copenhagen | includes | Отель Белла Скай</link>
+        <link direction="en2ru">Bill Marriott | sameAs | Билл Мариотт (муж)</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id11" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Republic_of_Ireland | language | English_language</otriple>
+        <otriple>Adare_Manor | locationCountry | Republic_of_Ireland</otriple>
+        <otriple>Republic_of_Ireland | leader | Enda_Kenny</otriple>
+        <otriple>Republic_of_Ireland | currency | Euro</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Republic_of_Ireland | language | English_language</mtriple>
+        <mtriple>Adare_Manor | country | Republic_of_Ireland</mtriple>
+        <mtriple>Republic_of_Ireland | leader | Enda_Kenny</mtriple>
+        <mtriple>Republic_of_Ireland | currency | Euro</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Adare Manor is located in the Republic of Ireland, where the leader is Enda Kenny, the currency is the Euro and English is the primary language.</lex>
+      <lex lang="ru" lid="Id1">Адэр Манор находится в Республике Ирландия, где лидер - Энда Кенни, валюта - евро и английский язык - основной язык.</lex>
+      <lex lang="en" lid="Id2">Adare Manor is located in the Republic of Ireland, which is led by Enda Kenny, uses the Euro, and speaks English.</lex>
+      <lex lang="ru" lid="Id2">Адэр Манор расположен в Ирландии, во главе которой - Энда Кенни, где валюта - евро и где говорят на английском языке.</lex>
+      <lex lang="en" lid="Id3">In the Republic of Ireland the currency is the euro, the language English, and the leader is Enda Kenny. It is the location of Adare Manor.</lex>
+      <lex lang="ru" lid="Id3">В Республике Ирландия валюта - евро, язык английский, а лидер - Энда Кенни. В стране расположена резиденция Адэр Манор.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Enda_Kenny | sameAs | Кенни,_Энда</dbpedialink>
+        <dbpedialink direction="en2ru">Euro | sameAs | Евро</dbpedialink>
+        <dbpedialink direction="en2ru">English_language | sameAs | Английский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">Republic_of_Ireland | sameAs | Ирландия</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adare Manor | sameAs | Адэр Манор</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id12" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Republic_of_Ireland | language | English_language</otriple>
+        <otriple>Adare_Manor | locationCountry | Republic_of_Ireland</otriple>
+        <otriple>Republic_of_Ireland | leaderName | Enda_Kenny</otriple>
+        <otriple>Republic_of_Ireland | demonym | Irish_people</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Republic_of_Ireland | language | English_language</otriple>
+        <otriple>Adare_Manor | locationCountry | Republic_of_Ireland</otriple>
+        <otriple>Republic_of_Ireland | leader | Enda_Kenny</otriple>
+        <otriple>Republic_of_Ireland | demonym | Irish_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Republic_of_Ireland | language | English_language</mtriple>
+        <mtriple>Adare_Manor | country | Republic_of_Ireland</mtriple>
+        <mtriple>Republic_of_Ireland | leader | Enda_Kenny</mtriple>
+        <mtriple>Republic_of_Ireland | demonym | Irish_people</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Adare Manor is located in the Republic of Ireland which is led by Enda Kenny. The language of the republic is English and the native people are known as Irish.</lex>
+      <lex lang="ru" lid="Id1">Резиденция Адэр Манор расположена в Республике Ирландия, которую возглавляет Энда Кенни. Язык республики - английский, а коренной народ известен как ирландцы.</lex>
+      <lex lang="en" lid="Id2">Adare Manor is located in the Republic of Ireland, where the leader is Enda Kenny, the currency is the Euro and English is the primary language.</lex>
+      <lex lang="ru" lid="Id2">Адэр Манор находится в Республике Ирландия, где лидером является Энда Кенни, валюта - евро и английский язык - основной язык.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Enda_Kenny | sameAs | Кенни,_Энда</dbpedialink>
+        <dbpedialink direction="en2ru">English_language | sameAs | Английский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">Republic_of_Ireland | sameAs | Ирландия</dbpedialink>
+        <dbpedialink direction="en2ru">Irish_people | sameAs | Ирландцы</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adare Manor | sameAs | Адэр Манор</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id13" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+        <otriple>United_States | leaderName | Barack_Obama</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+        <mtriple>United_States | leader | Barack_Obama</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Washington D.C. is the capital of the USA which is led by President Barack Obama. The US is the location of 250 Delaware Avenue.</lex>
+      <lex lang="ru" lid="Id1">Вашингтон - столица США, которые возглавляет президент Барак Обама. США - это местоположение Делавэр-авеню 250.</lex>
+      <lex lang="en" lid="Id2">Washington D.C. is the capital of the USA where the leader is President Barack Obama. 250 Delaware Avenue is located in the United States.</lex>
+      <lex lang="ru" lid="Id2">Вашингтон - столица США, где лидером является президент Барак Обама. Делавэр-авеню 250 находится в США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">President_of_the_United_States | sameAs | Президент_США</dbpedialink>
+        <dbpedialink direction="en2ru">Washington,_D.C. | sameAs | Вашингтон_(округ_Колумбия)</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Barack_Obama | sameAs | Обама,_Барак</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">250 Delaware Avenue | sameAs | Делавэр-авеню 250</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id14" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | Joe_Biden</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | Joe_Biden</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">In the United States, where both the capital Washington D.C. and 250 Delaware Avenue are located, is the President, Joe Biden.</lex>
+      <lex lang="ru" lid="Id1">В США, где расположены как столица Вашингтон, так и Делавэр-авеню 250, президент - Джо Байден.</lex>
+      <lex lang="en" lid="Id2">Washington DC is the capital of the United States where the leader is known as the President. One of the leaders in the United States is Joe Biden. 250 Delaware Avenue is located in the United States.</lex>
+      <lex lang="ru" lid="Id2">Вашингтон - столица Соединенных Штатов Америки, где лидер известен как президент. Одним из лидеров США является Джо Байден. Делавэр-авеню 250 находится в США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">President_of_the_United_States | sameAs | Президент_США</dbpedialink>
+        <dbpedialink direction="en2ru">Washington,_D.C. | sameAs | Вашингтон_(округ_Колумбия)</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Joe_Biden | sameAs | Байден,_Джо</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">250 Delaware Avenue | sameAs | Делавэр-авеню 250</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id15" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | John_Roberts</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | John_Roberts</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">John Roberts is the Chief Justice in America where the leader is known as the President of the United States and the capital is Washington DC. The US is the location of 250 Delaware Avenue.</lex>
+      <lex lang="ru" lid="Id1">Джон Робертс - главный судья в Америке, где лидер известен как президент США и столица - Вашингтон. США - это местоположение Делавэр-авеню 250.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">President_of_the_United_States | sameAs | Президент_США</dbpedialink>
+        <dbpedialink direction="en2ru">Washington,_D.C. | sameAs | Вашингтон_(округ_Колумбия)</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">John_Roberts | sameAs | Робертс,_Джон_Гловер</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">250 Delaware Avenue | sameAs | Делавэр-авеню 250</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id16" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+        <otriple>United_States | leaderName | Barack_Obama</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+        <mtriple>United_States | leader | Barack_Obama</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">250 Delaware Avenue is located in the United States, the leader of which was President Barack Obama, a member of the African American ethnic group.</lex>
+      <lex lang="ru" lid="Id1">Делавэр-авеню 250 находится в США, лидером которых был президент США Барак Обама, член этнической группы афроамериканцев.</lex>
+      <lex lang="en" lid="Id2">250 Delaware Avenue is located in the United States where Barack Obama is the leader and his title is President of the United States. One of the ethnic groups of the United States are the African Americans.</lex>
+      <lex lang="ru" lid="Id2">Делавэр-авеню 250 находится в США, где Барак Обама является лидером и его титул - президент Соединенных Штатов Америки. Одна из этнических групп США - афроамериканцы.</lex>
+      <lex lang="en" lid="Id3">Led by President Barack Obama, the United States has one ethnic group called African Americans and is the location of 250 Delaware Avenue.</lex>
+      <lex lang="ru" lid="Id3">США, возглавляемые президентом Бараком Обамой, имеют этническую группу, которая называется афроамериканцами, и являются местом расположения Делавэр-авеню 250.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">President_of_the_United_States | sameAs | Президент_США</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Barack_Obama | sameAs | Обама,_Барак</dbpedialink>
+        <dbpedialink direction="en2ru">African_Americans | sameAs | Афроамериканцы</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">250 Delaware Avenue | sameAs | Делавэр-авеню 250</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id17" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+        <otriple>United_States | leaderName | Barack_Obama</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+        <mtriple>United_States | leader | Barack_Obama</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">English is the language of the United States, where the leader is President Barack Obama. 250 Delaware Avenue is an address located in the United States.</lex>
+      <lex lang="ru" lid="Id1">Английский язык - это язык Соединенных Штатов Америки, где лидером является президент Барак Обама. Делавэр-авеню 250 - адрес, расположенный в США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">President_of_the_United_States | sameAs | Президент_США</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">English_language | sameAs | Английский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">Barack_Obama | sameAs | Обама,_Барак</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">250 Delaware Avenue | sameAs | Делавэр-авеню 250</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id18" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | John_Roberts</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | John_Roberts</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The leader of the United States is titled President and the language spoken is English. The country, where John Roberts is a leader, is the location of 250 Delaware Avenue.</lex>
+      <lex lang="ru" lid="Id1">Лидер Соединенных Штатов Америки называется президентом, и разговорный язык там - английский. Страна, где Джон Гловер Робертс является лидером, является местом расположения Делавэр-авеню 250.</lex>
+      <lex lang="en" lid="Id2">The leader of the United States has the title of president. John Roberts is a leader in the US and the country's language is English. 250 Delaware Avenue is in the US.</lex>
+      <lex lang="ru" lid="Id2">Лидер Соединённых Штатов Америки называется президентом. Джон Гловер Робертс - лидер США и язык страны - английский. Делавэр-авеню 250 находится в США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">President_of_the_United_States | sameAs | Президент_США</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">English_language | sameAs | Английский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">John_Roberts | sameAs | Робертс,_Джон_Гловер</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">250 Delaware Avenue | sameAs | Делавэр-авеню 250</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id19" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | Paul_Ryan</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | Paul_Ryan</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">250 Delaware Avenue is located in the United States, where English is the main language, and Paul Ryan is a leader alongside the President of the United States.</lex>
+      <lex lang="ru" lid="Id1">Делавэр-авеню 250 находится в США, где английский язык является основным языком, а Пол Райан является лидером наряду с президентом Соединенных Штатов Америки.</lex>
+      <lex lang="en" lid="Id2">Paul Ryan is the leader of the United States where the title of the leader is President. The English language is spoken in the US and it is the location of 250 Delaware Avenue.</lex>
+      <lex lang="ru" lid="Id2">Пол Райан возглавляет США, где лидер называется президентом. На английском языке говорят в США, и это место расположения Делавэр-авеню 250.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">President_of_the_United_States | sameAs | Президент_США</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">English_language | sameAs | Английский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">Paul_Ryan | sameAs | Райан,_Пол</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">250 Delaware Avenue | sameAs | Делавэр-авеню 250</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id20" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | Joe_Biden</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | Joe_Biden</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">250 Delaware Avenue is located in the United States (with an important ethnic group being Asian Americans), led by the President of the United States and also with Joe Biden in a leadership role.</lex>
+      <lex lang="ru" lid="Id1">Делавэр-авеню 250 находится в США (с важной этнической группой американцев азиатского происхождения), во главе с президентом Соединенных Штатов Америки, а также с Джо Байденом в руководящей роли.</lex>
+      <lex lang="en" lid="Id2">250 Delaware Avenue is located in the United States, home to a substantial population of Asian origin and led by the President (and vice president Joe Biden).</lex>
+      <lex lang="ru" lid="Id2">Делавэр-авеню 250 находится в Соединенных Штатах Америки, где проживает значительное количество населения азиатского происхождения и возглавляемых президентом (и вице-президентом Джо Байденом).</lex>
+      <lex lang="en" lid="Id3">Vice president Joe Biden is leader of the United States, located at 250 Delaware Avenue, where ethnic group of Asians reside.</lex>
+      <lex lang="ru" lid="Id3">Вице-президент США Джо Байден - лидер США, находящийся на Делавэр-авеню 250, где проживают этнические группы азиатов.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">President_of_the_United_States | sameAs | Президент_США</dbpedialink>
+        <dbpedialink direction="en2ru">Asian_Americans | sameAs | Американцы_азиатского_происхождения</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Joe_Biden | sameAs | Байден,_Джо</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">250 Delaware Avenue | sameAs | Делавэр-авеню 250</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id21" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | Joe_Biden</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+        <otriple>United_States | ethnicGroup | White_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | Joe_Biden</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">White Americans are an ethnic group in the U.S. which is led by the President. Joe Biden is a leader in that country. 250 Delaware Ave. is in the U.S.</lex>
+      <lex lang="ru" lid="Id1">Белые американцы - этническая группа в США, которые возглавляет президент. Джо Байден - лидер в этой стране. Делавэр-авеню 250 находится в США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">President_of_the_United_States | sameAs | Президент_США</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Joe_Biden | sameAs | Байден,_Джо</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">250 Delaware Avenue | sameAs | Делавэр-авеню 250</link>
+        <link direction="en2ru">White Americans | sameAs | белые американцы</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id22" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leader | Joe_Biden</otriple>
+        <otriple>United_States | leaderName | Paul_Ryan</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | Joe_Biden</mtriple>
+        <mtriple>United_States | leader | Paul_Ryan</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Joe Biden and Paul Ryan are leaders of the United States which is led by a President. The country is the location of 250 Delaware Avenue.</lex>
+      <lex lang="ru" lid="Id1">Джо Байден и Пол Райан - лидеры США, которые возглавляет президент. Страна является местом расположения Делавэр-авеню 250.</lex>
+      <lex lang="en" lid="Id2">250 Delaware Avenue is in the United States which is led by the President. Paul Ryan and Joe Biden are leaders in the country.</lex>
+      <lex lang="ru" lid="Id2">Делавэр-авеню 250 находится в США, которые возглавляет президент. Пол Райан и Джо Байден - лидеры в стране.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">President_of_the_United_States | sameAs | Президент_США</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Paul_Ryan | sameAs | Райан,_Пол</dbpedialink>
+        <dbpedialink direction="en2ru">Joe_Biden | sameAs | Байден,_Джо</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">250 Delaware Avenue | sameAs | Делавэр-авеню 250</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id23" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | John_Roberts</otriple>
+        <otriple>United_States | leader | Joe_Biden</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leader | John_Roberts</otriple>
+        <otriple>United_States | leaderName | Joe_Biden</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | John_Roberts</mtriple>
+        <mtriple>United_States | leader | Joe_Biden</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The United States, which is led by a President is the location of 250 Delaware Avenue. Joe Biden is a leader in the country and John Roberts is the Chief Justice.</lex>
+      <lex lang="ru" lid="Id1">Соединенные Штаты Америки, которые возглавляет президент, - это место расположения Делавэр-авеню 250. Джо Байден - лидер в стране, а Джон Гловер Робертс - главный судья.</lex>
+      <lex lang="en" lid="Id2">The leader of the United States, Joe Biden is known as the President. The Chief Justice is John Roberts an 250 Delaware Avenue is also located in the United States.</lex>
+      <lex lang="ru" lid="Id2">Лидер США Джо Байден известен как президент. Главный судья - Джон Гловер Робертс, и Делавэр-авеню 250 также находится в США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">President_of_the_United_States | sameAs | Президент_США</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">John_Roberts | sameAs | Робертс,_Джон_Гловер</dbpedialink>
+        <dbpedialink direction="en2ru">Joe_Biden | sameAs | Байден,_Джо</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">250 Delaware Avenue | sameAs | Делавэр-авеню 250</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id24" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | John_Roberts</otriple>
+        <otriple>United_States | leader | Paul_Ryan</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | John_Roberts</mtriple>
+        <mtriple>United_States | leader | Paul_Ryan</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">In the United States where the leader is known as the President of the United States, John Roberts is the Chief Justice, one of the leaders is Paul Ryan and it is where 200 Delaware Avenue is located.</lex>
+      <lex lang="ru" lid="Id1">В США, где лидер известен как президент Соединенных Штатов Америки, Джон Гловер Робертс является главным судьей, одним из лидеров является Пол Райан, и именно там находится Делавэр-авеню 250.</lex>
+      <lex lang="en" lid="Id2">The leader of the US is known as the President and two of the leaders are John Roberts and Paul Ryan. The country is the location of 250 Delaware Avenue.</lex>
+      <lex lang="ru" lid="Id2">Лидер США известен как президент, и два лидера - Джон Гловер Робертс и Пол Райан. Страна является местом расположения Делавэр-авеню 250.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">President_of_the_United_States | sameAs | Президент_США</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Paul_Ryan | sameAs | Райан,_Пол</dbpedialink>
+        <dbpedialink direction="en2ru">John_Roberts | sameAs | Робертс,_Джон_Гловер</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">250 Delaware Avenue | sameAs | Делавэр-авеню 250</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id25" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | Paul_Ryan</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+        <otriple>United_States | ethnicGroup | White_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | Paul_Ryan</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Paul Ryan is the leader and President Of the United States. An example of a street name in the United States is Delaware Avenue and an example of an ethic group is White Americans.</lex>
+      <lex lang="ru" lid="Id1">Пол Райан - лидер и президент Соединенных Штатов Америки. Пример названия улицы в США - Делавэр-авеню, и пример этнической группы - белые американцы.</lex>
+      <lex lang="en" lid="Id2">In the United States, the leader of the country is called the President of the United States. One of the country's leaders is Paul Ryan and one of the ethic groups is White Americans. also located in the U.S. is 250 Delaware Avenue.</lex>
+      <lex lang="ru" lid="Id2">В США лидером страны называют президента США. Один из лидеров страны - Пол Райан и одна из этнических групп - белые американцы. Также в США находится Делавэр-авеню 250.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">President_of_the_United_States | sameAs | Президент_США</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Paul_Ryan | sameAs | Райан,_Пол</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">250 Delaware Avenue | sameAs | Делавэр-авеню 250</link>
+        <link direction="en2ru">White Americans | sameAs | белые американцы</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id26" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | Paul_Ryan</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | Paul_Ryan</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+        <mtriple>United_States | leader | Barack_Obama</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The leader of the United States is Paul Ryan. The leader of the United States is President Barack Obama. 205 Delaware Avenue is an address in the United States.</lex>
+      <lex lang="ru" lid="Id1">Лидером США является Пол Райан. Лидер США - президент Барак Обама. Делавэр-авеню 250 - адрес в США.</lex>
+      <lex lang="en" lid="Id2">The United States is led by President Barack Obama along with Paul Ryan, and is the location of 250 Delaware Avenue.</lex>
+      <lex lang="ru" lid="Id2">Соединенные Штаты Америки возглавляются президентом Бараком Обамой вместе с Полом Райаном, а также являются местом расположения Делавэр-авеню 250.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">President_of_the_United_States | sameAs | Президент_США</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Barack_Obama | sameAs | Обама,_Барак</dbpedialink>
+        <dbpedialink direction="en2ru">Paul_Ryan | sameAs | Райан,_Пол</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">250 Delaware Avenue | sameAs | Делавэр-авеню 250</link>
+      </links>
+    </entry>
+  </entries>
+</benchmark>

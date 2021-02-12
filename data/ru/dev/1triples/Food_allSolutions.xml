@@ -1,0 +1,629 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Food" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Singapore | currency | Singapore_dollar</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Singapore | currency | Singapore_dollar</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The currency of Singapore is the Singapore dollar.</lex>
+      <lex lang="ru" lid="Id1">Валютой Сингапура является Сингапурский доллар.</lex>
+      <lex lang="en" lid="Id2">Singapore dollar is the currency in Singapore.</lex>
+      <lex lang="ru" lid="Id2">Сингапурский доллар - это валюта в Сингапуре.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Singapore_dollar | sameAs | Сингапурский_доллар</dbpedialink>
+        <dbpedialink direction="en2ru">Singapore | sameAs | Сингапур</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Food" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Singapore | language | English_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Singapore | language | English_language</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The English language is spoken in Singapore.</lex>
+      <lex lang="ru" lid="Id1">В Сингапуре говорят на английском языке.</lex>
+      <lex lang="en" lid="Id2">One of the languages spoken in Singapore is English.</lex>
+      <lex lang="ru" lid="Id2">Одним из языков, на которых говорят в Сингапуре, является английский.</lex>
+      <lex lang="en" lid="Id3">English is spoken in Singapore.</lex>
+      <lex lang="ru" lid="Id3">В Сингапуре говорят по-английски.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">English_language | sameAs | Английский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">Singapore | sameAs | Сингапур</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Food" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Singapore | language | Standard_Chinese</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Singapore | language | Standard_Chinese</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Standard Chinese is a language spoken in Singapore.</lex>
+      <lex lang="ru" lid="Id1">Путунхуа — это язык, на котором говорят в Сингапуре.</lex>
+      <lex lang="en" lid="Id2">Standard Chinese is spoken in Singapore.</lex>
+      <lex lang="ru" lid="Id2">В Сингапуре говорят на путунхуа.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Singapore | sameAs | Сингапур</dbpedialink>
+        <dbpedialink direction="en2ru">Standard_Chinese | sameAs | Путунхуа</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Food" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Singapore | leader | Halimah_Yacob</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Singapore | leaderName | Halimah_Yacob</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Singapore | leader | Halimah_Yacob</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Halimah Yacob is a leader of Singapore.</lex>
+      <lex lang="ru" lid="Id1">Якоб Халима – лидер Сингапура.</lex>
+      <lex lang="en" lid="Id2">Halimah Yacob is the name of Singapore's leader.</lex>
+      <lex lang="ru" lid="Id2">Якоб Халима - имя лидера Сингапура.</lex>
+      <lex lang="en" lid="Id3">Halimah Yacob leads Singapore.</lex>
+      <lex lang="ru" lid="Id3">Якоб Халима возглавляет Сингапур.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Singapore | sameAs | Сингапур</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Halimah Yacob | sameAs | Якоб Халима</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Singapore | leader | Tony_Tan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Singapore | leaderName | Tony_Tan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Singapore | leader | Tony_Tan</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The leader of Singapore is Tony Tan.</lex>
+      <lex lang="ru" lid="Id1">Лидером Сингапура является Тони Тан.</lex>
+      <lex lang="en" lid="Id2">Tony Tan is a leader in Singapore.</lex>
+      <lex lang="ru" lid="Id2">Тони Тан - лидер в Сингапуре.</lex>
+      <lex lang="en" lid="Id3">Tony Tan is the leader of Singapore.</lex>
+      <lex lang="ru" lid="Id3">Тони Тан - лидер Сингапура.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Tony_Tan | sameAs | Тони_Тан</dbpedialink>
+        <dbpedialink direction="en2ru">Singapore | sameAs | Сингапур</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Food" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Siomay | hasVariant | Batagor</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Siomay | variations | Batagor</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Siomay | dishVariation | Batagor</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Batagor and Siomay are variation of the same dish.</lex>
+      <lex lang="ru" lid="Id1">"Батагор" и "Сиомай" являются вариантом одного и того же блюда.</lex>
+      <lex lang="en" lid="Id2">Batagor is a dish variation of Siomay.</lex>
+      <lex lang="ru" lid="Id2">Батагор - это вариация блюда сиомай.</lex>
+      <lex lang="en" lid="Id3">Batagor is a variation of Siomay.</lex>
+      <lex lang="ru" lid="Id3">Батагор — это разновидность сиомай.</lex>
+      <links>
+        <link direction="en2ru">Siomay | sameAs | сиомай</link>
+        <link direction="en2ru">Batagor | sameAs | батагор</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Spain | currency | Euro</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | currency | Euro</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Spain uses the euro for its currency.</lex>
+      <lex lang="ru" lid="Id1">В качестве валюты в Испании используется евро.</lex>
+      <lex lang="en" lid="Id2">The Euro is the currency in Spain.</lex>
+      <lex lang="ru" lid="Id2">Евро - валюта в Испании.</lex>
+      <lex lang="en" lid="Id3">The currency of Spain is Euro.</lex>
+      <lex lang="ru" lid="Id3">Валюта Испании - евро.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Spain | sameAs | Испания</dbpedialink>
+        <dbpedialink direction="en2ru">Euro | sameAs | Евро</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Food" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Spain | demonym | Spaniards</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | demonym | Spaniards</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Spaniards are from Spain.</lex>
+      <lex lang="ru" lid="Id1">Испанцы - из Испании.</lex>
+      <lex lang="en" lid="Id2">Spaniards is the name for the people of Spain.</lex>
+      <lex lang="ru" lid="Id2">Испанцы - это название народа Испании.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Spain | sameAs | Испания</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Spaniards | sameAs | испанцы</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Spain | ethnicGroup | Spaniards</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Spain | ethnicGroups | Spaniards</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | ethnicGroup | Spaniards</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Spaniards are the ethnic group of Spain.</lex>
+      <lex lang="ru" lid="Id1">Испанцы - этническая группа Испании.</lex>
+      <lex lang="en" lid="Id2">The ethnic group for Spain is Spaniards.</lex>
+      <lex lang="ru" lid="Id2">Этническая группа Испании испанцы.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Spain | sameAs | Испания</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Spaniards | sameAs | испанцы</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Spain | language | Spanish_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | language | Spanish_language</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">In Spain the language spoken is the Spanish language.</lex>
+      <lex lang="ru" lid="Id1">В Испании языком, на котором говорят, является испанский.</lex>
+      <lex lang="en" lid="Id2">The Spanish language is spoken in Spain.</lex>
+      <lex lang="ru" lid="Id2">На испанском языке говорят в Испании.</lex>
+      <lex lang="en" lid="Id3">the language of Spain is Spanish.</lex>
+      <lex lang="ru" lid="Id3">Язык Испании - испанский.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Spanish_language | sameAs | Испанский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">Spain | sameAs | Испания</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Food" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Spain | leaderName | Felipe_VI_of_Spain</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | leader | Felipe_VI_of_Spain</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The leader of Spain is Felipe VI of Spain.</lex>
+      <lex lang="ru" lid="Id1">Лидером Испании является Филипп VI.</lex>
+      <lex lang="en" lid="Id2">Felipe VI of Spain is the leader of Spain.</lex>
+      <lex lang="ru" lid="Id2">Филипп VI - лидер Испании.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Spain | sameAs | Испания</dbpedialink>
+        <dbpedialink direction="en2ru">Felipe_VI_of_Spain | sameAs | Филипп_VI_(король_Испании)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Food" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Sumatra | ethnicGroup | Acehnese_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sumatra | ethnicGroup | Acehnese_people</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">One the ethnic groups on Sumatra is the Acehnese people.</lex>
+      <lex lang="ru" lid="Id1">Одна из этнических групп на Суматре — это ачехцы.</lex>
+      <lex lang="en" lid="Id2">Acehnese people form one of the ethnic groups in Sumatra.</lex>
+      <lex lang="ru" lid="Id2">Ачехцы образуют одну из этнических групп на Суматре.</lex>
+      <lex lang="en" lid="Id3">Acehnese people are an ethnic group in Sumatra.</lex>
+      <lex lang="ru" lid="Id3">Ачехцы — это этническая группа на Суматре.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Sumatra | sameAs | Суматра</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Acehnese people | sameAs | народ Ачех / ачесцы, ачехцы</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Sumatra | ethnicGroup | Batak</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Sumatra | ethnicGroups | Batak</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sumatra | ethnicGroup | Batak</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Batak is the ethnic group in Sumatra.</lex>
+      <lex lang="ru" lid="Id1">Батаки - этническая группа в Суматре.</lex>
+      <lex lang="en" lid="Id2">Batak is an ethnic group found in Sumatra.</lex>
+      <lex lang="ru" lid="Id2">Батаки — это этническая группа, проживающая на Суматре.</lex>
+      <lex lang="en" lid="Id3">Batak is an ethnic group in Sumatra.</lex>
+      <lex lang="ru" lid="Id3">Батаки - это этническая группа на Суматре.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Sumatra | sameAs | Суматра</dbpedialink>
+        <dbpedialink direction="en2ru">Batak | sameAs | Батаки</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Food" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Sumatra | ethnicGroups | Minangkabau_people</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Sumatra | ethnicGroup | Minangkabau_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sumatra | ethnicGroup | Minangkabau_people</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Minangkabau people are an ethnic group of Sumatra.</lex>
+      <lex lang="ru" lid="Id1">Минангкабау - это этническая группа на Суматре.</lex>
+      <lex lang="en" lid="Id2">Sumatra has an ethnic group called the Minangkabau people.</lex>
+      <lex lang="ru" lid="Id2">В Суматре есть этническая группа, называемая минангкабау.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Sumatra | sameAs | Суматра</dbpedialink>
+        <dbpedialink direction="en2ru">Minangkabau_people | sameAs | Минангкабау_(народ)</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Food" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Sweet_potato | division | Flowering_plant</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Sweet_potato | unrankedDivisio | Flowering_plant</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sweet_potato | division | Flowering_plant</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Sweet potato belongs to flowering plants.</lex>
+      <lex lang="ru" lid="Id1">Батат принадлежит к цветущим растениям.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Sweet_potato | sameAs | Батат</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Flowering plant | sameAs | цветущее растение</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Sweet_potato | order | Solanales</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sweet_potato | order | Solanales</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Sweet potato belongs to the Solanales order of plants.</lex>
+      <lex lang="ru" lid="Id1">Батат принадлежит к порядку растений паслёноцветные.</lex>
+      <lex lang="en" lid="Id2">Sweet potato are part of the order of Solanales.</lex>
+      <lex lang="ru" lid="Id2">Батат - это часть порядка паслёноцветные.</lex>
+      <lex lang="en" lid="Id3">Sweet potato is of the order Solanales.</lex>
+      <lex lang="ru" lid="Id3">Батат относится к порядку Паслёноцветные.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Sweet_potato | sameAs | Батат</dbpedialink>
+        <dbpedialink direction="en2ru">Solanales | sameAs | Паслёноцветные</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Food" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Tomato | division | Flowering_plant</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Tomato | unrankedDivisio | Flowering_plant</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tomato | division | Flowering_plant</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Tomato is part of the flowering plant division.</lex>
+      <lex lang="ru" lid="Id1">Томаты относятся к цветущим растениям.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Tomato | sameAs | Томат</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Flowering plant | sameAs | цветущее растение</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Tomato | family | Solanaceae</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tomato | family | Solanaceae</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Tomato belongs to the family of solanaceae.</lex>
+      <lex lang="ru" lid="Id1">Томат принадлежит к семейству Паслёновые.</lex>
+      <lex lang="en" lid="Id2">The tomato comes from the Solanaceae family.</lex>
+      <lex lang="ru" lid="Id2">Томат принадлежит к семейству Паслёновые.</lex>
+      <lex lang="en" lid="Id3">The tomato belongs to the family of Solanaceae.</lex>
+      <lex lang="ru" lid="Id3">Томат принадлежит к семейству Паслёновые.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Solanaceae | sameAs | Паслёновые</dbpedialink>
+        <dbpedialink direction="en2ru">Tomato | sameAs | Томат</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Food" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Tomato | genus | Solanum</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tomato | genus | Solanum</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Tomato belongs to the genus Solanum.</lex>
+      <lex lang="ru" lid="Id1">Томат принадлежит к роду Паслён.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Solanum | sameAs | Паслён</dbpedialink>
+        <dbpedialink direction="en2ru">Tomato | sameAs | Томат</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Food" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Tomato | order | Solanales</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tomato | order | Solanales</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The tomato is of the order Solanales.</lex>
+      <lex lang="ru" lid="Id1">Томат принадлежит к порядку Паслёноцветные.</lex>
+      <lex lang="en" lid="Id2">Tomato is one of the members of the order Solanales.</lex>
+      <lex lang="ru" lid="Id2">Томат – представитель порядка Пасленоцветных.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Solanales | sameAs | Паслёноцветные</dbpedialink>
+        <dbpedialink direction="en2ru">Tomato | sameAs | Томат</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Food" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_Kingdom | capital | London</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_Kingdom | capital | London</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">London is the Capital of the United Kingdom.</lex>
+      <lex lang="ru" lid="Id1">Лондон - столица Соединенного Королевства.</lex>
+      <lex lang="en" lid="Id2">London is the capital city of the United Kingdom.</lex>
+      <lex lang="ru" lid="Id2">Лондон - столица Великобритании.</lex>
+      <lex lang="en" lid="Id3">London is the capital of the UK.</lex>
+      <lex lang="ru" lid="Id3">Лондон - столица Великобритании.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_Kingdom | sameAs | Великобритания</dbpedialink>
+        <dbpedialink direction="en2ru">London | sameAs | Лондон</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Food" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_Kingdom | language | English_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_Kingdom | language | English_language</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The language of the United Kingdom is the English language.</lex>
+      <lex lang="ru" lid="Id1">Языком Соединенного Королевства является английский язык.</lex>
+      <lex lang="en" lid="Id2">English is the language spoken in the United Kingdom.</lex>
+      <lex lang="ru" lid="Id2">Языком, на котором говорят в Великобритании, является английский.</lex>
+      <lex lang="en" lid="Id3">English is spoken in the UK.</lex>
+      <lex lang="ru" lid="Id3">В Великобритании говорят по-английски.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">English_language | sameAs | Английский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">United_Kingdom | sameAs | Великобритания</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Food" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_Kingdom | leader | Elizabeth_II</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_Kingdom | leaderName | Elizabeth_II</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_Kingdom | leader | Elizabeth_II</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Elizabeth II is the leader of the United Kingdom.</lex>
+      <lex lang="ru" lid="Id1">Елизавета II - лидер Великобритании.</lex>
+      <lex lang="en" lid="Id2">Elizabeth II is the leader of the UK.</lex>
+      <lex lang="ru" lid="Id2">Елизавета II - лидер Великобритании.</lex>
+      <lex lang="en" lid="Id3">Elizabeth II is the head of state in the United Kingdom.</lex>
+      <lex lang="ru" lid="Id3">Елизавета II - глава государства в Великобритании.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_Kingdom | sameAs | Великобритания</dbpedialink>
+        <dbpedialink direction="en2ru">Elizabeth_II | sameAs | Елизавета_II</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Food" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The capital of the U.S. is Washington, D.C.</lex>
+      <lex lang="ru" lid="Id1">Столица США — Вашингтон.</lex>
+      <lex lang="en" lid="Id2">Washington, D.C is the capital of the United States.</lex>
+      <lex lang="ru" lid="Id2">Вашингтон - столица Соединенных Штатов Америки.</lex>
+      <lex lang="en" lid="Id3">The capital of the United States is Washington, D.C.</lex>
+      <lex lang="ru" lid="Id3">Столица Соединенных Штатов Америки - Вашингтон.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Washington,_D.C. | sameAs | Вашингтон_(округ_Колумбия)</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Food" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">African Americans are an ethic group in the United States.</lex>
+      <lex lang="ru" lid="Id1">Афроамериканцы – это этническая группа в США.</lex>
+      <lex lang="en" lid="Id2">African Americans are one of the ethnic groups in the United States.</lex>
+      <lex lang="ru" lid="Id2">Афроамериканцы - одна из этнических групп в США.</lex>
+      <lex lang="en" lid="Id3">African Americans are an ethnic group in the U.S.</lex>
+      <lex lang="ru" lid="Id3">Афроамериканцы - этническая группа в США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">African_Americans | sameAs | Афроамериканцы</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Food" eid="Id26" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Asian Americans are an ethnic group in the United States.</lex>
+      <lex lang="ru" lid="Id1">Американцы азиатского происхождения — это этническая группа в Соединённых Штатах Америки.</lex>
+      <lex lang="en" lid="Id2">Asian Americans are one of the ethnic groups in the United States.</lex>
+      <lex lang="ru" lid="Id2">Американцы азиатского происхождения — это одна из этнических групп в Соединённых Штатах Америки.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Asian_Americans | sameAs | Американцы_азиатского_происхождения</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Food" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | White_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">White Americans are an ethnic group in the United States.</lex>
+      <lex lang="ru" lid="Id1">Белые американцы — это этническая группа в Соединённых Штатах Америки.</lex>
+      <lex lang="en" lid="Id2">White Americans are one of the ethnic groups in the United States.</lex>
+      <lex lang="ru" lid="Id2">Белые американцы — это одна из этнических групп в Соединённых Штатах Америки.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">White Americans | sameAs | белые американцы</link>
+      </links>
+    </entry>
+    <entry category="Food" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The English language is used in the United States.</lex>
+      <lex lang="ru" lid="Id1">Английский язык используется в Соединённых Штатах Америки.</lex>
+      <lex lang="en" lid="Id2">English is the language of the United States.</lex>
+      <lex lang="ru" lid="Id2">Английский — это язык Соединённых Штатов Америки.</lex>
+      <lex lang="en" lid="Id3">English is a language spoken in the United States.</lex>
+      <lex lang="ru" lid="Id3">Английский — это язык, на котором говорят в Соединённых Штатах Америки.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">English_language | sameAs | Английский_язык</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Food" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leader | Barack_Obama</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Barack Obama is a leader of the United States.</lex>
+      <lex lang="ru" lid="Id1">Барак Обама — это глава Соединённых Штатов Америки.</lex>
+      <lex lang="en" lid="Id2">Barack Obama is the leader of the United States.</lex>
+      <lex lang="ru" lid="Id2">Барак Обама — это глава Соединённых Штатов Америки.</lex>
+      <lex lang="en" lid="Id3">Barack Obama is the leader of United States.</lex>
+      <lex lang="ru" lid="Id3">Барак Обама — это глава Соединённых Штатов Америки.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Barack_Obama | sameAs | Обама,_Барак</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Food" eid="Id30" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | leader | Joe_Biden</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leader | Joe_Biden</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Joe Biden is a leader of the United States.</lex>
+      <lex lang="ru" lid="Id1">Джо Байден — это глава Соединённых Штатов Америки.</lex>
+      <lex lang="en" lid="Id2">Joe Biden is one of the leaders of the United States.</lex>
+      <lex lang="ru" lid="Id2">Джо Байден — это один из лидеров Соединённых Штатов Америки.</lex>
+      <lex lang="en" lid="Id3">Joe Biden is a political leader in the U.S.</lex>
+      <lex lang="ru" lid="Id3">Джо Байден - политический лидер в США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Joe_Biden | sameAs | Байден,_Джо</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Food" eid="Id31" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | leader | John_Roberts</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leader | John_Roberts</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">John Roberts is a leader in the United States.</lex>
+      <lex lang="ru" lid="Id1">Джон Гловер Робертс — это лидер в Соединённых Штатах Америки.</lex>
+      <lex lang="en" lid="Id2">John Roberts is the leader of the United States.</lex>
+      <lex lang="ru" lid="Id2">Джон Гловер Робертс — это лидер Соединённых Штатов Америки.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">John_Roberts | sameAs | Робертс,_Джон_Гловер</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Food" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | leader | Paul_Ryan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leader | Paul_Ryan</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Paul Ryan is a leader in United States.</lex>
+      <lex lang="ru" lid="Id1">Пол Райан — это лидер в Соединённых Штатах Америки.</lex>
+      <lex lang="en" lid="Id2">United States leader is called Paul Ryan.</lex>
+      <lex lang="ru" lid="Id2">Лидера Соединённых Штатов Америки зовут Пол Райан.</lex>
+      <lex lang="en" lid="Id3">Paul Ryan is a leader in the U.S.</lex>
+      <lex lang="ru" lid="Id3">Пол Райан - лидер в США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Paul_Ryan | sameAs | Райан,_Пол</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Food" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The leader of the United States is called the President.</lex>
+      <lex lang="ru" lid="Id1">Лидер Соединённых Штатов Америки зовётся президентом.</lex>
+      <lex lang="en" lid="Id2">The leader of the United States has a title of President.</lex>
+      <lex lang="ru" lid="Id2">Лидер Соединенных Штатов имеет звание президента.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">President_of_the_United_States | sameAs | Президент_США</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+      </dbpedialinks>
+    </entry>
+    <entry category="Food" eid="Id34" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Valencian_Community | leaderName | Ximo_Puig</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Valencian_Community | leader | Ximo_Puig</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The leader of the community of Valencia is Ximo Puig.</lex>
+      <lex lang="ru" lid="Id1">Глава сообщества Валенсия — Ксимо Пуиг.</lex>
+      <lex lang="en" lid="Id2">Ximo Puig is a leader in the Valencian Community.</lex>
+      <lex lang="ru" lid="Id2">Ксимо Пуиг - лидер Валенсии.</lex>
+      <lex lang="en" lid="Id3">Ximo Puig is a leader of the Valencian Community.</lex>
+      <lex lang="ru" lid="Id3">Ксимо Пуиг - лидер Валенсии.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Valencian_Community | sameAs | Валенсия_(автономное_сообщество)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Ximo Puig | sameAs | Ксимо Пуиг</link>
+      </links>
+    </entry>
+  </entries>
+</benchmark>

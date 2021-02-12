@@ -1,0 +1,506 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Building" eid="Id1" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | built | 1904</otriple>
+        <otriple>Asser_Levy_Public_Baths | location | Manhattan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | Manhattan</otriple>
+        <otriple>Asser_Levy_Public_Baths | yearOfConstruction | "1904"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | Manhattan</mtriple>
+        <mtriple>Asser_Levy_Public_Baths | yearOfConstruction | 1904</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Asser Levy Public Baths, built in 1904, is located in Manhattan.</lex>
+      <lex lang="ru" lid="Id1">Общественные бани Ашера Леви, построенные в 1904 году, расположены на Манхэттене.</lex>
+      <lex lang="en" lid="Id2">Asser Levy Public Baths in Manhattan were constructed in 1904.</lex>
+      <lex lang="ru" lid="Id2">Общественные бани Ашера Леви на Манхэттене были построены в 1904 году.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Manhattan | sameAs | Манхэттен</dbpedialink>
+        <dbpedialink direction="en2ru">1904 | sameAs | 1904_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Asser Levy Public Baths | sameAs | Общественные бани Ашера Леви</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id2" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | Manhattan</otriple>
+        <otriple>Manhattan | isPartOf | New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | Manhattan</mtriple>
+        <mtriple>Manhattan | isPartOf | New_York</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Asser Levy Public Baths is located in Manhattan, which is a part of New York.</lex>
+      <lex lang="ru" lid="Id1">Общественные бани Ашера Леви находятся на Манхэттене, который является частью Нью-Йорка.</lex>
+      <lex lang="en" lid="Id2">Asser Levy Public Baths are in Manhattan, New York.</lex>
+      <lex lang="ru" lid="Id2">Общественные бани Ашера Леви находятся на Манхэттене, в Нью-Йорке.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Manhattan | sameAs | Манхэттен</dbpedialink>
+        <dbpedialink direction="en2ru">New_York | sameAs | Нью-Йорк_(штат)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Asser Levy Public Baths | sameAs | Общественные бани Ашера Леви</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id3" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | Manhattan</otriple>
+        <otriple>Manhattan | leaderName | Cyrus_Vance,_Jr.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | Manhattan</mtriple>
+        <mtriple>Manhattan | leader | Cyrus_Vance,_Jr.</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Asser Levy Public Baths is located in Manhattan where Cyrus Vance Jr. is the leader.</lex>
+      <lex lang="ru" lid="Id1">Общественные бани Ашера Леви находятся на Манхэттене, где Сайрус Вэнс-младший является лидером.</lex>
+      <lex lang="en" lid="Id2">Asser Levy Public Baths is located in Manhattan where Cyrus Vance Jr. is one of the leaders.</lex>
+      <lex lang="ru" lid="Id2">Общественные бани Ашера Леви находятся на Манхэттене, где один из лидеров Сайрус Вэнс-младший.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Manhattan | sameAs | Манхэттен</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Cyrus Vance, Jr. | sameAs | Сайрус Вэнс-младший</link>
+        <link direction="en2ru">Asser Levy Public Baths | sameAs | Общественные бани Ашера Леви</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id4" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | Manhattan</otriple>
+        <otriple>Manhattan | leaderName | Gale_Brewer</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | Manhattan</mtriple>
+        <mtriple>Manhattan | leader | Gale_Brewer</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Gale Brewer is the leader of Manhattan, which is the location of Asser Levy Public Baths.</lex>
+      <lex lang="ru" lid="Id1">Гейл Брюэр - лидер Манхэттена, который является местом расположения общественных бань Ашера Леви.</lex>
+      <lex lang="en" lid="Id2">Gale Brewer is the leader of Manhattan, where the Asser Levy Public Baths can be found.</lex>
+      <lex lang="ru" lid="Id2">Гейл Брюэр - лидер Манхэттена, где можно найти общественные бани Ашера Леви.</lex>
+      <lex lang="en" lid="Id3">Asser Levy Public Baths is located in Manhattan whose leader is Gale Brewer.</lex>
+      <lex lang="ru" lid="Id3">Общественные бани Ашера Леви находятся на Манхэттене, лидером которого является Гейл Брюэр.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Manhattan | sameAs | Манхэттен</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Gale Brewer | sameAs | Гейл Брюэр (жен)</link>
+        <link direction="en2ru">Asser Levy Public Baths | sameAs | Общественные бани Ашера Леви</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id5" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
+        <otriple>Asser_Levy_Public_Baths | built | 1904</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
+        <otriple>Asser_Levy_Public_Baths | yearOfConstruction | "1904"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | New_York_City</mtriple>
+        <mtriple>Asser_Levy_Public_Baths | yearOfConstruction | 1904</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Asser Levy Public Baths which was built in 1904 is located in New York City.</lex>
+      <lex lang="ru" lid="Id1">Общественные бани Ашера Леви, построенные в 1904 году, расположены в Нью-Йорке.</lex>
+      <lex lang="en" lid="Id2">Asser Levy Public Baths (constructed in 1904) are located in New York City.</lex>
+      <lex lang="ru" lid="Id2">Общественные бани Ашера Леви (построенные в 1904 году) расположены в Нью-Йорке.</lex>
+      <lex lang="en" lid="Id3">The location of Asser Levy Public Baths, built in 1904, is New York City.</lex>
+      <lex lang="ru" lid="Id3">Общественные бани Ашера Леви, построенные в 1904 году, находятся в Нью-Йорке.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">New_York_City | sameAs | Нью-Йорк</dbpedialink>
+        <dbpedialink direction="en2ru">1904 | sameAs | 1904_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Asser Levy Public Baths | sameAs | Общественные бани Ашера Леви</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id6" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
+        <otriple>New_York_City | subdivisionName | Manhattan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
+        <otriple>New_York_City | isPartOf | Manhattan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | New_York_City</mtriple>
+        <mtriple>New_York_City | isPartOf | Manhattan</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Asser Levy Public Baths are located in New York City which Manhattan is a part of.</lex>
+      <lex lang="ru" lid="Id1">Общественные бани Ашера Леви находятся в Нью-Йорке, частью которого является Манхэттен.</lex>
+      <lex lang="en" lid="Id2">The Asser Levy Public Baths are in New York City which is part of Manhattan.</lex>
+      <lex lang="ru" lid="Id2">Общественные бани Ашера Леви находятся в Нью-Йорке, частью которого является Манхэттен.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">New_York_City | sameAs | Нью-Йорк</dbpedialink>
+        <dbpedialink direction="en2ru">Manhattan | sameAs | Манхэттен</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Asser Levy Public Baths | sameAs | Общественные бани Ашера Леви</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id7" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
+        <otriple>New_York_City | isPartOf | New_Netherland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | New_York_City</mtriple>
+        <mtriple>New_York_City | isPartOf | New_Netherland</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Asser Levy Public Baths are in New York City of which New Netherland is a part.</lex>
+      <lex lang="ru" lid="Id1">Общественные бани Ашера Леви находятся в Нью-Йорке, частью которого является Новые Нидерланды.</lex>
+      <lex lang="en" lid="Id2">Asser Levy Public Baths are located in New York City, which is part of New Netherland.</lex>
+      <lex lang="ru" lid="Id2">Общественные бани Ашера Леви находятся в Нью-Йорке, частью которого являются Новые Нидерланды.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">New_York_City | sameAs | Нью-Йорк</dbpedialink>
+        <dbpedialink direction="en2ru">New_Netherland | sameAs | Новые_Нидерланды</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Asser Levy Public Baths | sameAs | Общественные бани Ашера Леви</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id8" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
+        <otriple>New_York_City | isPartOf | New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | New_York_City</mtriple>
+        <mtriple>New_York_City | isPartOf | New_York</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">New York City, part of New York, has the Asser Levy Public Baths.</lex>
+      <lex lang="ru" lid="Id1">Нью-Йорк, часть Нью-Йорка, имеет Общественные бани Ашера Леви.</lex>
+      <lex lang="en" lid="Id2">Asser Levy Public Baths are located in New York City, which is part of New York.</lex>
+      <lex lang="ru" lid="Id2">Общественные бани Ашера Леви находятся в Нью-Йорке, который является частью штата Нью-Йорк.</lex>
+      <lex lang="en" lid="Id3">The location of Asser Levy Public Baths are New York City, New York State.</lex>
+      <lex lang="ru" lid="Id3">Место расположения общественных бань Ашера Леви - город Нью-Йорк, штат Нью-Йорк.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">New_York_City | sameAs | Нью-Йорк</dbpedialink>
+        <dbpedialink direction="en2ru">New_York | sameAs | Нью-Йорк_(штат)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Asser Levy Public Baths | sameAs | Общественные бани Ашера Леви</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id9" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Dublin | country | Republic_of_Ireland</otriple>
+        <otriple>3Arena | location | Dublin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dublin | country | Republic_of_Ireland</mtriple>
+        <mtriple>3Arena | location | Dublin</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">3Arena is located in Dublin, in the Republic of Ireland.</lex>
+      <lex lang="ru" lid="Id1">3Arena расположен в Дублине, в Республике Ирландия.</lex>
+      <lex lang="en" lid="Id2">3Arena is located in Dublin, Republic of Ireland.</lex>
+      <lex lang="ru" lid="Id2">3Arena расположена в Дублине, Ирландия.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Republic_of_Ireland | sameAs | Ирландия</dbpedialink>
+        <dbpedialink direction="en2ru">Dublin | sameAs | Дублин</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">3Arena | sameAs | 3Arena</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id10" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Ethiopia | leaderName | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leader | Hailemariam_Desalegn</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Addis Ababa City Hall is located in the country of Ethiopia which is led by Hailemariam Desalegn.</lex>
+      <lex lang="ru" lid="Id1">Ратуша Аддис-Абебы находится в Эфиопии, которую возглавляет Хайлемариам Десалень.</lex>
+      <lex lang="en" lid="Id2">Hailemariam Desalegn is the leader of Ethiopia where Addis Ababa City Hall is located.</lex>
+      <lex lang="ru" lid="Id2">Хайлемариам Десалень - лидер Эфиопии, где находится Ратуша Аддис-Абебы.</lex>
+      <lex lang="en" lid="Id3">The leader of Ethipoia is Hailemarian Desalegn and Addis Ababa City Hall is also located in Ethiopia.</lex>
+      <lex lang="ru" lid="Id3">Лидер Эфиопии - Хайлемариам Десалень и в Эфиопии также находится ратуша Аддис-Абебы.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Ethiopia | sameAs | Эфиопия</dbpedialink>
+        <dbpedialink direction="en2ru">Hailemariam_Desalegn | sameAs | Десалень,_Хайлемариам</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Addis Ababa City Hall | sameAs | Ратуша Аддис-Абебы</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id11" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Ethiopia | leaderName | Mulatu_Teshome</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leader | Mulatu_Teshome</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Addis Ababa City Hall is located in Ethiopia whose leader is Malatu Teshome.</lex>
+      <lex lang="ru" lid="Id1">Ратуша Аддис-Абебы расположена в Эфиопии, лидером которой является Мулату Тешоме.</lex>
+      <lex lang="en" lid="Id2">The leader of Ethiopia is Malatu Teshome and The Addis Ababa City Hall is located in Ethiopia.</lex>
+      <lex lang="ru" lid="Id2">Лидер Эфиопии - Мулату Тешоме и ратуша Аддис-Абебы находится в Эфиопии.</lex>
+      <lex lang="en" lid="Id3">The Addis Ababa City Hall is in Ethiopia, the country which has Mulatu Teshome as one of its leaders.</lex>
+      <lex lang="ru" lid="Id3">Ратуша Аддис-Абебы находится в Эфиопии, стране, которая имеет Мулату Тешоме в качестве одного из своих лидеров.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Ethiopia | sameAs | Эфиопия</dbpedialink>
+        <dbpedialink direction="en2ru">Mulatu_Teshome | sameAs | Мулату_Тешоме</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Addis Ababa City Hall | sameAs | Ратуша Аддис-Абебы</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id12" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>India | demonym | Indian_people</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | demonym | Indian_people</mtriple>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The demonym for people living in India, where Amdavad ni Gufa is located, is Indian.</lex>
+      <lex lang="ru" lid="Id1">Демоним для людей, живущих в Индии, где находится Амдавад ни Гуфа, - индийцы.</lex>
+      <lex lang="en" lid="Id2">Amdavad ni Gufa is located in India and the demonym for people living in India is Indian.</lex>
+      <lex lang="ru" lid="Id2">Амдавад ни Гуфа находится в Индии, а людей, проживающих в Индии, называют индийцами.</lex>
+      <lex lang="en" lid="Id3">Amdavad ni Gufa is located in India, which is populated by Indian People.</lex>
+      <lex lang="ru" lid="Id3">Амдавад ни Гуфа находится в Индии, где проживает индийский народ.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">India | sameAs | Индия</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Indian people | sameAs | индийцы</link>
+        <link direction="en2ru">Amdavad ni Gufa | sameAs | Амдавад ни Гуфа</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id13" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>India | leader | T._S._Thakur</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>India | leaderName | T._S._Thakur</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>India | leader | T._S._Thakur</otriple>
+        <otriple>Amdavad_ni_Gufa | country | India</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | leader | T._S._Thakur</mtriple>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">T S Thakur is the leader of India; also the location of Amdavad ni Gufa.</lex>
+      <lex lang="ru" lid="Id1">Т.С. Тхакур - лидер Индии; Амдавад ни Гуфа также находится в Индии.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">India | sameAs | Индия</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">T. S. Thakur | sameAs | Т.С. Тхакур (муж)</link>
+        <link direction="en2ru">Amdavad ni Gufa | sameAs | Амдавад ни Гуфа</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id14" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Marriott_International | foundation | Washington,_D.C.</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | operator | Marriott_International</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Marriott_International | foundationPlace | Washington,_D.C.</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Marriott_International | foundationPlace | Washington,_D.C.</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | operator | Marriott_International</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Marriott_International | foundationPlace | Washington,_D.C.</mtriple>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Marriott International which was founded in Washington, D.C. is the tenant of AC Hotel Bella Sky Copenhagen.</lex>
+      <lex lang="ru" lid="Id1">Marriott International, основанный в Вашингтоне, является арендатором отеля Белла Скай Копенгаген.</lex>
+      <lex lang="en" lid="Id2">The tenant of the AC Hotel Bella Sky Copenhagen is the Marriott International Hotel which was founded in Washington, D.C.</lex>
+      <lex lang="ru" lid="Id2">Арендатором отеля Белла Скай Копенгаген является отель Marriott International, который был основан в Вашингтоне.</lex>
+      <lex lang="en" lid="Id3">Marriott International is a tenant of AC Hotel Bella Sky Copenhagen and was founded in Washington, D.C.</lex>
+      <lex lang="ru" lid="Id3">Компания Marriott International является арендатором отеля Белла Скай Копенгаген и основана в Вашингтоне.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Washington,_D.C. | sameAs | Вашингтон_(округ_Колумбия)</dbpedialink>
+        <dbpedialink direction="en2ru">Marriott_International | sameAs | Marriott_International</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">AC Hotel Bella Sky Copenhagen | includes | Копенгаген</link>
+        <link direction="en2ru">AC Hotel Bella Sky Copenhagen | includes | Отель Белла Скай</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id15" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Marriott_International | location | Bethesda,_Maryland</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Marriott_International | location | Bethesda,_Maryland</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | operator | Marriott_International</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Marriott_International | location | Bethesda,_Maryland</mtriple>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The tenant of the AC Hotel Bella Sky Copenhagen is the Marriott International Hotel whose headquarters are in Bethseda, Maryland.</lex>
+      <lex lang="ru" lid="Id1">Арендатором отеля Белла Скай Копенгаген является отель Marriott International, штаб-квартира которого находится в Бетесде, штат Мэриленд.</lex>
+      <lex lang="en" lid="Id2">The tenant of the AC Hotel Bella Sky Copenhagen is Marriott International, the company that is located in Bethesda, Maryland.</lex>
+      <lex lang="ru" lid="Id2">Арендатор отеля Белла Скай Копенгаген - Marriott International, компания, которая расположена в Бетесде, штат Мэриленд.</lex>
+      <lex lang="en" lid="Id3">The tenant of the AC Hotel Bella Sky Copenhagen is the Marriott International Hotel which has its office at Bethesda Maryland.</lex>
+      <lex lang="ru" lid="Id3">Арендатором отеля Белла Скай Копенгаген является отель Marriott International, который имеет свой офис в Бетесде.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Marriott_International | sameAs | Marriott_International</dbpedialink>
+        <dbpedialink direction="en2ru">Bethesda,_Maryland | sameAs | Бетесда_(Мэриленд)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">AC Hotel Bella Sky Copenhagen | includes | Копенгаген</link>
+        <link direction="en2ru">AC Hotel Bella Sky Copenhagen | includes | Отель Белла Скай</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id16" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Mason_School_of_Business | country | United_States</otriple>
+        <otriple>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Mason_School_of_Business | country | United_States</mtriple>
+        <mtriple>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Mason School of Business is located in the United States, and are the current tenants of Alan B Miller Hall.</lex>
+      <lex lang="ru" lid="Id1">Школа бизнеса Мэйсон расположена в США, и является нынешним арендатором Алан Би Миллер Холл.</lex>
+      <lex lang="en" lid="Id2">The Mason School of Business is the tenant of the Alan B Miller Hall in the United States.</lex>
+      <lex lang="ru" lid="Id2">Школа бизнеса "Мэйсон" является арендатором Алан Би Миллер Холл в США.</lex>
+      <lex lang="en" lid="Id3">The Mason School of Business is located in Alan B Miller Hall in the United States.</lex>
+      <lex lang="ru" lid="Id3">Школа бизнеса "Мэйсон" расположена в Алан Би Миллер Холл в США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Mason School of Business | sameAs | Школа бизнеса Мэйсон</link>
+        <link direction="en2ru">Alan B. Miller Hall | sameAs | Алан Би Миллер Холл</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id17" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">250 Delaware Avenue is located in the United States, in which English is the main language.</lex>
+      <lex lang="ru" lid="Id1">Делавэр-авеню 250 находится в США, где английский язык является основным языком.</lex>
+      <lex lang="en" lid="Id2">English is the language of the United States, where 250 Delaware Avenue is located.</lex>
+      <lex lang="ru" lid="Id2">Английский язык - это язык Соединенных Штатов, где находится Делавэр-авеню 250.</lex>
+      <lex lang="en" lid="Id3">250 Delaware Avenue is located in the United States where they speak the English language.</lex>
+      <lex lang="ru" lid="Id3">Делавэр-авеню 250 находится в Соединенных Штатах, где говорят на английском языке.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">English_language | sameAs | Английский_язык</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">250 Delaware Avenue | sameAs | Делавэр-авеню 250</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id18" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | leaderName | Joe_Biden</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leader | Joe_Biden</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">250 Delaware Avenue is located in the United States, which is led by Joe Biden.</lex>
+      <lex lang="ru" lid="Id1">Делавэр-авеню 250 находится в Соединённых Штатах Америки, которые возглавляет Джо Байден.</lex>
+      <lex lang="en" lid="Id2">Joe Biden is a leader of the United States, which is also the location of 250 Delaware Avenue.</lex>
+      <lex lang="ru" lid="Id2">Джо Байден - лидер США, где также находится Делавэр-авеню 250.</lex>
+      <lex lang="en" lid="Id3">250 Delaware Avenue is in the United States where Joe Biden is a leader.</lex>
+      <lex lang="ru" lid="Id3">Делавэр-авеню 250 находится в США, где Джо Байден - лидер.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Joe_Biden | sameAs | Байден,_Джо</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">250 Delaware Avenue | sameAs | Делавэр-авеню 250</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id19" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | leaderName | John_Roberts</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leader | John_Roberts</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">A leader of the United States, which is home to 250 Delaware Avenue, is John Roberts.</lex>
+      <lex lang="ru" lid="Id1">Лидером Соединенных Штатов Америки, где находится Делавэр-авеню 250, является Джон Гловер Робертс.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">John_Roberts | sameAs | Робертс,_Джон_Гловер</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">250 Delaware Avenue | sameAs | Делавэр-авеню 250</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id20" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | leaderName | Paul_Ryan</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leader | Paul_Ryan</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">250 Delaware Avenue is located in the United States which is led by Paul Ryan.</lex>
+      <lex lang="ru" lid="Id1">Делавэр-авеню 250 находится в США, которые возглавляет Пол Райан.</lex>
+      <lex lang="en" lid="Id2">250 Delaware Avenue is located in the United States whose leader is Paul Ryan.</lex>
+      <lex lang="ru" lid="Id2">Делавэр-авеню 250 находится в США, лидером которых является Пол Райан.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Paul_Ryan | sameAs | Райан,_Пол</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">250 Delaware Avenue | sameAs | Делавэр-авеню 250</link>
+      </links>
+    </entry>
+    <entry category="Building" eid="Id21" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">250 Delaware Avenue is located in the USA and it's leader is the President.</lex>
+      <lex lang="ru" lid="Id1">Делавэр-авеню 250 находится в США, и их лидер - Президент.</lex>
+      <lex lang="en" lid="Id2">250 Delaware Avenue is located in the United States whose leader has the title of President.</lex>
+      <lex lang="ru" lid="Id2">Делавэр-авеню 250 находится в Соединённых Штатах Америки, лидер которых имеет титул Президента.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">President_of_the_United_States | sameAs | Президент_США</dbpedialink>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">250 Delaware Avenue | sameAs | Делавэр-авеню 250</link>
+      </links>
+    </entry>
+  </entries>
+</benchmark>

@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Roger_McKenzie_(comics) | nationality | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Roger_McKenzie_(comic_book_writer) | nationality | United_States</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The comic book writer, Roger McKenzie, is a United States national.</lex>
+      <lex lang="ru" lid="Id1">Писатель комиксов Роджер Маккензи является гражданином Соединенных Штатов.</lex>
+      <lex lang="en" lid="Id2">The comic book writer, Roger McKenzie is an American.</lex>
+      <lex lang="ru" lid="Id2">Автор комиксов Роджер Маккензи - американец.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Roger McKenzie (comic book writer) | includes | Роджер Маккензи</link>
+      </links>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Roy_Thomas | award | Academy_of_Comic_Book_Arts</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Roy_Thomas | award | Academy_of_Comic_Book_Arts</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Roy Thomas was an award winner at the Academy of Comic Book Arts.</lex>
+      <lex lang="ru" lid="Id1">Рой Томас был лауреатом премии, вручаемой Академией комиксов.</lex>
+      <lex lang="en" lid="Id2">Roy Thomas received an award from the Academy of Comic Book Arts.</lex>
+      <lex lang="ru" lid="Id2">Рой Томас получил награду от Академии комиксов.</lex>
+      <lex lang="en" lid="Id3">Roy Thomas won an award from the Academy of Comic Book Arts.</lex>
+      <lex lang="ru" lid="Id3">Рой Томас завоевал награду от Академии комиксов.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Roy_Thomas | sameAs | Томас,_Рой</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Academy of Comic Book Arts | sameAs | Академия комиксов</link>
+      </links>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Roy_Thomas | award | Alley_Award</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Roy_Thomas | award | Alley_Award</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Roy Thomas was awarded the Alley Award.</lex>
+      <lex lang="ru" lid="Id1">Рой Томас был удостоен премии "Аллея".</lex>
+      <lex lang="en" lid="Id2">Roy Thomas won the Alley Award.</lex>
+      <lex lang="ru" lid="Id2">Рой Томас получил премию "Alley".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Roy_Thomas | sameAs | Томас,_Рой</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Alley Award | sameAs | премия «Аллея»</link>
+      </links>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Sheldon_Moldoff | award | Inkpot_Award</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Sheldon_Moldoff | awards | Inkpot_Award</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sheldon_Moldoff | award | Inkpot_Award</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Sheldon Moldoff won the Inkpot Award.</lex>
+      <lex lang="ru" lid="Id1">Премию Inkpot получил Шелдон Молдофф.</lex>
+      <lex lang="en" lid="Id2">Sheldon Moldoff has won the Inkpot Award.</lex>
+      <lex lang="ru" lid="Id2">Шелдон Молдофф получил премию Inkpot.</lex>
+      <links>
+        <link direction="en2ru">Sheldon Moldoff | sameAs | Шелдон Молдофф</link>
+        <link direction="en2ru">Inkpot Award | sameAs | премия “Инкпот”</link>
+      </links>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Sheldon_Moldoff | nationality | Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sheldon_Moldoff | nationality | Americans</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Sheldon Moldoff was an American national.</lex>
+      <lex lang="ru" lid="Id1">Шелдон Молдофф был американским гражданином.</lex>
+      <lex lang="en" lid="Id2">Sheldon Moldoff is an American.</lex>
+      <lex lang="ru" lid="Id2">Шелдон Молдофф - американец.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Americans | sameAs | Американцы_США</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Sheldon Moldoff | sameAs | Шелдон Молдофф</link>
+      </links>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Arrow_(comics) | alterEgo | "Ralph Payne"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>The_Arrow_(comicsCharacter) | alternativeName | "Ralph Payne"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Arrow is otherwise known as Ralph Payne.</lex>
+      <lex lang="ru" lid="Id1">"Стрела" иначе известна как Ральф Пайн.</lex>
+      <lex lang="en" lid="Id2">The alternative name for the comic character, the Arrow, is Ralph Payne.</lex>
+      <lex lang="ru" lid="Id2">Альтернативным именем персонажа комиксов Стрелы является Ральф Пайн.</lex>
+      <links>
+        <link direction="en2ru">Ralph Payne | sameAs | Ральф Пайн</link>
+        <link direction="en2ru">The Arrow (comicsCharacter) | includes | Стрела</link>
+      </links>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Arrow_(comics) | alterEgo | "Rick Parker"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>The_Arrow_(comicsCharacter) | alternativeName | "Rick Parker"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Rick Parker, is the alternative name for the comic character, the Arrow.</lex>
+      <lex lang="ru" lid="Id1">Рик Паркер это альтернативное имя персонажа комиксов Стрелы.</lex>
+      <lex lang="en" lid="Id2">The alternative name for The Arrow (comics character) is "Rick Parker".</lex>
+      <lex lang="ru" lid="Id2">Альтернативным именем The Arrow (герой комиксов) является «Рик Паркер».</lex>
+      <lex lang="en" lid="Id3">The comic book character The Arrow's alter ego is Rick Parker.</lex>
+      <lex lang="ru" lid="Id3">Другое имя персонажа комиксов The Arrow - это Рик Паркер.</lex>
+      <links>
+        <link direction="en2ru">Rick Parker | sameAs | Рик Паркер</link>
+        <link direction="en2ru">The Arrow (comicsCharacter) | includes | Стрела</link>
+      </links>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Arrow_(comics) | creator | Paul_Gustavson</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arrow_(comics) | creators | Paul_Gustavson</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>The_Arrow_(comicsCharacter) | creator | Paul_Gustavson</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Paul Gustavson created The Arrow.</lex>
+      <lex lang="ru" lid="Id1">Пол Густавсон создал "Стрелу".</lex>
+      <lex lang="en" lid="Id2">The comic character, The Arrow, was created by Paul Gustavson.</lex>
+      <lex lang="ru" lid="Id2">Персонаж комиксов «Стрела» была создана Полом Густавсоном.</lex>
+      <links>
+        <link direction="en2ru">Paul Gustavson | sameAs | Пол Густавсон</link>
+        <link direction="en2ru">The Arrow (comicsCharacter) | includes | Стрела</link>
+      </links>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Tim_Brooke-Taylor | birthPlace | Buxton</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tim_Brooke-Taylor | birthPlace | Buxton</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Tim Brooke-Taylor was born in Buxton.</lex>
+      <lex lang="ru" lid="Id1">Тим Брук-Тейлор родился в Бакстоне.</lex>
+      <lex lang="en" lid="Id2">Buxton is the birthplace of Tim Brooke-Taylor.</lex>
+      <lex lang="ru" lid="Id2">Бакстон - место рождения Тима Брука-Тейлора.</lex>
+      <links>
+        <link direction="en2ru">Tim Brooke-Taylor | sameAs | Тим Брук-Тейлор</link>
+        <link direction="en2ru">Buxton | sameAs | Бакстон</link>
+      </links>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Tim_Brooke-Taylor | birthPlace | Derbyshire</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tim_Brooke-Taylor | birthPlace | Derbyshire</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Tim Brooke Taylor was born in Derbyshire.</lex>
+      <lex lang="ru" lid="Id1">Тим Брук Тейлор родился в Дербишире.</lex>
+      <lex lang="en" lid="Id2">Tim Brooke-Taylor was born in Derbyshire.</lex>
+      <lex lang="ru" lid="Id2">Тим Брук-Тейлор родился в Дербишире.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Derbyshire | sameAs | Дербишир</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Tim Brooke-Taylor | sameAs | Тим Брук-Тейлор</link>
+      </links>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Tim_Brooke-Taylor | birthPlace | England</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tim_Brooke-Taylor | birthPlace | England</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Tim Brooke Taylor was born in England.</lex>
+      <lex lang="ru" lid="Id1">Тим Брук Тейлор родился в Англии.</lex>
+      <lex lang="en" lid="Id2">Tim Brooke-Taylor was born in England.</lex>
+      <lex lang="ru" lid="Id2">Тим Брук-Тейлор родился в Англии.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">England | sameAs | Англия</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Tim Brooke-Taylor | sameAs | Тим Брук-Тейлор</link>
+      </links>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Tim_Brooke-Taylor | birthPlace | United_Kingdom</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tim_Brooke-Taylor | birthPlace | United_Kingdom</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Tim Brooke-Taylor's birth place is the United Kingdom.</lex>
+      <lex lang="ru" lid="Id1">Местом рождения Тима Брук-Тейлора является Соединенное Королевство.</lex>
+      <lex lang="en" lid="Id2">Tim Brooke-Taylor was born in the UK.</lex>
+      <lex lang="ru" lid="Id2">Тим Брук-Тейлор родился в Великобритании.</lex>
+      <lex lang="en" lid="Id3">The birth place of Tim Brooke-Taylor is United Kingdom.</lex>
+      <lex lang="ru" lid="Id3">Место рождения Тима Брука-Тейлора - Соединенное Королевство.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_Kingdom | sameAs | Великобритания</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Tim Brooke-Taylor | sameAs | Тим Брук-Тейлор</link>
+      </links>
+    </entry>
+  </entries>
+</benchmark>
