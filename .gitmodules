@@ -3,10 +3,10 @@
 	url = https://gitlab.com/webnlg/corpus-reader
 
 [submodule "evaluation/automatic-evaluation"]
-	path = evaluation/human-evaluation
+	path = evaluation/automatic-evaluation
 	url = https://github.com/WebNLG/GenerationEval
 
 [submodule "evaluation/automatic-evaluation"]
-	path = evaluation/human-evaluation
+	path = evaluation/automatic-evaluation
 	url = https://github.com/WebNLG/WebNLG-Text-to-triples
 
