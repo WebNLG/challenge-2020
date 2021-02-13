@@ -2,27 +2,19 @@
 
 The repository with baselines, submissions, evaluation scripts and results from the 2nd version of the [WebNLG+ Challenge 2020](https://webnlg-challenge.loria.fr/challenge_2020/).
 
-## Overview
+## Challenge Overview
 
 * Webpage: <https://webnlg-challenge.loria.fr/challenge_2020/>
 * Training, validation and test data: [WebNLG dataset version 3.0](https://gitlab.com/shimorina/webnlg-dataset/-/tree/master/release_v3.0)
-* Automatic evaluation scripts: [RDF-to-text](https://github.com/WebNLG/GenerationEval), [text-to-RDF](https://github.com/WebNLG/WebNLG-Text-to-triples)
-* Challenge descriptions:
-	* report [paper](https://www.aclweb.org/anthology/2020.webnlg-1.7/)
-	* presentation [slides](https://webnlg-challenge.loria.fr/files/WebNLG-2020-Presentation.pdf) at INLG'2020
-	* BENG leaderboard [paper](https://www.aclweb.org/anthology/2020.webnlg-1.3/)
-
-## Papers
-
-* [System descriptions](./submissions/README.md#participant-overview)
-
-* Challenge [report](https://www.aclweb.org/anthology/2020.webnlg-1.7/)
-
-* BENG leaderboard [paper](https://www.aclweb.org/anthology/2020.webnlg-1.3/)
-
-* WebNLG+ workshop [proceedings](https://www.aclweb.org/anthology/volumes/2020.webnlg-1/) on the ACL Anthology
-
-* Research [papers](https://webnlg-challenge.loria.fr/research/) that use the WebNLG dataset
+* Automatic evaluation scripts:
+	* [RDF-to-text](https://github.com/WebNLG/GenerationEval)
+	* [text-to-RDF](https://github.com/WebNLG/WebNLG-Text-to-triples)
+* Papers:
+	* Challenge report: [ACL Anthology](https://www.aclweb.org/anthology/2020.webnlg-1.7/), [pdf](https://www.aclweb.org/anthology/2020.webnlg-1.7.pdf), presentation [slides](https://webnlg-challenge.loria.fr/files/WebNLG-2020-Presentation.pdf) at INLG'2020
+	* BENG challenge leaderboard: [ACL Anthology](https://www.aclweb.org/anthology/2020.webnlg-1.3/), [pdf](https://www.aclweb.org/anthology/2020.webnlg-1.3.pdf)
+	* [System descriptions](./submissions#participant-overview)
+	* WebNLG+ 2020 workshop proceedings: [ACL Anthology](https://www.aclweb.org/anthology/volumes/2020.webnlg-1/)
+	* [Research papers](https://webnlg-challenge.loria.fr/research/) that use the WebNLG dataset
 
 ## Citation
 If you use the scripts and data provided by the challenge, please cite the [challenge report](https://www.aclweb.org/anthology/2020.webnlg-1.7/).
