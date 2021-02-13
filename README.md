@@ -17,29 +17,6 @@ The repository with baselines, submissions, evaluation scripts and results from 
 	* WebNLG+ 2020 workshop proceedings: [ACL Anthology](https://www.aclweb.org/anthology/volumes/2020.webnlg-1/)
 	* [Research papers](https://webnlg-challenge.loria.fr/research/) that use the WebNLG dataset
 
-## Citation
-If you use the scripts and data provided by the challenge, please cite the [challenge report](https://www.aclweb.org/anthology/2020.webnlg-1.7/).
-
-```
-@inproceedings{webnlg2020report,
-    title = "The 2020 Bilingual, Bi-Directional {W}eb{NLG}+ Shared Task: Overview and Evaluation Results ({W}eb{NLG}+ 2020)",
-    author = "Castro Ferreira, Thiago  and
-      Gardent, Claire  and
-      Ilinykh, Nikolai  and
-      van der Lee, Chris  and
-      Mille, Simon  and
-      Moussallem, Diego  and
-      Shimorina, Anastasia",
-    booktitle = "Proceedings of the 3rd International Workshop on Natural Language Generation from the Semantic Web (WebNLG+)",
-    month = "12",
-    year = "2020",
-    address = "Dublin, Ireland (Virtual)",
-    publisher = "Association for Computational Linguistics",
-    url = "https://www.aclweb.org/anthology/2020.webnlg-1.7",
-    pages = "55--76"
-}
-```
-
 ## Repository Structure
 
 TODO: to be updated once finalised
@@ -141,4 +118,27 @@ If the repository is already cloned, run
 
 ```
 git submodule update --init --recursive
+```
+
+## Citation
+If you use the scripts and data provided by the challenge, please cite the [challenge report](https://www.aclweb.org/anthology/2020.webnlg-1.7/).
+
+```
+@inproceedings{webnlg2020report,
+    title = "The 2020 Bilingual, Bi-Directional {W}eb{NLG}+ Shared Task: Overview and Evaluation Results ({W}eb{NLG}+ 2020)",
+    author = "Castro Ferreira, Thiago  and
+      Gardent, Claire  and
+      Ilinykh, Nikolai  and
+      van der Lee, Chris  and
+      Mille, Simon  and
+      Moussallem, Diego  and
+      Shimorina, Anastasia",
+    booktitle = "Proceedings of the 3rd International Workshop on Natural Language Generation from the Semantic Web (WebNLG+)",
+    month = "12",
+    year = "2020",
+    address = "Dublin, Ireland (Virtual)",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.webnlg-1.7",
+    pages = "55--76"
+}
 ```
