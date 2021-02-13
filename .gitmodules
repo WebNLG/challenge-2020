@@ -1,0 +1,12 @@
+[submodule "evaluation/human-evaluation/amt-scripts/scripts"]
+	path = evaluation/human-evaluation/amt-scripts/scripts
+	url = https://gitlab.com/webnlg/corpus-reader
+
+[submodule "evaluation/automatic-evaluation"]
+	path = evaluation/human-evaluation
+	url = https://github.com/WebNLG/GenerationEval
+
+[submodule "evaluation/automatic-evaluation"]
+	path = evaluation/human-evaluation
+	url = https://github.com/WebNLG/WebNLG-Text-to-triples
+
