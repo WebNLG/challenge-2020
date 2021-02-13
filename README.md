@@ -9,9 +9,10 @@ The repository with baselines, submissions, evaluation scripts and results from 
 * Automatic evaluation scripts:
 	* [RDF-to-text](https://github.com/WebNLG/GenerationEval)
 	* [text-to-RDF](https://github.com/WebNLG/WebNLG-Text-to-triples)
+* BENG leaderboard: <https://beng.dice-research.org/gerbil/>
 * Papers:
-	* Challenge report: [ACL Anthology](https://www.aclweb.org/anthology/2020.webnlg-1.7/), [pdf](https://www.aclweb.org/anthology/2020.webnlg-1.7.pdf), presentation [slides](https://webnlg-challenge.loria.fr/files/WebNLG-2020-Presentation.pdf) at INLG'2020
-	* BENG challenge leaderboard: [ACL Anthology](https://www.aclweb.org/anthology/2020.webnlg-1.3/), [pdf](https://www.aclweb.org/anthology/2020.webnlg-1.3.pdf)
+	* Challenge report: [ACL Anthology](https://www.aclweb.org/anthology/2020.webnlg-1.7/), presentation [slides](https://webnlg-challenge.loria.fr/files/WebNLG-2020-Presentation.pdf) at INLG'2020
+	* BENG leaderboard paper: [ACL Anthology](https://www.aclweb.org/anthology/2020.webnlg-1.3/)
 	* [System descriptions](./submissions#participant-overview)
 	* WebNLG+ 2020 workshop proceedings: [ACL Anthology](https://www.aclweb.org/anthology/volumes/2020.webnlg-1/)
 	* [Research papers](https://webnlg-challenge.loria.fr/research/) that use the WebNLG dataset
@@ -41,12 +42,10 @@ If you use the scripts and data provided by the challenge, please cite the [chal
 
 ## Repository Structure
 
-TODO: to be updated
+TODO: to be updated once finalised
 
-* `baselines` contains
-* `evaluation/human-evaluation` contains
-* `evaluation/automatic-evaluation` contains
-* `submissions` contains
+* `evaluation/human-evaluation/results` contains human evaluation results for the RDF-to-text task
+* `submissions` contains team submissions to the challenge (.txt and .xml files)
 
 
 ```bash
