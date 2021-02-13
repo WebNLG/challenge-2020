@@ -41,13 +41,13 @@ If you use the scripts and data provided by the challenge, please cite the [chal
 
 ## Repository Structure
 
+TODO: to be updated
+
 * `baselines` contains
 * `evaluation/human-evaluation` contains
 * `evaluation/automatic-evaluation` contains
 * `submissions` contains
 
-
-TODO: to be updated
 
 ```bash
 ./
@@ -128,4 +128,18 @@ TODO: to be updated
         │   └── CycleGT
         └── ru
             └── bt5
+```
+
+## Installation
+
+This repository contains submodules. To install them together with the repository, run
+
+```
+git clone --recursive [repo]
+```
+
+If the repository is already cloned, run
+
+```
+git submodule update --init --recursive
 ```
