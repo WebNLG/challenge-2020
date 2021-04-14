@@ -19,8 +19,6 @@ The repository with baselines, submissions, evaluation scripts and results from 
 
 ## Repository Structure
 
-TODO: to be updated once finalised
-
 * `evaluation/human-evaluation/results` contains human evaluation results for the RDF-to-text task
 * `submissions` contains team submissions to the challenge (.txt and .xml files)
 
