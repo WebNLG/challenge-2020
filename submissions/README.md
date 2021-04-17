@@ -47,10 +47,10 @@ Team                          |  Primary submission ID    | Other submissions ID
 med                           | id9                       |                      |
 cuni-ufal                     | id3                       |                      |
 bt5                           | id6                       |                      |
-Huawei Noah's Ark Lab         | id25                      |       id25_1         |
+Huawei Noah's Ark Lab         | id25                      |   id25_1, id32_1     |
 Amazon AI (Shanghai)          | id18                      |                      |
-OSU Neural NLG                | id27                      |                      |
-FBConvAI                      | id37                      |        id38          |
+OSU Neural NLG                | id27                      |       id27_1         |
+FBConvAI                      | id37                      |       id38           |
 
 ## Text-to-RDF English
 
