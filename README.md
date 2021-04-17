@@ -21,53 +21,60 @@ The repository with baselines, submissions, evaluation scripts and results from 
 
 * `evaluation/human-evaluation/results` contains human evaluation results for the RDF-to-text task
 * `submissions` contains team submissions to the challenge (.txt and .xml files)
+* `evaluation/human-evaluation/eval-scripts` contains scripts to calculate human scores, IAA, and statistical significance testing
 
 
 ```bash
-./
-── baselines
+.
+├── baselines
 │   ├── rdf2text
 │   └── text2rdf
 ├── evaluation
 │   ├── automatic-evaluation
-│   └── human-evaluation
-│       ├── amt-scripts
-│       │   ├── data
-│       │   │   └── en
-│       │   │       ├── inputs
-│       │   │       └── tables
-│       │   ├── eval_metadata
-│       │   ├── hit_utils
-│       │   └── scripts
-│       ├── eval-scripts
-│       └── results
-│           ├── en
-│           │   ├── Amazon_AI_(Shanghai)
-│           │   ├── Baseline-FORGE2017
-│           │   ├── Baseline-FORGE2020
-│           │   ├── bt5
-│           │   ├── cuni-ufal
-│           │   ├── CycleGT
-│           │   ├── DANGNT-SGU
-│           │   ├── FBConvAI
-│           │   ├── Huawei_Noahs_Ark_Lab
-│           │   ├── NILC
-│           │   ├── NUIG-DSI
-│           │   ├── ORANGE-NLG
-│           │   ├── OSU_Neural_NLG
-│           │   ├── RALI
-│           │   ├── TGen
-│           │   ├── UPC-POE
-│           │   └── WebNLG-2020-Reference
-│           └── ru
-│               ├── Baseline-FORGE2020
-│               ├── bt5
-│               ├── cuni-ufal
-│               ├── FBConvAI
-│               ├── Huawei_Noahs_Ark_Lab
-│               ├── med
-│               ├── OSU_Neural_NLG
-│               └── WebNLG-2020-Reference
+│   │   ├── text-to-triples
+│   │   └── triples-to-text
+│   ├── human-evaluation
+│   │   ├── amt-scripts
+│   │   │   ├── data
+│   │   │   │   └── en
+│   │   │   │       ├── inputs
+│   │   │   │       └── tables
+│   │   │   ├── eval_metadata
+│   │   │   ├── hit_utils
+│   │   │   └── scripts
+│   │   │       └── corpus-reader
+│   │   ├── eval-scripts
+│   │   │   ├── en
+│   │   │   └── ru
+│   │   └── results
+│   │       ├── en
+│   │       │   ├── Amazon_AI_(Shanghai)
+│   │       │   ├── Baseline-FORGE2017
+│   │       │   ├── Baseline-FORGE2020
+│   │       │   ├── bt5
+│   │       │   ├── cuni-ufal
+│   │       │   ├── CycleGT
+│   │       │   ├── DANGNT-SGU
+│   │       │   ├── FBConvAI
+│   │       │   ├── Huawei_Noahs_Ark_Lab
+│   │       │   ├── NILC
+│   │       │   ├── NUIG-DSI
+│   │       │   ├── ORANGE-NLG
+│   │       │   ├── OSU_Neural_NLG
+│   │       │   ├── RALI
+│   │       │   ├── TGen
+│   │       │   ├── UPC-POE
+│   │       │   └── WebNLG-2020-reference
+│   │       └── ru
+│   │           ├── Baseline-FORGE2020
+│   │           ├── bt5
+│   │           ├── cuni-ufal
+│   │           ├── FBConvAI
+│   │           ├── Huawei_Noahs_Ark_Lab
+│   │           ├── med
+│   │           ├── OSU_Neural_NLG
+│   │           └── WebNLG-2020-reference
+│   └── references
 └── submissions
     ├── rdf2text
     │   ├── en
@@ -98,9 +105,11 @@ The repository with baselines, submissions, evaluation scripts and results from 
     └── text2rdf
         ├── en
         │   ├── Amazon_AI_(Shanghai)
+        │   ├── Baseline
         │   ├── bt5
         │   └── CycleGT
         └── ru
+            ├── Baseline
             └── bt5
 ```
 
@@ -140,3 +149,6 @@ If you use the scripts and data provided by the challenge, please cite the [chal
     pages = "55--76"
 }
 ```
+
+## Note
+This repository is still under development, so some parts may be missing. We thank you for your understanding.
