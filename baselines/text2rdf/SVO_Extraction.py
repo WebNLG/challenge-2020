@@ -5,6 +5,8 @@ import os
 from stanfordcorenlp import StanfordCoreNLP
 from lxml import etree
 import sys
+import requests
+from subprocess import getoutput
 
 #Function to convert string to camelCase (for the predicates)
 def camelCase(string):
@@ -13,7 +15,7 @@ def camelCase(string):
 
 def Extract_SVO(inputfile, outputfile):
     currentpath = os.getcwd()
-    nlp = StanfordCoreNLP(currentpath + '/stanford-corenlp-4.2.0', memory='8g')
+    nlp = StanfordCoreNLP(currentpath + '/stanford-corenlp-4.2.2', memory='8g')
     # We will use OpenIE (Open Information Extraction)
     props={'annotators': 'tokenize, ssplit, pos, lemma, depparse, natlog, openie',
            'pipelineLanguage':'en',
@@ -37,13 +39,19 @@ def Extract_SVO(inputfile, outputfile):
     entrieselement = etree.SubElement(benchmarkelement, "entries")
 
     for idx, text in enumerate(newtext):
+        if not re.search(r'\w', text):
+            continue
         entryelement = etree.SubElement(entrieselement, "entry")
         eid = 'Id' + str(idx + 1)
         entryelement.set('eid', eid)
+        textelement = etree.SubElement(entryelement, "text")
+        textelement.text = text
         gentripelement = etree.SubElement(entryelement, "generatedtripleset")
-
-        openie = nlp.annotate(text, properties=props)
-        openie = ast.literal_eval(openie)              # convert str to dict
+        try:
+            openie = nlp.annotate(text, properties=props)
+            openie = ast.literal_eval(openie)              # convert str to dict
+        except SyntaxError:
+            continue
         print('------------------------------------------------------------------------')
         print('Target Sentence: ' + text)
 
@@ -66,9 +74,11 @@ def Extract_SVO(inputfile, outputfile):
             gtripelement.text = svostring
             #print((svo['subject'], svo['relation'], svo['object']))
 
+    nlp.close()
+
     #And save the XML to a file.
     benchmarkelement = etree.tostring(benchmarkelement, encoding="utf-8", xml_declaration=False, pretty_print=True)
-    with open(currentpath + '/' + outputfile, 'wb') as f:
+    with open(currentpath + '/' + outputfile + '.xml', 'wb') as f:
         f.write(benchmarkelement)
 
 if __name__ == '__main__':
